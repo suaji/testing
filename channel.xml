@@ -1,0 +1,47 @@
+<item>
+<title>FOX SPORTS 1</title>
+<link>rtmp://31.220.0.196:1935/live playpath=fox1x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=fox1x&vw=620&vh=490</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EURO SPORTS 2</title>
+<link>rtmp://31.220.0.104:1935/live playpath=eurs2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=eurs2&vw=620&vh=490</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>STAR SPORTS 4</title>
+<link>rtmp://77.92.76.182/live playpath=s247star4newone?id=19643 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247star4newone/2/600/400</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1</title>
+<link>rtmp://12445055.cast247.tv:443/live playpath=skysp1?ticket=03f3a649bc55d803f565369434bb2b16 swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=skysp1&width=600&height=420&domain=www.kbps.tv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1A</title>
+<link>rtmp://31.220.0.196:1935/live/fox1x swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z pageUrl=http://www.flashtv.co live=1 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>STAR SPORT 3</title>
+<link>rtmp://185.2.137.252/live playpath=s247star3crco?id=20410 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247star3crco/2/600/400</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Operation.Rogue.2014</title>
+<link>http://cdn1.sockshare.com/flv/NKOPFVjb3gjPd_e14Z9fr6C7GRKJdh5KgfYQ6cEh3zRpW12lWD7jl8M8D9Fl7uH1hXejWbeQS8tWkn27SqtHUpJYb1SCvCmMEzDmd51TED3r5YXxYTVDIQ8tHuWIjluCdMYj70I0J3ujTrAqHCcrJVEVuj7icqt7tEeh38Dr3jTZ1yDUSeqBF_Ao1RD82NZ1__KAkpyieWOh6urRr_EVdx3NHH0yuSDDJN9U9vgWKL87UedJYGbZyZUc4cJNfdVCLi94boFdIQ9fiW00FtFh30CDsxpPE4oFG7ilyHtS9Cs6vtFvfXxjUoHM9i7pkfrF/0434799ce633461c5449e72b32092ec8.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>3am.3d.part2.2014</title>
+<link>http://s232.coolcdn.ch/dl/c2d576fd0550b758db8d35f976a09676/541bb4c4/ff42c86a10da41b6465c111a070f41bd6d.flv?client=FLASH</link>
+<thumbnail></thumbnail>
+</item>
