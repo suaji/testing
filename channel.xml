@@ -1,47 +1,1387 @@
+<channels>
+
+<channel>
+<name>[COLOR=FF00FF00]MALAYSIA CHANNELS[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>TV1</title>
+<link>http://supercharged.stream.my/live/rtm-ch001.stream_360p/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
+</item>
+
+<item>
+<title>TV2</title>
+<link>http://supercharged.stream.my/live/rtm-ch003.stream_360p/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
+</item>
+
+<item>
+<title>TV3</title>        
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv3_my.png</thumbnail>
+</item>
+
+<item>
+<title>NTV7</title>        
+<link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4b/Ntv7_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>8TV</title>        
+<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/240px-8TV_my.svg.png</thumbnail>
+</item>
+
+<item>
+<title>TV9</title>
+<link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv9_my.png</thumbnail>
+</item>
+
+<item>
+<title>AL-HIJRAH</title>
+<link>http://stream2.1malaysiaiptv.com:1935/mylive/alhijrah_600k/media_b508239_w1246988830.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/2/26/TV_Alhijrah_Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>GALAKSI MUZIK - RTM</title>
+<link>http://supercharged.stream.my/live/ngrp:rtm-ch007.stream_all/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/2204686828/tweet_logo.png</thumbnail>
+</item>
+
+<item>
+<title>MUZIK AKTIF - RTM</title>
+<link>http://supercharged.stream.my/live/rtm-ch006.stream_360p/chunklist.m3u8</link>
+<thumbnail>http://lh3.googleusercontent.com/-2Bz0NfmYEJA/T8ONuZpm65I/AAAAAAAABt8/y9Clo-_-N1Q/s400/muzikaktif.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVi - RTM</title>
+<link>http://supercharged.stream.my/live/rtm-ch005.stream_360p/chunklist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/9/9a/20140404002100!RTM_TVi.jpg</thumbnail>
+</item>
+
+<item>
+<title>MOBTV</title>
+<link>http://54.254.98.181/edge/mobtv/playlist.m3u8</link>
+<thumbnail>http://www.mobtv.my/images/logo-fb.jpg</thumbnail>
+</item>
+
+<item>
+<title>MALAYSIA YOUTH TV</title>
+<link>http://202.73.9.10:1935/live2/smil:mytv.smil/manifest.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-a2xomDqLlJc/T38FsnHZ0aI/AAAAAAAAAyk/S93K1PKPPhY/s200/mytv.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO AWANI</title>
+<link>rtmp://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_2@74937 swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.layanmovie.com/2013/05/11/astro-awani-live-streaming/ conn=Z: swfVfy=true live=true timeout=15</link>
+<thumbnail>http://imageshack.com/a/img843/3456/ispb.jpg</thumbnail>
+</item> 
+ 
+<item>
+<title>PARLIMEN TV - RTM</title>
+<link>http://supercharged.stream.my/live/rtm-ch009.stream_source/chunklist.m3u8</link>
+<thumbnail>http://rtmparlimen.rtm.gov.my/images/header.png</thumbnail>
+</item>
+
+</items>
+</channel>
+     
+<channel>
+<name>[COLOR=FFFFFF00]ASIAN CHANNELS[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>TRANS - Indonesia</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/transtv2</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>GLOBAL TV - Indonesia</title>
+<link>http://cdn.mivo.tv/mivotvjkt/globaltv2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>INDONSTAR TV - Indonesia</title>
+<link>rtmp://119.235.249.58:1935/indostartv playpath=live swfUrl=http://indostar4.googlecode.com/svn/trunk/player.swf pageUrl=http://indostar-tv.com/embed1/indostartv.php</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MNC TV2 - Indonesia</title>
+<link>rtmp://edge.okeinfo.net/live/ playpath=mncoke3_512.stream swfUrl=http://live.idwebtv.com/jwplayer/jwplayer.flash.swf pageUrl=http://live.idwebtv.com/country/indo/mnc/mnctv-7.htm</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RCTI - Indonesia</title>
+<link>rtmp://edge.okeinfo.net:1935/live playpath=mncoke1_512.stream swfUrl=http://indostar4.googlecode.com/svn/trunk/5.10.swf pageUrl=http://directsite.blogspot.com/2014/03/rcti-live-streaming-tv-hd-high-quality.html</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>KOMPAS TV HD - Indonesia</title>
+<link>rtmp://202.137.11.52/jakarta playpath=offair.sdp swfUrl=http://www.kompas.tv/live/new/js/player.swf pageUrl=http://www.kompas.tv/live/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DAII TV - Indonesia</title>
+<link>rtmp://cdn.mivo.tv/mivotvjkt/ playpath=daaitv2 token=#8888#9999 swfUrl=http://player-cdn.mivo.tv/jwplayer.flash.swf pageUrl=http://www.mivo.com/daaitv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MORE 2 - Indonesia</title>
+<link>http://cdn.mivo.tv/mivotvjkt/more2_240p/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>KBS WORLD (uk @ korea proxy)</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rqfgXNBNjWA</link>
+<thumbnail></thumbnail>
+</item> 
+ 
+<item>
+<title>Viki Premium HD - South Korea</title>
+<link>rtmp://lm03.everyon.tv/ptv3/ playpath=phd765 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watch-tv/975/viki-enjoy-premium-hd+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TBS - South Korea</title>
+<link>mms://115.84.165.160/catvlive</link>
+<thumbnail>http://www.leseanthomas.com/content/logo1.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>G1 SBS - South Korea</title>
+<link>rtmp://smart.igtb.co.kr/live playpath=stream.sdp swfUrl=http://www.igtb.co.kr/vod/player.swf pageUrl=http://www.igtb.co.kr/pop/G1_onair.asp live=true timeout=15</link>
+<thumbnail>http://4.bp.blogspot.com/-9Lu0N2ZBBJk/UjxVN1DIrCI/AAAAAAAAHZ0/R6R98uQetJo/s1600/Watch-G1-GTB-SBS-Live-TV-from-South-Korea.jpg</thumbnail>
+</item>
+
+<item>
+<title>HOT MOVIES - South Korea</title>
+<link>rtmp://lm05.everyon.tv:1935/ptv5/ playpath=phd511 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watch-tv/2079/hot-movies-hd+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>NEWS CHANNELS</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>ASTRO AWANI</title>
+<link>rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15</link>
+<thumbnail>http://imageshack.com/a/img843/3456/ispb.jpg</thumbnail>
+</item> 
+
+<item>
+<title>BERNAMA TV</title>
+<link>http://w2s.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BERITA SATU - Indonesia</title>
+<link>http://cdn.mivo.tv/mivotvjkt/beritasatu_240p/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Channel New Asia</title>
+<link>http://202.75.23.37:8800/live/ch15/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>AL JAZEERA ENGLISH</title>
+<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BLOOMBERG ASIA</title>
+<link>http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ABC NEWS</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=500,300,700,900,1200</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX NEWS</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//46465</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//46465</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+
+<item>
+<title>ARIRANG HD - South Korea</title>
+<link>http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8 live=true timeout=15</link>
+<thumbnail>http://caribbeanpot.com/wp-content/uploads/2013/11/korea-tv.png</thumbnail>
+ </item> 
+
+<item>
+<title>HKS - Hong Kong</title>
+<link>rtmp://live.hkstv.hk.lxdns.com/live/ playpath=hks swfUrl=http://player.olweb.tv/player13/jplayer.swf pageUrl=http://www.olweb.tv/frame/hks-tv-s1.html</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFA500]SPORTS CHANNELS[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>BEIN SPORTS 1 - Indonesia</title>
+<link>http://202.75.23.37:1400/live/ch18/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 2 - Indonesia</title>
+<link>http://202.75.23.37:1400/live/ch19/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 1 - Qatar</title>
+<link>http://wzmatch.uforone.net:1935/live/_definst_/beinsports1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 3 - Qatar</title>
+<link>http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?mfamwuUL6IpOXDJ8WwxJ</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Dubai Sports 3</title>
+<link>http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/chunklist_b1100000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>FOX SPORTS 1</title>
-<link>rtmp://31.220.0.196:1935/live playpath=fox1x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=fox1x&vw=620&vh=490</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EURO SPORTS 2</title>
-<link>rtmp://31.220.0.104:1935/live playpath=eurs2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=eurs2&vw=620&vh=490</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>STAR SPORTS 4</title>
-<link>rtmp://77.92.76.182/live playpath=s247star4newone?id=19643 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247star4newone/2/600/400</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 1</title>
-<link>rtmp://12445055.cast247.tv:443/live playpath=skysp1?ticket=03f3a649bc55d803f565369434bb2b16 swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=skysp1&width=600&height=420&domain=www.kbps.tv</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 1A</title>
 <link>rtmp://31.220.0.196:1935/live/fox1x swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z pageUrl=http://www.flashtv.co live=1 timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>STAR SPORT 3</title>
-<link>rtmp://185.2.137.252/live playpath=s247star3crco?id=20410 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247star3crco/2/600/400</link>
+<title>Fox Sports 1 - US</title>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMTQgOTo0NTo1OCBBTSZoYXNoX3ZhbHVlPXJJZ2JJVUFacE5JbVNqQVVZamVEZEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/ playpath=foxsports1-hq swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/foxsports1.php?width=610&height=480</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Operation.Rogue.2014</title>
-<link>http://cdn1.sockshare.com/flv/NKOPFVjb3gjPd_e14Z9fr6C7GRKJdh5KgfYQ6cEh3zRpW12lWD7jl8M8D9Fl7uH1hXejWbeQS8tWkn27SqtHUpJYb1SCvCmMEzDmd51TED3r5YXxYTVDIQ8tHuWIjluCdMYj70I0J3ujTrAqHCcrJVEVuj7icqt7tEeh38Dr3jTZ1yDUSeqBF_Ao1RD82NZ1__KAkpyieWOh6urRr_EVdx3NHH0yuSDDJN9U9vgWKL87UedJYGbZyZUc4cJNfdVCLi94boFdIQ9fiW00FtFh30CDsxpPE4oFG7ilyHtS9Cs6vtFvfXxjUoHM9i7pkfrF/0434799ce633461c5449e72b32092ec8.flv</link>
+<title>Fox Sports 2 - US</title>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMTQgOTo0NTowMCBBTSZoYXNoX3ZhbHVlPXlUa1ZUY0ZiOU9pZWFXcUdsUDRXQ1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/ playpath=foxsports2-hq swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/foxsports2.php?width=610&height=480</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>3am.3d.part2.2014</title>
-<link>http://s232.coolcdn.ch/dl/c2d576fd0550b758db8d35f976a09676/541bb4c4/ff42c86a10da41b6465c111a070f41bd6d.flv?client=FLASH</link>
+<title>Sporttime TV1 - Germany</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel1_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/2527/sporttime-tv-hdtv-1+live+tv+streaming</link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>Sporttime TV2 - Germany</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel2_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3131/sporttime-tv-hdtv-2+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sporttime TV3 - Germany</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel3_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3132/sporttime-tv-hdtv-3+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sporttime TV4 - Germany</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel4_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3133/sporttime-tv-hdtv-4+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sporttime TV5 - Germany</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel5_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3134/sporttime-tv-hdtv-5+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sporttime TV6 - Germany</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel6_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3135/sporttime-tv-hdtv-6+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sporttime TV7 - Germany</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel7_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3136/sporttime-tv-hdtv-7+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SBS ESPN - South Korean</title>
+<link>http://neventvod.sbs.co.kr:8080/advod/oxseamy140709sn1.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EUROSPORTS - Indonesia</title>
+<link>http://202.75.23.37:1400/live/ch21/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SETANTA SPORTS - Indonesia</title>
+<link>http://202.75.23.36:1400/live/ch44/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MNC 1 - Indonesia</title>
+<link>rtmp://edge.okeinfo.net:1935/live/ playpath=mncoke12_256.stream swfUrl=http://www.indostreamix.com/player/jwplayer5/player.swf pageUrl=http://scriptporwin.blogspot.com/2014/03/mnc-sport-1-live-streaming-sd.html</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ASN SPORTS - Indonesia</title>
+<link>http://202.75.23.33/live/ch26/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ARENA - Indonesia</title>
+<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-arena/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS - Netherlands</title>
+<link>rtmp://94.102.49.192/liveedge// playpath=channel10 swfUrl=http://www.widih.in/swf/jwplayer.flash.swf pageUrl=http://www.widih.in/watch-tv/3580/fox-sports+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1 - US</title>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE0IDc6MTI6NDIgQU0maGFzaF92YWx1ZT0zZjNtdjNNME5WbWhuMWR5Rjh3NDRnPT0mdmFsaWRtaW51dGVzPTIw/ playpath=foxsports1-hq swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/foxsports1.php?width=610&height=480</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 - US</title>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE0IDc6MjM6MzggQU0maGFzaF92YWx1ZT0wektpcUpVQWVjcnFucmtINnZrWDBBPT0mdmFsaWRtaW51dGVzPTIw/ playpath=foxsports2-hq swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/foxsports2.php?width=610&height=480</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NBC SPORT NETWORK - US</title>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE0IDc6MjY6MDQgQU0maGFzaF92YWx1ZT1CL29nazVRbFMxRmxLQTBUV2p6V1VRPT0mdmFsaWRtaW51dGVzPTIw/ playpath=nbcsn-hq swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/nbcsn.php?width=610&height=480</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NBA - US</title>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE0IDc6Mjg6NTkgQU0maGFzaF92YWx1ZT1LSFYxM1JCZDRPSyt6T2JMRXA5OTh3PT0mdmFsaWRtaW51dGVzPTIw/ playpath=nbatv-hq swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/nbatv.php?width=610&height=450</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ESPN PLUS</title>
+<link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Guangdong Sports - China</title>
+<link>rtmp://123.66.29.8:1935/ss1live/ playpath=gdtiyu2 swfUrl=http://www.widih.in/swf/jwplayer.flash.swf pageUrl=http://www.widih.in/watch-tv/2466/Guangdong-Sports-HQ-%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CCTV-5 - China</title>
+<link>rtmp://123.66.29.8:1935/ss1live/ playpath=cctv5-2 swfUrl=http://www.widih.in/swf/jwplayer.flash.swf pageUrl=http://www.widih.in/watch-tv/3616/cctv-5+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Automoto TV - United Kingdom</title>
+<link>mms://83.222.161.217/100livesport</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Tottenham vs Liverpool 1</title>
+<link>plugin://plugin.video.p2p-streams/?url=acestream://737539ffa54106d6971ffcc3a1927cd3d2570e0a</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Tottenham vs Liverpool 2</title>
+<link>http://154.57.145.49/flv/53b8483321423/1.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]WORLD CHANNELS[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>NAT GEO HD - Indonesia</title>
+<link>http://202.75.23.35:8800/live/ch38/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NAT GEO WILD HD -  Indonesia</title>
+<link>http://202.75.23.35:8800/live/ch39/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ANIMAL PLANET -  Indonesia</title>
+<link>http://202.75.23.34:8800/live/ch31/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY CHANNEL - Indonesia</title>
+<link>http://202.75.23.34:8800/live/ch29/01.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY SCIENCE - Indonesia</title>
+<link>http://202.75.23.34:8800/live/ch33/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY WORLD - Indonesia</title>
+<link>http://202.75.23.34:8800/live/ch30/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY TURBO HD - Indonesia</title>
+<link>http://202.75.23.34:8800/live/ch32/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HISTORY -  Indonesia</title>
+<link>http://202.75.23.36:8800/live/ch45/01.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NAT GEO WILD - Usa</title>
+<link>rtsp://211.79.36.213/ngwild_gphone.sdp</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ANIMAL PLANET - Usa</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/3a/Animal_Planet_Canada_Logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>GEO ENTERTAINMENT</title>
+<link>http://origin.seenreport.com:1935/ent/_definst_/live_360p/playlist.m3u8</link>
+</item>
+
+<item>
+<title>NASA HD - Usa</title>
+<link>http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ISLAM TV - British</title>
+<link>rtmp://wowza04.sharp-stream.com/islamtv playpath=islamtv swfUrl=http://player.sharp-stream.com/player.swf pageUrl=http://www.islamchannel.tv/ live=true timeout=15</link>
+<thumbnail>http://blogs.reuters.com/faithworld/files/2008/05/islam-channel1.jpg</thumbnail>
+</item> 
+
+<item>
+<title>History Channel</title>
+<link>http://202.75.23.36:8800/live/ch45/03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Crime Investigation</title>
+<link>http://202.75.23.36:8800/live/ch47/03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Discovery Turbo</title>
+<link>http://202.75.23.34:8800/live/ch32/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Discovery World</title>
+<link>http://202.75.23.34:8800/live/ch30/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Discovery Channel</title>
+<link>http://202.75.23.34:8800/live/ch29/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Discovery Science</title>
+<link>http://202.75.23.34:8800/live/ch33/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>http://202.75.23.34:8800/live/ch31/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TLC</title>
+<link>http://202.75.23.34:8800/live/ch35/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Fasion TV</title>
+<link>http://202.75.23.37:8800/live/ch16/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Life Time</title>
+<link>http://202.75.23.36:8800/live/ch48/03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Home & Health</title>
+<link>http://202.75.23.34:8800/live/ch34/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BIO</title>
+<link>http://202.75.23.36:8800/live/ch46/01.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>ENTERTAINMENT CHANNELS</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>[COLOR=FF00FF00]MOVIES[/COLOR]</title>
+<link>.</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX MOVIE</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//38449</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//38449</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+<item>
+<title>FOX CRIME</title>
+<link>rtmp://206.190.139.28/live playpath=foxcrime600?id=9078 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/foxcrime600/1/580/460</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HBO</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//36674</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//36674</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+<item>
+<title>HBO COMEDY HD</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//38214</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//38214</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+<item>
+<title>SKY MOVIES PREMIERE</title>
+<link>rtmp://31.220.0.104:1935/live/premierx pageUrl=http://www.eucast.tv/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES CRIME & THRILLER</title>
+<link>rtmp://31.220.0.104:1935/live/thrlieer pageUrl=http://www.eucast.tv/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES ACTION & ADVENTURE</title>
+<link>rtmp://31.220.0.103:1935/live/actionx pageUrl=http://www.eucast.tv/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>STARZ MOVIE</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//38366</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//38366</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+<item>
+<title>Kita TV.com - Indonesia</title>
+<link>rtmp://www.kitatv.com/live playpath=myStream swfUrl=http://www.widih.com/player.swf pageUrl=http://www.widih.com/watch-tv/1269/music-kita-tv+live+tv+streaming</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MGM - Indonesia</title>
+<link>http://202.75.23.35:8800/live/ch40/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MGM 2</title>
+<link>http://202.75.23.35:8800/live/ch40/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>AXN MOVIE - Indonesia</title>
+<link>rtmp://victorynet.tv/live/ app=live/ playpath=mvaxnx01 swfUrl=http://m.indostreamix.com/jwplayer/player.swf pageUrl=http://www.indostreamix.com/2012/06/axn-movie-live-streaming.html swfVfy=true live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MAVERICK HBO - Indonesia server 2</title>
+<link>$doregex[file] swfUrl=http://m.indostreamix.com/jwplayer/player.swf live=true timeout=15 pageUrl=http://www.indostreamix.com/</link>
+<thumbnail></thumbnail>
+<regex>
+<name>file</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.indostreamix.com/2012/05/hbo-live-streaming.html</page>
+<referer>http://www.indostreamix.com/2012/05/hbo-live-streaming.html</referer>
+</regex>
+</item>
+
+<item>
+<title>J'GO MOVIE - Indonesia</title>
+<link>http://202.75.23.49/live/ch4/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>SCREEN RED MOVIE - Indonesia</title>
+<link>rtmp://victorynet.tv/live/ app=live/ playpath=mvredx01 swfUrl=http://m.indostreamix.com/jwplayer/player.swf pageUrl=http://www.indostreamix.com/2012/06/screen-red-movie-live-streaming.html swfVfy=true live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CELESTIAL MOVIE - Indonesia</title>
+<link>rtmp://victorynet.tv/live/ playpath=mvcelesx01 swfUrl=http://m.indostreamix.com/jwplayer/player.swf pageUrl=http://www.indostreamix.com/2012/06/celestial-movies-live-streaming-with-indonesian-subtitle.html live=1 timeout=15</link>
+</item>
+
+<item>
+<title>IPTV 1 HD - Thailand</title>
+<link>http://202.172.20.39:1936/live/thaiiptv1.stream/chengye.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>IPTV 2 HD - Thailand</title>
+<link>http://202.172.20.39:1936/live/thaiiptv2.stream/chengye.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HBO SINGNATURE - Thailand</title>
+<link>http://27.254.84.1:1935/live/_definst_/h111.stream/chengye.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ZEE CINEMA HD - India</title>
+<link>rtmp://188.0.226.106/lub/ playpath=zeecinema?v=6fa909810b194475cbb98d7cf71b51bf swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=zeecinema&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=true timeout=15</link>
+<thumbnail>http://static4.wikia.nocookie.net/__cb20110926123843/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
+</item>
+
+<item>
+<title>=================================================</title>
+<link>.</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FF00FF00]MUSICS[/COLOR]</title>
+<link>.</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MIVO - Indonesia</title>
+<link>http://cdn.mivo.tv/mivotvjkt/mivotv_240p/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MIVO HD - Indonesia</title>
+<link>rtmp://cdn.mivo.tv/mivotvjkt/ playpath=mivotv_480p token=#8888#9999 swfUrl=http://player-cdn.mivo.tv/jwplayer.flash.swf pageUrl=http://www.mivo.com/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV INDIE - Indonesia</title>
+<link>http://202.75.23.35:8800/live/ch42/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TV Dangdutz - Indonesia</title>
+<link>http://202.75.23.49/live/ch3/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//MTV</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//MTV</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+<item>
+<title>MTV UK</title>
+<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0&amp;bitrate=1500</link>
+</item>
+
+<item>
+<title>4Music - United Kingdom</title>
+<link>http://wowza1.top-ix.org/quartaretetv1/formusicweb/chunklist_w1572783666.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Korea Hits Music</title>
+<link>http://lm01.everyon.tv/ptv/phd71/chunklist_w41882854.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>JAPANESE SUPER STARS</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//38218</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//38218</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+<item>
+<title>KOREAN MUCIS MNET</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//38215</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//38215</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+<item>
+<title>=================================================</title>
+<link>.</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FF00FF00]KIDS[/COLOR]</title>
+<link>.</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ANIMAX</title>
+<link>rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv03/mogulus-user-files/chanimaxinternational/2007/11/28/4608c6b9-e72d-4cde-bd17-666209adac07_hi swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.olweb.tv/frame/animax-asia-s1.html</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISNEY JUNIOR</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//50694</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//50694</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+<item>
+<title>NICKELODEON</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view//52991</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*)</expres>
+<page>http://www.ilive.to/view//52991</page> 
+</regex>
+<regex>
+<name>tok</name>
+<expres>tok.*:"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</item>
+
+<item>
+<title>NICK ASIA</title>
+<link>http://202.75.23.36:8800/live/ch43/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY KIDS ASIA</title>
+<link>http://202.75.23.35:8800/live/ch36/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Baby First - Indonesia</title>
+<link>http://202.75.23.33:8800/live/ch27/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Cartoonito - Indonesia</title>
+<link>http://202.75.23.36:8800/live/ch49/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Discovery Kids - Indonesia</title>
+<link>http://202.75.23.35:8800/live/ch36/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FF00FF00]MALAY MOVIE[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Cara Mengundang Hantu (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/i41irvlkjglbj22/Cara.Mengundang.Hantu.2014.avi</link>
+<thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ia Wujud (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/pe51lpuwwr8lo67/Ia.Wujud.2014.avi</link>
+<thumbnail>http://1.bp.blogspot.com/-vZo1pAGiU6Q/U4iN-w46urI/AAAAAAAAA78/A3LMYEHnSKs/s1600/iw.jpg</thumbnail>
+</item>
+
+<item>
+<title>Apokalips-X (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/hxnhbda136te6k2/Apokalips-X.2014.mkv</link>
+<thumbnail>http://i.imgur.com/6d2HXVM.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sniper (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/nwtrc8pikxaju14/Sniper.2014.avi</link>
+<thumbnail>http://i.imgur.com/p4Cn1n2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Lu, Gua Bro! (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/blr1ja36fw27ezn/Lu.Gua.Bro.2014.avi</link>
+<thumbnail>http://i.imgur.com/B4D71O6.jpg</thumbnail>
+</item>
+
+<item>
+<title>Balistik (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/m0o26hk0nxuwu8w/Balistik.2014.avi</link>
+<thumbnail>http://1.bp.blogspot.com/-Z0nWHAKHTUY/UwYXjm12CFI/AAAAAAAABAw/ne46EXHmSHw/s1600/balistik-2014-413-800x800.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jangan Pandang Belakang Boleh (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/thlh0phtm7kdd7l/Jangan.Pandang.Belakang.Boleh.2014.avi</link>
+<thumbnail>http://2.bp.blogspot.com/-s7ZrAgrd2_g/UvzoTG5zVPI/AAAAAAAAA9M/9mPpahQJ1SE/s1600/lXWcToN.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zombi Kilang Biskut (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/86ldden6h7r39vj/Zombi.Kilang.Biskut.2014.avi</link>
+<thumbnail>http://i.imgur.com/mrFAFEP.jpg</thumbnail>
+</item>
+
+<item>
+<title>LAGA (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/n3fy0cjjh81s7ew/Laga.2014.avi</link>
+<thumbnail>http://4.bp.blogspot.com/-jOOol0M_aQA/Uwp-y4dkaxI/AAAAAAAABBY/qQT0xPMl4X8/s1600/laga.jpg</thumbnail>
+</item>
+
+<item>
+<title>Panik (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/hioasex06pi8xry/Panik.2014.avi</link>
+<thumbnail>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Journey (2014)</title>
+<link>http://dl.dropboxusercontent.com/s/hjwg35xs0wuek8l/The.Journey.2014.mkv</link>
+<thumbnail>http://1.bp.blogspot.com/-YPVjpaS5XP8/U12IFWbEC6I/AAAAAAAAARI/uj09WRUhz2k/s1600/tj.jpg</thumbnail>
+</item>
+
+<item>
+<title>==============================================================</title>
+<link>.</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFBEBEBE]UPDATED = 16.41 14-08-2014 , @Suaji[/COLOR]</title>
+<link>.</link>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]ASIAN MOVIE[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>[COLOR=FF00FF00]:::____PASTI kan YOUTUBE Plugin di install____:::[/COLOR]</title>
+<link>.</link>
+</item>
+
+<item>
+<title>Make Me Shudder 2 Mae Nak (2014) - Thailand</title>
+<link>http://dl.dropboxusercontent.com/s/56293z3fy7wckqi/Shudder_Me_Mae_Nak.2014-DVDRip.x264.AAC-SeeingMole.mp4</link>
+<thumbnail>http://fajarnoah.com/wp-content/uploads/2014/07/Make-Me-Shudder-2-Mae-Nak-Horror-Movie.jpg</thumbnail>
+</item>
+
+<item>
+<title>She Devil (2014) - Thailand</title>
+<link>http://dl.dropboxusercontent.com/s/ok2se2uva4gxna4/She_Devil.2014-DVDRip.x264.AC3-SeeingMole.mkv</link>
+<thumbnail>http://www.fmoviemag.com/wp-content/uploads/2014/04/She-Devil-Thai.jpg</thumbnail>
+</item>
+
+<item>
+<title>3 AM Part 2 (2014) - Thailand</title>
+<link>http://dl.dropboxusercontent.com/s/8u2dtabepvk66ey/3am.3d.part2.2014.dvdrip.ganool.mkv</link>
+<thumbnail>http://yepmovie.com/wp-content/uploads/2014/05/0129.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pukulan Maut (2014) - Indonesia</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jq7tjFS6Mcg</link>
+<thumbnail>http://2.bp.blogspot.com/-AYLwOHssONw/UrmGKlHYtEI/AAAAAAAAJa8/GdbdXOS_Cgc/s1600/pukulanmaut.jpg</thumbnail>
+</item>
+
+<item>
+<title>Langit Biru (2014) - Indonesia</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2pSD9G9DvMI</link>
+<thumbnail>http://4.bp.blogspot.com/-0lWc3lBRgoQ/TsXUb-RaHJI/AAAAAAAAAvs/xCv98bG9naE/s1600/langitbiru_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Hantu Kamar (2014) - Indonesia</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fXb1Q1-LAUY</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/id/0/00/Pocong_Kamar_Sebelah.jpg</thumbnail>
+</item>
+
+<item>
+<title>Susuk Pocong (2014) - Indonesia</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4PvtHfcUFLw</link>
+<thumbnail>http://2.bp.blogspot.com/-OpKJalQvaxc/UGgJKFem6HI/AAAAAAAAA9c/4Iy6IlfMQV0/s1600/susuk+pocong.JPG</thumbnail>
+</item>
+
+<item>
+<title>Forbidden Floor 4 (2014) - Thai</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IS-SIs5WvuU</link>
+<thumbnail>http://www.chinahush.com/wp-content/uploads/2009/12/20091211scarymovie50.jpg</thumbnail>
+</item>
+
+<item>
+<title>The House (2014) - Thai</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0OKYbiWJ8fE</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The House (2014) - Thai</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0OKYbiWJ8fE</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>I Miss You (2013) - Thai</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WxmhImJE3zU</link>
+<thumbnail>http://playthemovieblog.files.wordpress.com/2013/01/i-miss-you-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Aatma (2013) - India</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dNPHcHIP4KA</link>
+<thumbnail>http://www.muskurahat.us/wallpapers/images/aatma-2013-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Satyagraha (2013) - India</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GL6Eo4akemY</link>
+<thumbnail>http://downloadming.nu/uploads/Satyagraha-2013-free-mp3-songs-download.jpg</thumbnail>
+</item>
+
+<item>
+<title>Akaash Vani (2013) - India</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CRvoJEqrYTY</link>
+<thumbnail>http://cnt.in.bookmyshow.com/contests/akaashvani.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rabba Main Kya Karoon (2013) -  India</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vXnN9rzclh8</link>
+<thumbnail>http://img.hindilinks4u.net/2013/08/Rabba-Main-Kya-Karoon-2013.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Four 2 (2013)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-0ty355gw7x2x-900x500.html</link>
+<thumbnail>http://i.imgur.com/2UHS2NS.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
+</regex>
+</item>
+
+<item>
+<title>The Four (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</link>
+<thumbnail>http://i.imgur.com/t72JL4d.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
+</regex>
+</item>
+
+<item>
+<title>========================================================</title>
+<link>.</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFBEBEBE]UPDATED = 15.58 09-05-2014 , @Suaji[/COLOR]</title>
+<link>.</link>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>[COLOR=FF00FF00]MALAYSIA RADIO[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Samsung Unpacked Live Stream</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VRLy0QQI6xU</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>IKIM FM</title>
+<link>http://50.7.96.210:8285/;stream.mp3</link>
+<thumbnail>http://www.radiomalaysia.net/radio/ikimfm.gif</thumbnail>
+</item>
+
+<item>
+<title>ERA FM</title>
+<link>http://astro2.rastream.com/era?type=.flv&_=0.27137813391163945</link>
+<thumbnail>http://www.radiomalaysia.net/radio/era.gif</thumbnail>
+</item>
+
+<item>
+<title>HOT FM</title>
+<link>http://2343.live.streamtheworld.com/HOTFMAAC</link>
+<thumbnail>http://www.radiomalaysia.net/radio/hotfm.gif</thumbnail>
+</item>
+
+<item>
+<title>HOT FM KELATE</title>
+<link>http://2633.live.streamtheworld.com/HOTFMKELATEAAC</link>
+<thumbnail>http://www.radiomalaysia.net/radio/hotfmkelate.gif</thumbnail>
+</item>
+
+<item>
+<title>HOT FM T'Ganu</title>
+<link>http://2173.live.streamtheworld.com/HOTFMTGANUAAC</link>
+<thumbnail>http://www.radiomalaysia.net/radio/hotfmganu.gif</thumbnail>
+</item>
+
+<item>
+<title>SURIA FM</title>
+<link>http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713</link>
+<thumbnail>http://www.radiomalaysia.net/radio/suria.gif</thumbnail>
+</item>
+
+<item>
+<title>THR GEGAR</title>
+<link>http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093</link>
+<thumbnail>http://www.radiomalaysia.net/radio/thrgegar.gif</thumbnail>
+</item>
+
+<item>
+<title>SINAR FM</title>
+<link>http://astro2.rastream.com/sinar?type=.flv&_=0.812592732720077</link>
+<thumbnail>http://www.radiomalaysia.net/radio/sinar.gif</thumbnail>
+</item>
+
+<item>
+<title>XFRESH FM</title>
+<link>http://audri.rastream.com/amp-xfm_audri?type=.flv&_=0.7508268072269857</link>
+<thumbnail>http://www.radiomalaysia.net/radio/xfresh.gif</thumbnail>
+</item>
+
+<item>
+<title>Bapakku FM</title>
+<link>http://radio.bapakku.fm:8000</link>
+<thumbnail>http://2.bp.blogspot.com/-AJWTRc0SN5k/T3E_WeQBw2I/AAAAAAAAAoU/18eOj0rDi7s/s400/BAPAKKU+FM.jpg</thumbnail>
+</item>
+
+<item>
+<title>HITZ FM</title>
+<link>http://astro1.rastream.com/hitz?type=.flv&_=0.5583740719594061</link>
+<thumbnail>http://www.radiomalaysia.net/radio/hitz.gif</thumbnail>
+</item>
+
+<item>
+<title>MIX FM</title>
+<link>http://astro2.rastream.com/mix?type=.flv&_=0.15211651334539056</link>
+<thumbnail>http://www.radiomalaysia.net/radio/mixfm.gif</thumbnail>
+</item>
+
+<item>
+<title>FLY FM</title>
+<link>http://2283.live.streamtheworld.com/FLYFM_SC</link>
+<thumbnail>http://www.radiomalaysia.net/radio/flyfm.gif</thumbnail>
+</item>
+
+<item>
+<title>RED FM</title>
+<link>http://starrfm.rastream.com/starrfm-redfm?type=.flv&_=0.3609343892894685</link>
+<thumbnail>http://www.radiomalaysia.net/radio/redfm.gif</thumbnail>
+</item>
+
+<item>
+<title>LITE FM</title>
+<link>http://astro1.rastream.com/lite?type=.flv&_=0.3762768777087331</link>
+<thumbnail>http://www.radiomalaysia.net/radio/litefm.gif</thumbnail>
+</item>
+
+</items>
+</channel>
+
+</channels>
