@@ -308,60 +308,6 @@
 </item>
 
 <item>
-<title>Fox Sports 1 - US</title>
-<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMTQgOTo0NTo1OCBBTSZoYXNoX3ZhbHVlPXJJZ2JJVUFacE5JbVNqQVVZamVEZEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/ playpath=foxsports1-hq swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/foxsports1.php?width=610&height=480</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Fox Sports 2 - US</title>
-<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMTQgOTo0NTowMCBBTSZoYXNoX3ZhbHVlPXlUa1ZUY0ZiOU9pZWFXcUdsUDRXQ1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/ playpath=foxsports2-hq swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/foxsports2.php?width=610&height=480</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sporttime TV1 - Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel1_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/2527/sporttime-tv-hdtv-1+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sporttime TV2 - Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel2_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3131/sporttime-tv-hdtv-2+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sporttime TV3 - Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel3_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3132/sporttime-tv-hdtv-3+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sporttime TV4 - Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel4_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3133/sporttime-tv-hdtv-4+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sporttime TV5 - Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel5_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3134/sporttime-tv-hdtv-5+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sporttime TV6 - Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel6_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3135/sporttime-tv-hdtv-6+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sporttime TV7 - Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel7_800 swfUrl=http://www.widih.in/player.swf pageUrl=http://www.widih.in/watch-tv/3136/sporttime-tv-hdtv-7+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>SBS ESPN - South Korean</title>
 <link>http://neventvod.sbs.co.kr:8080/advod/oxseamy140709sn1.mp4</link>
 <thumbnail></thumbnail>
@@ -394,36 +340,6 @@
 <item>
 <title>ARENA - Indonesia</title>
 <link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-arena/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS - Netherlands</title>
-<link>rtmp://94.102.49.192/liveedge// playpath=channel10 swfUrl=http://www.widih.in/swf/jwplayer.flash.swf pageUrl=http://www.widih.in/watch-tv/3580/fox-sports+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 1 - US</title>
-<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE0IDc6MTI6NDIgQU0maGFzaF92YWx1ZT0zZjNtdjNNME5WbWhuMWR5Rjh3NDRnPT0mdmFsaWRtaW51dGVzPTIw/ playpath=foxsports1-hq swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/foxsports1.php?width=610&height=480</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 2 - US</title>
-<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE0IDc6MjM6MzggQU0maGFzaF92YWx1ZT0wektpcUpVQWVjcnFucmtINnZrWDBBPT0mdmFsaWRtaW51dGVzPTIw/ playpath=foxsports2-hq swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/foxsports2.php?width=610&height=480</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NBC SPORT NETWORK - US</title>
-<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE0IDc6MjY6MDQgQU0maGFzaF92YWx1ZT1CL29nazVRbFMxRmxLQTBUV2p6V1VRPT0mdmFsaWRtaW51dGVzPTIw/ playpath=nbcsn-hq swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/nbcsn.php?width=610&height=480</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NBA - US</title>
-<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE0IDc6Mjg6NTkgQU0maGFzaF92YWx1ZT1LSFYxM1JCZDRPSyt6T2JMRXA5OTh3PT0mdmFsaWRtaW51dGVzPTIw/ playpath=nbatv-hq swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/nbatv.php?width=610&height=450</link>
 <thumbnail></thumbnail>
 </item>
 
