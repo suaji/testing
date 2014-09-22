@@ -272,12 +272,6 @@
 <items>
 
 <item>
-<title>West Ham United vs Liverpool</title>
-<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/199199&mode=2&name=title+sopcast</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>BEIN SPORTS 1 - Indonesia</title>
 <link>http://202.75.23.37:1400/live/ch18/live.m3u8</link>
 <thumbnail></thumbnail>
@@ -1044,66 +1038,246 @@
 
 <item>
 <title>Cara Mengundang Hantu (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-87jrsnhisyjw-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-87jrsnhisyjw-640x360.html</page>
+<referer>http://streamin.to/87jrsnhisyjw</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-87jrsnhisyjw-640x360.html</page>
+<referer>http://streamin.to/87jrsnhisyjw</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-87jrsnhisyjw-640x360.html</page>
+<referer>http://streamin.to/87jrsnhisyjw</referer>
+</regex>
 </item>
 
 <item>
 <title>Ia Wujud (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-i16v1bm0krka-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-vZo1pAGiU6Q/U4iN-w46urI/AAAAAAAAA78/A3LMYEHnSKs/s1600/iw.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-i16v1bm0krka-640x360.html</page>
+<referer>http://streamin.to/i16v1bm0krka</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-i16v1bm0krka-640x360.html</page>
+<referer>http://streamin.to/i16v1bm0krka</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-i16v1bm0krka-640x360.html</page>
+<referer>http://streamin.to/i16v1bm0krka</referer>
+</regex>
 </item>
 
 <item>
-<title>Apokalips-X (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<title>Apokalips-X (2014) offline</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
 <thumbnail>http://i.imgur.com/6d2HXVM.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page></page>
+<referer></referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page></page>
+<referer></referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page></page>
+<referer></referer>
+</regex>
 </item>
 
 <item>
 <title>Sniper (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-q5wfasrx5sje-640x360.html</link>
 <thumbnail>http://i.imgur.com/p4Cn1n2.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-q5wfasrx5sje-640x360.html</page>
+<referer>http://streamin.to/q5wfasrx5sje</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-q5wfasrx5sje-640x360.html</page>
+<referer>http://streamin.to/q5wfasrx5sje</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-q5wfasrx5sje-640x360.html</page>
+<referer>http://streamin.to/q5wfasrx5sje</referer>
+</regex>
 </item>
 
 <item>
-<title>Lu, Gua Bro! (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<title>Lu Gua Bro (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wt8vy9sglsf5-640x360.html</link>
 <thumbnail>http://i.imgur.com/B4D71O6.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-wt8vy9sglsf5-640x360.html</page>
+<referer>http://streamin.to/wt8vy9sglsf5</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-wt8vy9sglsf5-640x360.html</page>
+<referer>http://streamin.to/wt8vy9sglsf5</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-wt8vy9sglsf5-640x360.html</page>
+<referer>http://streamin.to/wt8vy9sglsf5</referer>
+</regex>
 </item>
 
 <item>
 <title>Balistik (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-dsmoi5eyh08p-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-Z0nWHAKHTUY/UwYXjm12CFI/AAAAAAAABAw/ne46EXHmSHw/s1600/balistik-2014-413-800x800.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-dsmoi5eyh08p-640x360.html</page>
+<referer>http://streamin.to/dsmoi5eyh08p</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-dsmoi5eyh08p-640x360.html</page>
+<referer>http://streamin.to/dsmoi5eyh08p</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-dsmoi5eyh08p-640x360.html</page>
+<referer>http://streamin.to/dsmoi5eyh08p</referer>
+</regex>
 </item>
 
 <item>
 <title>Jangan Pandang Belakang Boleh (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z4o9eiooprax-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-s7ZrAgrd2_g/UvzoTG5zVPI/AAAAAAAAA9M/9mPpahQJ1SE/s1600/lXWcToN.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-z4o9eiooprax-640x360.html</page>
+<referer>http://streamin.to/z4o9eiooprax</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-z4o9eiooprax-640x360.html</page>
+<referer>http://streamin.to/z4o9eiooprax</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-z4o9eiooprax-640x360.html</page>
+<referer>http://streamin.to/z4o9eiooprax</referer>
+</regex>
 </item>
 
 <item>
 <title>Zombi Kilang Biskut (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qrkxghle89i2-640x360.html</link>
 <thumbnail>http://i.imgur.com/mrFAFEP.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-qrkxghle89i2-640x360.html</page>
+<referer>http://streamin.to/qrkxghle89i2</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-qrkxghle89i2-640x360.html</page>
+<referer>http://streamin.to/qrkxghle89i2</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-qrkxghle89i2-640x360.html</page>
+<referer>http://streamin.to/qrkxghle89i2</referer>
+</regex>
 </item>
 
 <item>
-<title>LAGA (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<title>Laga (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5k1m0pbr8fy5-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-jOOol0M_aQA/Uwp-y4dkaxI/AAAAAAAABBY/qQT0xPMl4X8/s1600/laga.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-5k1m0pbr8fy5-640x360.html</page>
+<referer>http://streamin.to/5k1m0pbr8fy5</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-5k1m0pbr8fy5-640x360.html</page>
+<referer>http://streamin.to/5k1m0pbr8fy5</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-5k1m0pbr8fy5-640x360.html</page>
+<referer>http://streamin.to/5k1m0pbr8fy5</referer>
+</regex>
 </item>
 
 <item>
 <title>Panik (2014)</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7h31q671zi58-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-7h31q671zi58-640x360.html</page>
+<referer>http://streamin.to/7h31q671zi58</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-7h31q671zi58-640x360.html</page>
+<referer>http://streamin.to/7h31q671zi58</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-7h31q671zi58-640x360.html</page>
+<referer>http://streamin.to/7h31q671zi58</referer>
+</regex>
 </item>
 
 <item>
-<title>The Journey (2014)</title>
+<title>The Journey (2014) offline</title>
 <link>http://dl.dropboxusercontent.com/s/</link>
 <thumbnail>http://1.bp.blogspot.com/-YPVjpaS5XP8/U12IFWbEC6I/AAAAAAAAARI/uj09WRUhz2k/s1600/tj.jpg</thumbnail>
 </item>
@@ -1115,7 +1289,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 16.41 14-08-2014 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 10.51 22-09-2014 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
@@ -1290,12 +1464,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
-
-<item>
-<title>Samsung Unpacked Live Stream</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VRLy0QQI6xU</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>IKIM FM</title>
