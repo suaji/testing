@@ -1001,26 +1001,26 @@
 </item>
 
 <item>
-<title>Apokalips-X (2014) offline</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
+<title>Apokalips-X (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-tgmmzppcbt2n-640x360.html</link>
 <thumbnail>http://i.imgur.com/6d2HXVM.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page></page>
-<referer></referer>
+<page>http://streamin.to/embed-tgmmzppcbt2n-640x360.html</page>
+<referer>http://streamin.to/tgmmzppcbt2n</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page></page>
-<referer></referer>
+<page>http://streamin.to/embed-tgmmzppcbt2n-640x360.html</page>
+<referer>http://streamin.to/tgmmzppcbt2n</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page></page>
-<referer></referer>
+<page>http://streamin.to/embed-tgmmzppcbt2n-640x360.html</page>
+<referer>http://streamin.to/tgmmzppcbt2n</referer>
 </regex>
 </item>
 
@@ -1205,7 +1205,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 10.51 22-09-2014 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 11.21 24-09-2014 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
@@ -1224,21 +1224,99 @@
 </item>
 
 <item>
-<title>Make Me Shudder 2 Mae Nak (2014) - Thailand</title>
-<link>http://dl.dropboxusercontent.com/s/56293z3fy7wckqi/Shudder_Me_Mae_Nak.2014-DVDRip.x264.AAC-SeeingMole.mp4</link>
+<title>Shudder Me Mae Nak (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
 <thumbnail>http://fajarnoah.com/wp-content/uploads/2014/07/Make-Me-Shudder-2-Mae-Nak-Horror-Movie.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-lkteu8mkjoak-640x360.html</page>
+<referer>http://streamin.to/lkteu8mkjoak</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-lkteu8mkjoak-640x360.html</page>
+<referer>http://streamin.to/lkteu8mkjoak</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-lkteu8mkjoak-640x360.html</page>
+<referer>http://streamin.to/lkteu8mkjoak</referer>
+</regex>
 </item>
 
 <item>
-<title>She Devil (2014) - Thailand</title>
-<link>http://dl.dropboxusercontent.com/s/ok2se2uva4gxna4/She_Devil.2014-DVDRip.x264.AC3-SeeingMole.mkv</link>
+<title>She Devil (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
 <thumbnail>http://www.fmoviemag.com/wp-content/uploads/2014/04/She-Devil-Thai.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-k2dyld3k94sh-640x360.html</page>
+<referer>http://streamin.to/k2dyld3k94sh</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-k2dyld3k94sh-640x360.html</page>
+<referer>http://streamin.to/k2dyld3k94sh</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-k2dyld3k94sh-640x360.html</page>
+<referer>http://streamin.to/k2dyld3k94sh</referer>
+</regex>
 </item>
 
 <item>
-<title>3 AM Part 2 (2014) - Thailand</title>
-<link>http://dl.dropboxusercontent.com/s/8u2dtabepvk66ey/3am.3d.part2.2014.dvdrip.ganool.mkv</link>
+<title>Still 2 (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
+<thumbnail>http://www.truemovie.com/2014Poster/Still2-1.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-zcqztuptzecf-640x360.html</page>
+<referer>http://streamin.to/zcqztuptzecf</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-zcqztuptzecf-640x360.html</page>
+<referer>http://streamin.to/zcqztuptzecf</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-zcqztuptzecf-640x360.html</page>
+<referer>http://streamin.to/zcqztuptzecf</referer>
+</regex>
+</item>
+
+<item>
+<title>Watch 3AM Part2 (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
 <thumbnail>http://yepmovie.com/wp-content/uploads/2014/05/0129.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-x2ag6n5ykrtv-640x360.html</page>
+<referer>http://streamin.to/x2ag6n5ykrtv</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-x2ag6n5ykrtv-640x360.html</page>
+<referer>http://streamin.to/x2ag6n5ykrtv</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-x2ag6n5ykrtv-640x360.html</page>
+<referer>http://streamin.to/x2ag6n5ykrtv</referer>
+</regex>
 </item>
 
 <item>
@@ -1368,7 +1446,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 15.58 09-05-2014 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 12.20 24-09-2014 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
