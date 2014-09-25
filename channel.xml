@@ -153,11 +153,6 @@
 <thumbnail></thumbnail>
 </item> 
  
-<item>
-<title>Viki Premium HD - South Korea</title>
-<link>rtmp://lm03.everyon.tv/ptv3/ playpath=phd765 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watch-tv/975/viki-enjoy-premium-hd+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>TBS - South Korea</title>
@@ -169,12 +164,6 @@
 <title>G1 SBS - South Korea</title>
 <link>rtmp://smart.igtb.co.kr/live playpath=stream.sdp swfUrl=http://www.igtb.co.kr/vod/player.swf pageUrl=http://www.igtb.co.kr/pop/G1_onair.asp live=true timeout=15</link>
 <thumbnail>http://4.bp.blogspot.com/-9Lu0N2ZBBJk/UjxVN1DIrCI/AAAAAAAAHZ0/R6R98uQetJo/s1600/Watch-G1-GTB-SBS-Live-TV-from-South-Korea.jpg</thumbnail>
-</item>
-
-<item>
-<title>HOT MOVIES - South Korea</title>
-<link>rtmp://lm05.everyon.tv:1935/ptv5/ playpath=phd511 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watch-tv/2079/hot-movies-hd+live+tv+streaming</link>
-<thumbnail></thumbnail>
 </item>
 
 </items>
