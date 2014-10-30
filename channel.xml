@@ -942,6 +942,174 @@
 <items>
 
 <item>
+<title>Mamak Cup Cake (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9uxjovmik08c-640x360.html</link>
+<thumbnail>http://www.astrogempak.com.my/portals/72/images/meletop_filem/mamak.JPG</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-9uxjovmik08c-640x360.html</page>
+<referer>http://streamin.to/9uxjovmik08c</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-9uxjovmik08c-640x360.html</page>
+<referer>http://streamin.to/9uxjovmik08c</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-9uxjovmik08c-640x360.html</page>
+<referer>http://streamin.to/9uxjovmik08c</referer>
+</regex>
+</item>
+
+<item>
+<title>Nasi Tangas (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2iv0rrugs4vo-640x360.html</link>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/10/nasi-tangas-679x1024.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-2iv0rrugs4vo-640x360.html</page>
+<referer>http://streamin.to/2iv0rrugs4vo</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-2iv0rrugs4vo-640x360.html</page>
+<referer>http://streamin.to/2iv0rrugs4vo</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-2iv0rrugs4vo-640x360.html</page>
+<referer>http://streamin.to/2iv0rrugs4vo</referer>
+</regex>
+</item>
+
+<item>
+<title>Muka Surat Cinta (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-fcg25xckf0gp-640x360.html</link>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/02/2014-Muka-Surat-Cinta.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-fcg25xckf0gp-640x360.html</page>
+<referer>http://streamin.to/fcg25xckf0gp</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-fcg25xckf0gp-640x360.html</page>
+<referer>http://streamin.to/fcg25xckf0gp</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-fcg25xckf0gp-640x360.html</page>
+<referer>http://streamin.to/fcg25xckf0gp</referer>
+</regex>
+</item>
+
+<item>
+<title>Lagenda Budak Setan 3 (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ts6t67rikboo-640x360.html</link>
+<thumbnail>http://1.bp.blogspot.com/-Qhmn-EfW-0A/U-5sH9rnfKI/AAAAAAAAG_U/YoBPkFcOmVw/s1600/Lagenda%2BBudak%2BSetan%2B3%2BKasyah.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ts6t67rikboo-640x360.html</page>
+<referer>http://streamin.to/ts6t67rikboo</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ts6t67rikboo-640x360.html</page>
+<referer>http://streamin.to/ts6t67rikboo</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ts6t67rikboo-640x360.html</page>
+<referer>http://streamin.to/ts6t67rikboo</referer>
+</regex>
+</item>
+
+<item>
+<title>Hantu Nan Sempit (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z1875tfw8zoo-640x360.html</link>
+<thumbnail>http://1.bp.blogspot.com/-dxlDSFN9x94/U46_nsT7HJI/AAAAAAAAIq8/FFjkIsFSqA8/s1600/Hantu+Nan+Sempit.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-z1875tfw8zoo-640x360.html</page>
+<referer>http://streamin.to/z1875tfw8zoo</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-z1875tfw8zoo-640x360.html</page>
+<referer>http://streamin.to/z1875tfw8zoo</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-z1875tfw8zoo-640x360.html</page>
+<referer>http://streamin.to/z1875tfw8zoo</referer>
+</regex>
+</item>
+
+<item>
+<title>Adnan Sempit Sawadikap (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4eynj98alc8p-640x360.html</link>
+<thumbnail>http://4.bp.blogspot.com/-xNqC5mqCSAs/U5Nb8SUnoYI/AAAAAAAAGNw/ixBuCnaaons/s1600/Adnan+Sempit+Sawadikap.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-4eynj98alc8p-640x360.html</page>
+<referer>http://streamin.to/4eynj98alc8p</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-4eynj98alc8p-640x360.html</page>
+<referer>http://streamin.to/4eynj98alc8p</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-4eynj98alc8p-640x360.html</page>
+<referer>http://streamin.to/4eynj98alc8p</referer>
+</regex>
+</item>
+
+<item>
+<title>Amir Dan Loqman Pergi Ke Laut (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-to03t2u7t9sr-640x360.html</link>
+<thumbnail>http://www.astrogempak.com.my/Portals/_default/Skins/gempakV2/AstroShaw/images/AmirdanLoqman.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-to03t2u7t9sr-640x360.html</page>
+<referer>http://streamin.to/to03t2u7t9sr</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-to03t2u7t9sr-640x360.html</page>
+<referer>http://streamin.to/to03t2u7t9sr</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-to03t2u7t9sr-640x360.html</page>
+<referer>http://streamin.to/to03t2u7t9sr</referer>
+</regex>
+</item>
+
+<item>
 <title>Sejoli (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gjnzmy6euceb-640x360.html</link>
 <thumbnail>http://posterfilem.com/wp-content/uploads/2014/02/Sejoli-2014.jpg</thumbnail>
@@ -962,6 +1130,30 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-gjnzmy6euceb-640x360.html</page>
 <referer>http://streamin.to/gjnzmy6euceb</referer>
+</regex>
+</item>
+
+<item>
+<title>Qadr (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-d8hmicmlrfey-640x360.html</link>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/02/qadar.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-d8hmicmlrfey-640x360.html</page>
+<referer>http://streamin.to/d8hmicmlrfey</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-d8hmicmlrfey-640x360.html</page>
+<referer>http://streamin.to/d8hmicmlrfey</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-d8hmicmlrfey-640x360.html</page>
+<referer>http://streamin.to/d8hmicmlrfey</referer>
 </regex>
 </item>
 
@@ -1218,7 +1410,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 11.21 24-09-2014 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 17.47 30-10-2014 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
