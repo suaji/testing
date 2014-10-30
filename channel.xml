@@ -942,6 +942,30 @@
 <items>
 
 <item>
+<title>Sejoli (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gjnzmy6euceb-640x360.html</link>
+<thumbnail>http://posterfilem.com/wp-content/uploads/2014/02/Sejoli-2014.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-gjnzmy6euceb-640x360.html</page>
+<referer>http://streamin.to/gjnzmy6euceb</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-gjnzmy6euceb-640x360.html</page>
+<referer>http://streamin.to/gjnzmy6euceb</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-gjnzmy6euceb-640x360.html</page>
+<referer>http://streamin.to/gjnzmy6euceb</referer>
+</regex>
+</item>
+
+<item>
 <title>Cara Mengundang Hantu (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-87jrsnhisyjw-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
