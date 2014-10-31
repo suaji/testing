@@ -287,6 +287,12 @@
 </item>
 
 <item>
+<title>ESPN USA</title>
+<link>http://usa.fankytv.com/live/espn.stream/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SBS ESPN - South Korean</title>
 <link>http://neventvod.sbs.co.kr:8080/advod/oxseamy140709sn1.mp4</link>
 <thumbnail></thumbnail>
@@ -295,6 +301,18 @@
 <item>
 <title>EUROSPORTS - Indonesia</title>
 <link>http://202.75.23.37:1400/live/ch21/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT</title>
+<link>http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT 2</title>
+<link>http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -335,8 +353,62 @@
 </item>
 
 <item>
-<title>Automoto TV - United Kingdom</title>
+<title>WRESTLING TV</title>
+<link>rtmp://77.50.145.30/live/rtplive</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FIGHT BOX HD</title>
+<link>http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>X-TREME IMPACTS</title>
+<link>http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>AUTOMOTO TV - United Kingdom</title>
 <link>mms://83.222.161.217/100livesport</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>AUTOSPORT TV</title>
+<link>mms://100automoto.tv/100livesport</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MOTORS TV UK</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/262.high.stream</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sport 1</title>
+<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sport 2</title>
+<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sport 3</title>
+<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sport 4</title>
+<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -692,6 +764,36 @@
 <page>http://www.ilive.to/server2.php</page>
 <referer>http://www.ilive.to</referer>
 </regex>
+</item>
+
+<item>
+<title>MTV Asia</title>
+<link>http://ilg.club/streamlink.m3u8?channel_id=ebce2f5139c54eda8b111e5923af9c9e&bitrate=800</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV UK</title>
+<link>rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV Music UK</title>
+<link>http://83.139.104.123/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CHANNEL V</title>
+<link>http://ilg.club/streamlink.m3u8?channel_id=9e38a0084e6d45d080139a166c60a102&bitrate=800</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NAT GEO Music HD</title>
+<link>http://ilg.club/streamlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22&bitrate=800</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
