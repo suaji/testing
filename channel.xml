@@ -580,7 +580,7 @@
 <items>
 
 <item>
-<title>[COLOR=FF00FF00]_MOVIES_[/COLOR]</title>
+<title>[COLOR=FF00FF00](MOVIES)[/COLOR]</title>
 <link>.</link>
 <thumbnail></thumbnail>
 </item>
@@ -592,72 +592,13 @@
 </item>
 
 <item>
-<title>AXN MOVIE - Indonesia</title>
-<link>rtmp://victorynet.tv/live/ app=live/ playpath=mvaxnx01 swfUrl=http://m.indostreamix.com/jwplayer/player.swf pageUrl=http://www.indostreamix.com/2012/06/axn-movie-live-streaming.html swfVfy=true live=true timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MAVERICK HBO - Indonesia server 2</title>
-<link>$doregex[file] swfUrl=http://m.indostreamix.com/jwplayer/player.swf live=true timeout=15 pageUrl=http://www.indostreamix.com/</link>
-<thumbnail></thumbnail>
-<regex>
-<name>file</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.indostreamix.com/2012/05/hbo-live-streaming.html</page>
-<referer>http://www.indostreamix.com/2012/05/hbo-live-streaming.html</referer>
-</regex>
-</item>
-
-<item>
-<title>J'GO MOVIE - Indonesia</title>
-<link>http://202.75.23.49/live/ch4/04.m3u8</link>
-<thumbnail></thumbnail>
-</item>
- 
-<item>
-<title>SCREEN RED MOVIE - Indonesia</title>
-<link>rtmp://victorynet.tv/live/ app=live/ playpath=mvredx01 swfUrl=http://m.indostreamix.com/jwplayer/player.swf pageUrl=http://www.indostreamix.com/2012/06/screen-red-movie-live-streaming.html swfVfy=true live=true timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CELESTIAL MOVIE - Indonesia</title>
-<link>rtmp://victorynet.tv/live/ playpath=mvcelesx01 swfUrl=http://m.indostreamix.com/jwplayer/player.swf pageUrl=http://www.indostreamix.com/2012/06/celestial-movies-live-streaming-with-indonesian-subtitle.html live=1 timeout=15</link>
-</item>
-
-<item>
-<title>IPTV 1 HD - Thailand</title>
-<link>http://202.172.20.39:1936/live/thaiiptv1.stream/chengye.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>IPTV 2 HD - Thailand</title>
-<link>http://202.172.20.39:1936/live/thaiiptv2.stream/chengye.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>HBO SINGNATURE - Thailand</title>
-<link>http://27.254.84.1:1935/live/_definst_/h111.stream/chengye.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ZEE CINEMA HD - India</title>
-<link>rtmp://188.0.226.106/lub/ playpath=zeecinema?v=6fa909810b194475cbb98d7cf71b51bf swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=zeecinema&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=true timeout=15</link>
-<thumbnail>http://static4.wikia.nocookie.net/__cb20110926123843/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
-</item>
-
-<item>
 <title>=================================================</title>
 <link>.</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FF00FF00]_MUSICS_[/COLOR]</title>
+<title>[COLOR=FF00FF00](MUSICS)[/COLOR]</title>
 <link>.</link>
 <thumbnail></thumbnail>
 </item>
@@ -675,95 +616,9 @@
 </item>
 
 <item>
-<title>MTV INDIE - Indonesia</title>
-<link>http://202.75.23.35:8800/live/ch42/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TV Dangdutz - Indonesia</title>
-<link>http://202.75.23.49/live/ch3/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//MTV</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//MTV</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</item>
-
-<item>
-<title>MTV UK</title>
-<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0&amp;bitrate=1500</link>
-</item>
-
-<item>
-<title>4Music - United Kingdom</title>
-<link>http://wowza1.top-ix.org/quartaretetv1/formusicweb/chunklist_w1572783666.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>Korea Hits Music</title>
 <link>http://lm01.everyon.tv/ptv/phd71/chunklist_w41882854.m3u8</link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title>JAPANESE SUPER STARS</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//38218</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//38218</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</item>
-
-<item>
-<title>KOREAN MUCIS MNET</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//38215</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//38215</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
 </item>
 
 <item>
@@ -803,57 +658,9 @@
 </item>
 
 <item>
-<title>[COLOR=FF00FF00]_KIDS_[/COLOR]</title>
+<title>[COLOR=FF00FF00](KIDS)[/COLOR]</title>
 <link>.</link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ANIMAX</title>
-<link>rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv03/mogulus-user-files/chanimaxinternational/2007/11/28/4608c6b9-e72d-4cde-bd17-666209adac07_hi swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.olweb.tv/frame/animax-asia-s1.html</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DISNEY JUNIOR</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//50694</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//50694</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</item>
-
-<item>
-<title>NICKELODEON</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//52991</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//52991</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
 </item>
 
 <item>
