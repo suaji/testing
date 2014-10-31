@@ -188,14 +188,14 @@
 </item>
 
 <item>
-<title>BERITA SATU - Indonesia</title>
-<link>http://cdn.mivo.tv/mivotvjkt/beritasatu_240p/playlist.m3u8</link>
+<title>ABC NEWS</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=500,300,700,900,1200</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Channel New Asia</title>
-<link>http://202.75.23.37:8800/live/ch15/04.m3u8</link>
+<title>ABC NEW NOW</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -206,38 +206,46 @@
 </item>
 
 <item>
+<title>AL JAZEERA</title>
+<link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>BLOOMBERG ASIA</title>
 <link>http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>ABC NEWS</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=500,300,700,900,1200</link>
+<title>BLOOMBERG</title>
+<link>http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>FOX NEWS</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//46465</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//46465</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
+<title>BBC WORLD NEWS</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
+<item>
+<title>CHANNEL NEWS ASIA</title>
+<link>http://202.75.23.37:1400/live/ch15/04.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY NEWS</title>
+<link>rtmp://a.cdn.newschat.tv/edge playpath=skyuk_live live=1 timeout=10 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/sky/</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY NEWS HD</title>
+<link>http://ilg.club/streamlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff&bitrate=800</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>ARIRANG HD - South Korea</title>
