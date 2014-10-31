@@ -508,134 +508,14 @@
 <items>
 
 <item>
-<title>[COLOR=FF00FF00]MOVIES[/COLOR]</title>
+<title>[COLOR=FF00FF00]_MOVIES_[/COLOR]</title>
 <link>.</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>FOX MOVIE</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//38449</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//38449</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</item>
-
-<item>
-<title>FOX CRIME</title>
-<link>rtmp://206.190.139.28/live playpath=foxcrime600?id=9078 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/foxcrime600/1/580/460</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>HBO</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//36674</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//36674</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</item>
-
-<item>
-<title>HBO COMEDY HD</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//38214</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//38214</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</item>
-
-<item>
-<title>SKY MOVIES PREMIERE</title>
-<link>rtmp://31.220.0.104:1935/live/premierx pageUrl=http://www.eucast.tv/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY MOVIES CRIME & THRILLER</title>
-<link>rtmp://31.220.0.104:1935/live/thrlieer pageUrl=http://www.eucast.tv/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY MOVIES ACTION & ADVENTURE</title>
-<link>rtmp://31.220.0.103:1935/live/actionx pageUrl=http://www.eucast.tv/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>STARZ MOVIE</title>
-<link>rtmp://watch2.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view//38366</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view//38366</page> 
-</regex>
-<regex>
-<name>tok</name>
-<expres>tok.*:"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</item>
-
-<item>
 <title>Kita TV.com - Indonesia</title>
 <link>rtmp://www.kitatv.com/live playpath=myStream swfUrl=http://www.widih.com/player.swf pageUrl=http://www.widih.com/watch-tv/1269/music-kita-tv+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MGM - Indonesia</title>
-<link>http://202.75.23.35:8800/live/ch40/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MGM 2</title>
-<link>http://202.75.23.35:8800/live/ch40/04.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -705,7 +585,7 @@
 </item>
 
 <item>
-<title>[COLOR=FF00FF00]MUSICS[/COLOR]</title>
+<title>[COLOR=FF00FF00]_MUSICS_[/COLOR]</title>
 <link>.</link>
 <thumbnail></thumbnail>
 </item>
@@ -821,7 +701,7 @@
 </item>
 
 <item>
-<title>[COLOR=FF00FF00]KIDS[/COLOR]</title>
+<title>[COLOR=FF00FF00]_KIDS_[/COLOR]</title>
 <link>.</link>
 <thumbnail></thumbnail>
 </item>
