@@ -273,26 +273,8 @@
 </item>
 
 <item>
-<title>BEIN SPORTS 1 - Qatar</title>
-<link>http://wzmatch.uforone.net:1935/live/_definst_/beinsports1/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 3 - Qatar</title>
-<link>http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?mfamwuUL6IpOXDJ8WwxJ</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>Dubai Sports 3</title>
 <link>http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/chunklist_b1100000.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 1</title>
-<link>rtmp://31.220.0.196:1935/live/fox1x swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z pageUrl=http://www.flashtv.co live=1 timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -311,12 +293,6 @@
 <item>
 <title>SETANTA SPORTS - Indonesia</title>
 <link>http://202.75.23.36:1400/live/ch44/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MNC 1 - Indonesia</title>
-<link>rtmp://edge.okeinfo.net:1935/live/ playpath=mncoke12_256.stream swfUrl=http://www.indostreamix.com/player/jwplayer5/player.swf pageUrl=http://scriptporwin.blogspot.com/2014/03/mnc-sport-1-live-streaming-sd.html</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -353,18 +329,6 @@
 <item>
 <title>Automoto TV - United Kingdom</title>
 <link>mms://83.222.161.217/100livesport</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Tottenham vs Liverpool 1</title>
-<link>plugin://plugin.video.p2p-streams/?url=acestream://737539ffa54106d6971ffcc3a1927cd3d2570e0a</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Tottenham vs Liverpool 2</title>
-<link>http://154.57.145.49/flv/53b8483321423/1.flv</link>
 <thumbnail></thumbnail>
 </item>
 
