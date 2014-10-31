@@ -153,6 +153,11 @@
 <thumbnail></thumbnail>
 </item> 
  
+<item>
+<title>KBS WORLD (uk proxy)</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eRcfW2KekaM</link>
+<thumbnail></thumbnail>
+</item>  
 
 <item>
 <title>TBS - South Korea</title>
@@ -666,30 +671,6 @@
 <item>
 <title>NICK ASIA</title>
 <link>http://202.75.23.36:8800/live/ch43/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY KIDS ASIA</title>
-<link>http://202.75.23.35:8800/live/ch36/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Baby First - Indonesia</title>
-<link>http://202.75.23.33:8800/live/ch27/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Cartoonito - Indonesia</title>
-<link>http://202.75.23.36:8800/live/ch49/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Discovery Kids - Indonesia</title>
-<link>http://202.75.23.35:8800/live/ch36/live.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
