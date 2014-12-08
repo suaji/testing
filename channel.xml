@@ -684,6 +684,54 @@
 <items>
 
 <item>
+<title>Dendam Orang Mati (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-20xk6r5vpkch-640x360.html</link>
+<thumbnail>http://4.bp.blogspot.com/-MweeHa673JY/VGbCo3U0COI/AAAAAAAADXU/gNDFeFPwL1A/s1600/10450599_10152782043298804_1493377972425561346_n.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-20xk6r5vpkch-640x360.html</page>
+<referer>http://streamin.to/20xk6r5vpkch</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-20xk6r5vpkch-640x360.html</page>
+<referer>http://streamin.to/20xk6r5vpkch</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-20xk6r5vpkch-640x360.html</page>
+<referer>http://streamin.to/20xk6r5vpkch</referer>
+</regex>
+</item>
+
+<item>
+<title>Misteri Syirik Tahyul (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-r9d66e0kqq87-640x360.html</link>
+<thumbnail>http://3.bp.blogspot.com/-FHRvF57RKe4/VBiGKcFFbmI/AAAAAAAAHOE/1v-fCN9W6YI/s1600/Mistik%2BSyirik%2BTahyul.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-r9d66e0kqq87-640x360.html</page>
+<referer>http://streamin.to/r9d66e0kqq87</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-r9d66e0kqq87-640x360.html</page>
+<referer>http://streamin.to/r9d66e0kqq87</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-r9d66e0kqq87-640x360.html</page>
+<referer>http://streamin.to/r9d66e0kqq87</referer>
+</regex>
+</item>
+
+<item>
 <title>Mamak Cup Cake (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9uxjovmik08c-640x360.html</link>
 <thumbnail>http://www.astrogempak.com.my/portals/72/images/meletop_filem/mamak.JPG</thumbnail>
