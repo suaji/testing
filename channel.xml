@@ -684,126 +684,6 @@
 <items>
 
 <item>
-<title>The Four Final Battle (2014) (PART 3)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-f8j10gqjlpor-640x360.html</link>
-<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/10/1414064986.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
-<referer>http://streamin.to/f8j10gqjlpor</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
-<referer>http://streamin.to/f8j10gqjlpor</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
-<referer>http://streamin.to/f8j10gqjlpor</referer>
-</regex>
-</item>
-
-<item>
-<title>3 AM Part2 (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-q2ixn11afxu2-640x360.html</link>
-<thumbnail>http://3.bp.blogspot.com/-3n5k_CVBSYw/UtUxxq5JTTI/AAAAAAAALo4/deNp71lb_BQ/s1600/3AM3DPart2.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
-<referer>http://streamin.to/q2ixn11afxu2</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
-<referer>http://streamin.to/q2ixn11afxu2</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
-<referer>http://streamin.to/q2ixn11afxu2</referer>
-</regex>
-</item>
-
-<item>
-<title>3 AM (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s3jvpju7gepg-640x360.html</link>
-<thumbnail>http://ganool.com/wp-content/uploads/2013/05/3g0PV8p.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
-<referer>http://streamin.to/s3jvpju7gepg</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
-<referer>http://streamin.to/s3jvpju7gepg</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
-<referer>http://streamin.to/s3jvpju7gepg</referer>
-</regex>
-</item>
-
-<item>
-<title>407 Dark Flight 3D (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</link>
-<thumbnail>http://1.bp.blogspot.com/-OMtUEtJF_wI/UCSst3yfTsI/AAAAAAAABMQ/Gx357z4uNow/s1600/BLURAY+407+DARK+FLIGHT++62812-83-222-222.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
-<referer>http://streamin.to/3gvm5b4jdrv7</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
-<referer>http://streamin.to/3gvm5b4jdrv7</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
-<referer>http://streamin.to/3gvm5b4jdrv7</referer>
-</regex>
-</item>
-
-<item>
-<title>Flying Swords of Dragon Gate (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hl0bgse8b2wp-640x360.html</link>
-<thumbnail>http://static.dramastyle.com/images/3/3/8190/Flying-Swords-of-Dragon-Gate_8190_5.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
-<referer>http://streamin.to/hl0bgse8b2wp</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
-<referer>http://streamin.to/hl0bgse8b2wp</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
-<referer>http://streamin.to/hl0bgse8b2wp</referer>
-</regex>
-</item>
-
-<item>
 <title>Dendam Orang Mati (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-20xk6r5vpkch-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/11/dendam-orang-mati.jpg</thumbnail>
@@ -1320,7 +1200,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 17.47 30-10-2014 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 16.56 08-12-2014 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
@@ -1336,6 +1216,174 @@
 <item>
 <title>[COLOR=FF00FF00]:::____PASTI kan YOUTUBE Plugin di install____:::[/COLOR]</title>
 <link>.</link>
+</item>
+
+<item>
+<title>The Four 3 - Final Battle (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-f8j10gqjlpor-640x360.html</link>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/10/1414064986.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
+<referer>http://streamin.to/f8j10gqjlpor</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
+<referer>http://streamin.to/f8j10gqjlpor</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
+<referer>http://streamin.to/f8j10gqjlpor</referer>
+</regex>
+</item>
+
+<item>
+<title>The Four 2 (2013)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-0ty355gw7x2x-900x500.html</link>
+<thumbnail>http://i.imgur.com/2UHS2NS.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
+</regex>
+</item>
+
+<item>
+<title>The Four (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</link>
+<thumbnail>http://i.imgur.com/t72JL4d.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
+<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
+</regex>
+</item>
+
+<item>
+<title>3 AM Part2 (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-q2ixn11afxu2-640x360.html</link>
+<thumbnail>http://3.bp.blogspot.com/-3n5k_CVBSYw/UtUxxq5JTTI/AAAAAAAALo4/deNp71lb_BQ/s1600/3AM3DPart2.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
+<referer>http://streamin.to/q2ixn11afxu2</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
+<referer>http://streamin.to/q2ixn11afxu2</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
+<referer>http://streamin.to/q2ixn11afxu2</referer>
+</regex>
+</item>
+
+<item>
+<title>3 AM (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s3jvpju7gepg-640x360.html</link>
+<thumbnail>http://ganool.com/wp-content/uploads/2013/05/3g0PV8p.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
+<referer>http://streamin.to/s3jvpju7gepg</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
+<referer>http://streamin.to/s3jvpju7gepg</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
+<referer>http://streamin.to/s3jvpju7gepg</referer>
+</regex>
+</item>
+
+<item>
+<title>407 Dark Flight 3D (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</link>
+<thumbnail>http://1.bp.blogspot.com/-OMtUEtJF_wI/UCSst3yfTsI/AAAAAAAABMQ/Gx357z4uNow/s1600/BLURAY+407+DARK+FLIGHT++62812-83-222-222.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
+<referer>http://streamin.to/3gvm5b4jdrv7</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
+<referer>http://streamin.to/3gvm5b4jdrv7</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
+<referer>http://streamin.to/3gvm5b4jdrv7</referer>
+</regex>
+</item>
+
+<item>
+<title>Flying Swords of Dragon Gate (2011)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hl0bgse8b2wp-640x360.html</link>
+<thumbnail>http://static.dramastyle.com/images/3/3/8190/Flying-Swords-of-Dragon-Gate_8190_5.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
+<referer>http://streamin.to/hl0bgse8b2wp</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
+<referer>http://streamin.to/hl0bgse8b2wp</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
+<referer>http://streamin.to/hl0bgse8b2wp</referer>
+</regex>
 </item>
 
 <item>
@@ -1507,61 +1555,13 @@
 </item>
 
 <item>
-<title>The Four 2 (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-0ty355gw7x2x-900x500.html</link>
-<thumbnail>http://i.imgur.com/2UHS2NS.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
-</regex>
-</item>
-
-<item>
-<title>The Four (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</link>
-<thumbnail>http://i.imgur.com/t72JL4d.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
-</regex>
-</item>
-
-<item>
 <title>========================================================</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 12.20 24-09-2014 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 16.58 08-12-2014 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
