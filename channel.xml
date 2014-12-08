@@ -806,7 +806,7 @@
 <item>
 <title>Dendam Orang Mati (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-20xk6r5vpkch-640x360.html</link>
-<thumbnail>http://4.bp.blogspot.com/-MweeHa673JY/VGbCo3U0COI/AAAAAAAADXU/gNDFeFPwL1A/s1600/10450599_10152782043298804_1493377972425561346_n.jpg</thumbnail>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/11/dendam-orang-mati.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
