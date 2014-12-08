@@ -684,6 +684,78 @@
 <items>
 
 <item>
+<title>3 AM Part2 (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-q2ixn11afxu2-640x360.html</link>
+<thumbnail>http://3.bp.blogspot.com/-3n5k_CVBSYw/UtUxxq5JTTI/AAAAAAAALo4/deNp71lb_BQ/s1600/3AM3DPart2.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
+<referer>http://streamin.to/q2ixn11afxu2</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
+<referer>http://streamin.to/q2ixn11afxu2</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
+<referer>http://streamin.to/q2ixn11afxu2</referer>
+</regex>
+</item>
+
+<item>
+<title>3 AM (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s3jvpju7gepg-640x360.html</link>
+<thumbnail>http://ganool.com/wp-content/uploads/2013/05/3g0PV8p.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
+<referer>http://streamin.to/s3jvpju7gepg</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
+<referer>http://streamin.to/s3jvpju7gepg</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
+<referer>http://streamin.to/s3jvpju7gepg</referer>
+</regex>
+</item>
+
+<item>
+<title>407 Dark Flight 3D (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</link>
+<thumbnail>http://1.bp.blogspot.com/-OMtUEtJF_wI/UCSst3yfTsI/AAAAAAAABMQ/Gx357z4uNow/s1600/BLURAY+407+DARK+FLIGHT++62812-83-222-222.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
+<referer>http://streamin.to/3gvm5b4jdrv7</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
+<referer>http://streamin.to/3gvm5b4jdrv7</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
+<referer>http://streamin.to/3gvm5b4jdrv7</referer>
+</regex>
+</item>
+
+<item>
 <title>Dendam Orang Mati (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-20xk6r5vpkch-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-MweeHa673JY/VGbCo3U0COI/AAAAAAAADXU/gNDFeFPwL1A/s1600/10450599_10152782043298804_1493377972425561346_n.jpg</thumbnail>
