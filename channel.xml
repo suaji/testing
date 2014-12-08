@@ -684,6 +684,30 @@
 <items>
 
 <item>
+<title>The Four Final Battle (2014) (PART 3)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-f8j10gqjlpor-640x360.html</link>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/10/1414064986.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
+<referer>http://streamin.to/f8j10gqjlpor</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
+<referer>http://streamin.to/f8j10gqjlpor</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
+<referer>http://streamin.to/f8j10gqjlpor</referer>
+</regex>
+</item>
+
+<item>
 <title>3 AM Part2 (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-q2ixn11afxu2-640x360.html</link>
 <thumbnail>http://3.bp.blogspot.com/-3n5k_CVBSYw/UtUxxq5JTTI/AAAAAAAALo4/deNp71lb_BQ/s1600/3AM3DPart2.jpg</thumbnail>
@@ -752,6 +776,30 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
 <referer>http://streamin.to/3gvm5b4jdrv7</referer>
+</regex>
+</item>
+
+<item>
+<title>Flying Swords of Dragon Gate (2011)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hl0bgse8b2wp-640x360.html</link>
+<thumbnail>http://static.dramastyle.com/images/3/3/8190/Flying-Swords-of-Dragon-Gate_8190_5.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
+<referer>http://streamin.to/hl0bgse8b2wp</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
+<referer>http://streamin.to/hl0bgse8b2wp</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
+<referer>http://streamin.to/hl0bgse8b2wp</referer>
 </regex>
 </item>
 
