@@ -1214,347 +1214,6 @@
 <items>
 
 <item>
-<title>[COLOR=FF00FF00]:::____PASTI kan YOUTUBE Plugin di install____:::[/COLOR]</title>
-<link>.</link>
-</item>
-
-<item>
-<title>The Four 3 - Final Battle (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-f8j10gqjlpor-640x360.html</link>
-<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/10/1414064986.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
-<referer>http://streamin.to/f8j10gqjlpor</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
-<referer>http://streamin.to/f8j10gqjlpor</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-f8j10gqjlpor-640x360.html</page>
-<referer>http://streamin.to/f8j10gqjlpor</referer>
-</regex>
-</item>
-
-<item>
-<title>The Four 2 (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-0ty355gw7x2x-900x500.html</link>
-<thumbnail>http://i.imgur.com/2UHS2NS.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-0ty355gw7x2x-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2-2013.html</referer>
-</regex>
-</item>
-
-<item>
-<title>The Four (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</link>
-<thumbnail>http://i.imgur.com/t72JL4d.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9lt0hhwnw5lo-900x500.html</page>
-<referer>http://www.malaywatchtube.pw/2014/01/the-four-2012.html</referer>
-</regex>
-</item>
-
-<item>
-<title>3 AM Part2 (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-q2ixn11afxu2-640x360.html</link>
-<thumbnail>http://3.bp.blogspot.com/-3n5k_CVBSYw/UtUxxq5JTTI/AAAAAAAALo4/deNp71lb_BQ/s1600/3AM3DPart2.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
-<referer>http://streamin.to/q2ixn11afxu2</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
-<referer>http://streamin.to/q2ixn11afxu2</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-q2ixn11afxu2-640x360.html</page>
-<referer>http://streamin.to/q2ixn11afxu2</referer>
-</regex>
-</item>
-
-<item>
-<title>3 AM (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s3jvpju7gepg-640x360.html</link>
-<thumbnail>http://ganool.com/wp-content/uploads/2013/05/3g0PV8p.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
-<referer>http://streamin.to/s3jvpju7gepg</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
-<referer>http://streamin.to/s3jvpju7gepg</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-s3jvpju7gepg-640x360.html</page>
-<referer>http://streamin.to/s3jvpju7gepg</referer>
-</regex>
-</item>
-
-<item>
-<title>407 Dark Flight 3D (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</link>
-<thumbnail>http://1.bp.blogspot.com/-OMtUEtJF_wI/UCSst3yfTsI/AAAAAAAABMQ/Gx357z4uNow/s1600/BLURAY+407+DARK+FLIGHT++62812-83-222-222.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
-<referer>http://streamin.to/3gvm5b4jdrv7</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
-<referer>http://streamin.to/3gvm5b4jdrv7</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-3gvm5b4jdrv7-640x360.html</page>
-<referer>http://streamin.to/3gvm5b4jdrv7</referer>
-</regex>
-</item>
-
-<item>
-<title>Flying Swords of Dragon Gate (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hl0bgse8b2wp-640x360.html</link>
-<thumbnail>http://static.dramastyle.com/images/3/3/8190/Flying-Swords-of-Dragon-Gate_8190_5.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
-<referer>http://streamin.to/hl0bgse8b2wp</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
-<referer>http://streamin.to/hl0bgse8b2wp</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-hl0bgse8b2wp-640x360.html</page>
-<referer>http://streamin.to/hl0bgse8b2wp</referer>
-</regex>
-</item>
-
-<item>
-<title>Shudder Me Mae Nak (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
-<thumbnail>http://fajarnoah.com/wp-content/uploads/2014/07/Make-Me-Shudder-2-Mae-Nak-Horror-Movie.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-lkteu8mkjoak-640x360.html</page>
-<referer>http://streamin.to/lkteu8mkjoak</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-lkteu8mkjoak-640x360.html</page>
-<referer>http://streamin.to/lkteu8mkjoak</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-lkteu8mkjoak-640x360.html</page>
-<referer>http://streamin.to/lkteu8mkjoak</referer>
-</regex>
-</item>
-
-<item>
-<title>She Devil (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
-<thumbnail>http://www.fmoviemag.com/wp-content/uploads/2014/04/She-Devil-Thai.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-k2dyld3k94sh-640x360.html</page>
-<referer>http://streamin.to/k2dyld3k94sh</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-k2dyld3k94sh-640x360.html</page>
-<referer>http://streamin.to/k2dyld3k94sh</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-k2dyld3k94sh-640x360.html</page>
-<referer>http://streamin.to/k2dyld3k94sh</referer>
-</regex>
-</item>
-
-<item>
-<title>Still 2 (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
-<thumbnail>http://www.truemovie.com/2014Poster/Still2-1.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-zcqztuptzecf-640x360.html</page>
-<referer>http://streamin.to/zcqztuptzecf</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-zcqztuptzecf-640x360.html</page>
-<referer>http://streamin.to/zcqztuptzecf</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-zcqztuptzecf-640x360.html</page>
-<referer>http://streamin.to/zcqztuptzecf</referer>
-</regex>
-</item>
-
-<item>
-<title>Watch 3AM Part2 (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
-<thumbnail>http://yepmovie.com/wp-content/uploads/2014/05/0129.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-x2ag6n5ykrtv-640x360.html</page>
-<referer>http://streamin.to/x2ag6n5ykrtv</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-x2ag6n5ykrtv-640x360.html</page>
-<referer>http://streamin.to/x2ag6n5ykrtv</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-x2ag6n5ykrtv-640x360.html</page>
-<referer>http://streamin.to/x2ag6n5ykrtv</referer>
-</regex>
-</item>
-
-<item>
-<title>Pukulan Maut (2014) - Indonesia</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jq7tjFS6Mcg</link>
-<thumbnail>http://2.bp.blogspot.com/-AYLwOHssONw/UrmGKlHYtEI/AAAAAAAAJa8/GdbdXOS_Cgc/s1600/pukulanmaut.jpg</thumbnail>
-</item>
-
-<item>
-<title>Langit Biru (2014) - Indonesia</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2pSD9G9DvMI</link>
-<thumbnail>http://4.bp.blogspot.com/-0lWc3lBRgoQ/TsXUb-RaHJI/AAAAAAAAAvs/xCv98bG9naE/s1600/langitbiru_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Hantu Kamar (2014) - Indonesia</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fXb1Q1-LAUY</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/id/0/00/Pocong_Kamar_Sebelah.jpg</thumbnail>
-</item>
-
-<item>
-<title>Susuk Pocong (2014) - Indonesia</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4PvtHfcUFLw</link>
-<thumbnail>http://2.bp.blogspot.com/-OpKJalQvaxc/UGgJKFem6HI/AAAAAAAAA9c/4Iy6IlfMQV0/s1600/susuk+pocong.JPG</thumbnail>
-</item>
-
-<item>
-<title>Forbidden Floor 4 (2014) - Thai</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IS-SIs5WvuU</link>
-<thumbnail>http://www.chinahush.com/wp-content/uploads/2009/12/20091211scarymovie50.jpg</thumbnail>
-</item>
-
-<item>
-<title>The House (2014) - Thai</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0OKYbiWJ8fE</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>The House (2014) - Thai</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0OKYbiWJ8fE</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>I Miss You (2013) - Thai</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WxmhImJE3zU</link>
-<thumbnail>http://playthemovieblog.files.wordpress.com/2013/01/i-miss-you-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>Aatma (2013) - India</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dNPHcHIP4KA</link>
-<thumbnail>http://www.muskurahat.us/wallpapers/images/aatma-2013-2.jpg</thumbnail>
-</item>
-
-<item>
-<title>Satyagraha (2013) - India</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GL6Eo4akemY</link>
-<thumbnail>http://downloadming.nu/uploads/Satyagraha-2013-free-mp3-songs-download.jpg</thumbnail>
-</item>
-
-<item>
-<title>Akaash Vani (2013) - India</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CRvoJEqrYTY</link>
-<thumbnail>http://cnt.in.bookmyshow.com/contests/akaashvani.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rabba Main Kya Karoon (2013) -  India</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vXnN9rzclh8</link>
-<thumbnail>http://img.hindilinks4u.net/2013/08/Rabba-Main-Kya-Karoon-2013.jpg</thumbnail>
-</item>
-
-<item>
 <title>Download & Install DramaGo Plugin (http://goo.gl/ucLyAi)</title>
 <title>atau install direct dari Repo (repository.dk-xbmc-repaddon)</title>
 <link>.</link>
@@ -1812,7 +1471,155 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Shiro)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1083625/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1083625/cropped/600x338.png</thumbnail>
+</item>
 
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Samurai) [Tersingkir]</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1083676/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1083676/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Sepahtu)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1083747/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1083747/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Jalor)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1083772/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1083772/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Comey)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1083938/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1083938/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Virus)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1084008/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1084008/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Wala)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1084044/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1084044/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Nabil)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1085259/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1085259/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (SYJ)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1085288/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1085288/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Shake)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1085522/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1085522/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Zero)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1085588/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1085588/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Ekzos)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1085679/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1085679/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 3 (Bocey)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1085789/960000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1085789/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Nabil)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101859/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101859/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Comey)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101858/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101858/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Virus)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101860/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101860/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Bocey)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101857/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101857/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Wala)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101852/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101852/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Zero)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101853/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101853/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Shake)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101847/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101847/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Sepahtu)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101846/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101846/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Jalor)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101845/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101845/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Shiro)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101849/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101849/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (Ekzos)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101844/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101844/cropped/600x338.png</thumbnail>
+</item>
+
+<item>
+<title>Maharaja Lawak Mega 2014 - Minggu 4 (SYJ)</title>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1101850/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1101850/cropped/600x338.png</thumbnail>
+</item>
 
 <item>
 <title>Maharaja Lawak Mega 2014 - Minggu 5 (Shiro)</title>
