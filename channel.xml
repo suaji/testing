@@ -1194,6 +1194,54 @@
 </item>
 
 <item>
+<title>Paku Pontianak (2013)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-szxj34ccnc4a-640x360.html</link>
+<thumbnail>http://fuh.my/wp-content/uploads/2013/09/poster-paku-pontianak.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-szxj34ccnc4a-640x360.html</page>
+<referer>http://streamin.to/szxj34ccnc4a</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-szxj34ccnc4a-640x360.html</page>
+<referer>http://streamin.to/szxj34ccnc4a</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-szxj34ccnc4a-640x360.html</page>
+<referer>http://streamin.to/szxj34ccnc4a</referer>
+</regex>
+</item>
+
+<item>
+<title>Misteri Bisikan Pontianak (2013)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-xsiwyxgwzf3r-640x360.html</link>
+<thumbnail>http://4.bp.blogspot.com/-ZTXgVtpl9JE/UfnUFeUVCVI/AAAAAAAAANY/gjfXCDau4ss/s1600/Misteri+Bisikan+Pontianak.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-xsiwyxgwzf3r-640x360.html</page>
+<referer>http://streamin.to/xsiwyxgwzf3r</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-xsiwyxgwzf3r-640x360.html</page>
+<referer>http://streamin.to/xsiwyxgwzf3r</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-xsiwyxgwzf3r-640x360.html</page>
+<referer>http://streamin.to/xsiwyxgwzf3r</referer>
+</regex>
+</item>
+
+<item>
 <title>Istanbul Aku Datang (2012)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nxgm0ximk9a9-640x360.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/b/b6/Istanbul_Aku_Datang.jpeg</thumbnail>
@@ -1266,6 +1314,126 @@
 </item>
 
 <item>
+<title>Seram Sejuk (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-dhlw582kr38b-640x360.html</link>
+<thumbnail>http://2.bp.blogspot.com/-qI08Vu9Y6uY/UEVVrwxDMBI/AAAAAAAADz0/QB1CQff1qIE/s640/Seram+Sejuk+%25282012%2529.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-dhlw582kr38b-640x360.html</page>
+<referer>http://streamin.to/dhlw582kr38b</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-dhlw582kr38b-640x360.html</page>
+<referer>http://streamin.to/dhlw582kr38b</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-dhlw582kr38b-640x360.html</page>
+<referer>http://streamin.to/dhlw582kr38b</referer>
+</regex>
+</item>
+
+<item>
+<title>Karak (2011)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-dxrqct132ryo-640x360.html</link>
+<thumbnail>http://1.bp.blogspot.com/-oManyfaMANM/TgBtd0ULXWI/AAAAAAAAADg/9oc1tEbN_wY/s1600/karak.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-dxrqct132ryo-640x360.html</page>
+<referer>http://streamin.to/dxrqct132ryo</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-dxrqct132ryo-640x360.html</page>
+<referer>http://streamin.to/dxrqct132ryo</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-dxrqct132ryo-640x360.html</page>
+<referer>http://streamin.to/dxrqct132ryo</referer>
+</regex>
+</item>
+
+<item>
+<title>Khurafat (2011)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-lpcq0bgqy7hh-640x360.html</link>
+<thumbnail>http://4.bp.blogspot.com/_8E1zWkoXI6g/TSAdYIXB2VI/AAAAAAAAA1Y/VKlfPnNKBXA/s400/khurafat.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-lpcq0bgqy7hh-640x360.html</page>
+<referer>http://streamin.to/lpcq0bgqy7hh</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-lpcq0bgqy7hh-640x360.html</page>
+<referer>http://streamin.to/lpcq0bgqy7hh</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-lpcq0bgqy7hh-640x360.html</page>
+<referer>http://streamin.to/lpcq0bgqy7hh</referer>
+</regex>
+</item>
+
+<item>
+<title>Senjakala (2011)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qys9eyqxcp2j-640x360.html</link>
+<thumbnail>http://filemwayang.com/wp-content/uploads/2011/03/Poster-Senjakala.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-qys9eyqxcp2j-640x360.html</page>
+<referer>http://streamin.to/qys9eyqxcp2j</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-qys9eyqxcp2j-640x360.html</page>
+<referer>http://streamin.to/qys9eyqxcp2j</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-qys9eyqxcp2j-640x360.html</page>
+<referer>http://streamin.to/qys9eyqxcp2j</referer>
+</regex>
+</item>
+
+<item>
+<title>Penunggu Istana (2011)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hwmhrs6wout8-640x360.html</link>
+<thumbnail>http://1.bp.blogspot.com/-OWvjywonYvQ/TkLz1d0EBLI/AAAAAAAAADs/l9bZkANoA9k/s1600/penunggu+istana+-+ohfilem.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-hwmhrs6wout8-640x360.html</page>
+<referer>http://streamin.to/hwmhrs6wout8</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-hwmhrs6wout8-640x360.html</page>
+<referer>http://streamin.to/hwmhrs6wout8</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-hwmhrs6wout8-640x360.html</page>
+<referer>http://streamin.to/hwmhrs6wout8</referer>
+</regex>
+</item>
+
+<item>
 <title>Seru (2011)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-dhsve22eao4z-640x360.html</link>
 <thumbnail>http://www.horror-movies.ca/wp-content/uploads/2011/04/Seru-Poster.jpg</thumbnail>
@@ -1314,13 +1482,37 @@
 </item>
 
 <item>
+<title>Jangan Tegur (2009)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-h0yaaqhvojgj-640x360.html</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/e7/Jangan_Tegur(poster).jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-h0yaaqhvojgj-640x360.html</page>
+<referer>http://streamin.to/h0yaaqhvojgj</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-h0yaaqhvojgj-640x360.html</page>
+<referer>http://streamin.to/h0yaaqhvojgj</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-h0yaaqhvojgj-640x360.html</page>
+<referer>http://streamin.to/h0yaaqhvojgj</referer>
+</regex>
+</item>
+
+<item>
 <title>==============================================================</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 14.18 31-12-2014 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 14.38 31-12-2014 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
