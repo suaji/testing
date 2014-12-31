@@ -193,6 +193,24 @@
 </item>
 
 <item>
+<title>TV ONE - Indonesia</title>
+<link>http://live.stream.telin.swiftserve.com/live/livetv-mbr/mp4:m-tvone_2/playlist.m3u8</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>KOMPAS TV - Indonesia</title>
+<link>http://live.stream.telin.swiftserve.com/live/livetv-mbr/mp4:m-kompastv_2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MetroTV - Indonesia</title>
+<link>http://live.stream.telin.swiftserve.com/live/livetv-mbr/mp4:m-metrotv_2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>ABC NEWS</title>
 <link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=500,300,700,900,1200</link>
 <thumbnail></thumbnail>
