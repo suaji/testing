@@ -925,25 +925,25 @@
 
 <item>
 <title>Qadr (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-d8hmicmlrfey-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7oia787a10c0-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/02/qadar.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-d8hmicmlrfey-640x360.html</page>
-<referer>http://streamin.to/d8hmicmlrfey</referer>
+<page>http://streamin.to/embed-7oia787a10c0-640x360.html</page>
+<referer>http://streamin.to/7oia787a10c0</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-d8hmicmlrfey-640x360.html</page>
-<referer>http://streamin.to/d8hmicmlrfey</referer>
+<page>http://streamin.to/embed-7oia787a10c0-640x360.html</page>
+<referer>http://streamin.to/7oia787a10c0</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-d8hmicmlrfey-640x360.html</page>
-<referer>http://streamin.to/d8hmicmlrfey</referer>
+<page>http://streamin.to/embed-7oia787a10c0-640x360.html</page>
+<referer>http://streamin.to/7oia787a10c0</referer>
 </regex>
 </item>
 
@@ -1194,13 +1194,133 @@
 </item>
 
 <item>
+<title>Istanbul Aku Datang (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nxgm0ximk9a9-640x360.html</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/b/b6/Istanbul_Aku_Datang.jpeg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-nxgm0ximk9a9-640x360.html</page>
+<referer>http://streamin.to/nxgm0ximk9a9</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-nxgm0ximk9a9-640x360.html</page>
+<referer>http://streamin.to/nxgm0ximk9a9</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-nxgm0ximk9a9-640x360.html</page>
+<referer>http://streamin.to/nxgm0ximk9a9</referer>
+</regex>
+</item>
+
+<item>
+<title>Strawberry Cinta (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2fwdzv0104jp-640x360.html</link>
+<thumbnail>http://img80.imageporter.com/i/01736/qiwyl99nzrf7_t.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-2fwdzv0104jp-640x360.html</page>
+<referer>http://streamin.to/2fwdzv0104jp</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-2fwdzv0104jp-640x360.html</page>
+<referer>http://streamin.to/2fwdzv0104jp</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-2fwdzv0104jp-640x360.html</page>
+<referer>http://streamin.to/2fwdzv0104jp</referer>
+</regex>
+</item>
+
+<item>
+<title>Aku Terima Nikahnya (2012)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-92rng1s6dfi3-640x360.html</link>
+<thumbnail>http://www.astrogempak.com.my/portals/72/images/meletop_filem/02.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-92rng1s6dfi3-640x360.html</page>
+<referer>http://streamin.to/92rng1s6dfi3</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-92rng1s6dfi3-640x360.html</page>
+<referer>http://streamin.to/92rng1s6dfi3</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-92rng1s6dfi3-640x360.html</page>
+<referer>http://streamin.to/92rng1s6dfi3</referer>
+</regex>
+</item>
+
+<item>
+<title>Seru (2011)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-dhsve22eao4z-640x360.html</link>
+<thumbnail>http://www.horror-movies.ca/wp-content/uploads/2011/04/Seru-Poster.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-dhsve22eao4z-640x360.html</page>
+<referer>http://streamin.to/dhsve22eao4z</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-dhsve22eao4z-640x360.html</page>
+<referer>http://streamin.to/dhsve22eao4z</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-dhsve22eao4z-640x360.html</page>
+<referer>http://streamin.to/dhsve22eao4z</referer>
+</regex>
+</item>
+
+<item>
+<title>Hantu Kak Limah Balik Rumah (2010)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-yurdj922jilc-640x360.html</link>
+<thumbnail>http://1.bp.blogspot.com/_dYtjWGhIfm0/TS3VgzFmtVI/AAAAAAAAAH0/ghgkfuAze6g/s1600/hantu+kak+limah.png</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-yurdj922jilc-640x360.html</page>
+<referer>http://streamin.to/yurdj922jilc</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page></page>
+<referer>http://streamin.to/yurdj922jilc</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-yurdj922jilc-640x360.html</page>
+<referer>http://streamin.to/yurdj922jilc</referer>
+</regex>
+</item>
+
+<item>
 <title>==============================================================</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 16.56 08-12-2014 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 14.18 31-12-2014 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
@@ -1215,6 +1335,11 @@
 
 <item>
 <title>Download & Install DramaGo Plugin (http://goo.gl/ucLyAi)</title>
+<link>.</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
 <title>atau install direct dari Repo (repository.dk-xbmc-repaddon)</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
