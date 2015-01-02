@@ -702,6 +702,78 @@
 <items>
 
 <item>
+<title>Anak Jantan (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-c2lbwqck4qm8-640x360.html</link>
+<thumbnail>http://www.paparazzi.my/wp-content/uploads/2014/10/anak-jantan.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-c2lbwqck4qm8-640x360.html</page>
+<referer>http://streamin.to/c2lbwqck4qm8</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-c2lbwqck4qm8-640x360.html</page>
+<referer>http://streamin.to/c2lbwqck4qm8</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-c2lbwqck4qm8-640x360.html</page>
+<referer>http://streamin.to/c2lbwqck4qm8</referer>
+</regex>
+</item>
+
+<item>
+<title>Kaki Kitai (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-o5uw5ztbg8te-640x360.html</link>
+<thumbnail>http://4.bp.blogspot.com/-rDqTRfrTAEY/VJSTAh6A6rI/AAAAAAAABl8/i1P6DMVXk1c/s1600/instaphoto-kaki-kitai-shaheizy-sam-1.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-o5uw5ztbg8te-640x360.html</page>
+<referer>http://streamin.to/o5uw5ztbg8te</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-o5uw5ztbg8te-640x360.html</page>
+<referer>http://streamin.to/o5uw5ztbg8te</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-o5uw5ztbg8te-640x360.html</page>
+<referer>http://streamin.to/o5uw5ztbg8te</referer>
+</regex>
+</item>
+
+<item>
+<title>Kelibat (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ee1wvmdpegtf-640x360.html</link>
+<thumbnail>http://www.paparazzi.my/wp-content/uploads/2014/11/kelibat1.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ee1wvmdpegtf-640x360.html</page>
+<referer>http://streamin.to/ee1wvmdpegtf</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ee1wvmdpegtf-640x360.html</page>
+<referer>http://streamin.to/ee1wvmdpegtf</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ee1wvmdpegtf-640x360.html</page>
+<referer>http://streamin.to/ee1wvmdpegtf</referer>
+</regex>
+</item>
+
+<item>
 <title>Dendam Orang Mati (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-20xk6r5vpkch-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/11/dendam-orang-mati.jpg</thumbnail>
@@ -1352,6 +1424,30 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-dhlw582kr38b-640x360.html</page>
 <referer>http://streamin.to/dhlw582kr38b</referer>
+</regex>
+</item>
+
+<item>
+<title>Sini Ada Hantu (2011)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kuftcfgmy45u-640x360.html</link>
+<thumbnail>http://2.bp.blogspot.com/-pXccV6uQMQg/UC1NhhAwLmI/AAAAAAAABWg/QpYTwquEekk/s1600/Sini%2BAda%2BHantu.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-kuftcfgmy45u-640x360.html</page>
+<referer>http://streamin.to/kuftcfgmy45u</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-kuftcfgmy45u-640x360.html</page>
+<referer>http://streamin.to/kuftcfgmy45u</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-kuftcfgmy45u-640x360.html</page>
+<referer>http://streamin.to/kuftcfgmy45u</referer>
 </regex>
 </item>
 
