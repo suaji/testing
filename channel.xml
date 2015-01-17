@@ -763,25 +763,25 @@
 
 <item>
 <title>Kaki Kitai (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-o5uw5ztbg8te-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-e7akug1f0crb-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-rDqTRfrTAEY/VJSTAh6A6rI/AAAAAAAABl8/i1P6DMVXk1c/s1600/instaphoto-kaki-kitai-shaheizy-sam-1.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-o5uw5ztbg8te-640x360.html</page>
-<referer>http://streamin.to/o5uw5ztbg8te</referer>
+<page>http://streamin.to/embed-e7akug1f0crb-640x360.html</page>
+<referer>http://streamin.to/e7akug1f0crb</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-o5uw5ztbg8te-640x360.html</page>
-<referer>http://streamin.to/o5uw5ztbg8te</referer>
+<page>http://streamin.to/embed-e7akug1f0crb-640x360.html</page>
+<referer>http://streamin.to/e7akug1f0crb</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-o5uw5ztbg8te-640x360.html</page>
-<referer>http://streamin.to/o5uw5ztbg8te</referer>
+<page>http://streamin.to/embed-e7akug1f0crb-640x360.html</page>
+<referer>http://streamin.to/e7akug1f0crb</referer>
 </regex>
 </item>
 
