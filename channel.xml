@@ -738,6 +738,30 @@
 <items>
 
 <item>
+<title>Terbaik Dari Langit (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s4bhkoaq0l44-640x360.html</link>
+<thumbnail>http://www.im4ufm.my/wp-content/uploads/2014/12/Terbaik-Dari-Langit-Poster_Final-2.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-s4bhkoaq0l44-640x360.html</page>
+<referer>http://streamin.to/s4bhkoaq0l44</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-s4bhkoaq0l44-640x360.html</page>
+<referer>http://streamin.to/s4bhkoaq0l44</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-s4bhkoaq0l44-640x360.html</page>
+<referer>http://streamin.to/s4bhkoaq0l44</referer>
+</regex>
+</item>
+
+<item>
 <title>Anak Jantan (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-c2lbwqck4qm8-640x360.html</link>
 <thumbnail>http://www.paparazzi.my/wp-content/uploads/2014/10/anak-jantan.jpg</thumbnail>
@@ -1345,25 +1369,25 @@
 
 <item>
 <title>Misteri Bisikan Pontianak (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-xsiwyxgwzf3r-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-u31wa217pxfm-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-ZTXgVtpl9JE/UfnUFeUVCVI/AAAAAAAAANY/gjfXCDau4ss/s1600/Misteri+Bisikan+Pontianak.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-xsiwyxgwzf3r-640x360.html</page>
-<referer>http://streamin.to/xsiwyxgwzf3r</referer>
+<page>http://streamin.to/embed-u31wa217pxfm-640x360.html</page>
+<referer>http://streamin.to/u31wa217pxfm</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-xsiwyxgwzf3r-640x360.html</page>
-<referer>http://streamin.to/xsiwyxgwzf3r</referer>
+<page>http://streamin.to/embed-u31wa217pxfm-640x360.html</page>
+<referer>http://streamin.to/u31wa217pxfm</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-xsiwyxgwzf3r-640x360.html</page>
-<referer>http://streamin.to/xsiwyxgwzf3r</referer>
+<page>http://streamin.to/embed-u31wa217pxfm-640x360.html</page>
+<referer>http://streamin.to/u31wa217pxfm</referer>
 </regex>
 </item>
 
@@ -1393,25 +1417,25 @@
 
 <item>
 <title>Strawberry Cinta (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2fwdzv0104jp-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-fdhaqbnd73cb-640x360.html</link>
 <thumbnail>http://img80.imageporter.com/i/01736/qiwyl99nzrf7_t.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-2fwdzv0104jp-640x360.html</page>
-<referer>http://streamin.to/2fwdzv0104jp</referer>
+<page>http://streamin.to/embed-fdhaqbnd73cb-640x360.html</page>
+<referer>http://streamin.to/fdhaqbnd73cb</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-2fwdzv0104jp-640x360.html</page>
-<referer>http://streamin.to/2fwdzv0104jp</referer>
+<page>http://streamin.to/embed-fdhaqbnd73cb-640x360.html</page>
+<referer>http://streamin.to/fdhaqbnd73cb</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-2fwdzv0104jp-640x360.html</page>
-<referer>http://streamin.to/2fwdzv0104jp</referer>
+<page>http://streamin.to/embed-fdhaqbnd73cb-640x360.html</page>
+<referer>http://streamin.to/fdhaqbnd73cb</referer>
 </regex>
 </item>
 
@@ -1585,49 +1609,49 @@
 
 <item>
 <title>Seru (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-dhsve22eao4z-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-psfy9a3pdk07-640x360.html</link>
 <thumbnail>http://www.horror-movies.ca/wp-content/uploads/2011/04/Seru-Poster.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-dhsve22eao4z-640x360.html</page>
-<referer>http://streamin.to/dhsve22eao4z</referer>
+<page>http://streamin.to/embed-psfy9a3pdk07-640x360.html</page>
+<referer>http://streamin.to/psfy9a3pdk07</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-dhsve22eao4z-640x360.html</page>
-<referer>http://streamin.to/dhsve22eao4z</referer>
+<page>http://streamin.to/embed-psfy9a3pdk07-640x360.html</page>
+<referer>http://streamin.to/psfy9a3pdk07</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-dhsve22eao4z-640x360.html</page>
-<referer>http://streamin.to/dhsve22eao4z</referer>
+<page>http://streamin.to/embed-psfy9a3pdk07-640x360.html</page>
+<referer>http://streamin.to/psfy9a3pdk07</referer>
 </regex>
 </item>
 
 <item>
 <title>Hantu Kak Limah Balik Rumah (2010)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-yurdj922jilc-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jzqoqy8od137-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/_dYtjWGhIfm0/TS3VgzFmtVI/AAAAAAAAAH0/ghgkfuAze6g/s1600/hantu+kak+limah.png</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-yurdj922jilc-640x360.html</page>
-<referer>http://streamin.to/yurdj922jilc</referer>
+<page>http://streamin.to/embed-jzqoqy8od137-640x360.html</page>
+<referer>http://streamin.to/jzqoqy8od137</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page></page>
-<referer>http://streamin.to/yurdj922jilc</referer>
+<page>http://streamin.to/embed-jzqoqy8od137-640x360.html</page>
+<referer>http://streamin.to/jzqoqy8od137</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-yurdj922jilc-640x360.html</page>
-<referer>http://streamin.to/yurdj922jilc</referer>
+<page>http://streamin.to/embed-jzqoqy8od137-640x360.html</page>
+<referer>http://streamin.to/jzqoqy8od137</referer>
 </regex>
 </item>
 
@@ -1652,6 +1676,30 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-h0yaaqhvojgj-640x360.html</page>
 <referer>http://streamin.to/h0yaaqhvojgj</referer>
+</regex>
+</item>
+
+<item>
+<title>Jangan Pandang Belakang Congkak (2009)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ko011lvxgffa-640x360.html</link>
+<thumbnail>http://3.bp.blogspot.com/_nMmF-4VM-y0/TDE6AO0rsoI/AAAAAAAAAlk/c6iGfwe2e_w/s1600/jpbc2.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ko011lvxgffa-640x360.html</page>
+<referer>http://streamin.to/ko011lvxgffa</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ko011lvxgffa-640x360.html</page>
+<referer>http://streamin.to/ko011lvxgffa</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ko011lvxgffa-640x360.html</page>
+<referer>http://streamin.to/ko011lvxgffa</referer>
 </regex>
 </item>
 
