@@ -836,7 +836,7 @@
 <item>
 <title>Terbaik Dari Langit (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s4bhkoaq0l44-640x360.html</link>
-<thumbnail>http://www.im4ufm.my/wp-content/uploads/2014/12/Terbaik-Dari-Langit-Poster_Final-2.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-qejBbkr8Ezc/VJ0xFOhwICI/AAAAAAAAAnI/mUqRx0Z9wRw/s1600/541586_1535913813323742_5063583405201954531_n.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
