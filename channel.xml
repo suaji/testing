@@ -738,102 +738,6 @@
 <items>
 
 <item>
-<title>Anugerah Juara Lagu 29 (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-37rkxbxleaup-640x360.html</link>
-<thumbnail>http://4.bp.blogspot.com/-1LAivM-wKqg/VJblK17NqcI/AAAAAAAAFYk/p3QrHizgJIA/s1600/ANugerah-Juara-lagu-AJL-29-hasrudi-jawawi-rudi-zone.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-37rkxbxleaup-640x360.html</page>
-<referer>http://streamin.to/37rkxbxleaup</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-37rkxbxleaup-640x360.html</page>
-<referer>http://streamin.to/37rkxbxleaup</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-37rkxbxleaup-640x360.html</page>
-<referer>http://streamin.to/37rkxbxleaup</referer>
-</regex>
-</item>
-
-<item>
-<title>Orang Minyak (2007)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9wxy6453k8wg-640x360.html</link>
-<thumbnail>http://3.bp.blogspot.com/_nQXv9wyrujg/Sktsv8ZWDJI/AAAAAAAAAKg/3XvNQy_7BD0/s400/OrangMinyak.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page></page>
-<referer>http://streamin.to/9wxy6453k8wg</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9wxy6453k8wg-640x360.html</page>
-<referer>http://streamin.to/9wxy6453k8wg</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9wxy6453k8wg-640x360.html</page>
-<referer>http://streamin.to/9wxy6453k8wg</referer>
-</regex>
-</item>
-
-<item>
-<title>Lemak Kampung Santan (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ocem9031m67s-640x360.html</link>
-<thumbnail>http://fuh.my/wp-content/uploads/2013/09/lemak-kampung-santang-full-download.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ocem9031m67s-640x360.html</page>
-<referer>http://streamin.to/ocem9031m67s</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ocem9031m67s-640x360.html</page>
-<referer>http://streamin.to/ocem9031m67s</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ocem9031m67s-640x360.html</page>
-<referer>http://streamin.to/ocem9031m67s</referer>
-</regex>
-</item>
-
-<item>
-<title>V3 Samseng Jalanan (2010)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2yqt2szawd2c-640x360.html</link>
-<thumbnail>http://3.bp.blogspot.com/_xq3A6u8nazo/S9mDM8Mos1I/AAAAAAAAAIs/CSolt4oipD8/s1600/V3-Samseng-Jalanan-poster.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-2yqt2szawd2c-640x360.html</page>
-<referer>http://streamin.to/2yqt2szawd2c</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-2yqt2szawd2c-640x360.html</page>
-<referer>http://streamin.to/2yqt2szawd2c</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-2yqt2szawd2c-640x360.html</page>
-<referer>http://streamin.to/2yqt2szawd2c</referer>
-</regex>
-</item>
-
-<item>
 <title>Terbaik Dari Langit (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s4bhkoaq0l44-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-qejBbkr8Ezc/VJ0xFOhwICI/AAAAAAAAAnI/mUqRx0Z9wRw/s1600/541586_1535913813323742_5063583405201954531_n.jpg</thumbnail>
@@ -1464,6 +1368,30 @@
 </item>
 
 <item>
+<title>Lemak Kampung Santan (2013)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ocem9031m67s-640x360.html</link>
+<thumbnail>http://fuh.my/wp-content/uploads/2013/09/lemak-kampung-santang-full-download.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ocem9031m67s-640x360.html</page>
+<referer>http://streamin.to/ocem9031m67s</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ocem9031m67s-640x360.html</page>
+<referer>http://streamin.to/ocem9031m67s</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ocem9031m67s-640x360.html</page>
+<referer>http://streamin.to/ocem9031m67s</referer>
+</regex>
+</item>
+
+<item>
 <title>Misteri Bisikan Pontianak (2013)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-u31wa217pxfm-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-ZTXgVtpl9JE/UfnUFeUVCVI/AAAAAAAAANY/gjfXCDau4ss/s1600/Misteri+Bisikan+Pontianak.jpg</thumbnail>
@@ -1724,6 +1652,30 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-psfy9a3pdk07-640x360.html</page>
 <referer>http://streamin.to/psfy9a3pdk07</referer>
+</regex>
+</item>
+
+<item>
+<title>V3 Samseng Jalanan (2010)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2yqt2szawd2c-640x360.html</link>
+<thumbnail>http://3.bp.blogspot.com/_xq3A6u8nazo/S9mDM8Mos1I/AAAAAAAAAIs/CSolt4oipD8/s1600/V3-Samseng-Jalanan-poster.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-2yqt2szawd2c-640x360.html</page>
+<referer>http://streamin.to/2yqt2szawd2c</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-2yqt2szawd2c-640x360.html</page>
+<referer>http://streamin.to/2yqt2szawd2c</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-2yqt2szawd2c-640x360.html</page>
+<referer>http://streamin.to/2yqt2szawd2c</referer>
 </regex>
 </item>
 
