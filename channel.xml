@@ -738,6 +738,30 @@
 <items>
 
 <item>
+<title>Cerita Hantu (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eo01u9ykym4k-640x360.html</link>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/01/Cerita-Hantu-Malaysia-2014-PPVRIP.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-eo01u9ykym4k-640x360.html</page>
+<referer>http://streamin.to/eo01u9ykym4k</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-eo01u9ykym4k-640x360.html</page>
+<referer>http://streamin.to/eo01u9ykym4k</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-eo01u9ykym4k-640x360.html</page>
+<referer>http://streamin.to/eo01u9ykym4k</referer>
+</regex>
+</item>
+
+<item>
 <title>Terbaik Dari Langit (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s4bhkoaq0l44-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-qejBbkr8Ezc/VJ0xFOhwICI/AAAAAAAAAnI/mUqRx0Z9wRw/s1600/541586_1535913813323742_5063583405201954531_n.jpg</thumbnail>
@@ -1758,7 +1782,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 15.43 21-01-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 17.42 28-01-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
