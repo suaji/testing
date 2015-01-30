@@ -8,24 +8,12 @@
 
 <item>
 <title>TV1</title>
-<link>http://supercharged.stream.my/live/rtm-ch001.stream_360p/chunklist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
-</item>
-
-<item>
-<title>TV1 HD</title>
 <link>http://d2r0h7tuevtvb8.cloudfront.net/transcode/mp4:rtm-ch001.stream_480p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://supercharged.stream.my/live/rtm-ch003.stream_360p/chunklist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
-</item>
-
-<item>
-<title>TV2 HD</title>
 <link>http://d2r0h7tuevtvb8.cloudfront.net/transcode/mp4:rtm-ch003.stream_480p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
 </item>
@@ -73,21 +61,9 @@
 </item>
 
 <item>
-<title>GALAKSI MUZIK HD</title>
-<link>http://d1xebxqiudhvnf.cloudfront.net/live/mp4:rtm-ch006.stream_480p/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TVi - RTM</title>
-<link>http://supercharged.stream.my/live/rtm-ch005.stream_360p/chunklist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/9/9a/20140404002100!RTM_TVi.jpg</thumbnail>
-</item>
-
-<item>
 <title>TVi HD - RTM</title>
 <link>http://d2r0h7tuevtvb8.cloudfront.net/transcode/mp4:rtm-ch005.stream_480p/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/9/9a/20140404002100!RTM_TVi.jpg</thumbnail>
 </item>
 
 <item>
