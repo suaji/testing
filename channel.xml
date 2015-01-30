@@ -27,7 +27,7 @@
 <item>
 <title>NTV7</title>        
 <link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4b/Ntv7_Logo.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/ntv7.png</thumbnail>
 </item>
 
 <item>
@@ -61,7 +61,7 @@
 </item>
 
 <item>
-<title>TVi HD - RTM</title>
+<title>TVi - RTM</title>
 <link>http://d2r0h7tuevtvb8.cloudfront.net/transcode/mp4:rtm-ch005.stream_480p/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/9/9a/20140404002100!RTM_TVi.jpg</thumbnail>
 </item>
@@ -81,13 +81,13 @@
 <item>
 <title>ASTRO AWANI</title>
 <link>rtmp://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_2@74937 swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.layanmovie.com/2013/05/11/astro-awani-live-streaming/ conn=Z: swfVfy=true live=true timeout=15</link>
-<thumbnail>http://imageshack.com/a/img843/3456/ispb.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
 </item> 
  
 <item>
 <title>1NEWS - RTM</title>
 <link>http://d1xebxqiudhvnf.cloudfront.net/live/mp4:rtm-ch020.stream_360p/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/num/1_news_my.png</thumbnail>
 </item>
  
 <item>
@@ -189,7 +189,7 @@
 <item>
 <title>ASTRO AWANI</title>
 <link>rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15</link>
-<thumbnail>http://imageshack.com/a/img843/3456/ispb.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
 </item> 
 
 <item>
