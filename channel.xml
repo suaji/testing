@@ -303,29 +303,7 @@
 <fanart></fanart>
 <items>
 
-<item>
-<title>BEIN SPORTS 1 - Indonesia</title>
-<link>http://202.75.23.37:1400/live/ch18/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>BEIN SPORTS 2 - Indonesia</title>
-<link>http://202.75.23.37:1400/live/ch19/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Dubai Sports 3</title>
-<link>http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/chunklist_b1100000.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ESPN USA</title>
-<link>http://usa.fankytv.com/live/espn.stream/chunklist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>SBS ESPN - South Korean</title>
@@ -712,6 +690,54 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
+
+<item>
+<title>Villa Nabila (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ag986bcw7cqw-640x360.html</link>
+<thumbnail>http://www.hairulafiz.com/wp-content/uploads/2014/11/Filem-Villa-Nabila-bakal-ditayangkan-pada-tahun-2015.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ag986bcw7cqw-640x360.html</page>
+<referer>http://streamin.to/ag986bcw7cqw</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ag986bcw7cqw-640x360.html</page>
+<referer>http://streamin.to/ag986bcw7cqw</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ag986bcw7cqw-640x360.html</page>
+<referer>http://streamin.to/ag986bcw7cqw</referer>
+</regex>
+</item>
+
+<item>
+<title>Rumah Pusaka Di Simpang Jalan (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-0ofkm0rbiy26-640x360.html</link>
+<thumbnail>http://2.bp.blogspot.com/-PSUPFivVMVE/VI0eg6MQ-rI/AAAAAAAAH18/h_QRLwMLRYk/s1600/Rumah%2BPusaka%2BDi%2BSimpang%2BJalan.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-0ofkm0rbiy26-640x360.html</page>
+<referer>http://streamin.to/0ofkm0rbiy26</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-0ofkm0rbiy26-640x360.html</page>
+<referer>http://streamin.to/0ofkm0rbiy26</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-0ofkm0rbiy26-640x360.html</page>
+<referer>http://streamin.to/0ofkm0rbiy26</referer>
+</regex>
+</item>
 
 <item>
 <title>Fobia Malam Pertama (2014)</title>
@@ -1854,7 +1880,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 10.44 06-02-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 16.19 06-02-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
