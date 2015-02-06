@@ -714,6 +714,102 @@
 <items>
 
 <item>
+<title>Fobia Malam Pertama (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8004p4tvasza-640x360.html</link>
+<thumbnail>http://i.ytimg.com/vi/7LEqlMy18KI/maxresdefault.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-8004p4tvasza-640x360.html</page>
+<referer>http://streamin.to/8004p4tvasza</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-8004p4tvasza-640x360.html</page>
+<referer>http://streamin.to/8004p4tvasza</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-8004p4tvasza-640x360.html</page>
+<referer>http://streamin.to/8004p4tvasza</referer>
+</regex>
+</item>
+
+<item>
+<title>Kasut Ku Kusut (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5eg4u89bnfag-640x360.html</link>
+<thumbnail>http://1.bp.blogspot.com/-EGewTMK6Fig/VKZwuvnuqEI/AAAAAAAAHzQ/TOsXQh6Ljxg/s1600/10382150_871873926167546_7879890121740029874_n.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-5eg4u89bnfag-640x360.html</page>
+<referer>http://streamin.to/5eg4u89bnfag</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-5eg4u89bnfag-640x360.html</page>
+<referer>http://streamin.to/5eg4u89bnfag</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-5eg4u89bnfag-640x360.html</page>
+<referer>http://streamin.to/5eg4u89bnfag</referer>
+</regex>
+</item>
+
+<item>
+<title>Manisnya Cinta Di Cappadoccia (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-i9czbuo2rf46-640x360.html</link>
+<thumbnail>http://gscmovies.com.my/wp-content/uploads/2014/09/MCDC_Poster-FINALedit-1280-02092014-BalloonsXtraColor.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-i9czbuo2rf46-640x360.html</page>
+<referer>http://streamin.to/i9czbuo2rf46</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-i9czbuo2rf46-640x360.html</page>
+<referer>http://streamin.to/i9czbuo2rf46</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-i9czbuo2rf46-640x360.html</page>
+<referer>http://streamin.to/i9czbuo2rf46</referer>
+</regex>
+</item>
+
+<item>
+<title>Rentap (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9st15wwiwvwq-640x360.html</link>
+<thumbnail>http://hafizrahim.com/wp-content/uploads/2014/11/Poster-filem-rentap-the-movie.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-9st15wwiwvwq-640x360.html</page>
+<referer>http://streamin.to/9st15wwiwvwq</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-9st15wwiwvwq-640x360.html</page>
+<referer>http://streamin.to/9st15wwiwvwq</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-9st15wwiwvwq-640x360.html</page>
+<referer>http://streamin.to/9st15wwiwvwq</referer>
+</regex>
+</item> 
+
+<item>
 <title>Cerita Hantu (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eo01u9ykym4k-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/01/Cerita-Hantu-Malaysia-2014-PPVRIP.jpg</thumbnail>
@@ -1758,7 +1854,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 17.42 28-01-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 10.44 06-02-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
