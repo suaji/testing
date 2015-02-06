@@ -303,7 +303,23 @@
 <fanart></fanart>
 <items>
 
+<item>
+<title>Bein Sports HD1</title>
+<link>http://videos.streaming-hub.com/bein1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
 
+<item>
+<title>ESPN</title>
+<link>rtmp://46.246.29.130:1935/stream playpath=00npFnXMLx.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php  timeout=10</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ESPN 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>SBS ESPN - South Korean</title>
@@ -314,24 +330,6 @@
 <item>
 <title>EUROSPORTS - Indonesia</title>
 <link>http://202.75.23.37:1400/live/ch21/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EUROSPORT</title>
-<link>http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EUROSPORT 2</title>
-<link>http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SETANTA SPORTS - Indonesia</title>
-<link>http://202.75.23.36:1400/live/ch44/live.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -350,24 +348,6 @@
 <item>
 <title>ESPN PLUS</title>
 <link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Guangdong Sports - China</title>
-<link>rtmp://123.66.29.8:1935/ss1live/ playpath=gdtiyu2 swfUrl=http://www.widih.in/swf/jwplayer.flash.swf pageUrl=http://www.widih.in/watch-tv/2466/Guangdong-Sports-HQ-%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CCTV-5 - China</title>
-<link>rtmp://123.66.29.8:1935/ss1live/ playpath=cctv5-2 swfUrl=http://www.widih.in/swf/jwplayer.flash.swf pageUrl=http://www.widih.in/watch-tv/3616/cctv-5+live+tv+streaming</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>WRESTLING TV</title>
-<link>rtmp://77.50.145.30/live/rtplive</link>
 <thumbnail></thumbnail>
 </item>
 
