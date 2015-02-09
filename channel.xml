@@ -794,7 +794,7 @@
 <item>
 <title>Rentap (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9st15wwiwvwq-640x360.html</link>
-<thumbnail>http://hafizrahim.com/wp-content/uploads/2014/11/Poster-filem-rentap-the-movie.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/--LbE6mxOYmU/VA_aXDseNNI/AAAAAAAAO3c/035E1PH6Evo/s1600/rentap.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
