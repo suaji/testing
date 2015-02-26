@@ -124,32 +124,8 @@
 </item>
 
 <item>
-<title>INDONSTAR TV - Indonesia</title>
-<link>rtmp://119.235.249.58:1935/indostartv playpath=live swfUrl=http://indostar4.googlecode.com/svn/trunk/player.swf pageUrl=http://indostar-tv.com/embed1/indostartv.php</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MNC TV2 - Indonesia</title>
-<link>rtmp://edge.okeinfo.net/live/ playpath=mncoke3_512.stream swfUrl=http://live.idwebtv.com/jwplayer/jwplayer.flash.swf pageUrl=http://live.idwebtv.com/country/indo/mnc/mnctv-7.htm</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>RCTI - Indonesia</title>
-<link>rtmp://edge.okeinfo.net:1935/live playpath=mncoke1_512.stream swfUrl=http://indostar4.googlecode.com/svn/trunk/5.10.swf pageUrl=http://directsite.blogspot.com/2014/03/rcti-live-streaming-tv-hd-high-quality.html</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>KOMPAS TV HD - Indonesia</title>
 <link>rtmp://202.137.11.52/jakarta playpath=offair.sdp swfUrl=http://www.kompas.tv/live/new/js/player.swf pageUrl=http://www.kompas.tv/live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DAII TV - Indonesia</title>
-<link>rtmp://cdn.mivo.tv/mivotvjkt/ playpath=daaitv2 token=#8888#9999 swfUrl=http://player-cdn.mivo.tv/jwplayer.flash.swf pageUrl=http://www.mivo.com/daaitv</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -161,16 +137,10 @@
 
 <item>
 <title>KBS WORLD (uk @ korea proxy)</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rqfgXNBNjWA</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eRcfW2KekaM</link>
 <thumbnail></thumbnail>
 </item> 
  
-<item>
-<title>KBS WORLD (uk proxy)</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eRcfW2KekaM</link>
-<thumbnail></thumbnail>
-</item>  
-
 <item>
 <title>TBS - South Korea</title>
 <link>mms://115.84.165.160/catvlive</link>
