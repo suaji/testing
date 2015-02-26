@@ -224,27 +224,21 @@
 
 <item>
 <title>CHANNEL NEWS ASIA</title>
-<link>http://202.75.23.37:1400/live/ch15/04.m3u8</link>
-<thumbnail></thumbnail>
+<link>http://edge.mediacorp.swiftserve.com/live/cna/amlst:cnai-pc/manifest.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel_newsasia.png</thumbnail>
 </item>
 
 <item>
 <title>SKY NEWS</title>
 <link>rtmp://a.cdn.newschat.tv/edge playpath=skyuk_live live=1 timeout=10 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/sky/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY NEWS HD</title>
-<link>http://ilg.club/streamlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff&bitrate=800</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png</thumbnail>
 </item>
 
 <item>
 <title>ARIRANG HD - South Korea</title>
 <link>http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8 live=true timeout=15</link>
 <thumbnail>http://caribbeanpot.com/wp-content/uploads/2013/11/korea-tv.png</thumbnail>
- </item> 
+</item> 
 
 <item>
 <title>HKS - Hong Kong</title>
