@@ -183,61 +183,43 @@
 <item>
 <title>TV ONE - Indonesia</title>
 <link>http://live.stream.telin.swiftserve.com/live/livetv-mbr/mp4:m-tvone_2/playlist.m3u8</link>
-<thumbnail>.</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_one_id.png</thumbnail>
 </item>
 
 <item>
 <title>KOMPAS TV - Indonesia</title>
 <link>http://live.stream.telin.swiftserve.com/live/livetv-mbr/mp4:m-kompastv_2/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png</thumbnail>
 </item>
 
 <item>
 <title>MetroTV - Indonesia</title>
 <link>http://live.stream.telin.swiftserve.com/live/livetv-mbr/mp4:m-metrotv_2/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png</thumbnail>
 </item>
 
 <item>
 <title>ABC NEWS</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=500,300,700,900,1200</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ABC NEW NOW</title>
 <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_us.png</thumbnail>
 </item>
 
 <item>
 <title>AL JAZEERA ENGLISH</title>
 <link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AL JAZEERA</title>
-<link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_english.png</thumbnail>
 </item>
 
 <item>
 <title>BLOOMBERG ASIA</title>
 <link>http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BLOOMBERG</title>
-<link>http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png</thumbnail>
 </item>
 
 <item>
 <title>BBC WORLD NEWS</title>
 <link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
 
 <item>
