@@ -98,7 +98,7 @@
  
 <item>
 <title>PARLIMEN TV - RTM</title>
-<link>http://supercharged.stream.my/live/rtm-ch009.stream_source/chunklist.m3u8</link>
+<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch009.stream_360p/playlist.m3u8</link>
 <thumbnail>http://rtmparlimen.rtm.gov.my/images/header.png</thumbnail>
 </item>
 
@@ -206,8 +206,8 @@
 
 <item>
 <title>1NEWS - RTM</title>
-<link>http://d1xebxqiudhvnf.cloudfront.net/live/mp4:rtm-ch020.stream_360p/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<link>http://streamer4.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/num/1_news_my.png</thumbnail>
 </item>
 
 <item>
