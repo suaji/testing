@@ -8,13 +8,13 @@
 
 <item>
 <title>TV1</title>
-<link>http://d2r0h7tuevtvb8.cloudfront.net/transcode/mp4:rtm-ch001.stream_480p/playlist.m3u8</link>
+<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch001.stream_360p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://d2r0h7tuevtvb8.cloudfront.net/transcode/mp4:rtm-ch003.stream_480p/playlist.m3u8</link>
+<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch003.stream_360p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
 </item>
 
@@ -62,7 +62,7 @@
 
 <item>
 <title>TVi - RTM</title>
-<link>http://d2r0h7tuevtvb8.cloudfront.net/transcode/mp4:rtm-ch005.stream_480p/playlist.m3u8</link>
+<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch005.stream_360p/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/9/9a/20140404002100!RTM_TVi.jpg</thumbnail>
 </item>
 
@@ -86,7 +86,7 @@
  
 <item>
 <title>1NEWS - RTM</title>
-<link>http://d1xebxqiudhvnf.cloudfront.net/live/mp4:rtm-ch020.stream_360p/playlist.m3u8</link>
+<link>http://streamer4.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/num/1_news_my.png</thumbnail>
 </item>
  
@@ -2948,8 +2948,8 @@
 
 <item>
 <title>Maharaja Lawak Mega 2014 - Akhir (Zero) 1</title>
-<link>http://edgecast-pdu.movideo.com/encoded-540/media/1143961/660000-640x360.mp4</link>
-<thumbnail>http://media.movideo.com/media-images-540/media/1143963/171x128.png</thumbnail>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1143963/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1143963/cropped/600x338.png</thumbnail>
 </item>
 
 <item>
