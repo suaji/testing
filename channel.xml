@@ -44,20 +44,14 @@
 
 <item>
 <title>AL-HIJRAH</title>
-<link>http://stream2.1malaysiaiptv.com:1935/mylive/alhijrah_600k/media_b508239_w1246988830.m3u8</link>
+<link>http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/26/TV_Alhijrah_Logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>GALAKSI MUZIK - RTM</title>
-<link>http://supercharged.stream.my/live/ngrp:rtm-ch007.stream_all/playlist.m3u8</link>
+<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch007.stream_360p/playlist.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2204686828/tweet_logo.png</thumbnail>
-</item>
-
-<item>
-<title>MUZIK AKTIF - RTM</title>
-<link>http://supercharged.stream.my/live/rtm-ch006.stream_360p/chunklist.m3u8</link>
-<thumbnail>http://lh3.googleusercontent.com/-2Bz0NfmYEJA/T8ONuZpm65I/AAAAAAAABt8/y9Clo-_-N1Q/s400/muzikaktif.jpg</thumbnail>
 </item>
 
 <item>
@@ -68,7 +62,7 @@
 
 <item>
 <title>MOBTV</title>
-<link>http://54.254.98.181/edge/mobtv/playlist.m3u8</link>
+<link>rtmp://stream.imncdn.com/imncommy-live/play playpath=mobtv swfUrl=http://mobtv.my/jwplayer/player.swf pageUrl=http://mobtv.my/player-live.php</link>
 <thumbnail>http://www.mobtv.my/images/logo-fb.jpg</thumbnail>
 </item>
 
@@ -83,6 +77,12 @@
 <link>rtmp://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_2@74937 swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.layanmovie.com/2013/05/11/astro-awani-live-streaming/ conn=Z: swfVfy=true live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
 </item> 
+
+<item>
+<title>ASTRO AWANI 2</title>
+<link>rtmp://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
+</item>
  
 <item>
 <title>1NEWS - RTM</title>
