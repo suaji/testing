@@ -85,6 +85,12 @@
 </item>
  
 <item>
+<title>BERNAMA TV</title>
+<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png</thumbnail>
+</item> 
+ 
+<item>
 <title>1NEWS - RTM</title>
 <link>http://streamer4.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/num/1_news_my.png</thumbnail>
@@ -195,7 +201,7 @@
 <item>
 <title>BERNAMA TV</title>
 <link>http://w2s.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png</thumbnail>
 </item>
 
 <item>
