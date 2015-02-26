@@ -114,19 +114,19 @@
 <item>
 <title>TRANS - Indonesia</title>
 <link>rtsp://cdn.mivo.tv/mivotvjkt/transtv2</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/trans_tv_id.png</thumbnail>
 </item>
 
 <item>
 <title>GLOBAL TV - Indonesia</title>
 <link>http://cdn.mivo.tv/mivotvjkt/globaltv2/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/global_tv_id.png</thumbnail>
 </item>
 
 <item>
 <title>KOMPAS TV HD - Indonesia</title>
 <link>rtmp://202.137.11.52/jakarta playpath=offair.sdp swfUrl=http://www.kompas.tv/live/new/js/player.swf pageUrl=http://www.kompas.tv/live/</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png</thumbnail>
 </item>
 
 <item>
@@ -138,7 +138,7 @@
 <item>
 <title>KBS WORLD (uk @ korea proxy)</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eRcfW2KekaM</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png</thumbnail>
 </item> 
  
 <item>
@@ -2948,8 +2948,8 @@
 
 <item>
 <title>Maharaja Lawak Mega 2014 - Akhir (Shiro) 1</title>
-<link>http://edgecast-pdu.movideo.com/encoded-540/media/1143963/660000-640x360.mp4</link>
-<thumbnail>http://media.movideo.com/media-images-540/media/1143963/cropped/600x338.png</thumbnail>
+<link>http://edgecast-pdu.movideo.com/encoded-540/media/1143961/660000-640x360.mp4</link>
+<thumbnail>http://media.movideo.com/media-images-540/media/1143961/cropped/600x338.png</thumbnail>
 </item>
 
 <item>
