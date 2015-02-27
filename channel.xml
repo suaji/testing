@@ -636,6 +636,54 @@
 <items>
 
 <item>
+<title>Suamiku Encik Perfect 10 (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-vwgfb4hg1apx-640x360.html</link>
+<thumbnail>http://3.bp.blogspot.com/-pigROVAtpz0/VLgLMtNpoEI/AAAAAAAAAXA/CQ9vXhZIUQk/s1600/Suamiku%2BEncik%2BPerfect%2B10!.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-vwgfb4hg1apx-640x360.html</page>
+<referer>http://streamin.to/vwgfb4hg1apx</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-vwgfb4hg1apx-640x360.html</page>
+<referer>http://streamin.to/vwgfb4hg1apx</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-vwgfb4hg1apx-640x360.html</page>
+<referer>http://streamin.to/vwgfb4hg1apx</referer>
+</regex>
+</item>
+
+<item>
+<title>Puaka Balai Gombak (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ipw0jw8c9zng-640x360.html</link>
+<thumbnail>https://farm9.staticflickr.com/8625/16049169137_f49fd2be9c_b.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ipw0jw8c9zng-640x360.html</page>
+<referer>http://streamin.to/ipw0jw8c9zng</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ipw0jw8c9zng-640x360.html</page>
+<referer>http://streamin.to/ipw0jw8c9zng</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ipw0jw8c9zng-640x360.html</page>
+<referer>http://streamin.to/ipw0jw8c9zng</referer>
+</regex>
+</item>
+
+<item>
 <title>Villa Nabila (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ksq3ucjucsqh-640x360.html</link>
 <thumbnail>http://www.hairulafiz.com/wp-content/uploads/2014/11/Filem-Villa-Nabila-bakal-ditayangkan-pada-tahun-2015.jpg</thumbnail>
@@ -1824,7 +1872,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 16.19 06-02-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 16.39 27-02-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
@@ -1856,7 +1904,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 16.58 08-12-2014 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 16.39 27-02-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
