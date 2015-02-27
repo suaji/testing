@@ -1699,25 +1699,25 @@
 
 <item>
 <title>Senjakala (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-tpleet12qxbx-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jn5zsw1lt8ph-640x360.html</link>
 <thumbnail>http://filemwayang.com/wp-content/uploads/2011/03/Poster-Senjakala.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-tpleet12qxbx-640x360.html</page>
-<referer>http://streamin.to/tpleet12qxbx</referer>
+<page>http://streamin.to/embed-jn5zsw1lt8ph-640x360.html</page>
+<referer>http://streamin.to/jn5zsw1lt8ph</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-tpleet12qxbx-640x360.html</page>
-<referer>http://streamin.to/tpleet12qxbx</referer>
+<page>http://streamin.to/embed-jn5zsw1lt8ph-640x360.html</page>
+<referer>http://streamin.to/jn5zsw1lt8ph</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-tpleet12qxbx-640x360.html</page>
-<referer>http://streamin.to/tpleet12qxbx</referer>
+<page>http://streamin.to/embed-jn5zsw1lt8ph-640x360.html</page>
+<referer>http://streamin.to/jn5zsw1lt8ph</referer>
 </regex>
 </item>
 
