@@ -673,25 +673,25 @@
 
 <item>
 <title>Suamiku Encik Perfect 10 (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-vwgfb4hg1apx-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-85s10h8licl0-640x360.html</link>
 <thumbnail>http://3.bp.blogspot.com/-pigROVAtpz0/VLgLMtNpoEI/AAAAAAAAAXA/CQ9vXhZIUQk/s1600/Suamiku%2BEncik%2BPerfect%2B10!.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-vwgfb4hg1apx-640x360.html</page>
-<referer>http://streamin.to/vwgfb4hg1apx</referer>
+<page>http://streamin.to/embed-85s10h8licl0-640x360.html</page>
+<referer>http://streamin.to/85s10h8licl0</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-vwgfb4hg1apx-640x360.html</page>
-<referer>http://streamin.to/vwgfb4hg1apx</referer>
+<page>http://streamin.to/embed-85s10h8licl0-640x360.html</page>
+<referer>http://streamin.to/85s10h8licl0</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-vwgfb4hg1apx-640x360.html</page>
-<referer>http://streamin.to/vwgfb4hg1apx</referer>
+<page>http://streamin.to/embed-85s10h8licl0-640x360.html</page>
+<referer>http://streamin.to/85s10h8licl0</referer>
 </regex>
 </item>
 
@@ -1465,25 +1465,25 @@
 
 <item>
 <title>Panik (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7h31q671zi58-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8hf96jo701sl-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-7h31q671zi58-640x360.html</page>
-<referer>http://streamin.to/7h31q671zi58</referer>
+<page>http://streamin.to/embed-8hf96jo701sl-640x360.html</page>
+<referer>http://streamin.to/8hf96jo701sl</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-7h31q671zi58-640x360.html</page>
-<referer>http://streamin.to/7h31q671zi58</referer>
+<page>http://streamin.to/embed-8hf96jo701sl-640x360.html</page>
+<referer>http://streamin.to/8hf96jo701sl</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-7h31q671zi58-640x360.html</page>
-<referer>http://streamin.to/7h31q671zi58</referer>
+<page>http://streamin.to/embed-8hf96jo701sl-640x360.html</page>
+<referer>http://streamin.to/8hf96jo701sl</referer>
 </regex>
 </item>
 
