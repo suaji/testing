@@ -437,6 +437,11 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>Bein sport 1 (need to install f4m_tester addon from Shani Repo)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://162.244.81.252:1935/Test/foot0live/manifest.f4m</link>
+</item>
+
 </items>
 </channel>
 
