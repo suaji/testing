@@ -403,151 +403,8 @@
 <items>
 
 <item>
-<title>NAT GEO HD - Indonesia</title>
-<link>http://202.75.23.35:8800/live/ch38/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NAT GEO WILD HD -  Indonesia</title>
-<link>http://202.75.23.35:8800/live/ch39/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ANIMAL PLANET -  Indonesia</title>
-<link>http://202.75.23.34:8800/live/ch31/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY CHANNEL - Indonesia</title>
-<link>http://202.75.23.34:8800/live/ch29/01.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY SCIENCE - Indonesia</title>
-<link>http://202.75.23.34:8800/live/ch33/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY WORLD - Indonesia</title>
-<link>http://202.75.23.34:8800/live/ch30/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY TURBO HD - Indonesia</title>
-<link>http://202.75.23.34:8800/live/ch32/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>HISTORY -  Indonesia</title>
-<link>http://202.75.23.36:8800/live/ch45/01.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NAT GEO WILD - Usa</title>
-<link>rtsp://211.79.36.213/ngwild_gphone.sdp</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ANIMAL PLANET - Usa</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8 timeout=10</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/3a/Animal_Planet_Canada_Logo.PNG</thumbnail>
-</item>
-
-<item>
-<title>GEO ENTERTAINMENT</title>
-<link>http://origin.seenreport.com:1935/ent/_definst_/live_360p/playlist.m3u8</link>
-</item>
-
-<item>
-<title>NASA HD - Usa</title>
-<link>http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ISLAM TV - British</title>
-<link>rtmp://wowza04.sharp-stream.com/islamtv playpath=islamtv swfUrl=http://player.sharp-stream.com/player.swf pageUrl=http://www.islamchannel.tv/ live=true timeout=15</link>
-<thumbnail>http://blogs.reuters.com/faithworld/files/2008/05/islam-channel1.jpg</thumbnail>
-</item> 
-
-<item>
-<title>History Channel</title>
-<link>http://202.75.23.36:8800/live/ch45/03.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Crime Investigation</title>
-<link>http://202.75.23.36:8800/live/ch47/03.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Discovery Turbo</title>
-<link>http://202.75.23.34:8800/live/ch32/04.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Discovery World</title>
-<link>http://202.75.23.34:8800/live/ch30/04.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Discovery Channel</title>
-<link>http://202.75.23.34:8800/live/ch29/04.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Discovery Science</title>
-<link>http://202.75.23.34:8800/live/ch33/04.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Animal Planet</title>
-<link>http://202.75.23.34:8800/live/ch31/04.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TLC</title>
-<link>http://202.75.23.34:8800/live/ch35/04.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Fasion TV</title>
-<link>http://202.75.23.37:8800/live/ch16/04.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Life Time</title>
-<link>http://202.75.23.36:8800/live/ch48/03.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Home & Health</title>
-<link>http://202.75.23.34:8800/live/ch34/04.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BIO</title>
-<link>http://202.75.23.36:8800/live/ch46/01.m3u8</link>
+<title></title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
@@ -567,8 +424,8 @@
 </item>
 
 <item>
-<title>Kita TV.com - Indonesia</title>
-<link>rtmp://www.kitatv.com/live playpath=myStream swfUrl=http://www.widih.com/player.swf pageUrl=http://www.widih.com/watch-tv/1269/music-kita-tv+live+tv+streaming</link>
+<title></title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
