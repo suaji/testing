@@ -407,6 +407,36 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>PAC 12 Los Angeles HD</title>
+<link>http://xrxs.net/video/live-p12losa-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Mountain HD</title>
+<link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PAC 12 National HD</title>
+<link>http://www.xrxs.net/video/live-p12netw-4728.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1</title>
+<link>http://78.129.179.33:1935/edge/584/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2</title>
+<link>http://78.129.179.33:1935/edge/53/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3</link>
+<thumbnail></thumbnail>
+</item>
+
 </items>
 </channel>
 
