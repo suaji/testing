@@ -1224,30 +1224,6 @@
 </item>
 
 <item>
-<title>Qadr (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7oia787a10c0-640x360.html</link>
-<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/02/qadar.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-7oia787a10c0-640x360.html</page>
-<referer>http://streamin.to/7oia787a10c0</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-7oia787a10c0-640x360.html</page>
-<referer>http://streamin.to/7oia787a10c0</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-7oia787a10c0-640x360.html</page>
-<referer>http://streamin.to/7oia787a10c0</referer>
-</regex>
-</item>
-
-<item>
 <title>Cara Mengundang Hantu (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-87jrsnhisyjw-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
@@ -1488,12 +1464,6 @@
 </item>
 
 <item>
-<title>The Journey (2014) offline</title>
-<link>http://dl.dropboxusercontent.com/s/</link>
-<thumbnail>http://1.bp.blogspot.com/-YPVjpaS5XP8/U12IFWbEC6I/AAAAAAAAARI/uj09WRUhz2k/s1600/tj.jpg</thumbnail>
-</item>
-
-<item>
 <title>Paku Pontianak (2013)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-szxj34ccnc4a-640x360.html</link>
 <thumbnail>http://fuh.my/wp-content/uploads/2013/09/poster-paku-pontianak.jpg</thumbnail>
@@ -1514,30 +1484,6 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-szxj34ccnc4a-640x360.html</page>
 <referer>http://streamin.to/szxj34ccnc4a</referer>
-</regex>
-</item>
-
-<item>
-<title>Lemak Kampung Santan (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ocem9031m67s-640x360.html</link>
-<thumbnail>http://fuh.my/wp-content/uploads/2013/09/lemak-kampung-santang-full-download.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ocem9031m67s-640x360.html</page>
-<referer>http://streamin.to/ocem9031m67s</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ocem9031m67s-640x360.html</page>
-<referer>http://streamin.to/ocem9031m67s</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ocem9031m67s-640x360.html</page>
-<referer>http://streamin.to/ocem9031m67s</referer>
 </regex>
 </item>
 
@@ -1586,30 +1532,6 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-nxgm0ximk9a9-640x360.html</page>
 <referer>http://streamin.to/nxgm0ximk9a9</referer>
-</regex>
-</item>
-
-<item>
-<title>Strawberry Cinta (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-fdhaqbnd73cb-640x360.html</link>
-<thumbnail>http://img80.imageporter.com/i/01736/qiwyl99nzrf7_t.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-fdhaqbnd73cb-640x360.html</page>
-<referer>http://streamin.to/fdhaqbnd73cb</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-fdhaqbnd73cb-640x360.html</page>
-<referer>http://streamin.to/fdhaqbnd73cb</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-fdhaqbnd73cb-640x360.html</page>
-<referer>http://streamin.to/fdhaqbnd73cb</referer>
 </regex>
 </item>
 
@@ -1806,30 +1728,6 @@
 </item>
 
 <item>
-<title>V3 Samseng Jalanan (2010)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2yqt2szawd2c-640x360.html</link>
-<thumbnail>http://3.bp.blogspot.com/_xq3A6u8nazo/S9mDM8Mos1I/AAAAAAAAAIs/CSolt4oipD8/s1600/V3-Samseng-Jalanan-poster.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-2yqt2szawd2c-640x360.html</page>
-<referer>http://streamin.to/2yqt2szawd2c</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-2yqt2szawd2c-640x360.html</page>
-<referer>http://streamin.to/2yqt2szawd2c</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-2yqt2szawd2c-640x360.html</page>
-<referer>http://streamin.to/2yqt2szawd2c</referer>
-</regex>
-</item>
-
-<item>
 <title>Hantu Kak Limah Balik Rumah (2010)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jzqoqy8od137-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/_dYtjWGhIfm0/TS3VgzFmtVI/AAAAAAAAAH0/ghgkfuAze6g/s1600/hantu+kak+limah.png</thumbnail>
@@ -1928,7 +1826,7 @@
 </item>
 
 <item>
-<title>atau install direct dari Repo (repository.dk-xbmc-repaddon)</title>
+<title>atau DramaGo @ VIKI install direct dari Repo (repository.dk-xbmc-repaddon)</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
