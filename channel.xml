@@ -255,65 +255,7 @@
 <fanart></fanart>
 <items>
 
-<item>
-<title>Bein Sport 1 - Vietnam</title>
-<link>http://2co1.vp9.tv/chn/bin01/v.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>Bein Sport 2 - Vietnam</title>
-<link>http://2co1.vp9.tv/chn/bin02/v.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 4 - Vietnam</title>
-<link>http://2co1.vp9.tv/chn/bin04/v.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sports HD1</title>
-<link>http://videos.streaming-hub.com/bein1.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Astro SuperSport 3 - Malaysia</title>
-<link>http://stream.ssh101.com/hls/321111.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Ad Sports 1 - UAE</title>
-<link>http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Ad Sports 2 - UAE</title>
-<link>http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports News</title>
-<link>rtmp://80.82.78.87:443/liverepeater playpath=35 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=35&width=600&height=450 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sports 1</title>
-<link>rtmp://89.248.172.159:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=600&height=450 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sports 2</title>
-<link>rtmp://80.82.65.59:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=600&height=450 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>Sky Sports 1</title>
@@ -342,6 +284,30 @@
 <item>
 <title>Sky Sports 5</title>
 <link>rtmp://89.248.172.159:443/liverepeater playpath=23 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Ad Sports 1 - UAE</title>
+<link>http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Ad Sports 2 - UAE</title>
+<link>http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT Sports 1</title>
+<link>rtmp://89.248.172.159:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=600&height=450 token=#atd%#$ZH</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2</title>
+<link>rtmp://80.82.65.59:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=600&height=450 token=#atd%#$ZH</link>
 <thumbnail></thumbnail>
 </item>
 
