@@ -548,6 +548,30 @@
 <items>
 
 <item>
+<title>Bangunan (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-774pel8o3y28-640x360.html</link>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/bangunan.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-774pel8o3y28-640x360.html</page>
+<referer>http://streamin.to/774pel8o3y28</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-774pel8o3y28-640x360.html</page>
+<referer>http://streamin.to/774pel8o3y28</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-774pel8o3y28-640x360.html</page>
+<referer>http://streamin.to/774pel8o3y28</referer>
+</regex>
+</item>
+
+<item>
 <title>Suamiku Encik Perfect 10 (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-85s10h8licl0-640x360.html</link>
 <thumbnail>http://3.bp.blogspot.com/-pigROVAtpz0/VLgLMtNpoEI/AAAAAAAAAXA/CQ9vXhZIUQk/s1600/Suamiku%2BEncik%2BPerfect%2B10!.jpg</thumbnail>
@@ -861,25 +885,25 @@
 
 <item>
 <title>Dendam Orang Mati (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-20xk6r5vpkch-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-rq3m3zinw7td-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/11/dendam-orang-mati.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-20xk6r5vpkch-640x360.html</page>
-<referer>http://streamin.to/20xk6r5vpkch</referer>
+<page>http://streamin.to/embed-rq3m3zinw7td-640x360.html</page>
+<referer>http://streamin.to/rq3m3zinw7td</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-20xk6r5vpkch-640x360.html</page>
-<referer>http://streamin.to/20xk6r5vpkch</referer>
+<page>http://streamin.to/embed-rq3m3zinw7td-640x360.html</page>
+<referer>http://streamin.to/rq3m3zinw7td</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-20xk6r5vpkch-640x360.html</page>
-<referer>http://streamin.to/20xk6r5vpkch</referer>
+<page>http://streamin.to/embed-rq3m3zinw7td-640x360.html</page>
+<referer>http://streamin.to/rq3m3zinw7td</referer>
 </regex>
 </item>
 
@@ -957,25 +981,25 @@
 
 <item>
 <title>Muka Surat Cinta (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-fcg25xckf0gp-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-oey6c0tkuu1q-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/02/2014-Muka-Surat-Cinta.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-fcg25xckf0gp-640x360.html</page>
-<referer>http://streamin.to/fcg25xckf0gp</referer>
+<page>http://streamin.to/embed-oey6c0tkuu1q-640x360.html</page>
+<referer>http://streamin.to/oey6c0tkuu1q</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-fcg25xckf0gp-640x360.html</page>
-<referer>http://streamin.to/fcg25xckf0gp</referer>
+<page>http://streamin.to/embed-oey6c0tkuu1q-640x360.html</page>
+<referer>http://streamin.to/oey6c0tkuu1q</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-fcg25xckf0gp-640x360.html</page>
-<referer>http://streamin.to/fcg25xckf0gp</referer>
+<page>http://streamin.to/embed-oey6c0tkuu1q-640x360.html</page>
+<referer>http://streamin.to/oey6c0tkuu1q</referer>
 </regex>
 </item>
 
@@ -1101,25 +1125,25 @@
 
 <item>
 <title>Cara Mengundang Hantu (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-87jrsnhisyjw-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-87jrsnhisyjw-640x360.html</page>
-<referer>http://streamin.to/87jrsnhisyjw</referer>
+<page>http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</page>
+<referer>http://streamin.to/lcwvfhvh9o5k</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-87jrsnhisyjw-640x360.html</page>
-<referer>http://streamin.to/87jrsnhisyjw</referer>
+<page>http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</page>
+<referer>http://streamin.to/lcwvfhvh9o5k</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-87jrsnhisyjw-640x360.html</page>
-<referer>http://streamin.to/87jrsnhisyjw</referer>
+<page>http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</page>
+<referer>http://streamin.to/lcwvfhvh9o5k</referer>
 </regex>
 </item>
 
