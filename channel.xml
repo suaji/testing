@@ -255,38 +255,6 @@
 <fanart></fanart>
 <items>
 
-
-
-<item>
-<title>Sky Sports 1</title>
-<link>http://198.27.94.105/hls/skysports1__1.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2</title>
-<link>http://85.25.246.141:8081/SkySport2HD/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 3</title>
-<link>http://85.25.246.141:8081/Sports/SkySport3/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 4</title>
-<link>http://85.25.246.141:8081/Sports/SkySports4/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 5</title>
-<link>rtmp://89.248.172.159:443/liverepeater playpath=23 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
-</item>
-
 <item>
 <title>Ad Sports 1 - UAE</title>
 <link>http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8</link>
@@ -300,20 +268,8 @@
 </item>
 
 <item>
-<title>BT Sports 1</title>
-<link>rtmp://89.248.172.159:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=600&height=450 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>BT Sports 2</title>
 <link>rtmp://80.82.65.59:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=600&height=450 token=#atd%#$ZH</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ESPN</title>
-<link>rtmp://46.246.29.130:1935/stream playpath=00npFnXMLx.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php  timeout=10</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -330,18 +286,6 @@
 </item>
 
 <item>
-<title>EUROSPORTS - Indonesia</title>
-<link>http://202.75.23.37:1400/live/ch21/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ASN SPORTS - Indonesia</title>
-<link>http://202.75.23.33/live/ch26/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>ARENA - Indonesia</title>
 <link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-arena/playlist.m3u8</link>
 <thumbnail></thumbnail>
@@ -350,12 +294,6 @@
 <item>
 <title>ESPN PLUS</title>
 <link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FIGHT BOX HD</title>
-<link>http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -384,56 +322,8 @@
 </item>
 
 <item>
-<title>MBC Pro Sport 1</title>
-<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MBC Pro Sport 2</title>
-<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MBC Pro Sport 3</title>
-<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MBC Pro Sport 4</title>
-<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PAC 12 Los Angeles HD</title>
+<title>PAC 12 Los Angeles 1080p HD</title>
 <link>http://xrxs.net/video/live-p12losa-4728.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PAC 12 Mountain HD</title>
-<link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PAC 12 National HD</title>
-<link>http://www.xrxs.net/video/live-p12netw-4728.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 1</title>
-<link>http://78.129.179.33:1935/edge/584/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 2</title>
-<link>http://78.129.179.33:1935/edge/53/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3</link>
 <thumbnail></thumbnail>
 </item>
 
