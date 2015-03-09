@@ -136,6 +136,16 @@
 </item>
 
 <item>
+<title>KBS World</title>
+<link>$doregex[showyoutube]</link>
+<regex>
+<name>showyoutube</name>
+<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/?action=play_video&amp;videoid=eRcfW2KekaM&quot;)')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
 <title>KBS WORLD (uk @ korea proxy)</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eRcfW2KekaM</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png</thumbnail>
