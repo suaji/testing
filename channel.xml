@@ -1367,25 +1367,25 @@
 
 <item>
 <title>Seram Sejuk (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-dhlw582kr38b-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-woc79jtdysuy-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-qI08Vu9Y6uY/UEVVrwxDMBI/AAAAAAAADz0/QB1CQff1qIE/s640/Seram+Sejuk+%25282012%2529.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-dhlw582kr38b-640x360.html</page>
-<referer>http://streamin.to/dhlw582kr38b</referer>
+<page>http://streamin.to/embed-woc79jtdysuy-640x360.html</page>
+<referer>http://streamin.to/woc79jtdysuy</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-dhlw582kr38b-640x360.html</page>
-<referer>http://streamin.to/dhlw582kr38b</referer>
+<page>http://streamin.to/embed-woc79jtdysuy-640x360.html</page>
+<referer>http://streamin.to/woc79jtdysuy</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-dhlw582kr38b-640x360.html</page>
-<referer>http://streamin.to/dhlw582kr38b</referer>
+<page>http://streamin.to/embed-woc79jtdysuy-640x360.html</page>
+<referer>http://streamin.to/woc79jtdysuy</referer>
 </regex>
 </item>
 
