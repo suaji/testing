@@ -742,30 +742,6 @@
 </item>
 
 <item>
-<title>Anak Jantan (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-c2lbwqck4qm8-640x360.html</link>
-<thumbnail>http://www.paparazzi.my/wp-content/uploads/2014/10/anak-jantan.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-c2lbwqck4qm8-640x360.html</page>
-<referer>http://streamin.to/c2lbwqck4qm8</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-c2lbwqck4qm8-640x360.html</page>
-<referer>http://streamin.to/c2lbwqck4qm8</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-c2lbwqck4qm8-640x360.html</page>
-<referer>http://streamin.to/c2lbwqck4qm8</referer>
-</regex>
-</item>
-
-<item>
 <title>Kaki Kitai (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-k9bmtcsupu98-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-rDqTRfrTAEY/VJSTAh6A6rI/AAAAAAAABl8/i1P6DMVXk1c/s1600/instaphoto-kaki-kitai-shaheizy-sam-1.jpg</thumbnail>
@@ -1006,30 +982,6 @@
 </item>
 
 <item>
-<title>Amir Dan Loqman Pergi Ke Laut (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-to03t2u7t9sr-640x360.html</link>
-<thumbnail>http://www.astrogempak.com.my/Portals/_default/Skins/gempakV2/AstroShaw/images/AmirdanLoqman.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-to03t2u7t9sr-640x360.html</page>
-<referer>http://streamin.to/to03t2u7t9sr</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-to03t2u7t9sr-640x360.html</page>
-<referer>http://streamin.to/to03t2u7t9sr</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-to03t2u7t9sr-640x360.html</page>
-<referer>http://streamin.to/to03t2u7t9sr</referer>
-</regex>
-</item>
-
-<item>
 <title>Cara Mengundang Hantu (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
@@ -1266,30 +1218,6 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-szxj34ccnc4a-640x360.html</page>
 <referer>http://streamin.to/szxj34ccnc4a</referer>
-</regex>
-</item>
-
-<item>
-<title>Misteri Bisikan Pontianak (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-u31wa217pxfm-640x360.html</link>
-<thumbnail>http://4.bp.blogspot.com/-ZTXgVtpl9JE/UfnUFeUVCVI/AAAAAAAAANY/gjfXCDau4ss/s1600/Misteri+Bisikan+Pontianak.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-u31wa217pxfm-640x360.html</page>
-<referer>http://streamin.to/u31wa217pxfm</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-u31wa217pxfm-640x360.html</page>
-<referer>http://streamin.to/u31wa217pxfm</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-u31wa217pxfm-640x360.html</page>
-<referer>http://streamin.to/u31wa217pxfm</referer>
 </regex>
 </item>
 
