@@ -1030,30 +1030,6 @@
 </item>
 
 <item>
-<title>Sejoli (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gjnzmy6euceb-640x360.html</link>
-<thumbnail>http://posterfilem.com/wp-content/uploads/2014/02/Sejoli-2014.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-gjnzmy6euceb-640x360.html</page>
-<referer>http://streamin.to/gjnzmy6euceb</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-gjnzmy6euceb-640x360.html</page>
-<referer>http://streamin.to/gjnzmy6euceb</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-gjnzmy6euceb-640x360.html</page>
-<referer>http://streamin.to/gjnzmy6euceb</referer>
-</regex>
-</item>
-
-<item>
 <title>Cara Mengundang Hantu (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
@@ -1194,30 +1170,6 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-dsmoi5eyh08p-640x360.html</page>
 <referer>http://streamin.to/dsmoi5eyh08p</referer>
-</regex>
-</item>
-
-<item>
-<title>Jangan Pandang Belakang Boleh (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z4o9eiooprax-640x360.html</link>
-<thumbnail>http://2.bp.blogspot.com/-s7ZrAgrd2_g/UvzoTG5zVPI/AAAAAAAAA9M/9mPpahQJ1SE/s1600/lXWcToN.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-z4o9eiooprax-640x360.html</page>
-<referer>http://streamin.to/z4o9eiooprax</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-z4o9eiooprax-640x360.html</page>
-<referer>http://streamin.to/z4o9eiooprax</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-z4o9eiooprax-640x360.html</page>
-<referer>http://streamin.to/z4o9eiooprax</referer>
 </regex>
 </item>
 
