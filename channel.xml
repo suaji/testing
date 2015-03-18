@@ -1295,25 +1295,25 @@
 
 <item>
 <title>Sini Ada Hantu (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kuftcfgmy45u-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7kwigjkj2dt5-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-pXccV6uQMQg/UC1NhhAwLmI/AAAAAAAABWg/QpYTwquEekk/s1600/Sini%2BAda%2BHantu.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-kuftcfgmy45u-640x360.html</page>
-<referer>http://streamin.to/kuftcfgmy45u</referer>
+<page>http://streamin.to/embed-7kwigjkj2dt5-640x360.html</page>
+<referer>http://streamin.to/7kwigjkj2dt5</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-kuftcfgmy45u-640x360.html</page>
-<referer>http://streamin.to/kuftcfgmy45u</referer>
+<page>http://streamin.to/embed-7kwigjkj2dt5-640x360.html</page>
+<referer>http://streamin.to/7kwigjkj2dt5</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-kuftcfgmy45u-640x360.html</page>
-<referer>http://streamin.to/kuftcfgmy45u</referer>
+<page>http://streamin.to/embed-7kwigjkj2dt5-640x360.html</page>
+<referer>http://streamin.to/7kwigjkj2dt5</referer>
 </regex>
 </item>
 
@@ -1415,25 +1415,25 @@
 
 <item>
 <title>Seru (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-psfy9a3pdk07-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1dh4tqrxw3jz-640x360.html</link>
 <thumbnail>http://www.horror-movies.ca/wp-content/uploads/2011/04/Seru-Poster.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-psfy9a3pdk07-640x360.html</page>
-<referer>http://streamin.to/psfy9a3pdk07</referer>
+<page>http://streamin.to/embed-1dh4tqrxw3jz-640x360.html</page>
+<referer>http://streamin.to/1dh4tqrxw3jz</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-psfy9a3pdk07-640x360.html</page>
-<referer>http://streamin.to/psfy9a3pdk07</referer>
+<page>http://streamin.to/embed-1dh4tqrxw3jz-640x360.html</page>
+<referer>http://streamin.to/1dh4tqrxw3jz</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-psfy9a3pdk07-640x360.html</page>
-<referer>http://streamin.to/psfy9a3pdk07</referer>
+<page>http://streamin.to/embed-1dh4tqrxw3jz-640x360.html</page>
+<referer>http://streamin.to/1dh4tqrxw3jz</referer>
 </regex>
 </item>
 
