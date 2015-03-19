@@ -456,7 +456,7 @@
 <item>
 <title>Gudang Kubur (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hh6jcfjenh6x-640x360.html</link>
-<thumbnail>http://i.imgur.com/CjlePUO.jpg</thumbnail>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/gudang-kubur.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
