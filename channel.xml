@@ -454,6 +454,54 @@
 <items>
 
 <item>
+<title>Air Crash Investigation What Happened to MH370 (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nkxjf3labe0g-640x360.html</link>
+<thumbnail>http://i.ytimg.com/vi/1AJp3owX-EM/hqdefault.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-nkxjf3labe0g-640x360.html</page>
+<referer>http://streamin.to/nkxjf3labe0g</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-nkxjf3labe0g-640x360.html</page>
+<referer>http://streamin.to/nkxjf3labe0g</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-nkxjf3labe0g-640x360.html</page>
+<referer>http://streamin.to/nkxjf3labe0g</referer>
+</regex>
+</item>
+
+<item>
+<title>Coverina (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-64zhcybn5c0b-640x360.html</link>
+<thumbnail>http://www.cinema.com.my/images/movies/2015/7coverina00_450.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-64zhcybn5c0b-640x360.html</page>
+<referer>http://streamin.to/64zhcybn5c0b</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-64zhcybn5c0b-640x360.html</page>
+<referer>http://streamin.to/64zhcybn5c0b</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-64zhcybn5c0b-640x360.html</page>
+<referer>http://streamin.to/64zhcybn5c0b</referer>
+</regex>
+</item>
+
+<item>
 <title>Gudang Kubur (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s55q7yb3y97l-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/gudang-kubur.jpg</thumbnail>
@@ -1516,7 +1564,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 09.02 20-03-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 11.05 21-03-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
