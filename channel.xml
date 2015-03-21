@@ -454,30 +454,6 @@
 <items>
 
 <item>
-<title>Air Crash Investigation What Happened to MH370 (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nkxjf3labe0g-640x360.html</link>
-<thumbnail>http://i.ytimg.com/vi/1AJp3owX-EM/hqdefault.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-nkxjf3labe0g-640x360.html</page>
-<referer>http://streamin.to/nkxjf3labe0g</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-nkxjf3labe0g-640x360.html</page>
-<referer>http://streamin.to/nkxjf3labe0g</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-nkxjf3labe0g-640x360.html</page>
-<referer>http://streamin.to/nkxjf3labe0g</referer>
-</regex>
-</item>
-
-<item>
 <title>Coverina (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-64zhcybn5c0b-640x360.html</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7coverina00_450.jpg</thumbnail>
@@ -1146,30 +1122,6 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-wt8vy9sglsf5-640x360.html</page>
 <referer>http://streamin.to/wt8vy9sglsf5</referer>
-</regex>
-</item>
-
-<item>
-<title>Balistik (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-dsmoi5eyh08p-640x360.html</link>
-<thumbnail>http://1.bp.blogspot.com/-Z0nWHAKHTUY/UwYXjm12CFI/AAAAAAAABAw/ne46EXHmSHw/s1600/balistik-2014-413-800x800.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-dsmoi5eyh08p-640x360.html</page>
-<referer>http://streamin.to/dsmoi5eyh08p</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-dsmoi5eyh08p-640x360.html</page>
-<referer>http://streamin.to/dsmoi5eyh08p</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-dsmoi5eyh08p-640x360.html</page>
-<referer>http://streamin.to/dsmoi5eyh08p</referer>
 </regex>
 </item>
 
