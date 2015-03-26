@@ -348,6 +348,11 @@
 </item>
 
 <item>
+<title>Canal+ Deportes 2</title>
+<link>http://cctv2-lh.akamaihd.net/i/lacasa2_live@125188/master.m3u8</link>
+</item>
+
+<item>
 <title>X-TREME IMPACTS</title>
 <link>http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8</link>
 <thumbnail></thumbnail>
@@ -416,6 +421,16 @@
 <title>HBO Plus en vivo</title>
 <sportsdevil>http://www.shidurlive.com/embed/hboplux</sportsdevil>
 <referer>http://www.moviespremiumhd.com</referer>
+</item>
+
+<item>
+<title>FOX</title>
+<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&amp;profile=88&amp;lan=2&amp;rows=40&amp;f=.m3u8|User-Agent=stagefright</link>
+</item>
+
+<item>
+<title>WARNER</title>
+<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&amp;profile=92&amp;lan=2&amp;rows=40&amp;f=.m3u8|User-Agent=stagefright</link>
 </item>
 
 <item>
