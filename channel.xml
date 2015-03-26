@@ -221,6 +221,21 @@
 </item>
 
 <item>
+<title>AlJazeera HD</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>jsonurl</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=ZPKJeOdr7lA</page>
+</regex>
+</item>
+
+<item>
 <title>BLOOMBERG ASIA</title>
 <link>http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png</thumbnail>
@@ -292,6 +307,25 @@
 <item>
 <title>ESPN 2</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>StepFB Regex</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://stepfb.com/stepfb.php?linkcode=$doregex[linkcode]</page>
+<cookieJar></cookieJar>
+<referer>http://stepfb.com/</referer>
+</regex>
+<regex>
+<name>linkcode</name>
+<expres>linkcode=(.*?)'</expres>
+<page>http://stepfb.com/live/movie/108/</page>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail></thumbnail>
 </item>
 
