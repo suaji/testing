@@ -8,13 +8,13 @@
 
 <item>
 <title>TV1</title>
-<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch001.stream_360p/playlist.m3u8</link>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch003.stream_360p/playlist.m3u8</link>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
 </item>
 
@@ -50,13 +50,19 @@
 
 <item>
 <title>GALAKSI MUZIK - RTM</title>
-<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch007.stream_360p/playlist.m3u8</link>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/playlist.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2204686828/tweet_logo.png</thumbnail>
 </item>
 
 <item>
+<title>AKSI SUKAN - RTM</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch022.stream/playlist.m3u8</link>
+<thumbnail>http://live.rtm.gov.my/aksisukan/images/logo.png</thumbnail>
+</item>
+
+<item>
 <title>TVi - RTM</title>
-<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch005.stream_360p/playlist.m3u8</link>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/9/9a/20140404002100!RTM_TVi.jpg</thumbnail>
 </item>
 
@@ -92,13 +98,13 @@
  
 <item>
 <title>1NEWS - RTM</title>
-<link>http://streamer4.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8</link>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/num/1_news_my.png</thumbnail>
 </item>
  
 <item>
 <title>PARLIMEN TV - RTM</title>
-<link>http://d2gi9ohf9965ej.cloudfront.net/live/mp4:rtm-ch009.stream_360p/playlist.m3u8</link>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch009.stream_360p/playlist.m3u8</link>
 <thumbnail>http://rtmparlimen.rtm.gov.my/images/header.png</thumbnail>
 </item>
 
