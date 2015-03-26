@@ -7,6 +7,18 @@
 <items>
 
 <item>
+<title>CTH 1 - Thailand</title>
+<link>rtmp://free-tv.football-hd.com:1935/hdedge/ playpath CTH1_800?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDE1IDY6MTI6MTQgQU0maGFzaF92YWx1ZT1TMENKLzhvd3VWSytGdU1VMER0UVBnPT0mdmFsaWRtaW51dGVzPTU= swfUrl=https://football-hd.com/resources/player/jwplayer/jwplayer-6.12/jwplayer.flash.swf pageUrl=https://football-hd.com/?r=live-channel/399/2/Siam_Sport_Live_87</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CTH 2 - Thailand</title>
+<link>rtmp://free-tv.football-hd.com:1935/hdedge/ playpath=CTH2_800 swfUrl=https://football-hd.com/resources/player/jwplayer/jwplayer-6.12/jwplayer.flash.swf pageUrl=https://football-hd.com/?r=live-channel/399/2/Siam_Sport_Live_87#channelCat_2</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>TV1</title>
 <link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
