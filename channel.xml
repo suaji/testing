@@ -324,28 +324,6 @@
 </item>
 
 <item>
-<title>Sky Sport 2 - Denmark</title>
-<link>$doregex[rtmp]/$doregex[path] token=Fo5_n0w?U.rA6l3-70w47ch swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org live=1 timeout=15</link>
-<regex>
-<name>rtmp</name>
-<expres>(rtmpe:.*)'</expres>
-<page>http://www.hdcast.org/embedlive4.php?u=wspch19t</page>
-<referer>http://livesports15.ucoz.com</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file':.*?'(.*)'</expres>
-<page>http://www.hdcast.org/embedlive4.php?u=wspch19t</page>
-<referer>http://livesports15.ucoz.com</referer>
-</regex><thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CTH 1 - Thailand</title>
-<link>rtmp://free-tv.football-hd.com:1935/hdedge/ playpath=CTH1_800 swfUrl=https://football-hd.com/resources/player/jwplayer/jwplayer-6.12/jwplayer.flash.swf live=1 pageUrl=https://football-hd.com/?r=live-channel/399/2/Siam_Sport_Live_8.7 token=e39d5b0a7a8a37c8</link>
-</item>
-
-<item>
 <title>ARENA - Indonesia</title>
 <link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-arena/playlist.m3u8</link>
 <thumbnail></thumbnail>
@@ -1711,18 +1689,6 @@
 <title>PASTI kan YOUTUBE ADDONS @ PLUGIN telah di install</title>
 <link>.﻿</link>
 <thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>Teman Lelaki Upahan - Episod 1</title>
-<link>rtmp://37.48.116.22:1935/vod/ playpath=mp4:16/7508186638_n.mp4 swfUrl=http://videorev.cc/player6/jwplayer.flash.swf pageUrl=http://videorev.cc/embed-mbm7a6l26yxh-640x360.html</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Teman Lelaki Upahan - Episod 1A</title>
-<link>rtmp://95.211.209.144:1935/vod playpath=78/8646466395_n swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-38ew9774rdkl-728x410.html</link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
