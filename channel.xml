@@ -479,6 +479,30 @@
 <items>
 
 <item>
+<title>Cicakman 3 (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-6ks1radcoilp-640x360.html</link>
+<thumbnail>http://twitchfilm.com/assets_c/2014/12/Cicakman3-thumb-300xauto-52120.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-6ks1radcoilp-640x360.html</page>
+<referer>http://streamin.to/6ks1radcoilp</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-6ks1radcoilp-640x360.html</page>
+<referer>http://streamin.to/6ks1radcoilp</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-6ks1radcoilp-640x360.html</page>
+<referer>http://streamin.to/6ks1radcoilp</referer>
+</regex>
+</item>
+
+<item>
 <title>Coverina (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-64zhcybn5c0b-640x360.html</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7coverina00_450.jpg</thumbnail>
