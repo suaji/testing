@@ -552,25 +552,25 @@
 
 <item>
 <title>Gudang Kubur (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s55q7yb3y97l-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ybwbqenc091j-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/gudang-kubur.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-s55q7yb3y97l-640x360.html</page>
-<referer>http://streamin.to/s55q7yb3y97l</referer>
+<page>http://streamin.to/embed-ybwbqenc091j-640x360.html</page>
+<referer>http://streamin.to/ybwbqenc091j</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-s55q7yb3y97l-640x360.html</page>
-<referer>http://streamin.to/s55q7yb3y97l</referer>
+<page>http://streamin.to/embed-ybwbqenc091j-640x360.html</page>
+<referer>http://streamin.to/ybwbqenc091j</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-s55q7yb3y97l-640x360.html</page>
-<referer>http://streamin.to/s55q7yb3y97l</referer>
+<page>http://streamin.to/embed-ybwbqenc091j-640x360.html</page>
+<referer>http://streamin.to/ybwbqenc091j</referer>
 </regex>
 </item>
 
