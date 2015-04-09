@@ -864,25 +864,25 @@
 
 <item>
 <title>Kelibat (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ee1wvmdpegtf-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-cs7c8q74m4uf-640x360.html</link>
 <thumbnail>http://www.paparazzi.my/wp-content/uploads/2014/11/kelibat1.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ee1wvmdpegtf-640x360.html</page>
-<referer>http://streamin.to/ee1wvmdpegtf</referer>
+<page>http://streamin.to/embed-cs7c8q74m4uf-640x360.html</page>
+<referer>http://streamin.to/cs7c8q74m4uf</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ee1wvmdpegtf-640x360.html</page>
-<referer>http://streamin.to/ee1wvmdpegtf</referer>
+<page>http://streamin.to/embed-cs7c8q74m4uf-640x360.html</page>
+<referer>http://streamin.to/cs7c8q74m4uf</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ee1wvmdpegtf-640x360.html</page>
-<referer>http://streamin.to/ee1wvmdpegtf</referer>
+<page>http://streamin.to/embed-cs7c8q74m4uf-640x360.html</page>
+<referer>http://streamin.to/cs7c8q74m4uf</referer>
 </regex>
 </item>
 
@@ -1151,30 +1151,6 @@
 </item>
 
 <item>
-<title>Sniper (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-q5wfasrx5sje-640x360.html</link>
-<thumbnail>http://i.imgur.com/p4Cn1n2.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-q5wfasrx5sje-640x360.html</page>
-<referer>http://streamin.to/q5wfasrx5sje</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-q5wfasrx5sje-640x360.html</page>
-<referer>http://streamin.to/q5wfasrx5sje</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-q5wfasrx5sje-640x360.html</page>
-<referer>http://streamin.to/q5wfasrx5sje</referer>
-</regex>
-</item>
-
-<item>
 <title>Lu Gua Bro (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wt8vy9sglsf5-640x360.html</link>
 <thumbnail>http://i.imgur.com/B4D71O6.jpg</thumbnail>
@@ -1272,25 +1248,25 @@
 
 <item>
 <title>Paku Pontianak (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-szxj34ccnc4a-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4bdxc0koxjw8-640x360.html</link>
 <thumbnail>http://fuh.my/wp-content/uploads/2013/09/poster-paku-pontianak.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-szxj34ccnc4a-640x360.html</page>
-<referer>http://streamin.to/szxj34ccnc4a</referer>
+<page>http://streamin.to/embed-4bdxc0koxjw8-640x360.html</page>
+<referer>http://streamin.to/4bdxc0koxjw8</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-szxj34ccnc4a-640x360.html</page>
-<referer>http://streamin.to/szxj34ccnc4a</referer>
+<page>http://streamin.to/embed-4bdxc0koxjw8-640x360.html</page>
+<referer>http://streamin.to/4bdxc0koxjw8</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-szxj34ccnc4a-640x360.html</page>
-<referer>http://streamin.to/szxj34ccnc4a</referer>
+<page>http://streamin.to/embed-4bdxc0koxjw8-640x360.html</page>
+<referer>http://streamin.to/4bdxc0koxjw8</referer>
 </regex>
 </item>
 
@@ -1416,25 +1392,25 @@
 
 <item>
 <title>Khurafat (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-lpcq0bgqy7hh-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-921kjuous13i-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/_8E1zWkoXI6g/TSAdYIXB2VI/AAAAAAAAA1Y/VKlfPnNKBXA/s400/khurafat.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-lpcq0bgqy7hh-640x360.html</page>
-<referer>http://streamin.to/lpcq0bgqy7hh</referer>
+<page>http://streamin.to/embed-921kjuous13i-640x360.html</page>
+<referer>http://streamin.to/921kjuous13i</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-lpcq0bgqy7hh-640x360.html</page>
-<referer>http://streamin.to/lpcq0bgqy7hh</referer>
+<page>http://streamin.to/embed-921kjuous13i-640x360.html</page>
+<referer>http://streamin.to/921kjuous13i</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-lpcq0bgqy7hh-640x360.html</page>
-<referer>http://streamin.to/lpcq0bgqy7hh</referer>
+<page>http://streamin.to/embed-921kjuous13i-640x360.html</page>
+<referer>http://streamin.to/921kjuous13i</referer>
 </regex>
 </item>
 
