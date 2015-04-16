@@ -287,7 +287,7 @@
 <items>
 
 <item>
-<title>[COLOR=FFFFA500]Updated : 14 April 2015[/COLOR]</title>
+<title>[COLOR=FFFFA500]Updated : 16 April 2015[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -342,7 +342,7 @@
 
 <item>
 <title>Sporttime TV - HDTV 1 Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=channel1_800 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/2527/sporttime-tv-hdtv-1-live-tv-streaming</link>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ mp4:channel1_800</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -354,31 +354,31 @@
 
 <item>
 <title>Sporttime TV - HDTV 3 Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel3_800 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/3132/sporttime-tv-hdtv-3-live-tv-streaming</link>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Sporttime TV - HDTV 4 Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel4_800 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/3133/sporttime-tv-hdtv-4-live-tv-streaming</link>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Sporttime TV - HDTV 5 Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel5_800 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/3134/sporttime-tv-hdtv-5-live-tv-streaming</link>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Sporttime TV - HDTV 6 Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel6_800 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/3135/sporttime-tv-hdtv-6-live-tv-streaming</link>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Sporttime TV - HDTV 7 Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=mp4:channel7_800 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/3136/sporttime-tv-hdtv-7-live-tv-streaming</link>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800</link>
 <thumbnail></thumbnail>
 </item>
 
