@@ -348,7 +348,7 @@
 
 <item>
 <title>Sporttime TV - HDTV 2 Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ playpath=channel2_800 live=1 timeout=10 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/3131/sporttime-tv-hdtv-2-live-tv-streaming</link>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800</link>
 <thumbnail></thumbnail>
 </item>
 
