@@ -342,7 +342,7 @@
 
 <item>
 <title>Sporttime TV - HDTV 1 Germany</title>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/ mp4:channel1_800</link>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800</link>
 <thumbnail></thumbnail>
 </item>
 
