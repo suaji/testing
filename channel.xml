@@ -503,6 +503,30 @@
 <items>
 
 <item>
+<title>Jengka (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jv7yt6zdupij-640x360.html</link>
+<thumbnail>http://2.bp.blogspot.com/-hDNKpqnTYRo/VRJ0Gz41k3I/AAAAAAAAAcE/BNRMYtXalVk/s1600/sdsdfe.JPG</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-jv7yt6zdupij-640x360.html</page>
+<referer>http://streamin.to/jv7yt6zdupij</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-jv7yt6zdupij-640x360.html</page>
+<referer>http://streamin.to/jv7yt6zdupij</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-jv7yt6zdupij-640x360.html</page>
+<referer>http://streamin.to/jv7yt6zdupij</referer>
+</regex>
+</item>
+
+<item>
 <title>Werewolf Dari Bangladesh (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4uf9ew116wzm-640x360.html</link>
 <thumbnail>https://farm9.staticflickr.com/8639/16391791030_c1f870164a_b.jpg</thumbnail>
@@ -1613,7 +1637,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 09.26 06-04-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 12.26 18-04-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
