@@ -1271,30 +1271,6 @@
 </item>
 
 <item>
-<title>Laga (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5k1m0pbr8fy5-640x360.html</link>
-<thumbnail>http://4.bp.blogspot.com/-jOOol0M_aQA/Uwp-y4dkaxI/AAAAAAAABBY/qQT0xPMl4X8/s1600/laga.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-5k1m0pbr8fy5-640x360.html</page>
-<referer>http://streamin.to/5k1m0pbr8fy5</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-5k1m0pbr8fy5-640x360.html</page>
-<referer>http://streamin.to/5k1m0pbr8fy5</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-5k1m0pbr8fy5-640x360.html</page>
-<referer>http://streamin.to/5k1m0pbr8fy5</referer>
-</regex>
-</item>
-
-<item>
 <title>Panik (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8hf96jo701sl-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</thumbnail>
@@ -1411,30 +1387,6 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-bs4wz18g7zpp-640x360.html</page>
 <referer>http://streamin.to/bs4wz18g7zpp</referer>
-</regex>
-</item>
-
-<item>
-<title>Sini Ada Hantu (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7kwigjkj2dt5-640x360.html</link>
-<thumbnail>http://2.bp.blogspot.com/-pXccV6uQMQg/UC1NhhAwLmI/AAAAAAAABWg/QpYTwquEekk/s1600/Sini%2BAda%2BHantu.jpg</thumbnail>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-7kwigjkj2dt5-640x360.html</page>
-<referer>http://streamin.to/7kwigjkj2dt5</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-7kwigjkj2dt5-640x360.html</page>
-<referer>http://streamin.to/7kwigjkj2dt5</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-7kwigjkj2dt5-640x360.html</page>
-<referer>http://streamin.to/7kwigjkj2dt5</referer>
 </regex>
 </item>
 
