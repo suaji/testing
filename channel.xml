@@ -509,6 +509,30 @@
 <items>
 
 <item>
+<title>Abang Lejen (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-is82iux03xrp-640x360.html</link>
+<thumbnail>http://www.thesoftbay.com/wp-content/uploads/2015/05/Abang-Lejen-2015-DVDRip.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-is82iux03xrp-640x360.html</page>
+<referer>http://streamin.to/is82iux03xrp</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-is82iux03xrp-640x360.html</page>
+<referer>http://streamin.to/is82iux03xrp</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-is82iux03xrp-640x360.html</page>
+<referer>http://streamin.to/is82iux03xrp</referer>
+</regex>
+</item>
+
+<item>
 <title>Hantu Bungkus Ikat Tepi (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-26cliglouhgg-640x360.html</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2014/7hantubungkusikattepi00_450.jpg</thumbnail>
@@ -1422,25 +1446,25 @@
 
 <item>
 <title>Karak (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9kyr0cthethi-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z8rnx1n5z86n-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-oManyfaMANM/TgBtd0ULXWI/AAAAAAAAADg/9oc1tEbN_wY/s1600/karak.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-9kyr0cthethi-640x360.html</page>
-<referer>http://streamin.to/9kyr0cthethi</referer>
+<page>http://streamin.to/embed-z8rnx1n5z86n-640x360.html</page>
+<referer>http://streamin.to/z8rnx1n5z86n</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9kyr0cthethi-640x360.html</page>
-<referer>http://streamin.to/9kyr0cthethi</referer>
+<page>http://streamin.to/embed-z8rnx1n5z86n-640x360.html</page>
+<referer>http://streamin.to/z8rnx1n5z86n</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9kyr0cthethi-640x360.html</page>
-<referer>http://streamin.to/9kyr0cthethi</referer>
+<page>http://streamin.to/embed-z8rnx1n5z86n-640x360.html</page>
+<referer>http://streamin.to/z8rnx1n5z86n</referer>
 </regex>
 </item>
 
@@ -1566,25 +1590,25 @@
 
 <item>
 <title>Jangan Tegur (2009)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-uif5fjeiu5z1-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-rxoe519c7rsq-640x360.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/e7/Jangan_Tegur(poster).jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-uif5fjeiu5z1-640x360.html</page>
-<referer>http://streamin.to/uif5fjeiu5z1</referer>
+<page>http://streamin.to/embed-rxoe519c7rsq-640x360.html</page>
+<referer>http://streamin.to/rxoe519c7rsq</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-uif5fjeiu5z1-640x360.html</page>
-<referer>http://streamin.to/uif5fjeiu5z1</referer>
+<page>http://streamin.to/embed-rxoe519c7rsq-640x360.html</page>
+<referer>http://streamin.to/rxoe519c7rsq</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-uif5fjeiu5z1-640x360.html</page>
-<referer>http://streamin.to/uif5fjeiu5z1</referer>
+<page>http://streamin.to/embed-rxoe519c7rsq-640x360.html</page>
+<referer>http://streamin.to/rxoe519c7rsq</referer>
 </regex>
 </item>
 
