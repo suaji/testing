@@ -509,6 +509,30 @@
 <items>
 
 <item>
+<title>Selfie Suara Kubur</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-aabcvug1q5b1-640x360.html</link>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/05/selfie.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-aabcvug1q5b1-640x360.html</page>
+<referer>http://streamin.to/aabcvug1q5b1</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-aabcvug1q5b1-640x360.html</page>
+<referer>http://streamin.to/aabcvug1q5b1</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-aabcvug1q5b1-640x360.html</page>
+<referer>http://streamin.to/aabcvug1q5b1</referer>
+</regex>
+</item>
+
+<item>
 <title>To Know Malaysia Is To Laugh (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2z0sgodn044x-640x360.html</link>
 <thumbnail>http://i1.wp.com/i386.photobucket.com/albums/oo307/beautifulnara/beautifulnara023/harith.jpg?w=584</thumbnail>
@@ -1667,7 +1691,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 15.52 11-05-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 10.43 15-05-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
