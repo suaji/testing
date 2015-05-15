@@ -1254,25 +1254,25 @@
 
 <item>
 <title>Ia Wujud (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-i16v1bm0krka-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-f4sm5pld1iw7-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-vZo1pAGiU6Q/U4iN-w46urI/AAAAAAAAA78/A3LMYEHnSKs/s1600/iw.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-i16v1bm0krka-640x360.html</page>
-<referer>http://streamin.to/i16v1bm0krka</referer>
+<page>http://streamin.to/embed-f4sm5pld1iw7-640x360.html</page>
+<referer>http://streamin.to/f4sm5pld1iw7</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-i16v1bm0krka-640x360.html</page>
-<referer>http://streamin.to/i16v1bm0krka</referer>
+<page>http://streamin.to/embed-f4sm5pld1iw7-640x360.html</page>
+<referer>http://streamin.to/f4sm5pld1iw7</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-i16v1bm0krka-640x360.html</page>
-<referer>http://streamin.to/i16v1bm0krka</referer>
+<page>http://streamin.to/embed-f4sm5pld1iw7-640x360.html</page>
+<referer>http://streamin.to/f4sm5pld1iw7</referer>
 </regex>
 </item>
 
@@ -1494,25 +1494,25 @@
 
 <item>
 <title>Khurafat (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-921kjuous13i-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-29botvuuidwj-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/_8E1zWkoXI6g/TSAdYIXB2VI/AAAAAAAAA1Y/VKlfPnNKBXA/s400/khurafat.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-921kjuous13i-640x360.html</page>
-<referer>http://streamin.to/921kjuous13i</referer>
+<page>http://streamin.to/embed-29botvuuidwj-640x360.html</page>
+<referer>http://streamin.to/29botvuuidwj</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-921kjuous13i-640x360.html</page>
-<referer>http://streamin.to/921kjuous13i</referer>
+<page>http://streamin.to/embed-29botvuuidwj-640x360.html</page>
+<referer>http://streamin.to/29botvuuidwj</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-921kjuous13i-640x360.html</page>
-<referer>http://streamin.to/921kjuous13i</referer>
+<page>http://streamin.to/embed-29botvuuidwj-640x360.html</page>
+<referer>http://streamin.to/29botvuuidwj</referer>
 </regex>
 </item>
 
@@ -1566,25 +1566,25 @@
 
 <item>
 <title>Seru (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-efo763l4ek75-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y2p07yel9lvl-640x360.html</link>
 <thumbnail>http://www.horror-movies.ca/wp-content/uploads/2011/04/Seru-Poster.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-1dh4tqrxw3jz-640x360.html</page>
-<referer>http://streamin.to/embed-efo763l4ek75-640x360.html</referer>
+<page>http://streamin.to/embed-y2p07yel9lvl-640x360.html</page>
+<referer>http://streamin.to/y2p07yel9lvl</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-efo763l4ek75-640x360.html</page>
-<referer>http://streamin.to/efo763l4ek75</referer>
+<page>http://streamin.to/embed-y2p07yel9lvl-640x360.html</page>
+<referer>http://streamin.to/y2p07yel9lvl</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-efo763l4ek75-640x360.html</page>
-<referer>http://streamin.to/efo763l4ek75</referer>
+<page>http://streamin.to/embed-y2p07yel9lvl-640x360.html</page>
+<referer>http://streamin.to/y2p07yel9lvl</referer>
 </regex>
 </item>
 
