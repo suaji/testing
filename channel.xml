@@ -299,6 +299,22 @@
 </item>
 
 <item>
+<title>ArenaVision 13 (streamup)</title>
+<link>rtmp://$doregex[get-ip]:1935/app playpath=$doregex[id]-channel  swfUrl=https://streamup.com/assets/StreamupVideoChat.swf 
+pageUrl=https://streamup.com live=1 timeout=15</link>
+<regex>
+<name>get-ip</name>
+<expres>(.*)</expres>
+<page>https://streamup-lancer.herokuapp.com/api/redirect/$doregex[id]</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>rooms/(.*?)-</expres>
+<page>http://www.arenavision.in/arenavision13</page>
+</regex>
+</item>
+
+<item>
 <title>FOX SPORTS - Taiwan</title>
 <link>rtmp://lv1.ts33.net:1935/sat/ playpath=us30 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watch-tv/5879/fox-sports-2-usa-live-live-tv-streaming</link>
 <thumbnail></thumbnail>
