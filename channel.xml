@@ -504,6 +504,30 @@
 <items>
 
 <item>
+<title>Pilot Cafe (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bak2bry40apl-640x360.html</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/4/45/Pilot-Cafe-Poster-27x39-copy3.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-bak2bry40apl-640x360.html</page>
+<referer>http://streamin.to/bak2bry40apl</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-bak2bry40apl-640x360.html</page>
+<referer>http://streamin.to/bak2bry40apl</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-bak2bry40apl-640x360.html</page>
+<referer>http://streamin.to/bak2bry40apl</referer>
+</regex>
+</item>
+
+<item>
 <title>Selfie Suara Kubur</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/05/selfie.jpg</thumbnail>
@@ -1686,7 +1710,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 10.43 15-05-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 10.12 25-05-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
