@@ -579,7 +579,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </regex>
 <regex>
 <name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
+<expres>mp4\?h=([^"]*)</expres>
 <page>http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</page>
 <referer>http://vidzi.tv/9ni9ts4oej07.html</referer>
 </regex>
@@ -1750,7 +1750,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 10.12 25-05-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 16.59 26-05-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
