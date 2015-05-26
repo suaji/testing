@@ -520,6 +520,30 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Jalan Puncak Alam (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
+<thumbnail>http://www.cinema.com.my/images/movies/2015/7jalanpuncakalam00_450.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-7zoh9us01ym1-640x360.html</page>
+<referer>http://streamin.to/7zoh9us01ym1</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-7zoh9us01ym1-640x360.html</page>
+<referer>http://streamin.to/7zoh9us01ym1</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-7zoh9us01ym1-640x360.html</page>
+<referer>http://streamin.to/7zoh9us01ym1</referer>
+</regex>
+</item>
+
+<item>
 <title>Pilot Cafe (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bak2bry40apl-640x360.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/4/45/Pilot-Cafe-Poster-27x39-copy3.jpg</thumbnail>
@@ -544,13 +568,13 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
-<title>Selfie Suara Kubur</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</link>
+<title>Selfie Suara Kubur (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://static.vidzi.tv/nplayer/vidzi.swf pageUrl=http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/05/selfie.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-aabcvug1q5b1-640x360.html</page>
+<page>http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</page>
 <referer>http://vidzi.tv/9ni9ts4oej07.html</referer>
 </regex>
 <regex>
