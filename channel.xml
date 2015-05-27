@@ -520,6 +520,30 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Selfie Suara Kubur 2015</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://videorev.cc/player6/jwplayer.flash.swf pageUrl=http://videorev.cc/embed-c676v2cs8l62.html</link>
+<thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/05/selfie.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://videorev.cc/embed-c676v2cs8l62.html</page>
+<referer>http://videorev.cc/c676v2cs8l62.html</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://videorev.cc/embed-c676v2cs8l62.html</page>
+<referer>http://videorev.cc/c676v2cs8l62.html</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://videorev.cc/embed-c676v2cs8l62.html</page>
+<referer>http://videorev.cc/c676v2cs8l62.html</referer>
+</regex>
+</item>
+
+<item>
 <title>Jalan Puncak Alam (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7jalanpuncakalam00_450.jpg</thumbnail>
