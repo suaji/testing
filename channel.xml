@@ -569,25 +569,12 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Selfie Suara Kubur (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://static.vidzi.tv/nplayer/vidzi.swf pageUrl=http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</link>
+<link>$doregex[url]</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/05/selfie.jpg</thumbnail>
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
+<expres>"(.*?m3u8.*?)"</expres>
 <page>http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</page>
-<referer>http://vidzi.tv/9ni9ts4oej07.html</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>mp4\?h=([^"]*)</expres>
-<page>http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</page>
-<referer>http://vidzi.tv/9ni9ts4oej07.html</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</page>
-<referer>http://vidzi.tv/9ni9ts4oej07.html</referer>
 </regex>
 </item>
 
@@ -761,25 +748,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Gudang Kubur (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-84u148lrj1md-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jtn0f04rjgk7-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/gudang-kubur.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-84u148lrj1md-640x360.html</page>
-<referer>http://streamin.to/84u148lrj1md</referer>
+<page>http://streamin.to/embed-jtn0f04rjgk7-640x360.html</page>
+<referer>http://streamin.to/jtn0f04rjgk7</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-84u148lrj1md-640x360.html</page>
-<referer>http://streamin.to/84u148lrj1md</referer>
+<page>http://streamin.to/embed-jtn0f04rjgk7-640x360.html</page>
+<referer>http://streamin.to/jtn0f04rjgk7</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-84u148lrj1md-640x360.html</page>
-<referer>http://streamin.to/84u148lrj1md</referer>
+<page>http://streamin.to/embed-jtn0f04rjgk7-640x360.html</page>
+<referer>http://streamin.to/jtn0f04rjgk7</referer>
 </regex>
 </item>
 
@@ -1457,25 +1444,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Paku Pontianak (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4bdxc0koxjw8-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ok0zhdyoxy11-640x360.html</link>
 <thumbnail>http://fuh.my/wp-content/uploads/2013/09/poster-paku-pontianak.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-4bdxc0koxjw8-640x360.html</page>
-<referer>http://streamin.to/4bdxc0koxjw8</referer>
+<page>http://streamin.to/embed-ok0zhdyoxy11-640x360.html</page>
+<referer>http://streamin.to/ok0zhdyoxy11</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-4bdxc0koxjw8-640x360.html</page>
-<referer>http://streamin.to/4bdxc0koxjw8</referer>
+<page>http://streamin.to/embed-ok0zhdyoxy11-640x360.html</page>
+<referer>http://streamin.to/ok0zhdyoxy11</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-4bdxc0koxjw8-640x360.html</page>
-<referer>http://streamin.to/4bdxc0koxjw8</referer>
+<page>http://streamin.to/embed-ok0zhdyoxy11-640x360.html</page>
+<referer>http://streamin.to/ok0zhdyoxy11</referer>
 </regex>
 </item>
 
@@ -1529,49 +1516,49 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Seram Sejuk (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bs4wz18g7zpp-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-6vaild7oogl5-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-qI08Vu9Y6uY/UEVVrwxDMBI/AAAAAAAADz0/QB1CQff1qIE/s640/Seram+Sejuk+%25282012%2529.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-bs4wz18g7zpp-640x360.html</page>
-<referer>http://streamin.to/bs4wz18g7zpp</referer>
+<page>http://streamin.to/embed-6vaild7oogl5-640x360.html</page>
+<referer>http://streamin.to/6vaild7oogl5</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-bs4wz18g7zpp-640x360.html</page>
-<referer>http://streamin.to/bs4wz18g7zpp</referer>
+<page>http://streamin.to/embed-6vaild7oogl5-640x360.html</page>
+<referer>http://streamin.to/6vaild7oogl5</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-bs4wz18g7zpp-640x360.html</page>
-<referer>http://streamin.to/bs4wz18g7zpp</referer>
+<page>http://streamin.to/embed-6vaild7oogl5-640x360.html</page>
+<referer>http://streamin.to/6vaild7oogl5</referer>
 </regex>
 </item>
 
 <item>
 <title>Karak (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z8rnx1n5z86n-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hrfu0yuxjfrx-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-oManyfaMANM/TgBtd0ULXWI/AAAAAAAAADg/9oc1tEbN_wY/s1600/karak.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-z8rnx1n5z86n-640x360.html</page>
-<referer>http://streamin.to/z8rnx1n5z86n</referer>
+<page>http://streamin.to/embed-hrfu0yuxjfrx-640x360.html</page>
+<referer>http://streamin.to/hrfu0yuxjfrx</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-z8rnx1n5z86n-640x360.html</page>
-<referer>http://streamin.to/z8rnx1n5z86n</referer>
+<page>http://streamin.to/embed-hrfu0yuxjfrx-640x360.html</page>
+<referer>http://streamin.to/hrfu0yuxjfrx</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-z8rnx1n5z86n-640x360.html</page>
-<referer>http://streamin.to/z8rnx1n5z86n</referer>
+<page>http://streamin.to/embed-hrfu0yuxjfrx-640x360.html</page>
+<referer>http://streamin.to/hrfu0yuxjfrx</referer>
 </regex>
 </item>
 
@@ -1601,25 +1588,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Senjakala (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-vn58jeysk5od-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-6mtsqo1l1jn6-640x360.html</link>
 <thumbnail>http://filemwayang.com/wp-content/uploads/2011/03/Poster-Senjakala.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-vn58jeysk5od-640x360.html</page>
-<referer>http://streamin.to/vn58jeysk5od</referer>
+<page>http://streamin.to/embed-6mtsqo1l1jn6-640x360.html</page>
+<referer>http://streamin.to/6mtsqo1l1jn6</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-vn58jeysk5od-640x360.html</page>
-<referer>http://streamin.to/vn58jeysk5od</referer>
+<page>http://streamin.to/embed-6mtsqo1l1jn6-640x360.html</page>
+<referer>http://streamin.to/6mtsqo1l1jn6</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-vn58jeysk5od-640x360.html</page>
-<referer>http://streamin.to/vn58jeysk5od</referer>
+<page>http://streamin.to/embed-6mtsqo1l1jn6-640x360.html</page>
+<referer>http://streamin.to/6mtsqo1l1jn6</referer>
 </regex>
 </item>
 
@@ -1697,25 +1684,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Jangan Tegur (2009)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-rxoe519c7rsq-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-pqnntni43x1h-640x360.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/e7/Jangan_Tegur(poster).jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-rxoe519c7rsq-640x360.html</page>
-<referer>http://streamin.to/rxoe519c7rsq</referer>
+<page>http://streamin.to/embed-pqnntni43x1h-640x360.html</page>
+<referer>http://streamin.to/pqnntni43x1h</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-rxoe519c7rsq-640x360.html</page>
-<referer>http://streamin.to/rxoe519c7rsq</referer>
+<page>http://streamin.to/embed-pqnntni43x1h-640x360.html</page>
+<referer>http://streamin.to/pqnntni43x1h</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-rxoe519c7rsq-640x360.html</page>
-<referer>http://streamin.to/rxoe519c7rsq</referer>
+<page>http://streamin.to/embed-pqnntni43x1h-640x360.html</page>
+<referer>http://streamin.to/pqnntni43x1h</referer>
 </regex>
 </item>
 
