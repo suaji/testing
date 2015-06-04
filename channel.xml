@@ -520,6 +520,17 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Ophilia (2014)</title>
+<link>$doregex[url]</link>
+<thumbnail>http://1.bp.blogspot.com/-0Zpvjw5VsfU/VJPZ3NamuUI/AAAAAAAAEUA/bL_Pmg0ssQw/s1600/skinhead.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/embed-mr5ks7jhq04w-640x360.html</page>
+</regex>
+</item>
+
+<item>
 <title>Jalan Puncak Alam (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7jalanpuncakalam00_450.jpg</thumbnail>
@@ -1737,7 +1748,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 16.59 26-05-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 13.59 04-06-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
