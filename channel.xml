@@ -520,6 +520,18 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>RTI 1</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>id="mavideo".*src="(.*?)"</expres>
+<page>http://lb.streamakaci.com/rti/</page>
+<referer>http://www.rti.ci</referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Suami Aku Ustaz (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7ryq6e0h0yso-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/suami-aku-ustaz.jpg</thumbnail>
