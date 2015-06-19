@@ -520,6 +520,30 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Jendela (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-du2daeywzauf-640x360.html</link>
+<thumbnail>http://2.bp.blogspot.com/-8DP2k5rDYg0/VXk4mRNVuyI/AAAAAAAABH0/0Orz1alzS6I/s1600/Jendela.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-du2daeywzauf-640x360.html</page>
+<referer>http://streamin.to/du2daeywzauf</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-du2daeywzauf-640x360.html</page>
+<referer>http://streamin.to/du2daeywzauf</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-du2daeywzauf-640x360.html</page>
+<referer>http://streamin.to/du2daeywzauf</referer>
+</regex>
+</item>
+
+<item>
 <title>Ophilia (2014)</title>
 <link>$doregex[url]</link>
 <thumbnail>http://1.bp.blogspot.com/-0Zpvjw5VsfU/VJPZ3NamuUI/AAAAAAAAEUA/bL_Pmg0ssQw/s1600/skinhead.jpg</thumbnail>
