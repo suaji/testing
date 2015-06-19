@@ -520,6 +520,54 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Suami Aku Ustaz (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7ryq6e0h0yso-640x360.html</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/suami-aku-ustaz.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-7ryq6e0h0yso-640x360.html</page>
+<referer>http://streamin.to/7ryq6e0h0yso</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-7ryq6e0h0yso-640x360.html</page>
+<referer>http://streamin.to/7ryq6e0h0yso</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-7ryq6e0h0yso-640x360.html</page>
+<referer>http://streamin.to/7ryq6e0h0yso</referer>
+</regex>
+</item>
+
+<item>
+<title>Dia (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</link>
+<thumbnail>http://2.bp.blogspot.com/-ABr-YdVVBqM/VX8X6hTpSTI/AAAAAAAAAY8/a_v8f2YKXSo/s1600/dia.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</page>
+<referer>http://streamin.to/sw4qiy6z8y1s</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</page>
+<referer>http://streamin.to/sw4qiy6z8y1s</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</page>
+<referer>http://streamin.to/sw4qiy6z8y1s</referer>
+</regex>
+</item>
+
+<item>
 <title>Jendela (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-du2daeywzauf-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-8DP2k5rDYg0/VXk4mRNVuyI/AAAAAAAABH0/0Orz1alzS6I/s1600/Jendela.jpg</thumbnail>
@@ -1772,7 +1820,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 13.59 04-06-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 15.29 19-06-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
