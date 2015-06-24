@@ -8,32 +8,14 @@
 
 <item>
 <title>Kaaba and Masjid Al-Haram</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>jsonurl</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>http://www.youtube.com/embed/Yu2lmo3TrfY</page>
-</regex>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yu2lmo3TrfY</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Masjid al-Nabawi in Madinah</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>jsonurl</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>http://www.youtube.com/embed/N6-bnwChJU8</page>
-</regex>
+<title>Masjid Al-Nabawi in Madinah</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N6-bnwChJU8</link>
+<thumbnail></thumbnail>
 </item>
 
 </items>
