@@ -1,6 +1,45 @@
 <channels>
 
 <channel>
+<name>MAKKAH Live Prayers</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title>Kaaba and Masjid Al-Haram</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>jsonurl</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>http://www.youtube.com/embed/Yu2lmo3TrfY</page>
+</regex>
+</item>
+
+<item>
+<title>Masjid al-Nabawi in Madinah</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>jsonurl</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>http://www.youtube.com/embed/N6-bnwChJU8</page>
+</regex>
+</item>
+
+</items>
+</channel>
+
+<channel>
 <name>[COLOR=FF00FF00]MALAYSIA CHANNELS[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -335,6 +374,18 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <item>
 <title>Ad Sports 2 - UAE</title>
 <link>http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>IBrod TV</title>
+<link>$doregex[rtmp] swfUrl=http://cdn.miplayer.net/player/jwplayer.flash.swf token=OOG17t.x#K9Vh#| pageUrl=http://miplayer.net live=1 timeout=15</link>
+<regex>
+<name>rtmp</name>
+<expres>file: '(.*?)'<expres>
+<page>http://miplayer.net/embedplayer.php?id=ibrodtv1</page>
+<referer>http://www.ibrodtv.net</referer>
+</regex>
 <thumbnail></thumbnail>
 </item>
 
