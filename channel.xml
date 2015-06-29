@@ -8,18 +8,24 @@
 
 <item>
 <title>Kaaba and Masjid Al-Haram</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yu2lmo3TrfY</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Masjid Al-Nabawi in Madinah</title>
-<link>$doregex[showyoutube]</link>
+<link>$doregex[url]</link>
 <regex>
-<name>showyoutube</name>
-<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/?action=play_video&amp;videoid=N6-bnwChJU8&quot;)')</expres>
+<name>url</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/').replace('https', 'http')</expres>
 <page></page>
 </regex>
+<regex>
+<name>jsonurl</name>
+<expres>"hlsvp":"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[get-page]</page>
+<referer></referer>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>data-context-item-id="([^"]+)</expres>
+<page>https://www.youtube.com/channel/UCos52azQNBgW63_9uDJoPDA</page>
+</regex>
+<thumbnail></thumbnail>
 </item>
 
 </items>
