@@ -1700,25 +1700,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Karak (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hrfu0yuxjfrx-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4apa7of1eix3-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-oManyfaMANM/TgBtd0ULXWI/AAAAAAAAADg/9oc1tEbN_wY/s1600/karak.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-hrfu0yuxjfrx-640x360.html</page>
-<referer>http://streamin.to/hrfu0yuxjfrx</referer>
+<page>http://streamin.to/embed-4apa7of1eix3-640x360.html</page>
+<referer>http://streamin.to/4apa7of1eix3</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-hrfu0yuxjfrx-640x360.html</page>
-<referer>http://streamin.to/hrfu0yuxjfrx</referer>
+<page>http://streamin.to/embed-4apa7of1eix3-640x360.html</page>
+<referer>http://streamin.to/4apa7of1eix3</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-hrfu0yuxjfrx-640x360.html</page>
-<referer>http://streamin.to/hrfu0yuxjfrx</referer>
+<page>http://streamin.to/embed-4apa7of1eix3-640x360.html</page>
+<referer>http://streamin.to/4apa7of1eix3</referer>
 </regex>
 </item>
 
@@ -1748,25 +1748,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Senjakala (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-6mtsqo1l1jn6-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-tdtubhytfojf-640x360.html</link>
 <thumbnail>http://filemwayang.com/wp-content/uploads/2011/03/Poster-Senjakala.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-6mtsqo1l1jn6-640x360.html</page>
-<referer>http://streamin.to/6mtsqo1l1jn6</referer>
+<page>http://streamin.to/embed-tdtubhytfojf-640x360.html</page>
+<referer>http://streamin.to/tdtubhytfojf</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-6mtsqo1l1jn6-640x360.html</page>
-<referer>http://streamin.to/6mtsqo1l1jn6</referer>
+<page>http://streamin.to/embed-tdtubhytfojf-640x360.html</page>
+<referer>http://streamin.to/tdtubhytfojf</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-6mtsqo1l1jn6-640x360.html</page>
-<referer>http://streamin.to/6mtsqo1l1jn6</referer>
+<page>http://streamin.to/embed-tdtubhytfojf-640x360.html</page>
+<referer>http://streamin.to/tdtubhytfojf</referer>
 </regex>
 </item>
 
