@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:0,TV1
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/playlist.m3u8
+#EXTINF:0,TV2
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
+#EXTINF:0,TV3
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
+#EXTINF:0,NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+#EXTINF:0,8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+#EXTINF:0,TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+EXTINF:0,Sky sports 1
+http://195.154.227.38:1935/Iive/skysports1lsh/playlist.m3u8
+#EXTINF:0,Sky sports 2
+http://195.154.227.38:1935/Iive/skysports2lsh/playlist.m3u8
+#EXTINF:0,Sky sports 3
+http://195.154.227.38:1935/Iive/skysports3lsh/playlist.m3u8
+#EXTINF:0,Sky sports 4
+http://195.154.227.38:1935/Iive/skysports4lsh/playlist.m3u8
+#EXTINF:0,Sky sports 5
+http://195.154.227.38:1935/Iive/skysports5lsh/playlist.m3u8
+#EXTINF:0,BT Sports 1
+http://195.154.227.38:1935/Iive/btsports1lsh/playlist.m3u8
+#EXTINF:0,BT Sports 2
+http://195.154.227.38:1935/Iive/btsports2lsh/playlist.m3u8
+#EXTINF:0,SPORT TIME1 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:0,SPORT TIME2 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:0,SPORT TIME3 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:0,SPORT TIME4 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:0,SPORT TIME5 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:0,SPORT TIME6 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:0,SPORT TIME7 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:0,EUROSPORT
+http://91.193.124.5:8000/eurosport
+#EXTINF:0,EUROSPORT2
+http://91.193.124.5:8000/eurosport2
+#EXTINF:0,EUROSPORT
+http://yayinlar.tvizleyim.com/org16/eurosportrus_me/playlist.m3u8
+#EXTINF:0,EUROSPORT 2
+http://yayinlar.tvizleyim.com/org9/eurosport2_me/playlist.m3u8
+#EXTINF:0,EUROSPORT
+http://android-hd.izletv.mobi:80/org16/eurosportrus_me/chunks.m3u8
+#EXTINF:0,EUROSPORT 2
+http://android-hd.izletv.mobi:80/org9/eurosport2_me/chunks.m3u8
+#EXTINF:0,EUROSPORT
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
+#EXTINF:0,EUROSPORT 2
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:0,EUROSPORT
+http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
+#EXTINF:0,EUROSPORT 2
+http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
+#EXTINF:0,EUROSPORT
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/141/index.m3u8
+#EXTINF:0,EUROSPORT RU
+http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
+#EXTINF:0,EUROSPORT2 RU
+http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+#EXTINF:0,SKY SPORT 1 HD
+http://144.76.3.83/sky_sports1gb.m3u8?bandwidth=956&token=205e6dc135bf9e7fe3da60d6ba052211&user=35430&playlistlength=25&os=browser
+#EXTINF:0,SKY SPORT 2 HD
+http://144.76.3.83/sky_sports2gb.m3u8?bandwidth=956&token=0eef3bb1a1c2e4d2bc4b9f35b6f2b360&user=35430&playlistlength=25&os=browser
+#EXTINF:0,SKY SPORT 3 HD
+http://144.76.3.83/sky_sports3gb.m3u8?bandwidth=956&token=78b2f090d8e8dfcac5c3d40377fb8664&user=35430&playlistlength=25&os=browser
+#EXTINF:0,SKY SPORT 4 HD
+http://144.76.3.83/sky_sports4gb.m3u8?bandwidth=956&token=bd738b4aa272cbf816942c3b947eb8f7&user=35430&playlistlength=25&os=browser
+#EXTINF:0,SKY SPORT F1 HD
+http://144.76.3.83/sky_sportsf1gb.m3u8?bandwidth=956&token=9ba67e371d00eb599c78ab99bb6569c0&user=35430&playlistlength=25&os=browser
+#EXTINF:0,SKY SPORT NEWS HD
+http://144.76.3.83/sky_sportsnewsgb.m3u8?bandwidth=956&token=08050155b2de57c837b5ca900e0602fd&user=35430&playlistlength=25&os=browser
+#EXTINF:0,SKY MOVIES COMEDY
+http://136.243.12.170/sky_moviescomedy_gb.m3u8?bandwidth=956&token=4281d384dde998c5b15237efe8c520be&user=35430&playlistlength=25&os=browser
+#EXTINF:0,SKY MOVIES PREMIERE
+http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser
+#EXTINF:0,SKY MOVIES HORROR
+http://136.243.12.170/sky_moviesscifi_gb.m3u8?bandwidth=956&token=b76b901e0718828bf6a2389320747666&user=35430&playlistlength=25&os=browser
+#EXTINF:0,ITV
+http://144.76.3.83/itv1_gb.m3u8?bandwidth=956&token=ef343f63c395c6ffaf389d2810848ff7&user=35430&playlistlength=25&os=browser
+#EXTINF:0,ITV 2
+http://144.76.3.83/itv2_gb.m3u8?bandwidth=956&token=091fad55e02d401c1198029ff979a1c3&user=35430&playlistlength=25&os=browser
+#EXTINF:0,ITV 3
+http://148.251.195.105/itv3_gb.m3u8?bandwidth=956&token=96c7465a621765d1d3f325d6f0cefe7b&user=35430&playlistlength=25&os=browser
+#EXTINF:-1,1HD
+http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
+#EXTINF:-1,360 Градусов HD
+http://176.114.202.140:7781/udp/239.255.11.101:1234
+#EXTINF:-1,8 канал Владивосток HD
+rtmp://37.187.27.118/live/livestream3
+#EXTINF:-1,AMEDIA 1 HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
+#EXTINF:-1,AMEDIA HIT HD
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AMEDIAHITHD/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium HD
+http://46.61.226.18/hls/CH_C05_HDAMEDIAPREMIUM/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Animal Planet HD
+http://46.61.226.18/hls/CH_C03_ANIMALPLANETHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Discovery Channel HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Discovery Science HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+#EXTINF:-1,Eurosport HD
+http://46.61.226.18/hls/CH_C02_EUROSPORTHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,FASHION TV HD
+rtmp://95.67.8.43:1935/live/fashionhd
+#EXTINF:-1,FOX HD
+http://46.61.226.18/hls/CH_C02_FOXHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Fashion One HD
+http://rostelec.noip.me:1234/udp/233.7.70.162:5000
+#EXTINF:-1,Fix HD
+http://video.fixhd.tv:1935/fix/hd.stream/playlist.m3u8
+#EXTINF:-1,Food Network HD
+http://46.61.226.18/hls/CH_C05_FOODHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Fox Life HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2
+#EXTINF:-1,HD Media
+http://93.95.99.231:1935/push/720p/playlist.m3u8
+#EXTINF:-1,History HD
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+#EXTINF:-1,IQ HD
+http://hls.svc.moyo.tv/hls/CH_IQHD/bw3378000/variant.m3u8?version=2
+#EXTINF:-1,KANAL 7 HD
+rtmp://stream.gostream.nl:443/kanal7hq/kanal7hq
+#EXTINF:-1,MTV Live HD
+http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Mezzo Live HD
+http://46.61.226.18/hls/CH_C05_MEZZOLIVEHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,My Zen TV HD
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
+#EXTINF:-1,Nasa HD (ENG)
+http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8
+#EXTINF:-1,Nasa HD (ENG)
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://46.61.226.18/hls/CH_C03_NATGEOWILDHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD
+http://46.61.226.18/hls/CH_C04_NGCHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,NewsOne HD
+rtmp://77.120.104.64:1935/newsone/stream
+#EXTINF:-1,Nickelodeon HD
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+#EXTINF:-1,Outdoor Channel HD
+http://46.61.226.18/hls/CH_C01_OUTDOORCHANNELHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Paramount Channel HD
+http://46.61.226.18/hls/CH_C02_PARAMOUNTCHANNELHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy HD
+http://46.61.226.18/hls/CH_C03_PARAMOUNTCOMEDYHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,RT HD
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C04_RTTVHD/variant.m3u8?version=2
+#EXTINF:-1,Russia Today DOC HD
+http://176.114.202.140:7781/udp/239.255.11.65:1234
+#EXTINF:-1,SET HD
+http://46.61.226.18/hls/CH_C02_SETHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Stage TV HD
+rtmp://149.11.34.6/live/stagetv.stream
+#EXTINF:-1,TLC HD
+http://46.61.226.18/hls/CH_C04_TLCHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,TRT SPOR 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1,TV 1000 Comedy HD
+http://46.61.226.18/hls/CH_C03_TV1000COMEDYHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Megahit HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
+#EXTINF:-1,TV 1000 Premium HD
+http://46.61.226.18/hls/CH_C05_TV1000PREMIUMHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Tesla Vision TV HD
+http://94.230.178.58:8090
+#EXTINF:-1,Travel and Adventure HD
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1,Viasat Nature/History HD
+http://46.61.226.18/hls/CH_C03_VIASATNATUREHISTORYHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Viasat Sport HD
+http://46.61.226.18/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,WBC HD
+http://176.114.202.140:7781/udp/239.255.11.79:1234
+#EXTINF:-1,World Fashion Europe HD
+http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1,World Fashion Россия HD
+http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
+#EXTINF:-1,Живи HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_JIVIHD/variant.m3u8?version=2
+#EXTINF:-1,КХЛ HD
+http://46.61.226.18/hls/CH_C02_KHLHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,КиноМеню HD
+http://93.95.99.231:1935/live/km/playlist.m3u8
+#EXTINF:-1,Мир HD
+http://176.114.202.140:7781/udp/239.255.11.66:1234
+#EXTINF:-1,Наш футбол HD
+http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,ПИК ТВ HD
+http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
+#EXTINF:-1,Первый канал HD
+http://hls.svc.moyo.tv/hls/CH_1TVHD/bw3378000/variant.m3u8?version=2
+#EXTINF:-1,Первый музыкальный HD(Белорусь)
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1,Россия HD
+http://46.61.226.18/hls/CH_C05_RUSSIA1HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Спорт 1 HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+#EXTINF:-1,Страшное HD
+http://46.61.226.18/hls/CH_C01_STRASHNOEHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Трофей HD
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
+#EXTINF:-1,Футбол 1 HD
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL1HD/variant.m3u8?version=2
+#EXTINF:-1,Футбол 2 HD
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,Футбол 3 HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/variant.m3u8?version=2
