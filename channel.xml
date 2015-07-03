@@ -484,6 +484,23 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Hollywood</title>
+<link>$doregex[rtmp] playpath=Hollywood token=$doregex[tok] flashVer=WIN\18,0,0,194 swfVfy=1 swfUrl=http://tutelehd.com/player.swf pageUrl=http://tutelehd.com live=1 timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer', '(.*)'</expres>
+<page>http://tutelehd.com/embed/embed.php?channel=Hollywood</page>
+<referer>http://tutelehd.com</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>token', '(.*?)'</expres>
+<page>http://tutelehd.com/embed/embed.php?channel=Hollywood</page>
+<referer>http://tutelehd.com</referer>
+</regex>
+</item>
+
+<item>
 <title>Animal Planet</title>
 <link>$doregex[url]</link>
 <regex>
