@@ -43,3 +43,71 @@ http://144.76.3.83/itv1_gb.m3u8?bandwidth=956&token=ef343f63c395c6ffaf389d281084
 http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:-1,MTV Live HD
 http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,ID (EN)
+http://80.77.52.6:3917/udp/226.0.3.1:12345
+#EXTINF:-1,CN (EN)
+http://80.77.52.6:3917/udp/226.0.3.2:12345
+#EXTINF:-1,Disc. World (EN)
+http://80.77.52.6:3917/udp/226.0.3.3:12345
+#EXTINF:-1,Disc. Sc. (EN)
+http://80.77.52.6:3917/udp/226.0.3.4:12345
+#EXTINF:-1,AMC (EN)
+http://80.77.52.6:3917/udp/226.0.3.5:12345
+#EXTINF:-1,CBS Reality (EN)
+http://80.77.52.6:3917/udp/226.0.3.6:12345
+#EXTINF:-1,Extreme Sports (EN)
+http://80.77.52.6:3917/udp/226.0.3.7:12345
+#EXTINF:-1,Jim Jam (EN)
+http://80.77.52.6:3917/udp/226.0.3.8:12345
+#EXTINF:-1,Disc. Ch. (EN)
+http://80.77.52.6:3917/udp/226.0.3.17:12345
+#EXTINF:-1,Nick Jr. (EN)
+http://80.77.52.6:3917/udp/226.0.3.18:12345
+#EXTINF:-1,Animal Planet (EN)
+http://80.77.52.6:3917/udp/226.0.3.19:12345
+#EXTINF:-1,TLC (EN)
+http://80.77.52.6:3917/udp/226.0.3.20:12345
+#EXTINF:-1,Eurosport (EN)
+http://80.77.52.6:3917/udp/226.0.3.21:12345
+#EXTINF:-1,Nat Geo Wild (EN)
+http://80.77.52.6:3917/udp/226.0.3.23:12345
+#EXTINF:-1,NGC (EN)
+http://80.77.52.6:3917/udp/226.0.3.24:12345
+#EXTINF:-1,Fox (EN)
+http://80.77.52.6:3917/udp/226.0.7.13:12345
+#EXTINF:-1,MTV Rocks
+http://80.77.52.6:3917/udp/226.0.7.15:12345
+#EXTINF:-1,Fox Life (EN)
+http://80.77.52.6:3917/udp/226.0.7.16:12345
+#EXTINF:-1,MTV Hits
+http://80.77.52.6:3917/udp/226.0.7.17:12345
+#EXTINF:-1,Fine Living (EN)
+http://80.77.52.6:3917/udp/226.0.7.24:12345
+#EXTINF:-1,Al Jazeera
+http://80.77.52.6:3917/udp/226.0.1.4:12345
+#EXTINF:-1,CCTV News
+http://80.77.52.6:3917/udp/226.0.1.5:12345
+#EXTINF:-1,WF HD
+http://80.77.52.6:3917/udp/226.0.1.10:12345
+#EXTINF:-1,DW
+http://80.77.52.6:3917/udp/226.0.1.17:12345
+#EXTINF:-1,Rai Sport2
+http://80.77.52.6:3917/udp/226.0.1.25:12345
+#EXTINF:-1,France 24
+http://80.77.52.6:3917/udp/226.0.1.33:12345
+#EXTINF:-1,France 24 (EN)
+http://80.77.52.6:3917/udp/226.0.1.34:12345
+#EXTINF:-1,Fashion TV HD
+http://80.77.52.6:3917/udp/226.0.1.41:12345
+#EXTINF:-1,Fashion TV
+http://80.77.52.6:3917/udp/226.0.1.42:12345
+#EXTINF:-1,Bloomberg
+http://80.77.52.6:3917/udp/226.0.1.49:12345
+#EXTINF:-1,TV5 Monde FBS
+http://80.77.52.6:3917/udp/226.0.1.50:12345
+#EXTINF:-1,Tv5 Monde Europe
+http://80.77.52.6:3917/udp/226.0.1.51:12345
+#EXTINF:-1,NHK World
+http://80.77.52.6:3917/udp/226.0.1.52:12345
+#EXTINF:-1,Fashion One
+http://80.77.52.6:3917/udp/226.0.1.61:12345
