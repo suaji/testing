@@ -111,3 +111,13 @@ http://80.77.52.6:3917/udp/226.0.1.51:12345
 http://80.77.52.6:3917/udp/226.0.1.52:12345
 #EXTINF:-1,Fashion One
 http://80.77.52.6:3917/udp/226.0.1.61:12345
+#EXTINF:0,ESPN HD
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,abc hd
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0,CBS HD
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+#EXTINF:0,Nat GEO HD
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
