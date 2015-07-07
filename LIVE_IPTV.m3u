@@ -71,3 +71,17 @@ http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
 #EXTINF:0,TNT HD
 http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0,BT SPORT 1 
+rtmp://50.7.67.78:1935/graham/bt1
+#EXTINF:0,BT SPORT 2
+rtmp://50.7.67.78:1935/graham/bt2
+#EXTINF:0,SKY SPORT 1
+rtmp://50.7.67.78:1935/graham/ss1
+#EXTINF:0,SKY SPORT 2
+rtmp://50.7.67.78:1935/graham/ss2
+#EXTINF:0,SKY SPORT 3
+rtmp://50.7.67.78:1935/graham/ss3
+#EXTINF:0,SKY SPORT 4
+rtmp://50.7.67.78:1935/graham/ss4
+#EXTINF:0,SKY SPORT 5
+rtmp://50.7.67.78:1935/graham/ss5
