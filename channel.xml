@@ -464,14 +464,45 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
-<title>PAC 12 Los Angeles 1080p HD</title>
-<link>http://xrxs.net/video/live-p12losa-4728.m3u8</link>
+<title>BT SPORT 1 </title>
+<link>rtmp://50.7.67.78:1935/graham/bt1</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Bein sport 1 (need to install f4m_tester addon from Shani Repo)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://162.244.81.252:1935/Test/foot0live/manifest.f4m</link>
+<title>BT SPORT 2</title>
+<link>rtmp://50.7.67.78:1935/graham/bt2</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT 1</title>
+<link>rtmp://50.7.67.78:1935/graham/ss1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT 2</title>
+<link>rtmp://50.7.67.78:1935/graham/ss2</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT 3</title>
+<link>rtmp://50.7.67.78:1935/graham/ss3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT 4</title>
+<link>rtmp://50.7.67.78:1935/graham/ss4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT 5</title>
+<link>rtmp://50.7.67.78:1935/graham/ss5</link>
+<thumbnail></thumbnail>
 </item>
 
 </items>
@@ -546,6 +577,12 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
+<title>SKY MOVIES PREMIERE</title>
+<link>http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>HBO Plus en vivo</title>
 <sportsdevil>http://www.shidurlive.com/embed/hboplux</sportsdevil>
 <referer>http://www.moviespremiumhd.com</referer>
@@ -571,6 +608,24 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <item>
 <title>MTV UK</title>
 <link>rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV Live HD</title>
+<link>http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV Hits</title>
+<link>http://80.77.52.6:3917/udp/226.0.7.17:12345</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV Rocks</title>
+<link>http://80.77.52.6:3917/udp/226.0.7.15:12345</link>
 <thumbnail></thumbnail>
 </item>
 
