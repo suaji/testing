@@ -13,20 +13,16 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 #EXTINF:0,BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
-#EXTINF:0,1NEWS
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8
 #EXTINF:0,GALAKSI MUZIK
 http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/playlist.m3u8
 #EXTINF:0,TVi
 http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
-#EXTINF:0,MALAYSIA YOUTH TV
-http://202.73.9.10:1935/live2/smil:mytv.smil/manifest.m3u8
+#EXTINF:0,1NEWS
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8
 #EXTINF:0,AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 #EXTINF:0,BLOOMBERG ASIA
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
-#EXTINF:0,CHANNEL NEWS ASIA
-http://edge.mediacorp.swiftserve.com/live/cna/amlst:cnai-pc/manifest.m3u8
 #EXTINF:0,BBC WORLD NEWS
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:0,ABC NEWS
