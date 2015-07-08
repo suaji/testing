@@ -1,119 +1,178 @@
 #EXTM3U
-#EXTINF:0,TV1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_tv1_my.png" tvg-name="TV1"  group-title="Malaysia",TV1
 http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/playlist.m3u8
-#EXTINF:0,TV2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm2_malaysia.png" tvg-name="TV2"  group-title="Malaysia",TV2
 http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
-#EXTINF:0,TV3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
-#EXTINF:0,NTV7
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/ntv7.png" tvg-name="NTV7"  group-title="Malaysia",NTV7
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
-#EXTINF:0,8TV
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/num/8tv_my.png" tvg-name="8TV"  group-title="Malaysia",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
-#EXTINF:0,TV9
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" tvg-name="TV9"  group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
-#EXTINF:0,BERNAMA TV
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png" tvg-name="BERNAMA TV"  group-title="Malaysia",BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
-#EXTINF:0,ASTRO AWANI
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" tvg-name="ASTRO AWANI"  group-title="Malaysia",ASTRO AWANI
 rtmp://cp160334.live.edgefcs.net:1935/live
-#EXTINF:0,GALAKSI MUZIK
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/playlist.m3u8
-#EXTINF:0,TVi
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
-#EXTINF:0,1NEWS
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/num/1_news_my.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
 http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8
-#EXTINF:0,AL JAZEERA ENGLISH
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:0,BLOOMBERG ASIA
-http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
-#EXTINF:0,BBC WORLD NEWS
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
-#EXTINF:0,ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:0,TV ONE - Indonesia
-http://live.stream.telin.swiftserve.com/live/livetv-mbr/mp4:m-tvone_2/playlist.m3u8
-#EXTINF:0,SKY SPORT 1 HD
-http://144.76.3.83/sky_sports1gb.m3u8?bandwidth=956&token=205e6dc135bf9e7fe3da60d6ba052211&user=35430&playlistlength=25&os=browser
-#EXTINF:0,SKY MOVIES PREMIERE
-http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser
-#EXTINF:0,ITV
-http://144.76.3.83/itv1_gb.m3u8?bandwidth=956&token=ef343f63c395c6ffaf389d2810848ff7&user=35430&playlistlength=25&os=browser
-#EXTINF:-1,1HD
-http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
-#EXTINF:-1,MTV Live HD
-http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2
-#EXTINF:-1,ID (EN)
-http://80.77.52.6:3917/udp/226.0.3.1:12345
-#EXTINF:-1,CN (EN)
-http://80.77.52.6:3917/udp/226.0.3.2:12345
-#EXTINF:-1,MTV Rocks
-http://80.77.52.6:3917/udp/226.0.7.15:12345
-#EXTINF:-1,MTV Hits
-http://80.77.52.6:3917/udp/226.0.7.17:12345
-#EXTINF:-1,Al Jazeera
-http://80.77.52.6:3917/udp/226.0.1.4:12345
-#EXTINF:-1,CCTV News
-http://80.77.52.6:3917/udp/226.0.1.5:12345
-#EXTINF:-1,WF HD
-http://80.77.52.6:3917/udp/226.0.1.10:12345
-#EXTINF:-1,DW
-http://80.77.52.6:3917/udp/226.0.1.17:12345
-#EXTINF:-1,Fashion TV HD
-http://80.77.52.6:3917/udp/226.0.1.41:12345
-#EXTINF:-1,Fashion TV
-http://80.77.52.6:3917/udp/226.0.1.42:12345
-#EXTINF:-1,Bloomberg
-http://80.77.52.6:3917/udp/226.0.1.49:12345
-#EXTINF:-1,NHK World
-http://80.77.52.6:3917/udp/226.0.1.52:12345
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,abc hd
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,CBS HD
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,BT SPORT 1 
-rtmp://50.7.67.78:1935/graham/bt1
-#EXTINF:0,BT SPORT 2
-rtmp://50.7.67.78:1935/graham/bt2
-#EXTINF:0,SKY SPORT 1
-rtmp://50.7.67.78:1935/graham/ss1
-#EXTINF:0,SKY SPORT 2
-rtmp://50.7.67.78:1935/graham/ss2
-#EXTINF:0,SKY SPORT 3
-rtmp://50.7.67.78:1935/graham/ss3
-#EXTINF:0,SKY SPORT 4
-rtmp://50.7.67.78:1935/graham/ss4
-#EXTINF:0,SKY SPORT 5
-rtmp://50.7.67.78:1935/graham/ss5
-#EXTINF:0,IKIM FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_galaksi_muzik_my.png" tvg-name="GALAKSI MUZIK"  group-title="Malaysia",GALAKSI MUZIK
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_tvi_my.png" tvg-name="TVi"  group-title="Malaysia",TVi
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
 http://50.7.96.210:8285/;stream.mp3
-#EXTINF:0,ERA FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ee/era_astro.png" tvg-name="ERA FM"  group-title="Malaysia",ERA FM
 http://astro2.rastream.com/era?type=.flv
-#EXTINF:0,HOT FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM"  group-title="Malaysia",HOT FM
 http://2343.live.streamtheworld.com/HOTFMAAC
-#EXTINF:0,HOT FM KELATE
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM KELATE"  group-title="Malaysia",HOT FM KELATE
 http://2633.live.streamtheworld.com/HOTFMKELATEAAC
-#EXTINF:0,HOT FM T'Ganu
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM T'Ganu"  group-title="Malaysia",HOT FM T'Ganu
 http://2173.live.streamtheworld.com/HOTFMTGANUAAC
-#EXTINF:0,SURIA FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA FM"  group-title="Malaysia",SURIA FM
 http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
-#EXTINF:0,THR GEGAR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/thr_gegar_my.png" tvg-name="THR GEGAR"  group-title="Malaysia",THR GEGAR
 http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
-#EXTINF:0,SINAR FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SINAR FM"  group-title="Malaysia",SINAR FM
 http://astro2.rastream.com/sinar?type=.flv
-#EXTINF:0,XFRESH FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XFRESH FM"  group-title="Malaysia",XFRESH FM
 http://audri.rastream.com/amp-xfm_audri?type=.flv
-#EXTINF:0,Bapakku FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bapakku FM"  group-title="Malaysia",Bapakku FM
 http://radio.bapakku.fm:8000
-#EXTINF:0,HITZ FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/hh/hitz_fm.png" tvg-name="HITZ FM"  group-title="Malaysia",HITZ FM
 http://astro1.rastream.com/hitz?type=.flv
-#EXTINF:0,MIX FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/mix_astro.png" tvg-name="MIX FM"  group-title="Malaysia",MIX FM
 http://astro2.rastream.com/mix?type=.flv
-#EXTINF:0,FLY FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FLY FM"  group-title="Malaysia",FLY FM
 http://2283.live.streamtheworld.com/FLYFM_SC
-#EXTINF:0,RED FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Malaysia",RED FM
 http://starrfm.rastream.com/starrfm-redfm?type=.flv
-#EXTINF:0,LITE FM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG ASIA"  group-title="News",BLOOMBERG ASIA
+http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC WORLD NEWS"  group-title="News",BBC WORLD NEWS
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV ONE - Indonesia"  group-title="News",TV ONE - Indonesia
+http://live.stream.telin.swiftserve.com/live/livetv-mbr/mp4:m-tvone_2/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 1 HD"  group-title="Sports",SKY SPORT 1 HD
+http://144.76.3.83/sky_sports1gb.m3u8?bandwidth=956&token=205e6dc135bf9e7fe3da60d6ba052211&user=35430&playlistlength=25&os=browser
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY MOVIES PREMIERE"  group-title="Movie",SKY MOVIES PREMIERE
+http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ITV"  group-title="Movies",ITV
+http://144.76.3.83/itv1_gb.m3u8?bandwidth=956&token=ef343f63c395c6ffaf389d2810848ff7&user=35430&playlistlength=25&os=browser
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
+http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Live HD"  group-title="Music",MTV Live HD
+http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID (EN)"  group-title="Movies",ID (EN)
+http://80.77.52.6:3917/udp/226.0.3.1:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CN (EN)"  group-title="Movies",CN (EN)
+http://80.77.52.6:3917/udp/226.0.3.2:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Rocks"  group-title="Music",MTV Rocks
+http://80.77.52.6:3917/udp/226.0.7.15:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="Music",MTV Hits
+http://80.77.52.6:3917/udp/226.0.7.17:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="News",Al Jazeera
+http://80.77.52.6:3917/udp/226.0.1.4:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV News"  group-title="News",CCTV News
+http://80.77.52.6:3917/udp/226.0.1.5:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WF HD"  group-title="Movies",WF HD
+http://80.77.52.6:3917/udp/226.0.1.10:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DW"  group-title="Movies",DW
+http://80.77.52.6:3917/udp/226.0.1.17:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fashion TV HD"  group-title="Women",Fashion TV HD
+http://80.77.52.6:3917/udp/226.0.1.41:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fashion TV"  group-title="Women",Fashion TV
+http://80.77.52.6:3917/udp/226.0.1.42:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bloomberg"  group-title="News",Bloomberg
+http://80.77.52.6:3917/udp/226.0.1.49:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="News",NHK World
+http://80.77.52.6:3917/udp/226.0.1.52:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN HD"  group-title="Sports",ESPN HD
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC HD"  group-title="News",ABC HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS HD"  group-title="Movies",CBS HD
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT HD"  group-title="Movies",TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORT 1"  group-title="Sports",BT SPORT 1
+rtmp://50.7.67.78:1935/graham/bt1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORT 2"  group-title="Sports",BT SPORT 2
+rtmp://50.7.67.78:1935/graham/bt2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 1"  group-title="Sports",SKY SPORT 1
+rtmp://50.7.67.78:1935/graham/ss1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 2"  group-title="Sports",SKY SPORT 2
+rtmp://50.7.67.78:1935/graham/ss2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 3"  group-title="Sports",SKY SPORT 3
+rtmp://50.7.67.78:1935/graham/ss3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 4"  group-title="Sports",SKY SPORT 4
+rtmp://50.7.67.78:1935/graham/ss4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 5"  group-title="Sports",SKY SPORT 5
+rtmp://50.7.67.78:1935/graham/ss5
