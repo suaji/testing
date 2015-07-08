@@ -96,6 +96,11 @@
 </item>
 
 <item>
+<title>AL-HIJRAH_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/manifest.f4m</link>
+</item>
+
+<item>
 <title>AL-HIJRAH</title>
 <link>http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/26/TV_Alhijrah_Logo.jpg</thumbnail>
