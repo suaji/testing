@@ -87,3 +87,33 @@ rtmp://50.7.67.78:1935/graham/ss3
 rtmp://50.7.67.78:1935/graham/ss4
 #EXTINF:0,SKY SPORT 5
 rtmp://50.7.67.78:1935/graham/ss5
+#EXTINF:0,IKIM FM
+http://50.7.96.210:8285/;stream.mp3
+#EXTINF:0,ERA FM
+http://astro2.rastream.com/era?type=.flv
+#EXTINF:0,HOT FM
+http://2343.live.streamtheworld.com/HOTFMAAC
+#EXTINF:0,HOT FM KELATE
+http://2633.live.streamtheworld.com/HOTFMKELATEAAC
+#EXTINF:0,HOT FM T'Ganu
+http://2173.live.streamtheworld.com/HOTFMTGANUAAC
+#EXTINF:0,SURIA FM
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+#EXTINF:0,THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+#EXTINF:0,SINAR FM
+http://astro2.rastream.com/sinar?type=.flv
+#EXTINF:0,XFRESH FM
+http://audri.rastream.com/amp-xfm_audri?type=.flv
+#EXTINF:0,Bapakku FM
+http://radio.bapakku.fm:8000
+#EXTINF:0,HITZ FM
+http://astro1.rastream.com/hitz?type=.flv
+#EXTINF:0,MIX FM
+http://astro2.rastream.com/mix?type=.flv
+#EXTINF:0,FLY FM
+http://2283.live.streamtheworld.com/FLYFM_SC
+#EXTINF:0,RED FM
+http://starrfm.rastream.com/starrfm-redfm?type=.flv
+#EXTINF:0,LITE FM
+http://astro1.rastream.com/lite?type=.flv
