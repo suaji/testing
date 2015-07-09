@@ -18,6 +18,9 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" tvg-name="TV9"  group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Malaysia",TV Al-Hijrah
+http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png" tvg-name="BERNAMA TV"  group-title="Malaysia",BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
