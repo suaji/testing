@@ -127,16 +127,40 @@
 
 <item>
 <title>ASTRO AWANI</title>
+<link>rtmp://cp160334.live.edgefcs.net:1935/live?ovpfv=1.1/AstroAwani24x7_3@74937</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO PRIMA</title>
+<link>http://www.layarku.tv/media/primav6.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_prima.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO RIA</title>
+<link>http://www.layarku.tv/media/riav6.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO WARNA</title>
+<link>http://www.layarku.tv/media/warnav6.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_warna.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO AWANI 2</title>
 <link>rtmp://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_2@74937 swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.layanmovie.com/2013/05/11/astro-awani-live-streaming/ conn=Z: swfVfy=true live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
 </item> 
 
 <item>
-<title>ASTRO AWANI 2</title>
+<title>ASTRO AWANI 3</title>
 <link>rtmp://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
 </item>
- 
+
 <item>
 <title>BERNAMA TV</title>
 <link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
@@ -165,55 +189,57 @@
 <items>
 
 <item>
-<title>TRANS - Indonesia</title>
-<link>rtsp://cdn.mivo.tv/mivotvjkt/transtv2</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/trans_tv_id.png</thumbnail>
-</item>
-
-<item>
-<title>GLOBAL TV - Indonesia</title>
-<link>http://cdn.mivo.tv/mivotvjkt/globaltv2/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/gg/global_tv_id.png</thumbnail>
-</item>
-
-<item>
-<title>KOMPAS TV HD - Indonesia</title>
-<link>rtmp://202.137.11.52/jakarta playpath=offair.sdp swfUrl=http://www.kompas.tv/live/new/js/player.swf pageUrl=http://www.kompas.tv/live/</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png</thumbnail>
-</item>
-
-<item>
-<title>MORE 2 - Indonesia</title>
-<link>http://cdn.mivo.tv/mivotvjkt/more2_240p/playlist.m3u8</link>
+<title>SURIA - Singapore</title>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>KBS World</title>
-<link>$doregex[showyoutube]</link>
-<regex>
-<name>showyoutube</name>
-<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/?action=play_video&amp;videoid=eRcfW2KekaM&quot;)')</expres>
-<page></page>
-</regex>
+<title>CHANNEL 5 - Singapore</title>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch5.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>KBS WORLD (uk @ korea proxy)</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eRcfW2KekaM</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png</thumbnail>
-</item> 
- 
-<item>
-<title>TBS - South Korea</title>
-<link>mms://115.84.165.160/catvlive</link>
-<thumbnail>http://www.leseanthomas.com/content/logo1.jpg</thumbnail>
+<title>CHANNEL 8 - Singapore</title>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
 </item>
- 
+
 <item>
-<title>G1 SBS - South Korea</title>
-<link>rtmp://smart.igtb.co.kr/live playpath=stream.sdp swfUrl=http://www.igtb.co.kr/vod/player.swf pageUrl=http://www.igtb.co.kr/pop/G1_onair.asp live=true timeout=15</link>
-<thumbnail>http://4.bp.blogspot.com/-9Lu0N2ZBBJk/UjxVN1DIrCI/AAAAAAAAHZ0/R6R98uQetJo/s1600/Watch-G1-GTB-SBS-Live-TV-from-South-Korea.jpg</thumbnail>
+<title>Trans 7 - Indonesia</title>
+<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TRANSTV - Indonesia</title>
+<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/transtv2_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Metro TV - Indonesia</title>
+<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/metrotv2_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>INDOSIAR - Indonesia</title>
+<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SCTV - Indonesia</title>
+<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RCTI</title>
+<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/rcti2_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 </items>
@@ -227,6 +253,12 @@
 
 <item>
 <title>ASTRO AWANI</title>
+<link>rtmp://cp160334.live.edgefcs.net:1935/live?ovpfv=1.1/AstroAwani24x7_3@74937</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO AWANI 2</title>
 <link>rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
 </item> 
