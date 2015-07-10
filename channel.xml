@@ -366,9 +366,69 @@
 <items>
 
 <item>
-<title>[COLOR=FFFFA500]Updated : 16 April 2015[/COLOR]</title>
+<title>[COLOR=FFFFA500]Updated : 10 July 2015[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 1</title>
+<link>rtmp://50.7.67.78:1935/graham/bt1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT Sport 3</title>
+<link>rtmp://50.7.67.78:1935/graham/bt2</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 1</title>
+<link>rtmp://180.250.29.12/jhos//beib1_5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 2</title>
+<link>rtmp://180.250.29.12/jhos//beib2_5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 3</title>
+<link>rtmp://180.250.29.12/jhos//beib3_5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1</title>
+<link>rtmp://50.7.67.78:1935/graham/ss1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<link>rtmp://50.7.67.78:1935/graham/ss2</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>rtmp://50.7.67.78:1935/graham/ss3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4</title>
+<link>rtmp://50.7.67.78:1935/graham/ss4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4</title>
+<link>rtmp://50.7.67.78:1935/graham/ss5</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -609,6 +669,24 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
+<title>HBO</title>
+<link>rtmp://twtv.touhao1995.com:1935/tv/ttv16</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CINEMAX</title>
+<link>http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SHOWTIME</title>
+<link>http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/playlist.m3u8?wowzasessionid=1419875151</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY MOVIES PREMIERE</title>
 <link>http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser</link>
 <thumbnail></thumbnail>
@@ -634,6 +712,12 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <item>
 <title>[COLOR=FF00FF00](MUSICS)[/COLOR]</title>
 <link>.</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MIVO - Indonesia</title>
+<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -675,12 +759,24 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Cartoon Network</title>
-<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chcartoonnetworkyes/2009/07/25/fae8e5c2-0854-4f80-988a-82b954d477a8 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&height=450&time=&autoplay=true&width=600 pageUrl=http://cdn.livestream.com/embed/cartoonnetworkyes?layout=4&height=450&width=600&autoplay=true</link>
+<link>http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Disney Channel</title>
+<link>http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network 2</title>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chcartoonnetworkyes/2009/07/25/fae8e5c2-0854-4f80-988a-82b954d477a8 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&height=450&time=&autoplay=true&width=600 pageUrl=http://cdn.livestream.com/embed/cartoonnetworkyes?layout=4&height=450&width=600&autoplay=true</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Disney Channel 2</title>
 <link>http://213.250.19.50/disneychannel/disneychannel.isml/disneychannel-video=2500000-audio101=128000.m3u8</link>
 <thumbnail></thumbnail>
 </item>
