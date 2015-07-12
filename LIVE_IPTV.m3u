@@ -120,9 +120,6 @@ http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasess
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ITV"  group-title="Movies",ITV
 http://144.76.3.83/itv1_gb.m3u8?bandwidth=956&token=ef343f63c395c6ffaf389d2810848ff7&user=35430&playlistlength=25&os=browser
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
-http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
-
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-vsvT_DMB4rI/VYOtlP9N5vI/AAAAAAAAAuU/pRUdttK-8Ek/s161/logoshowtime.png" group-title="ENGLISH",SHOWTIME
 http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/playlist.m3u8?wowzasessionid=1419875151
 
@@ -218,6 +215,9 @@ http://80.77.52.6:3917/udp/226.0.7.15:12345
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="Music",MTV Hits
 http://80.77.52.6:3917/udp/226.0.7.17:12345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
+http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-e6ypR4m5W6k/VVlIHu-vffI/AAAAAAAAAW8/v7p_krZKgy4/s161/logocnbc.png" group-title="ENGLISH",CNBC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
