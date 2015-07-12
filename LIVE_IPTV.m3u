@@ -33,6 +33,9 @@ http://www.layarku.tv/media/primav6.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jMi-7eWekms/VXLFQtRgRTI/AAAAAAAAAlU/d7lJp4FcLBg/s161/logoastroria.png" group-title="Malaysia",ASTRO RIA
 http://www.layarku.tv/media/riav6.m3u8
 
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jMi-7eWekms/VXLFQtRgRTI/AAAAAAAAAlU/d7lJp4FcLBg/s161/logoastroria.png" group-title="Malaysia",ASTRO OASIS
+http://www.layarku.tv/media/oasisv6.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png" tvg-name="BERNAMA TV"  group-title="Malaysia",BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
