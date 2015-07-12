@@ -22,7 +22,7 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eld1dIJlx_w/VVLglfsAKYI/AAAAAAAAAGU/jxf6V4Q1Zxc/s161/logoawani.png" group-title="Malaysia",ASTRO AWANI
-rtmp://cp160334.live.edgefcs.net:1935/live?ovpfv=1.1/AstroAwani24x7_3@74937
+rtmp://cp160334.live.edgefcs.net/live
 
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-zgv9F0Eb1sc/VVd4LZiVduI/AAAAAAAAAS0/VRlCHcanNo8/s161/logoastrowarna.png" group-title="Malaysia",ASTRO WARNA
 http://www.layarku.tv/media/warnav6.m3u8
@@ -69,9 +69,6 @@ http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Mj9iEcqnRjw/VYJXuDv2CdI/AAAAAAAAAtM/yFv34RcNcIY/s161/logosuriatv.png" group-title="Singapore",SURIA
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-ToqrNp2hofA/VYJXuTUaH5I/AAAAAAAAAtQ/oOBGFFSr8Hc/s161/logovasantham.png" group-title="Singapore",VASANTHAM
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="antv.png" tvg-logo="https://lh3.googleusercontent.com/-JBGYgMK_QHo/VVdTupzTurI/AAAAAAAAARc/trq0Qq2QzYM/s161/logoantv.png" group-title="Indonesia",ANTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
 
@@ -111,23 +108,20 @@ rtmp://202.137.11.52:1935/jakarta/offair.sdp
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-7SF-r_UwZis/VWMI-025YcI/AAAAAAAAAe0/-3GRJrCJKPU/s161/logoantaratv.png" group-title="Indonesia",ANTARA TV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-BPFK_MQu5i8/VYKD2AQqLkI/AAAAAAAAAtg/s-9gsMb3uM0/s161/logoskymovie.png" group-title="ENGLISH",SKY MOVIE SCI-FI
-http://s1.wssiptv.com/live/wssiptvdotcom/Uysi8iOity965sSwqes/112.ts
- 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-BPFK_MQu5i8/VYKD2AQqLkI/AAAAAAAAAtg/s-9gsMb3uM0/s161/logoskymovie.png" group-title="ENGLISH",SKY MOVIE ACTION
-http://s1.wssiptv.com/live/wssiptvdotcom/Uysi8iOity965sSwqes/110.ts
- 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-BPFK_MQu5i8/VYKD2AQqLkI/AAAAAAAAAtg/s-9gsMb3uM0/s161/logoskymovie.png" group-title="ENGLISH",SKY MOVIE FAMILY
-http://s1.wssiptv.com/live/wssiptvdotcom/Uysi8iOity965sSwqes/65.ts
- 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-BPFK_MQu5i8/VYKD2AQqLkI/AAAAAAAAAtg/s-9gsMb3uM0/s161/logoskymovie.png" group-title="ENGLISH",SKY MOVIE PREMIER
-http://s1.wssiptv.com/live/wssiptvdotcom/Uysi8iOity965sSwqes/113.ts
- 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-BPFK_MQu5i8/VYKD2AQqLkI/AAAAAAAAAtg/s-9gsMb3uM0/s161/logoskymovie.png" group-title="ENGLISH",SKY MOVIE DRAMA
-http://s1.wssiptv.com/live/wssiptvdotcom/Uysi8iOity965sSwqes/107.ts
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY MOVIES PREMIERE"  group-title="Movie",SKY MOVIES PREMIERE
+http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser
 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-2uU0U6Tv1so/VXKpAO80fYI/AAAAAAAAAlE/rfyiN9ncVfg/s161/logohbo.png" group-title="ENGLISH",HBO
-rtmp://twtv.touhao1995.com:1935/tv/ttv16
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS HD"  group-title="Movies",CBS HD
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT HD"  group-title="Movies",TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ITV"  group-title="Movies",ITV
+http://144.76.3.83/itv1_gb.m3u8?bandwidth=956&token=ef343f63c395c6ffaf389d2810848ff7&user=35430&playlistlength=25&os=browser
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
+http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-vsvT_DMB4rI/VYOtlP9N5vI/AAAAAAAAAuU/pRUdttK-8Ek/s161/logoshowtime.png" group-title="ENGLISH",SHOWTIME
 http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/playlist.m3u8?wowzasessionid=1419875151
@@ -152,12 +146,6 @@ http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-LQIkbo6FFWM/VXU7J7kiSzI/AAAAAAAAAoo/xS2MwNnIajs/s161/logodubaione.png" group-title="ENGLISH",DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-e6ypR4m5W6k/VVlIHu-vffI/AAAAAAAAAW8/v7p_krZKgy4/s161/logocnbc.png" group-title="ENGLISH",CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
-
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-65EL_S9lS8E/VVlIHlYPsHI/AAAAAAAAAWw/EU0-D230uMA/s161/logoebru.png" group-title="ENGLISH",EBRU TV
-http://204.107.26.252:1935/live/914.high.stream/HasBahCa.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
@@ -204,23 +192,11 @@ rtmp://180.250.29.12/jhos//beib2_5
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-AW4QdtoWUgk/VVlEJhjd2TI/AAAAAAAAAWM/xFoWwDdwB9o/s161/logobeinsport3.png" group-title="Sports", BEIN SPORT 3
 rtmp://180.250.29.12/jhos//beib3_5
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 1"  group-title="Sports",SKY SPORT 1
-rtmp://50.7.67.78:1935/graham/ss1
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 2"  group-title="Sports",SKY SPORT 2
-rtmp://50.7.67.78:1935/graham/ss2
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 3"  group-title="Sports",SKY SPORT 3
-rtmp://50.7.67.78:1935/graham/ss3
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AyrIrJo2oOY/VVryVHUXGPI/AAAAAAAAAY8/a4Z5Q4dAKs4/s161/logoskysport3.png" group-title="Sports",SKYSPORT 3
 http://s1.wssiptv.com/live/wssiptvdotcom/Uysi8iOity965sSwqes/3.ts
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 4"  group-title="Sports",SKY SPORT 4
 rtmp://50.7.67.78:1935/graham/ss4
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 5"  group-title="Sports",SKY SPORT 5
-rtmp://50.7.67.78:1935/graham/ss5
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN HD"  group-title="Sports",ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
@@ -234,30 +210,6 @@ http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-48HD_acruD0/VYOob_aYWXI/AAAAAAAAAuE/RuXCaIQFXDs/s161/logodisneychannel.png" group-title="Kids", DISNEY CHANNEL
 http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY MOVIES PREMIERE"  group-title="Movie",SKY MOVIES PREMIERE
-http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS HD"  group-title="Movies",CBS HD
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT HD"  group-title="Movies",TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ITV"  group-title="Movies",ITV
-http://144.76.3.83/itv1_gb.m3u8?bandwidth=956&token=ef343f63c395c6ffaf389d2810848ff7&user=35430&playlistlength=25&os=browser
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
-http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID (EN)"  group-title="Movies",ID (EN)
-http://80.77.52.6:3917/udp/226.0.3.1:12345
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WF HD"  group-title="Movies",WF HD
-http://80.77.52.6:3917/udp/226.0.1.10:12345
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DW"  group-title="Movies",DW
-http://80.77.52.6:3917/udp/226.0.1.17:12345
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Live HD"  group-title="Music",MTV Live HD
 http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2
 
@@ -267,12 +219,8 @@ http://80.77.52.6:3917/udp/226.0.7.15:12345
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="Music",MTV Hits
 http://80.77.52.6:3917/udp/226.0.7.17:12345
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fashion TV HD"  group-title="Women",Fashion TV HD
-http://80.77.52.6:3917/udp/226.0.1.41:12345
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fashion TV"  group-title="Women",Fashion TV
-http://80.77.52.6:3917/udp/226.0.1.42:12345
-
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-e6ypR4m5W6k/VVlIHu-vffI/AAAAAAAAAW8/v7p_krZKgy4/s161/logocnbc.png" group-title="ENGLISH",CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
 http://50.7.96.210:8285/;stream.mp3
