@@ -24,6 +24,10 @@ http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eld1dIJlx_w/VVLglfsAKYI/AAAAAAAAAGU/jxf6V4Q1Zxc/s161/logoawani.png" group-title="Malaysia",ASTRO AWANI
 rtmp://cp160334.live.edgefcs.net/live
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eld1dIJlx_w/VVLglfsAKYI/AAAAAAAAAGU/jxf6V4Q1Zxc/s161/logoawani.png" group-title="Malaysia",ASTRO AWANI 2
+rtmp://cp160334.live.edgefcs.net/live?ovpfv=1.1/AstroAwani24x7_3@74937
+
+
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-zgv9F0Eb1sc/VVd4LZiVduI/AAAAAAAAAS0/VRlCHcanNo8/s161/logoastrowarna.png" group-title="Malaysia",ASTRO WARNA
 http://www.layarku.tv/media/warnav6.m3u8
 
