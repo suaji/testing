@@ -22,13 +22,13 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jMi-7eWekms/VXLFQtRgRTI/AAAAAAAAAlU/d7lJp4FcLBg/s161/logoastroria.png" group-title="Malaysia",ASTRO RIA
-http://www.layarku.tv/media/riav6.m3u8
+http://goo.gl/x1ybsM
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xlPhjHvdYNQ/VVhVR-u1JmI/AAAAAAAAATg/JydMmu8dz_Y/s161/logoastroprima.png" group-title="Malaysia",ASTRO PRIMA
-http://www.layarku.tv/media/primav6.m3u8
+http://goo.gl/IJhG8O
 
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jMi-7eWekms/VXLFQtRgRTI/AAAAAAAAAlU/d7lJp4FcLBg/s161/logoastroria.png" group-title="Malaysia",ASTRO OASIS
-http://www.layarku.tv/media/oasisv6.m3u8
+http://goo.gl/85e4T1
 
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-zgv9F0Eb1sc/VVd4LZiVduI/AAAAAAAAAS0/VRlCHcanNo8/s161/logoastrowarna.png" group-title="Malaysia",ASTRO WARNA
 http://goo.gl/sQQRqV
