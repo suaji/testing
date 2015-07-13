@@ -21,17 +21,20 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Malaysia",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-zgv9F0Eb1sc/VVd4LZiVduI/AAAAAAAAAS0/VRlCHcanNo8/s161/logoastrowarna.png" group-title="Malaysia",ASTRO WARNA
-http://goo.gl/sQQRqV
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jMi-7eWekms/VXLFQtRgRTI/AAAAAAAAAlU/d7lJp4FcLBg/s161/logoastroria.png" group-title="Malaysia",ASTRO RIA
+http://www.layarku.tv/media/riav6.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xlPhjHvdYNQ/VVhVR-u1JmI/AAAAAAAAATg/JydMmu8dz_Y/s161/logoastroprima.png" group-title="Malaysia",ASTRO PRIMA
 http://www.layarku.tv/media/primav6.m3u8
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jMi-7eWekms/VXLFQtRgRTI/AAAAAAAAAlU/d7lJp4FcLBg/s161/logoastroria.png" group-title="Malaysia",ASTRO RIA
-http://www.layarku.tv/media/riav6.m3u8
-
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jMi-7eWekms/VXLFQtRgRTI/AAAAAAAAAlU/d7lJp4FcLBg/s161/logoastroria.png" group-title="Malaysia",ASTRO OASIS
 http://www.layarku.tv/media/oasisv6.m3u8
+
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-zgv9F0Eb1sc/VVd4LZiVduI/AAAAAAAAAS0/VRlCHcanNo8/s161/logoastrowarna.png" group-title="Malaysia",ASTRO WARNA
+http://goo.gl/sQQRqV
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eld1dIJlx_w/VVLglfsAKYI/AAAAAAAAAGU/jxf6V4Q1Zxc/s161/logoawani.png" group-title="Malaysia",ASTRO AWANI
+rtmp://cp160334.live.edgefcs.net:443/live?ovpfv=1.1/AstroAwani24x7_3@74937 pageUrl=http://www.astroawani.com/live-tv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png" tvg-name="BERNAMA TV"  group-title="Malaysia",BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
