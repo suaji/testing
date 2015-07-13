@@ -356,3 +356,15 @@ http://fasteu1.webhop.info:8000/live/dik/dik/434.ts
 
 #EXTINF:-1,Descovery World
 http://fasteu1.webhop.info:8000/live/dik/dik/433.ts
+
+#EXTINF:-1, SKY MOVIES PREMIERE
+http://136.243.12.170/sky_moviespremiere_gb.m3u8
+
+#EXTINF:-1, DISNEY CHANNEL UK
+http://136.243.12.170/disney_channel_gb.m3u8
+
+#EXTINF:-1, NICKELODEON UK
+http://136.243.12.170/nickelodeon_gb.m3u8
+
+#EXTINF:-1, SKY ONE
+http://136.243.12.170/sky_one_gb.m3u8
