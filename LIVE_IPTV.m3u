@@ -36,18 +36,6 @@ http://goo.gl/sQQRqV
 #EXTINF:-1,Awani
 rtmp://cp160334.live.edgefcs.net:443/live/ pageUrl=http://www.astroawani.com/live-tv swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf?v=20150713-15 playpath=AstroAwani24x7_3@74937  
 
-#EXTINF:-1,Awani 2
-rtmp://cp160334.live.edgefcs.net:443/live pageUrl=http://www.astroawani.com/live-tv swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf?v=20150713-15 playpath=AstroAwani24x7_3@74937  
-
-#EXTINF:-1,Awani 3
-rtmp://cp160334.live.edgefcs.net:443/live/live?ovpfv=1.1 pageUrl=http://www.astroawani.com/live-tv swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf?v=20150713-15 playpath=AstroAwani24x7_3@74937  
-
-#EXTINF:-1,Awani 4
-rtmp://cp160334.live.edgefcs.net/live/ pageUrl=http://www.astroawani.com/live-tv swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf playpath=AstroAwani24x7_3@74937  
-
-#EXTINF:-1,Awani 5
-rtmp://cp160334.live.edgefcs.net/live/ pageUrl=http://www.astroawani.com/live-tv swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf live=1 playpath=AstroAwani24x7_3@74937  
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png" tvg-name="BERNAMA TV"  group-title="Malaysia",BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
