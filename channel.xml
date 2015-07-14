@@ -126,12 +126,6 @@
 </item>
 
 <item>
-<title>ASTRO AWANI</title>
-<link>rtmp://cp160334.live.edgefcs.net:1935/live?ovpfv=1.1/AstroAwani24x7_3@74937</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
-</item>
-
-<item>
 <title>ASTRO PRIMA</title>
 <link>http://www.layarku.tv/media/primav6.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_prima.png</thumbnail>
@@ -150,14 +144,20 @@
 </item>
 
 <item>
-<title>ASTRO AWANI 2</title>
-<link>rtmp://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_2@74937 swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.layanmovie.com/2013/05/11/astro-awani-live-streaming/ conn=Z: swfVfy=true live=true timeout=15</link>
+<title>ASTRO AWANI</title>
+<link>rtmp://cp160334.live.edgefcs.net:1935/live?ovpfv=1.1/AstroAwani24x7_3@74937</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
-</item> 
+</item>
+
+<item>
+<title>ASTRO AWANI 2</title>
+<link>rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
+</item>
 
 <item>
 <title>ASTRO AWANI 3</title>
-<link>rtmp://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 swfUrl=http://static.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live</link>
+<link>rtmp://cp160334.live.edgefcs.net/live/AstroAwani24x7_1@74937</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
 </item>
 
