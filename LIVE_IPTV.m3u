@@ -171,17 +171,8 @@ http://80.77.52.6:3917/udp/226.0.1.5:12345
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC HD"  group-title="News",ABC HD
 http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV ONE - Indonesia"  group-title="News",TV ONE - Indonesia
-http://live.stream.telin.swiftserve.com/live/livetv-mbr/mp4:m-tvone_2/playlist.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 1 HD"  group-title="Sports",SKY SPORT 1 HD
 http://144.76.3.83/sky_sports1gb.m3u8?bandwidth=956&token=205e6dc135bf9e7fe3da60d6ba052211&user=35430&playlistlength=25&os=browser
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORT 1"  group-title="Sports",BT SPORT 1
-rtmp://50.7.67.78:1935/graham/bt1
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORT 2"  group-title="Sports",BT SPORT 2
-rtmp://50.7.67.78:1935/graham/bt2
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-u7uEg3ACn44/VVlEJ8uX4XI/AAAAAAAAAWU/p3XFijmYW3c/s161/logobeinsport1.png" group-title="Sports", BEIN SPORT 1
 rtmp://180.250.29.12/jhos//beib1_5
@@ -191,9 +182,6 @@ rtmp://180.250.29.12/jhos//beib2_5
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-AW4QdtoWUgk/VVlEJhjd2TI/AAAAAAAAAWM/xFoWwDdwB9o/s161/logobeinsport3.png" group-title="Sports", BEIN SPORT 3
 rtmp://180.250.29.12/jhos//beib3_5
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AyrIrJo2oOY/VVryVHUXGPI/AAAAAAAAAY8/a4Z5Q4dAKs4/s161/logoskysport3.png" group-title="Sports",SKYSPORT 3
-http://s1.wssiptv.com/live/wssiptvdotcom/Uysi8iOity965sSwqes/3.ts
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 4"  group-title="Sports",SKY SPORT 4
 rtmp://50.7.67.78:1935/graham/ss4
@@ -269,93 +257,6 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
-
-#EXTINF:-1,Sky Cinema 1 HD
-http://fasteu1.webhop.info:8000/live/dik/dik/417.ts
-
-#EXTINF:-1,Sky Cinema +24 HD
-http://fasteu1.webhop.info:8000/live/dik/dik/418.ts
-
-#EXTINF:-1,Sky Cinema Max HD
-http://fasteu1.webhop.info:8000/live/dik/dik/419.ts
-
-#EXTINF:-1,Sky Cinema Hits HD
-http://fasteu1.webhop.info:8000/live/dik/dik/420.ts
-
-#EXTINF:-1,Sky Cinema Family HD
-http://fasteu1.webhop.info:8000/live/dik/dik/421.ts
-
-#EXTINF:-1,Sky Cinema Comedy HD
-http://fasteu1.webhop.info:8000/live/dik/dik/423.ts
-
-#EXTINF:-1,Sky Cinema Classic HD
-http://fasteu1.webhop.info:8000/live/dik/dik/422.ts
-
-#EXTINF:-1,Sky Cinema Passion HD
-http://fasteu1.webhop.info:8000/live/dik/dik/425.ts
-
-#EXTINF:-1,Sky Cinema Cult HD
-http://fasteu1.webhop.info:8000/live/dik/dik/424.ts
-
-#EXTINF:-1,Sky Atlantic HD
-http://fasteu1.webhop.info:8000/live/dik/dik/426.ts
-
-#EXTINF:-1,Sky Uno HD
-http://fasteu1.webhop.info:8000/live/dik/dik/427.ts
-
-#EXTINF:-1,AXN
-http://fasteu1.webhop.info:8000/live/dik/dik/432.ts
-
-#EXTINF:-1,Fox
-http://fasteu1.webhop.info:8000/live/dik/dik/520.ts
-
-#EXTINF:-1,Fox Crime HD
-http://fasteu1.webhop.info:8000/live/dik/dik/429.ts
-
-#EXTINF:-1,Fox Life HD
-http://fasteu1.webhop.info:8000/live/dik/dik/430.ts
-
-#EXTINF:-1,Fox Comedy HD
-http://fasteu1.webhop.info:8000/live/dik/dik/431.ts
-
-#EXTINF:-1,Sky Sport 1 HD
-http://fasteu1.webhop.info:8000/live/dik/dik/436.ts
-
-#EXTINF:-1,Sky Sport 2 HD
-http://fasteu1.webhop.info:8000/live/dik/dik/437.ts
-
-#EXTINF:-1,Sky Sport 3 HD
-http://fasteu1.webhop.info:8000/live/dik/dik/438.ts
-
-#EXTINF:-1,Sky Sport 24 HD
-http://fasteu1.webhop.info:8000/live/dik/dik/439.ts
-
-#EXTINF:-1,Fox Sport
-http://fasteu1.webhop.info:8000/live/dik/dik/529.ts
-
-#EXTINF:-1,Sky Moto GP
-http://fasteu1.webhop.info:8000/live/dik/dik/441.ts
-
-#EXTINF:-1,Sky Sport F1 HD
-http://fasteu1.webhop.info:8000/live/dik/dik/440.ts
-
-#EXTINF:-1,Sky SuperCalcio HD
-http://fasteu1.webhop.info:8000/live/dik/dik/475.ts
-
-#EXTINF:-1,Sky Calcio 1 HD
-http://fasteu1.webhop.info:8000/live/dik/dik/476.ts
-
-#EXTINF:-1,Sky Calcio 2
-http://fasteu1.webhop.info:8000/live/dik/dik/477.ts
-
-#EXTINF:-1,National Geographic HD
-http://fasteu1.webhop.info:8000/live/dik/dik/435.ts
-
-#EXTINF:-1,Discovery Channel
-http://fasteu1.webhop.info:8000/live/dik/dik/434.ts
-
-#EXTINF:-1,Descovery World
-http://fasteu1.webhop.info:8000/live/dik/dik/433.ts
 
 #EXTINF:-1, SKY MOVIES PREMIERE
 http://136.243.12.170/sky_moviespremiere_gb.m3u8
