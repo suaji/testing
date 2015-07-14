@@ -54,6 +54,9 @@ rtmp://119.110.96.71/live/1htv
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-wn4WgWCZVkk/VYJXtxA86lI/AAAAAAAAAtI/YZd9ZqKpczo/s161/logookto.png" group-title="Singapore",OKTO
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto.smil/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Mj9iEcqnRjw/VYJXuDv2CdI/AAAAAAAAAtM/yFv34RcNcIY/s161/logosuriatv.png" group-title="Singapore",SURIA
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-9WnCou45oeA/VYJXsrad_rI/AAAAAAAAAtA/hYTviQsEb1U/s161/logochannelu.png" group-title="Singapore",CHANNEL U
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8
 
@@ -65,9 +68,6 @@ http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-CSaDlfwX8eo/VYJXtGcZK2I/AAAAAAAAAs0/Cun5eMkaf4I/s161/logonewasia.png" group-title="Singapore",NEWS ASIA
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Mj9iEcqnRjw/VYJXuDv2CdI/AAAAAAAAAtM/yFv34RcNcIY/s161/logosuriatv.png" group-title="Singapore",SURIA
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="antv.png" tvg-logo="https://lh3.googleusercontent.com/-JBGYgMK_QHo/VVdTupzTurI/AAAAAAAAARc/trq0Qq2QzYM/s161/logoantv.png" group-title="Indonesia",ANTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
@@ -108,8 +108,8 @@ rtmp://202.137.11.52:1935/jakarta/offair.sdp
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-7SF-r_UwZis/VWMI-025YcI/AAAAAAAAAe0/-3GRJrCJKPU/s161/logoantaratv.png" group-title="Indonesia",ANTARA TV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY MOVIES PREMIERE"  group-title="Movie",SKY MOVIES PREMIERE
-http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser
+#EXTINF:-1, SKY MOVIES PREMIERE 
+http://136.243.12.170/sky_moviespremiere_gb.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS HD"  group-title="Movies",CBS HD
 http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
@@ -128,6 +128,9 @@ http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-pHohwIBtvaw/VYOvbiXXrUI/AAAAAAAAAug/UxwSg-fFTEg/s161/logohallmark.png" group-title="ENGLISH",HALLMARK
 http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+
+#EXTINF:-1, SKY ONE
+http://136.243.12.170/sky_one_gb.m3u8
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-bvbV1-rr_Sg/VYOxIoJFeOI/AAAAAAAAAus/S8pnDRdwrds/s161/logohistorychannel.png" group-title="ENGLISH",HISTORY
 http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
@@ -168,9 +171,6 @@ http://80.77.52.6:3917/udp/226.0.1.5:12345
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC HD"  group-title="News",ABC HD
 http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 1 HD"  group-title="Sports",SKY SPORT 1 HD
-http://144.76.3.83/sky_sports1gb.m3u8?bandwidth=956&token=205e6dc135bf9e7fe3da60d6ba052211&user=35430&playlistlength=25&os=browser
-
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-u7uEg3ACn44/VVlEJ8uX4XI/AAAAAAAAAWU/p3XFijmYW3c/s161/logobeinsport1.png" group-title="Sports", BEIN SPORT 1
 rtmp://180.250.29.12/jhos//beib1_5
 
@@ -180,17 +180,26 @@ rtmp://180.250.29.12/jhos//beib2_5
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-AW4QdtoWUgk/VVlEJhjd2TI/AAAAAAAAAWM/xFoWwDdwB9o/s161/logobeinsport3.png" group-title="Sports", BEIN SPORT 3
 rtmp://180.250.29.12/jhos//beib3_5
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 1 HD"  group-title="Sports",SKY SPORT 1
+http://144.76.3.83/sky_sports1gb.m3u8?bandwidth=956&token=205e6dc135bf9e7fe3da60d6ba052211&user=35430&playlistlength=25&os=browser
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 4"  group-title="Sports",SKY SPORT 4
 rtmp://50.7.67.78:1935/graham/ss4
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN HD"  group-title="Sports",ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Kids",Cartoon Network
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Kids",CARTOON NETWORK
 http://80.77.52.6:3917/udp/226.0.3.2:12345
 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-WBQlg7gdBN8/VVLnL_M3ikI/AAAAAAAAAIY/uFH2joZ3stI/s161/logocn.png" group-title="Kids", CARTOON NETWORK
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-WBQlg7gdBN8/VVLnL_M3ikI/AAAAAAAAAIY/uFH2joZ3stI/s161/logocn.png" group-title="Kids", CARTOON NETWORK 2
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m3u8
+
+#EXTINF:-1, NICKELODEON UK
+http://136.243.12.170/nickelodeon_gb.m3u8
+
+#EXTINF:-1, DISNEY CHANNEL UK
+http://136.243.12.170/disney_channel_gb.m3u8
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-48HD_acruD0/VYOob_aYWXI/AAAAAAAAAuE/RuXCaIQFXDs/s161/logodisneychannel.png" group-title="Kids", DISNEY CHANNEL
 http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
@@ -254,15 +263,3 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
-
-#EXTINF:-1, SKY MOVIES PREMIERE
-http://136.243.12.170/sky_moviespremiere_gb.m3u8
-
-#EXTINF:-1, DISNEY CHANNEL UK
-http://136.243.12.170/disney_channel_gb.m3u8
-
-#EXTINF:-1, NICKELODEON UK
-http://136.243.12.170/nickelodeon_gb.m3u8
-
-#EXTINF:-1, SKY ONE
-http://136.243.12.170/sky_one_gb.m3u8
