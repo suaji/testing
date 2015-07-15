@@ -33,10 +33,7 @@ http://goo.gl/85e4T1
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-zgv9F0Eb1sc/VVd4LZiVduI/AAAAAAAAAS0/VRlCHcanNo8/s161/logoastrowarna.png" group-title="Malaysia",WARNA
 http://goo.gl/sQQRqV
 
-#EXTINF:-1,AWANI 1
-rtmp://cp160334.live.edgefcs.net/live/AstroAwani24x7_1@74937
-
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-zgv9F0Eb1sc/VVd4LZiVduI/AAAAAAAAAS0/VRlCHcanNo8/s161/logoastrowarna.png" group-title="Malaysia",AWANI 2
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-zgv9F0Eb1sc/VVd4LZiVduI/AAAAAAAAAS0/VRlCHcanNo8/s161/logoastrowarna.png" group-title="Malaysia",AWANI
 rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png" tvg-name="BERNAMA TV"  group-title="Malaysia",BERNAMA TV
@@ -54,17 +51,11 @@ http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="hijau.png" tvg-logo="https://lh3.googleusercontent.com/-Ht-nBjnijB8/VVhiH_watRI/AAAAAAAAAUc/MK4gWW_DzbM/s161/logohijautv.png" group-title="Malaysia",HIJAU TV
 rtmp://119.110.96.71/live/1htv
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-wn4WgWCZVkk/VYJXtxA86lI/AAAAAAAAAtI/YZd9ZqKpczo/s161/logookto.png" group-title="Singapore",OKTO
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Mj9iEcqnRjw/VYJXuDv2CdI/AAAAAAAAAtM/yFv34RcNcIY/s161/logosuriatv.png" group-title="Singapore",SURIA
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-9WnCou45oeA/VYJXsrad_rI/AAAAAAAAAtA/hYTviQsEb1U/s161/logochannelu.png" group-title="Singapore",CHANNEL U
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jULdIbRNuhI/VYJXsc1pxuI/AAAAAAAAAso/p6k0FoktXzk/s161/logochannel5.png" group-title="Singapore",CHANNEL 5
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch5.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-SdoJs5V3Z8U/VYJXsSfCCXI/AAAAAAAAAsw/NN9ScWpw2wQ/s161/logochannel8.png" group-title="Singapore",CHANNEL 8
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8
@@ -74,12 +65,6 @@ http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="antv.png" tvg-logo="https://lh3.googleusercontent.com/-JBGYgMK_QHo/VVdTupzTurI/AAAAAAAAARc/trq0Qq2QzYM/s161/logoantv.png" group-title="Indonesia",ANTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="mivo.png" tvg-logo="https://lh3.googleusercontent.com/-j7J6JdhqumE/VVdTvNZe-DI/AAAAAAAAASE/yQZ5bBY4B_c/s161/logomivo.png" group-title="Indonesia",MIVOTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="arena.png" tvg-logo="https://lh3.googleusercontent.com/-f3AUX47ti4A/VVdTufyHDXI/AAAAAAAAARQ/53jE198gYpM/s161/logoarena.png" group-title="Indonesia",ARENA SPORT
-http://118.97.167.19/jhos/arena//Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="sctv.png" tvg-logo="https://lh3.googleusercontent.com/-yllHTkVoBI4/VVdTvq2wwqI/AAAAAAAAARs/EbpaoOQHypk/s161/logosctv.png" group-title="Indonesia",SCTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8
@@ -113,9 +98,6 @@ http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 
 #EXTINF:-1, SKY MOVIES PREMIERE 
 http://136.243.12.170/sky_moviespremiere_gb.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS HD"  group-title="Movies",CBS HD
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT HD"  group-title="Movies",TNT HD
 http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
@@ -153,26 +135,26 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG ASIA"  group-title="News",BLOOMBERG ASIA
-http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC HD"  group-title="News",ABC HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC WORLD NEWS"  group-title="News",BBC WORLD NEWS
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bloomberg"  group-title="News",Bloomberg
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG"  group-title="News",BLOOMBERG
 http://80.77.52.6:3917/udp/226.0.1.49:12345
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="News",NHK World
-http://80.77.52.6:3917/udp/226.0.1.52:12345
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG ASIA"  group-title="News",BLOOMBERG ASIA
+http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV News"  group-title="News",CCTV News
 http://80.77.52.6:3917/udp/226.0.1.5:12345
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC HD"  group-title="News",ABC HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="News",NHK World
+http://80.77.52.6:3917/udp/226.0.1.52:12345
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-u7uEg3ACn44/VVlEJ8uX4XI/AAAAAAAAAWU/p3XFijmYW3c/s161/logobeinsport1.png" group-title="Sports", BEIN SPORT 1
 rtmp://180.250.29.12/jhos//beib1_5
@@ -192,6 +174,9 @@ rtmp://50.7.67.78:1935/graham/ss4
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN HD"  group-title="Sports",ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
 
+#EXTINF:-1 tvg-logo="arena.png" tvg-logo="https://lh3.googleusercontent.com/-f3AUX47ti4A/VVdTufyHDXI/AAAAAAAAARQ/53jE198gYpM/s161/logoarena.png" group-title="Indonesia",ARENA SPORT
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Kids",CARTOON NETWORK
 http://80.77.52.6:3917/udp/226.0.3.2:12345
 
@@ -206,6 +191,9 @@ http://136.243.12.170/disney_channel_gb.m3u8
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-48HD_acruD0/VYOob_aYWXI/AAAAAAAAAuE/RuXCaIQFXDs/s161/logodisneychannel.png" group-title="Kids", DISNEY CHANNEL
 http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+
+#EXTINF:-1 tvg-logo="mivo.png" tvg-logo="https://lh3.googleusercontent.com/-j7J6JdhqumE/VVdTvNZe-DI/AAAAAAAAASE/yQZ5bBY4B_c/s161/logomivo.png" group-title="Indonesia",MIVOTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Live HD"  group-title="Music",MTV Live HD
 http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2
