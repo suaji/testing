@@ -254,3 +254,6 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:-1, NASA TV HD 
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
