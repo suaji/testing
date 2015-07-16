@@ -257,3 +257,24 @@ http://astro1.rastream.com/lite?type=.flv
 
 #EXTINF:-1, NASA TV HD 
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 group-title="Sky UK",Sky Movies Avtion
+http://bg-sofia.hls.unistream.tv/317/play?key=53ef522659a58
+
+#EXTINF:-1 group-title="Sky UK",Sky Movies Comedy
+http://bg-sofia.hls.unistream.tv/313/play?key=53ef522659a58
+
+#EXTINF:-1 group-title="Sky UK",Sky Movies Drama & Romance
+http://bg-sofia.hls.unistream.tv/316/play?key=53ef522659a58
+
+#EXTINF:-1 group-title="Sky UK",Sky Movies Family
+http://bg-sofia.hls.unistream.tv/318/play?key=53ef522659a58
+
+#EXTINF:-1 group-title="Sky UK",Sky Movies Premiere
+http://bg-sofia.hls.unistream.tv/312/play?key=53ef522659a58
+
+#EXTINF:-1 group-title="Sky UK",Sky Movies SciFi & Horror
+http://bg-sofia.hls.unistream.tv/314/play?key=53ef522659a58
+
+#EXTINF:-1 group-title="Sky UK",Sky Movies Thriller
+http://bg-sofia.hls.unistream.tv/315/play?key=53ef522659a58
