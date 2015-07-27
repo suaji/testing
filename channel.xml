@@ -1252,25 +1252,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Hantu Bukit Cina (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8lofyx8u8s29-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nlffhx5h9658-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/08/hantu-bukit-cina-sdtvrip-dvdrip-download-pencuri-movie.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-8lofyx8u8s29-640x360.html</page>
-<referer>http://streamin.to/8lofyx8u8s29</referer>
+<page>http://streamin.to/embed-nlffhx5h9658-640x360.html</page>
+<referer>http://streamin.to/nlffhx5h9658</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-8lofyx8u8s29-640x360.html</page>
-<referer>http://streamin.to/8lofyx8u8s29</referer>
+<page>http://streamin.to/embed-nlffhx5h9658-640x360.html</page>
+<referer>http://streamin.to/nlffhx5h9658</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-8lofyx8u8s29-640x360.html</page>
-<referer>http://streamin.to/8lofyx8u8s29</referer>
+<page>http://streamin.to/embed-nlffhx5h9658-640x360.html</page>
+<referer>http://streamin.to/nlffhx5h9658</referer>
 </regex>
 </item>
 
@@ -1780,25 +1780,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Panik (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8hf96jo701sl-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ijuydmsjaft5-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
 <page>http://streamin.to/embed-8hf96jo701sl-640x360.html</page>
-<referer>http://streamin.to/8hf96jo701sl</referer>
+<referer>http://streamin.to/ijuydmsjaft5</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-8hf96jo701sl-640x360.html</page>
-<referer>http://streamin.to/8hf96jo701sl</referer>
+<page>http://streamin.to/embed-ijuydmsjaft5-640x360.html</page>
+<referer>http://streamin.to/ijuydmsjaft5</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-8hf96jo701sl-640x360.html</page>
-<referer>http://streamin.to/8hf96jo701sl</referer>
+<page>http://streamin.to/embed-ijuydmsjaft5-640x360.html</page>
+<referer>http://streamin.to/ijuydmsjaft5</referer>
 </regex>
 </item>
 
@@ -1996,25 +1996,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Seru (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y2p07yel9lvl-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-l8gl12aauaud-640x360.html</link>
 <thumbnail>http://www.horror-movies.ca/wp-content/uploads/2011/04/Seru-Poster.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-y2p07yel9lvl-640x360.html</page>
-<referer>http://streamin.to/y2p07yel9lvl</referer>
+<page>http://streamin.to/embed-l8gl12aauaud-640x360.html</page>
+<referer>http://streamin.to/l8gl12aauaud</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-y2p07yel9lvl-640x360.html</page>
-<referer>http://streamin.to/y2p07yel9lvl</referer>
+<page>http://streamin.to/embed-l8gl12aauaud-640x360.html</page>
+<referer>http://streamin.to/l8gl12aauaud</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-y2p07yel9lvl-640x360.html</page>
-<referer>http://streamin.to/y2p07yel9lvl</referer>
+<page>http://streamin.to/embed-l8gl12aauaud-640x360.html</page>
+<referer>http://streamin.to/l8gl12aauaud</referer>
 </regex>
 </item>
 
