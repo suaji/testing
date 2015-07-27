@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_tv1_my.png" tvg-name="TV1"  group-title="Malaysia",TV1
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/playlist.m3u8
+http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch001.stream_360p/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm2_malaysia.png" tvg-name="TV2"  group-title="Malaysia",TV2
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
+http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
@@ -17,6 +17,12 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" tvg-name="TV9"  group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_tvi_my.png" tvg-name="TVi"  group-title="Malaysia",TVi
+http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_galaksi_muzik_my.png" tvg-name="GALAKSI MUZIK"  group-title="Malaysia",GALAKSI MUZIK
+http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch006.stream_360p/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Malaysia",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
@@ -40,13 +46,7 @@ rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwa
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/num/1_news_my.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_galaksi_muzik_my.png" tvg-name="GALAKSI MUZIK"  group-title="Malaysia",GALAKSI MUZIK
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_tvi_my.png" tvg-name="TVi"  group-title="Malaysia",TVi
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
+http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch020.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="hijau.png" tvg-logo="https://lh3.googleusercontent.com/-Ht-nBjnijB8/VVhiH_watRI/AAAAAAAAAUc/MK4gWW_DzbM/s161/logohijautv.png" group-title="Malaysia",HIJAU TV
 rtmp://119.110.96.71/live/1htv
