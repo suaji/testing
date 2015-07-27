@@ -1444,25 +1444,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Kelibat (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-tpgzwsyr84lo-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-is4hpvpy962f-640x360.html</link>
 <thumbnail>http://www.paparazzi.my/wp-content/uploads/2014/11/kelibat1.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-tpgzwsyr84lo-640x360.html</page>
-<referer>http://streamin.to/tbdx41t6lvu2</referer>
+<page>http://streamin.to/embed-is4hpvpy962f-640x360.html</page>
+<referer>http://streamin.to/is4hpvpy962f</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-tpgzwsyr84lo-640x360.html</page>
-<referer>http://streamin.to/tbdx41t6lvu2</referer>
+<page>http://streamin.to/embed-is4hpvpy962f-640x360.html</page>
+<referer>http://streamin.to/is4hpvpy962f</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-tpgzwsyr84lo-640x360.html</page>
-<referer>http://streamin.to/tbdx41t6lvu2</referer>
+<page>http://streamin.to/embed-is4hpvpy962f-640x360.html</page>
+<referer>http://streamin.to/is4hpvpy962f</referer>
 </regex>
 </item>
 
@@ -1876,25 +1876,25 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Seram Sejuk (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-6vaild7oogl5-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-he0ufkt2qdme-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-qI08Vu9Y6uY/UEVVrwxDMBI/AAAAAAAADz0/QB1CQff1qIE/s640/Seram+Sejuk+%25282012%2529.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-6vaild7oogl5-640x360.html</page>
-<referer>http://streamin.to/6vaild7oogl5</referer>
+<page>http://streamin.to/embed-he0ufkt2qdme-640x360.html</page>
+<referer>http://streamin.to/he0ufkt2qdme</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-6vaild7oogl5-640x360.html</page>
-<referer>http://streamin.to/6vaild7oogl5</referer>
+<page>http://streamin.to/embed-he0ufkt2qdme-640x360.html</page>
+<referer>http://streamin.to/he0ufkt2qdme</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-6vaild7oogl5-640x360.html</page>
-<referer>http://streamin.to/6vaild7oogl5</referer>
+<page>http://streamin.to/embed-he0ufkt2qdme-640x360.html</page>
+<referer>http://streamin.to/he0ufkt2qdme</referer>
 </regex>
 </item>
 
