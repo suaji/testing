@@ -102,9 +102,6 @@ rtmp://202.137.11.52:1935/jakarta/offair.sdp
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-7SF-r_UwZis/VWMI-025YcI/AAAAAAAAAe0/-3GRJrCJKPU/s161/logoantaratv.png" group-title="Indonesia",ANTARA TV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 
-#EXTINF:-1, SKY MOVIES PREMIERE 
-http://136.243.12.170/sky_moviespremiere_gb.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT HD"  group-title="Movies",TNT HD
 http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
 
@@ -138,6 +135,18 @@ http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-LQIkbo6FFWM/VXU7J7kiSzI/AAAAAAAAAoo/xS2MwNnIajs/s161/logodubaione.png" group-title="ENGLISH",DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
+#EXTINF:0,Fox UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Fox_UK?auth=test+test
+
+#EXTINF:0,Fox UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Fox_UK_+1?auth=test+test
+
+#EXTINF:0,Comedy Central UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Comedy_Central_UK?auth=test+test
+
+#EXTINF:0,Comedy Central Extra UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Comedy_Central_Extra_UK?auth=test+test
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
@@ -156,26 +165,78 @@ http://80.77.52.6:3917/udp/226.0.1.49:12345
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG ASIA"  group-title="News",BLOOMBERG ASIA
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV News"  group-title="News",CCTV News
-http://80.77.52.6:3917/udp/226.0.1.5:12345
+#EXTINF:-1, NASA TV HD 
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="News",NHK World
-http://80.77.52.6:3917/udp/226.0.1.52:12345
+#EXTINF:0,Sky Movies Showcase UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Showcase_HD?auth=test+test
+#EXTINF:0,Sky Movies Action&Adventure UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Action-Adventure_UK?auth=test+test
+#EXTINF:0,Sky Movies Comedy UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Comedy_UK?auth=test+test
+#EXTINF:0,Sky Movies Sci-Fi&Horror UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Sci-Fi-Horror_UK?auth=test+test
+#EXTINF:0,Sky Movies Select UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Select_UK?auth=test+test
+#EXTINF:0,Sky Movies Disney UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Disney_UK?auth=test+test
+#EXTINF:0,Sky Movies Family UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Family_UK?auth=test+test
+#EXTINF:0,Sky Movies Premiere UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Premiere_UK?auth=test+test
+#EXTINF:0,Sky Movies Premiere UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Premiere_UK_+1?auth=test+test
+#EXTINF:0,Sky Movies Crime&Thriller UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Crime-Thriller_UK?auth=test+test
+#EXTINF:0,Sky Movies Drama&Romance UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Drama-Romance_UK?auth=test+test
+#EXTINF:0,Sky Movies Greats UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Greats_UK?auth=test+test
+#EXTINF:0,Movies4Men
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Movies4Men?auth=test+test
+#EXTINF:0,Sony Movie Channel UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Sony-Movie-Channel-UK?auth=test+test
+#EXTINF:0,Movies4Men +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Movies4Men-+1?auth=test+test
+#EXTINF:0,Sony Movie Channel UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Sony-Movie-Channel-UK-+1?auth=test+test
+#EXTINF:0,PBS America
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/PBS_America?auth=test+test
 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-u7uEg3ACn44/VVlEJ8uX4XI/AAAAAAAAAWU/p3XFijmYW3c/s161/logobeinsport1.png" group-title="Sports", BEIN SPORT 1
-rtmp://180.250.29.12/jhos//beib1_5
-
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-qutYJd8Un_E/VVlEJ6huctI/AAAAAAAAAWY/LlSZR4T-LAU/s161/logobeinsport2.png" group-title="Sports", BEIN SPORT 2
-rtmp://180.250.29.12/jhos//beib2_5
-
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-AW4QdtoWUgk/VVlEJhjd2TI/AAAAAAAAAWM/xFoWwDdwB9o/s161/logobeinsport3.png" group-title="Sports", BEIN SPORT 3
-rtmp://180.250.29.12/jhos//beib3_5
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 1 HD"  group-title="Sports",SKY SPORT 1
-http://144.76.3.83/sky_sports1gb.m3u8?bandwidth=956&token=205e6dc135bf9e7fe3da60d6ba052211&user=35430&playlistlength=25&os=browser
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORT 4"  group-title="Sports",SKY SPORT 4
-rtmp://50.7.67.78:1935/graham/ss4
+#EXTINF:0,Sky Sports 1 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_1_UK?auth=test+test
+#EXTINF:0,Sky Sports 2 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_2_UK?auth=test+test
+#EXTINF:0,Sky Sports 3 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_3_UK?auth=test+test
+#EXTINF:0,Sky Sports 4 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_4_UK?auth=test+test
+#EXTINF:0,Sky Sports 5 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_5_UK?auth=test+test
+#EXTINF:0,Sky Sports F1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_F1?auth=test+test
+#EXTINF:0,BT Sport 1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/BT_Sport_1?auth=test+test
+#EXTINF:0,BT Sport 2
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/BT_Sport_2?auth=test+test
+#EXTINF:0,BT Sport / ESPN
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/BT_Sport_ESPN?auth=test+test
+#EXTINF:0,BT Sport Extra
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/BT_Sport_Extra?auth=test+test
+#EXTINF:0,Chelsea TV
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Chelsea_TV?auth=test+test
+#EXTINF:0,Racing UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Racing_UK?auth=test+test
+#EXTINF:0,Motors TV UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Motors_TV_UK?auth=test+test
+#EXTINF:0,British _Eurosport
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/British_Eurosport?auth=test+test
+#EXTINF:0,British Eurosport 2
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/British_Eurosport_2?auth=test+test
+#EXTINF:0,Setanta Ireland
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Setanta-Ireland?auth=test+test
+#EXTINF:0,Premier Sports
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Premier-Sports?auth=test+test
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN HD"  group-title="Sports",ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
@@ -183,17 +244,8 @@ http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasess
 #EXTINF:-1 tvg-logo="arena.png" tvg-logo="https://lh3.googleusercontent.com/-f3AUX47ti4A/VVdTufyHDXI/AAAAAAAAARQ/53jE198gYpM/s161/logoarena.png" group-title="Indonesia",ARENA SPORT
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Kids",CARTOON NETWORK
-http://80.77.52.6:3917/udp/226.0.3.2:12345
-
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-WBQlg7gdBN8/VVLnL_M3ikI/AAAAAAAAAIY/uFH2joZ3stI/s161/logocn.png" group-title="Kids", CARTOON NETWORK 2
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-WBQlg7gdBN8/VVLnL_M3ikI/AAAAAAAAAIY/uFH2joZ3stI/s161/logocn.png" group-title="Kids", CARTOON NETWORK
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m3u8
-
-#EXTINF:-1, NICKELODEON UK
-http://136.243.12.170/nickelodeon_gb.m3u8
-
-#EXTINF:-1, DISNEY CHANNEL UK
-http://136.243.12.170/disney_channel_gb.m3u8
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-48HD_acruD0/VYOob_aYWXI/AAAAAAAAAuE/RuXCaIQFXDs/s161/logodisneychannel.png" group-title="Kids", DISNEY CHANNEL
 http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
@@ -203,12 +255,6 @@ http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Live HD"  group-title="Music",MTV Live HD
 http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Rocks"  group-title="Music",MTV Rocks
-http://80.77.52.6:3917/udp/226.0.7.15:12345
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="Music",MTV Hits
-http://80.77.52.6:3917/udp/226.0.7.17:12345
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
 http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
@@ -260,27 +306,3 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
-
-#EXTINF:-1, NASA TV HD 
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:-1 group-title="Sky UK",Sky Movies Avtion
-http://bg-sofia.hls.unistream.tv/317/play?key=53ef522659a58
-
-#EXTINF:-1 group-title="Sky UK",Sky Movies Comedy
-http://bg-sofia.hls.unistream.tv/313/play?key=53ef522659a58
-
-#EXTINF:-1 group-title="Sky UK",Sky Movies Drama & Romance
-http://bg-sofia.hls.unistream.tv/316/play?key=53ef522659a58
-
-#EXTINF:-1 group-title="Sky UK",Sky Movies Family
-http://bg-sofia.hls.unistream.tv/318/play?key=53ef522659a58
-
-#EXTINF:-1 group-title="Sky UK",Sky Movies Premiere
-http://bg-sofia.hls.unistream.tv/312/play?key=53ef522659a58
-
-#EXTINF:-1 group-title="Sky UK",Sky Movies SciFi & Horror
-http://bg-sofia.hls.unistream.tv/314/play?key=53ef522659a58
-
-#EXTINF:-1 group-title="Sky UK",Sky Movies Thriller
-http://bg-sofia.hls.unistream.tv/315/play?key=53ef522659a58
