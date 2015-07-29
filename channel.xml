@@ -1421,7 +1421,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <item>
 <title>Kaki Kitai (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5z7iv30n05ap-640x360.html</link>
-<thumbnail>http://4.bp.blogspot.com/-rDqTRfrTAEY/VJSTAh6A6rI/AAAAAAAABl8/i1P6DMVXk1c/s1600/instaphoto-kaki-kitai-shaheizy-sam-1.jpg</thumbnail>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2014/12/kitai.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1445,7 +1445,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <item>
 <title>Kelibat (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-is4hpvpy962f-640x360.html</link>
-<thumbnail>http://www.paparazzi.my/wp-content/uploads/2014/11/kelibat1.jpg</thumbnail>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2014/11/kelibat-dvd.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1805,7 +1805,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <item>
 <title>Paku Pontianak (2013)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ok0zhdyoxy11-640x360.html</link>
-<thumbnail>http://fuh.my/wp-content/uploads/2013/09/poster-paku-pontianak.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-QWKihKpHI1g/UiqhygyDf_I/AAAAAAAAATo/Bm2aPQqxeVA/s1600/1239820_612215095484782_1882814147_n.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
