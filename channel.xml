@@ -797,6 +797,17 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Lawak Ke Der 4 (2015)</title>
+<link>$doregex[url]</link>
+<thumbnail>https://farm8.staticflickr.com/7593/16808759479_d877c431ec_b.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/embed-mr5ks7jhq04w-640x360.html</page>
+</regex>
+</item>
+
+<item>
 <title>Hantu Wefie (2015)</title>
 <link>$doregex[url]</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/07/Hantu-Wefie-2015-Tonton-Online-Telefilem-Melayu.jpg</thumbnail>
@@ -810,7 +821,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <item>
 <title>Lawak Ke Der 4 (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-x4aymm1g19kl-640x360.html</link>
-<thumbnail>http://www.istanabudaya.gov.my/wp-content/uploads/2015/03/Lawak-Ke-Der-Poster-A4-copy.jpg</thumbnail>
+<thumbnail>https://farm8.staticflickr.com/7593/16808759479_d877c431ec_b.jpg</thumbnail>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
