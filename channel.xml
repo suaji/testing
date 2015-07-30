@@ -797,6 +797,17 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Hantu Wefie (2015)</title>
+<link>$doregex[url]</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/07/Hantu-Wefie-2015-Tonton-Online-Telefilem-Melayu.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/eyjoiw596vxu.html</page>
+</regex>
+</item>
+
+<item>
 <title>Lawak Ke Der 4 (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-x4aymm1g19kl-640x360.html</link>
 <thumbnail>http://www.istanabudaya.gov.my/wp-content/uploads/2015/03/Lawak-Ke-Der-Poster-A4-copy.jpg</thumbnail>
