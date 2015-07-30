@@ -797,6 +797,54 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Lawak Ke Der 4 (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-x4aymm1g19kl-640x360.html</link>
+<thumbnail>http://www.istanabudaya.gov.my/wp-content/uploads/2015/03/Lawak-Ke-Der-Poster-A4-copy.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-x4aymm1g19kl-640x360.html</page>
+<referer>http://streamin.to/x4aymm1g19kl</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-x4aymm1g19kl-640x360.html</page>
+<referer>http://streamin.to/x4aymm1g19kl</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-x4aymm1g19kl-640x360.html</page>
+<referer>http://streamin.to/x4aymm1g19kl</referer>
+</regex>
+</item>
+
+<item>
+<title>Isyarat Cinta (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y5o8da733vjn-640x360.html</link>
+<thumbnail>http://www.cinema.com.my/images/movies/2015/7isyaratcinta00_450.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-y5o8da733vjn-640x360.html</page>
+<referer>http://streamin.to/y5o8da733vjn</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-y5o8da733vjn-640x360.html</page>
+<referer>http://streamin.to/y5o8da733vjn</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-y5o8da733vjn-640x360.html</page>
+<referer>http://streamin.to/y5o8da733vjn</referer>
+</regex>
+</item>
+
+<item>
 <title>Suami Aku Ustaz (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7ryq6e0h0yso-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/suami-aku-ustaz.jpg</thumbnail>
@@ -1247,6 +1295,30 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-0ofkm0rbiy26-640x360.html</page>
 <referer>http://streamin.to/0ofkm0rbiy26</referer>
+</regex>
+</item>
+
+<item>
+<title>Misi Tawan Baby (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7bd50q803xez-640x360.html</link>
+<thumbnail>http://galaksi-media.com/wp-content/uploads/2014/11/FA-MTB-2-01.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-7bd50q803xez-640x360.html</page>
+<referer>http://streamin.to/7bd50q803xez</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-7bd50q803xez-640x360.html</page>
+<referer>http://streamin.to/7bd50q803xez</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-7bd50q803xez-640x360.html</page>
+<referer>http://streamin.to/7bd50q803xez</referer>
 </regex>
 </item>
 
@@ -2097,7 +2169,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 15.29 19-06-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 09.29 30-07-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
