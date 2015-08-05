@@ -797,6 +797,53 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
+<title>Gangsterock Kasi Sengat (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</link>
+<thumbnail>http://www.cinema.com.my/images/movies/2015/7gangsterock00_450.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</page>
+<referer>http://streamin.to/qjjo7qqy3m9q</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</page>
+<referer>http://streamin.to/qjjo7qqy3m9q</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</page>
+<referer>http://streamin.to/qjjo7qqy3m9q</referer>
+</regex>
+</item>
+
+<title>Banting (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gtfarqbj9cok-640x360.html</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/banting-724x1024.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-gtfarqbj9cok-640x360.html</page>
+<referer>http://streamin.to/gtfarqbj9cok</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-gtfarqbj9cok-640x360.html</page>
+<referer>http://streamin.to/gtfarqbj9cok</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-gtfarqbj9cok-640x360.html</page>
+<referer>http://streamin.to/gtfarqbj9cok</referer>
+</regex>
+</item>
+
+<item>
 <title>Lawak Ke Der 4 (2015)</title>
 <link>$doregex[url]</link>
 <thumbnail>https://farm8.staticflickr.com/7593/16808759479_d877c431ec_b.jpg</thumbnail>
@@ -2167,7 +2214,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 09.29 30-07-2015 , @Suaji[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 10.59 05-08-2015 , @Suaji[/COLOR]</title>
 <link>.</link>
 </item>
 
