@@ -820,6 +820,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </regex>
 </item>
 
+<item>
 <title>Banting (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gtfarqbj9cok-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/banting-724x1024.jpg</thumbnail>
