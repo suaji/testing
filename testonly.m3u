@@ -1,0 +1,76 @@
+#EXTM3U
+
+EXTINF:0,Updated:8/06-Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:0,Updated:8/06-NDTV
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+
+#EXTINF:0,Updated:8/06-ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:0,Updated:8/06-i24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:0,Updated:8/06-Euronews (EN)
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+
+#EXTINF:0,Updated:8/06-Euronews (FR)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
+
+#EXTINF:0,Updated:8/06-WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+
+#EXTINF:0,Updated:8/06-NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:0,Updated:8/06-London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:0,Updated:8/06-Weather Channel
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:0,Updated:8/06-CTV
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+
+#EXTINF:0,Updated:8/06-NFL Network
+http://31.220.40.121/LiveEdge/NFLNetworkUS/playlist.m3u8?token=09ebd2b3d205c702703acc2c73bcaab0
+
+#EXTINF:0,Updated:8/06-Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,Updated:8/06-Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:0,Updated:8/06-Sport Time TV2
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
+
+#EXTINF:0,Updated:8/06-Sport Time TV3
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_1200.mp4.m3u8
+
+#EXTINF:0,Updated:8/06-Sport Time TV4
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8
+
+#EXTINF:0,Updated:8/06-Sport Time TV5
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
+
+#EXTINF:0,Updated:8/06-Sport Time TV6
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
+
+#EXTINF:0,Updated:8/06-Sport Time TV7
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8
+
+#EXTINF:0,Updated:8/06-The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8\
+
+#EXTINF:0,Updated:8/06-HSN 1
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
+
+#EXTINF:0,Updated:8/06-HSN 2
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
+
+#EXTINF:0,Updated:8/06-MBC Movies Action
+http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
+
+#EXTINF:0,Updated:8/06-MBC Movies Bollywood
+http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
