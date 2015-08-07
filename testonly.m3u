@@ -1,76 +1,240 @@
 #EXTM3U
 
-EXTINF:0,Updated:8/06-Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-
-#EXTINF:0,Updated:8/06-NDTV
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
-
-#EXTINF:0,Updated:8/06-ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
-#EXTINF:0,Updated:8/06-i24 News
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-
-#EXTINF:0,Updated:8/06-Euronews (EN)
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
-
-#EXTINF:0,Updated:8/06-Euronews (FR)
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
-
-#EXTINF:0,Updated:8/06-WGN
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-
-#EXTINF:0,Updated:8/06-NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:0,Updated:8/06-London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
-#EXTINF:0,Updated:8/06-Weather Channel
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:0,Updated:8/06-CTV
-http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
-
-#EXTINF:0,Updated:8/06-NFL Network
-http://31.220.40.121/LiveEdge/NFLNetworkUS/playlist.m3u8?token=09ebd2b3d205c702703acc2c73bcaab0
-
-#EXTINF:0,Updated:8/06-Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:0,Updated:8/06-Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:0,Updated:8/06-Sport Time TV2
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
-
-#EXTINF:0,Updated:8/06-Sport Time TV3
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_1200.mp4.m3u8
-
-#EXTINF:0,Updated:8/06-Sport Time TV4
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8
-
-#EXTINF:0,Updated:8/06-Sport Time TV5
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
-
-#EXTINF:0,Updated:8/06-Sport Time TV6
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
-
-#EXTINF:0,Updated:8/06-Sport Time TV7
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8
-
-#EXTINF:0,Updated:8/06-The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8\
-
-#EXTINF:0,Updated:8/06-HSN 1
-http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
-
-#EXTINF:0,Updated:8/06-HSN 2
-http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
-
-#EXTINF:0,Updated:8/06-MBC Movies Action
-http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
-
-#EXTINF:0,Updated:8/06-MBC Movies Bollywood
-http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
+#EXTINF:-1,Freeiptv.ga UK 3e
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1335.m3u8
+#EXTINF:-1,Freeiptv.ga UK 5 USA
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/687.m3u8
+#EXTINF:-1,Freeiptv.ga UK Alibi
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1332.m3u8
+#EXTINF:-1,Freeiptv.ga UK Animal Planet
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/579.m3u8
+#EXTINF:-1,Freeiptv.ga UK At The Races
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/577.m3u8
+#EXTINF:-1,Freeiptv.ga UK BBC 1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/526.m3u8
+#EXTINF:-1,Freeiptv.ga UK BBC 2
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/527.m3u8
+#EXTINF:-1,Freeiptv.ga UK BBC 3
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/528.m3u8
+#EXTINF:-1,Freeiptv.ga UK BBC 4
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/529.m3u8
+#EXTINF:-1,Freeiptv.ga UK BBC World News
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/2349.m3u8
+#EXTINF:-1,Freeiptv.ga UK Bloomberg
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/711.m3u8
+#EXTINF:-1,Freeiptv.ga UK Boxnation
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/700.m3u8
+#EXTINF:-1,Freeiptv.ga UK BT Sports 1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/522.m3u8
+#EXTINF:-1,Freeiptv.ga UK BT Sports 2
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/523.m3u8
+#EXTINF:-1,Freeiptv.ga UK BT Sport ESPN
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3141.m3u8
+#EXTINF:-1,Freeiptv.ga UK BT Sport 1 HD
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3131.m3u8
+#EXTINF:-1,Freeiptv.ga UK BT Sport 2 HD
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3132.m3u8
+#EXTINF:-1,Freeiptv.ga UK CBS Action
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3123.m3u8
+#EXTINF:-1,Freeiptv.ga UK CBS Drama
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3154.m3u8
+#EXTINF:-1,Freeiptv.ga UK CBS Reality
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3113.m3u8
+#EXTINF:-1,Freeiptv.ga UK Channel 4
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1496.m3u8
+#EXTINF:-1,Freeiptv.ga UK Channel 5
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/845.m3u8
+#EXTINF:-1,Freeiptv.ga UK Chelsea FC
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/551.m3u8
+#EXTINF:-1,Freeiptv.ga UK CNN
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/704.m3u8
+#EXTINF:-1,Freeiptv.ga UK Comedy Central
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/539.m3u8
+#EXTINF:-1,Freeiptv.ga UK Comedy Central Extra
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3114.m3u8
+#EXTINF:-1,Freeiptv.ga UK Crime & Investigation
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/709.m3u8
+#EXTINF:-1,Freeiptv.ga UK Dave
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/589.m3u8
+#EXTINF:-1,Freeiptv.ga UK Discovery Channel
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/580.m3u8
+#EXTINF:-1,Freeiptv.ga UK Discovery History
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/581.m3u8
+#EXTINF:-1,Freeiptv.ga UK Discovery Home
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3122.m3u8
+#EXTINF:-1,Freeiptv.ga UK Discovery Science
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/582.m3u8
+#EXTINF:-1,Freeiptv.ga UK Discovery Shed
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3121.m3u8
+#EXTINF:-1,Freeiptv.ga UK Discovery Turbo
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3120.m3u8
+#EXTINF:-1,Freeiptv.ga UK Discovery Turbo Xtra
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3201.m3u8
+#EXTINF:-1,Freeiptv.ga UK Disney Channel
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/555.m3u8
+#EXTINF:-1,Freeiptv.ga UK Disney Junior
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1739.m3u8
+#EXTINF:-1,Freeiptv.ga UK Disney XD
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3119.m3u8
+#EXTINF:-1,Freeiptv.ga UK Dmax
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/561.m3u8
+#EXTINF:-1,Freeiptv.ga UK Drama
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1732.m3u8
+#EXTINF:-1,Freeiptv.ga UK E4
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/553.m3u8
+#EXTINF:-1,Freeiptv.ga UK ESPN
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/710.m3u8
+#EXTINF:-1,Freeiptv.ga UK Eurosport 1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/697.m3u8
+#EXTINF:-1,Freeiptv.ga UK Eurosport 2
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/698.m3u8
+#EXTINF:-1,Freeiptv.ga UK Film 4
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/541.m3u8
+#EXTINF:-1,Freeiptv.ga UK Five
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/542.m3u8
+#EXTINF:-1,Freeiptv.ga UK Flava
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1735.m3u8
+#EXTINF:-1,Freeiptv.ga UK Food Network
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1336.m3u8
+#EXTINF:-1,Freeiptv.ga UK Gold
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1334.m3u8
+#EXTINF:-1,Freeiptv.ga UK History Channel
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/554.m3u8
+#EXTINF:-1,Freeiptv.ga UK ITV 1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/546.m3u8
+#EXTINF:-1,Freeiptv.ga UK ITV 2
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/545.m3u8
+#EXTINF:-1,Freeiptv.ga UK ITV 3
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/544.m3u8
+#EXTINF:-1,Freeiptv.ga UK ITV 4
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/543.m3u8
+#EXTINF:-1,Freeiptv.ga UK ITV Be
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3118.m3u8
+#EXTINF:-1,Freeiptv.ga UK ITV Encore
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3117.m3u8
+#EXTINF:-1,Freeiptv.ga UK Liverpool FC
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/548.m3u8
+#EXTINF:-1,Freeiptv.ga UK Magic
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1734.m3u8
+#EXTINF:-1,Freeiptv.ga UK Manchester United FC
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1852.m3u8
+#EXTINF:-1,Freeiptv.ga UK More 4
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1333.m3u8
+#EXTINF:-1,Freeiptv.ga UK Motors TV
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/699.m3u8
+#EXTINF:-1,Freeiptv.ga UK Movies 4 Men +1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3115.m3u8
+#EXTINF:-1,Freeiptv.ga UK MTV Classic
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1737.m3u8
+#EXTINF:-1,Freeiptv.ga UK MTV Hits
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/556.m3u8
+#EXTINF:-1,Freeiptv.ga UK MTV Music
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/540.m3u8
+#EXTINF:-1,Freeiptv.ga UK National Geographic
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/706.m3u8
+#EXTINF:-1,Freeiptv.ga UK National Geographic Wild
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/707.m3u8
+#EXTINF:-1,Freeiptv.ga UK Nickelodeon
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1738.m3u8
+#EXTINF:-1,Freeiptv.ga UK Nicktoons
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/563.m3u8
+#EXTINF:-1,Freeiptv.ga UK Quest
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1733.m3u8
+#EXTINF:-1,Freeiptv.ga UK Racing UK
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1338.m3u8
+#EXTINF:-1,Freeiptv.ga UK RTE 1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/564.m3u8
+#EXTINF:-1,Freeiptv.ga UK RTE 2
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/565.m3u8
+#EXTINF:-1,Freeiptv.ga UK Pick TV
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3116.m3u8
+#EXTINF:-1,Freeiptv.ga UK Setanta Sports
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/524.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Arts 1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1736.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Atlantic
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/549.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Living UK
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/552.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Action
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/531.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Comedy
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/530.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Drama
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/532.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Family
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/533.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Modern Greats
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1729.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Premiere
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/536.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Scifi / Horror
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/537.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Showcase
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3092.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Select
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1730.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Movies Thriller
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/538.m3u8
+#EXTINF:-1,Freeiptv.ga UK SKY News
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/703.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky One
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/535.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Premiere Sports
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/547.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/670.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 2
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/671.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 3
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/519.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 4
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/520.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 5
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/672.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports F1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/369.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 1 HD
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3126.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 2 HD
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3127.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 3 HD
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3128.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 4 HD
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3129.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports 5 HD
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3130.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports F1 HD
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3093.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Sports News
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/521.m3u8
+#EXTINF:-1,Freeiptv.ga UK Sky Two
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/557.m3u8
+#EXTINF:-1,Freeiptv.ga UK SyFy
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/568.m3u8
+#EXTINF:-1,Freeiptv.ga UK TG 4
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/570.m3u8
+#EXTINF:-1,Freeiptv.ga UK The Vault
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1731.m3u8
+#EXTINF:-1,Freeiptv.ga UK  Travel Channel
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/578.m3u8
+#EXTINF:-1,Freeiptv.ga UK True Drama
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3125.m3u8
+#EXTINF:-1,Freeiptv.ga UK True Movies 1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/534.m3u8
+#EXTINF:-1,Freeiptv.ga UK True Movies 2
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3124.m3u8
+#EXTINF:-1,Freeiptv.ga UK TV 3
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/569.m3u8
+#EXTINF:-1,Freeiptv.ga UK VH1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/1359.m3u8
+#EXTINF:-1,Freeiptv.ga UK Vivo 1
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/572.m3u8
+#EXTINF:-1,Freeiptv.ga UK Vivo 2
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/571.m3u8
+#EXTINF:-1,Freeiptv.ga UK Vivo 3
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/573.m3u8
+#EXTINF:-1,Freeiptv.ga UK Watch
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/3091.m3u8
+#EXTINF:-1,Freeiptv.ga UK Yesterday
+http://iptvchoice.zapto.org:8000/live/olympiakos1972@gmail.com/pqQdRjao0l/2348.m3u8
