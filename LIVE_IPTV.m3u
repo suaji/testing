@@ -105,6 +105,9 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
+#EXTINF:0, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC HD"  group-title="News",ABC HD
 http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
 
@@ -114,8 +117,17 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG"  group-title="News",BLOOMBERG
 http://80.77.52.6:3917/udp/226.0.1.49:12345
 
+EXTINF:0, Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG ASIA"  group-title="News",BLOOMBERG ASIA
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
+
+#EXTINF:0, i24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:0, Euronews (EN)
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
@@ -129,14 +141,29 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI ONE"  group-title="ENGLISH",DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
+#EXTINF:0, CTV
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/animal_planet_us.png" tvg-name="ANIMAL PLANET"  group-title="ENGLISH",ANIMAL PLANET
 http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
 
+#EXTINF:0, Sport Time TV2
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
+
+#EXTINF:0, Sport Time TV3
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_1200.mp4.m3u8
+
+#EXTINF:0, Sport Time TV4
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8
+
+#EXTINF:0, Sport Time TV5
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
+
+#EXTINF:0, Sport Time TV6
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV Sports"  group-title="Sports",CCTV Sports
 http://74.82.62.52:1935/liverepeater/21353.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lfctv.png" tvg-name="LIVERPOOL TV"  group-title="Sports",LIVERPOOL TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN HD"  group-title="Sports",ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
@@ -144,8 +171,17 @@ http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasess
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARENA SPORT"  group-title="Indonesia",ARENA SPORT
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lfctv.png" tvg-name="LIVERPOOL TV"  group-title="Sports",LIVERPOOL TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
+
+#EXTINF:0,Updated:8/06-Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/cartoonnetwork.png" tvg-name="CARTOON NETWORK"  group-title="Kids",CARTOON NETWORK
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m3u8
+
+#EXTINF:0, Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL"  group-title="Kids",DISNEY CHANNEL
 http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
