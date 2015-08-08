@@ -111,7 +111,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG"  group-title="News",BLOOMBERG
 http://80.77.52.6:3917/udp/226.0.1.49:12345
 
-EXTINF:0, Bloomberg 2
+EXTINF:0, Bloomberg_2
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG ASIA"  group-title="News",BLOOMBERG ASIA
@@ -156,6 +156,15 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 #EXTINF:0, Sport Time TV6
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
 
+#EXTINF:0, FOX SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://185.63.252.155:19350/live/ playpath=0dqRrkOz08E0 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.espa.me/embed.php?channel=215&vw=650&vh=400 token=OOG17t.x#K9Vh#|
+
+#EXTINF:0, FOX SPORTS 2
+rtmp://$OPT:rtmp-raw=rtmp://199.167.150.105/app/ playpath=max2a223s-channel swfUrl=https://streamup.com/assets/StreamupVideoPlayer.swf live=1 pageUrl=https://streamup.com/rooms/max2a223s-Channel/plugins/video/show?startMuted=true 
+
+#EXTINF:0, SKY Sport 2
+http://109.202.195.76:5011
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV Sports"  group-title="Sports",CCTV Sports
 http://74.82.62.52:1935/liverepeater/21353.stream/playlist.m3u8
 
@@ -168,7 +177,7 @@ http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lfctv.png" tvg-name="LIVERPOOL TV"  group-title="Sports",LIVERPOOL TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 
-#EXTINF:0,Updated:8/06-Real Madrid TV
+#EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/cartoonnetwork.png" tvg-name="CARTOON NETWORK"  group-title="Kids",CARTOON NETWORK
@@ -237,3 +246,33 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
+#EXTINF:-1,Sky Sports 1 Uk
+acestream://3dec27f191922f42f6ff91a0f1641d15cba80d5e
+#EXTINF:-1,Sky Sports 1 Uk
+acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
+#EXTINF:-1,Sky Sports 2 Uk
+acestream://9435a603b27813c91af7bedca56d09859dae1751
+#EXTINF:-1,Sky Sports 2 Uk
+acestream://e9969669eeed0adb1c68072e977283222ac9572e
+#EXTINF:-1,Sky Sports 3 Uk
+acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55
+#EXTINF:-1,Sky sports 4 Uk
+acestream://98021702106c7d6df60dcf0921ca5223dd22109f
+#EXTINF:-1,Sky sports 4 Uk
+acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe
+#EXTINF:-1,Sky sports 5 Uk
+acestream://37558d4ae8149aebd7e87a406fece41626e35c31
+#EXTINF:-1,Sky sports 5 Uk
+acestream://47eeb48b1ad7039ca55bf2917adfb5a1de8f7de6
+#EXTINF:-1,Bt Sport 1 Uk
+acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5
+#EXTINF:-1,Bt Sport 1 Uk
+acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce
+#EXTINF:-1,Bt Sport 2 Uk
+acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9
+#EXTINF:-1,Bt Sport 2 Uk
+acestream://948707e625b5cd727795baee4db8a92a1bfb84c7
+#EXTINF:-1,Bt Sport Espn Uk
+acestream://585352b149c4aae30c1da013f0fe378430fb7c7e
+#EXTINF:-1,BT Sport Europe Uk
+acestream://46f1a7f1774400e6b7b73990edb89803f98a4215
