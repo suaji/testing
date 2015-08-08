@@ -111,7 +111,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG"  group-title="News",BLOOMBERG
 http://80.77.52.6:3917/udp/226.0.1.49:12345
 
-EXTINF:0, Bloomberg_2
+#EXTINF:0, Bloomberg_2
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG ASIA"  group-title="News",BLOOMBERG ASIA
@@ -155,12 +155,6 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 
 #EXTINF:0, Sport Time TV6
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
-
-#EXTINF:0, FOX SPORTS
-rtmp://$OPT:rtmp-raw=rtmp://185.63.252.155:19350/live/ playpath=0dqRrkOz08E0 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.espa.me/embed.php?channel=215&vw=650&vh=400 token=OOG17t.x#K9Vh#|
-
-#EXTINF:0, FOX SPORTS 2
-rtmp://$OPT:rtmp-raw=rtmp://199.167.150.105/app/ playpath=max2a223s-channel swfUrl=https://streamup.com/assets/StreamupVideoPlayer.swf live=1 pageUrl=https://streamup.com/rooms/max2a223s-Channel/plugins/video/show?startMuted=true 
 
 #EXTINF:0, SKY Sport 2
 http://109.202.195.76:5011
@@ -246,33 +240,231 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:-1,Sky Sports 1 Uk
-acestream://3dec27f191922f42f6ff91a0f1641d15cba80d5e
-#EXTINF:-1,Sky Sports 1 Uk
-acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
-#EXTINF:-1,Sky Sports 2 Uk
-acestream://9435a603b27813c91af7bedca56d09859dae1751
-#EXTINF:-1,Sky Sports 2 Uk
-acestream://e9969669eeed0adb1c68072e977283222ac9572e
-#EXTINF:-1,Sky Sports 3 Uk
-acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55
-#EXTINF:-1,Sky sports 4 Uk
-acestream://98021702106c7d6df60dcf0921ca5223dd22109f
-#EXTINF:-1,Sky sports 4 Uk
-acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe
-#EXTINF:-1,Sky sports 5 Uk
-acestream://37558d4ae8149aebd7e87a406fece41626e35c31
-#EXTINF:-1,Sky sports 5 Uk
-acestream://47eeb48b1ad7039ca55bf2917adfb5a1de8f7de6
-#EXTINF:-1,Bt Sport 1 Uk
-acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5
-#EXTINF:-1,Bt Sport 1 Uk
-acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce
-#EXTINF:-1,Bt Sport 2 Uk
-acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9
-#EXTINF:-1,Bt Sport 2 Uk
-acestream://948707e625b5cd727795baee4db8a92a1bfb84c7
-#EXTINF:-1,Bt Sport Espn Uk
-acestream://585352b149c4aae30c1da013f0fe378430fb7c7e
-#EXTINF:-1,BT Sport Europe Uk
-acestream://46f1a7f1774400e6b7b73990edb89803f98a4215
+#EXTINF:0,BEIN SPORT 1 HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2447.m3u8
+#EXTINF:0,BEIN SPORT 2
+http://portal.rapidiptv.com:8080/live/onur/onur/2448.m3u8
+#EXTINF:0,BEIN SPORT 3
+http://portal.rapidiptv.com:8080/live/onur/onur/2449.m3u8
+#EXTINF:0,BEIN SPORT 4
+http://portal.rapidiptv.com:8080/live/onur/onur/2450.m3u8
+#EXTINF:0,BEIN SPORT 5
+http://portal.rapidiptv.com:8080/live/onur/onur/2451.m3u8
+#EXTINF:0,BEIN SPORT 6
+http://portal.rapidiptv.com:8080/live/onur/onur/2452.m3u8
+#EXTINF:0,BEIN SPORT 7
+http://portal.rapidiptv.com:8080/live/onur/onur/2453.m3u8
+#EXTINF:0,BEIN SPORT8 HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2454.m3u8
+#EXTINF:0,BEIN SPORT 9
+http://portal.rapidiptv.com:8080/live/onur/onur/2455.m3u8
+#EXTINF:0,BEIN SPORT 10
+http://portal.rapidiptv.com:8080/live/onur/onur/2456.m3u8
+#EXTINF:0,Rai 1
+http://212.51.156.151:3001
+#EXTINF:0,Rai 2
+http://212.51.156.151:3002
+#EXTINF:0,Rai 3
+http://212.51.156.151:3003
+#EXTINF:0,Canale 5
+http://212.51.156.151:3005
+#EXTINF:0,Rete 4
+http://212.51.156.151:3004
+#EXTINF:0,Italia 1
+http://212.51.156.151:3006
+#EXTINF:0,Europort1 / HD
+http://212.51.156.151:3010
+#EXTINF:0,Europort2
+http://212.51.156.151:3000
+#EXTINF:0,SKY Sport24
+http://212.51.156.151:3013
+#EXTINF:0,Sky Calcio1
+http://212.51.146.19:4000
+#EXTINF:0,Sky Sport Plus
+http://212.51.146.19:4007
+#EXTINF:0,SKY Sport1
+http://212.51.156.151:3011
+#EXTINF:0,SKY Sport2
+http://109.202.195.76:5003
+#EXTINF:0,SKY Sport3
+http://109.202.195.76:5001
+#EXTINF:0,sky-sport-f1-hd
+http://212.51.146.19:4004
+#EXTINF:0,Fox Sports HD
+http://109.202.195.76:5010
+#EXTINF:0,Fox Animation HD
+http://212.51.156.151:3014
+#EXTINF:0,FOX
+http://212.51.146.19:4008
+#EXTINF:0,Fox Crime
+http://212.51.156.151:3008
+#EXTINF:0,SKY Cinema Max
+http://212.51.146.19:4003
+#EXTINF:0,Cinema Classics
+http://212.51.156.151:3007
+#EXTINF:0,SKY Cinema Hits
+http://212.51.146.19:4002
+#EXTINF:0,Cult
+http://109.202.195.76:5006
+#EXTINF:0,SKY Cinema 1
+http://212.51.156.151:3012
+#EXTINF:0,SKY Cinema Family
+http://109.202.195.76:5005
+#EXTINF:0,AXN
+http://212.51.156.151:3009
+#EXTINF:0,Sky TG 24 Meteo
+http://212.51.146.19:4006
+Nat Geographic
+http://212.51.146.19:4001
+Gambero-rosso
+http://212.51.146.19:4005
+#EXTINF:0,Nat Geo Wild
+http://109.202.195.76:5004
+#EXTINF:0,Discovery Channel
+http://109.202.195.76:5002
+#EXTINF:0,Disney Channel
+http://109.202.195.76:5000
+#EXTINF:0,Premium Sport
+http://212.51.146.19:4009
+#EXTINF:0,Premium Cinema
+http://109.202.195.76:5013
+#EXTINF:0,Premium Cinema 2
+http://109.202.195.76:5014
+#EXTINF:0,Sky Atlantic HD
+http://212.51.148.162:2000/hdmi
+#EXTINF:0,Sky Supercalcio HD
+http://212.51.148.162:2001/hdmi
+#EXTINF:0,Sky Uno HD
+http://212.51.148.162:2002/hdmi
+#EXTINF:0,Sky Sport HD
+http://212.51.148.162:2003/hdmi
+#EXTINF:0,Sky Arte HD
+http://212.51.148.162:2004/hdmi
+#EXTINF:0,Sky Sport HD
+http://212.51.148.162:2005/hdmi
+#EXTINF:0,Cinema Passion HD
+http://212.51.148.162:2007/hdmi
+#EXTINF:0,RSI LA 2
+http://212.51.148.162:2008/hdmi
+#EXTINF:0,RSI LA 1
+http://212.51.148.162:2009/hdmi
+#EXTINF:0,Cinema HD
+http://212.51.148.162:2010/hdmi
+#EXTINF:0,Cinema HD
+http://212.51.148.162:2011/hdmi
+#EXTINF:0,Cinema Comedy HD
+http://212.51.148.162:2012/hdmi
+#EXTINF:0,SVT1
+http://188.138.9.228:8001
+#EXTINF:0,SVT2
+http://188.138.9.228:8002
+#EXTINF:0,TV3
+http://188.138.9.228:8003
+#EXTINF:0,TV4
+http://188.138.9.228:8004
+#EXTINF:0,Kanal 5
+http://188.138.9.228:8005
+#EXTINF:0,TV6
+http://188.138.9.228:8006
+#EXTINF:0,SJUAN
+http://188.138.9.228:8007
+#EXTINF:0,TV8
+http://188.138.9.228:8008
+#EXTINF:0,Kanal 9
+http://188.138.9.228:8009
+#EXTINF:0,Kanal 11
+http://188.138.9.228:8011
+#EXTINF:0,Kanal 12
+http://188.138.9.228:8012
+#EXTINF:0,SVT Barnkanalen
+http://188.138.9.228:8013
+#EXTINF:0,svt24
+http://188.138.9.228:8013
+#EXTINF:0,C MORE- Sport
+http://188.138.9.228:8023
+#EXTINF:0,C MORE- Fotboll
+http://188.138.9.228:8034
+#EXTINF:0,Viasat Fotboll
+http://188.138.9.228:8033
+#EXTINF:0,C MORE- Hockey
+http://188.138.9.228:8039
+#EXTINF:0,C MORE- Hits
+http://188.138.9.228:8020
+#EXTINF:0,C MORE- Series
+http://188.138.9.228:8021
+#EXTINF:0,C MORE- ComedyCentral
+http://188.138.9.228:8022
+#EXTINF:0,C MORE- First
+http://188.138.9.228:8024
+#EXTINF:0,C MORE- Emotion
+http://188.138.9.228:8025
+#EXTINF:0,C MORE- Action
+http://188.138.9.228:8035
+#EXTINF:0,C MORE HITS
+http://188.138.9.228:8020
+#EXTINF:0,C MORE SERIES
+http://188.138.9.228:8021
+#EXTINF:0,C MORE COMEDY CENTRAL
+http://188.138.9.228:8022
+#EXTINF:0,C MORE SPORT
+http://188.138.9.228:8023
+#EXTINF:0,C MORE FIRST
+http://188.138.9.228:8024
+#EXTINF:0,C MORE EMOTION
+http://188.138.9.228:8025
+#EXTINF:0,Kanal3
+http://188.138.9.228:8003
+#EXTINF:0,Kanal4
+http://188.138.9.228:8004
+#EXTINF:0,Kanal5
+http://188.138.9.228:8005
+#EXTINF:0,7 SJUAN
+http://188.138.9.228:8007
+#EXTINF:0,Kanal 11
+http://188.138.9.228:8011
+#EXTINF:-1,TV 4 sverige
+http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
+#EXTINF:-1,DR Ramasjang
+http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=100-1600
+#EXTINF:-1,DR1
+http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=100-2000
+#EXTINF:-1,DR2
+http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=100-2000
+#EXTINF:-1,dr3
+http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=100-1600
+#EXTINF:-1,DR k
+http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=100-1600
+#EXTINF:0,TV 10 Sweden
+rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
+#EXTINF:-1,TV Haugaland
+rtmp://flash0.15561-live0.dna.qbrick.com/15561-live0/live1
+#EXTINF:0,TV2 Bornholm
+rtmp://itv08.digizuite.dk/tv2b/ch1
+#EXTINF:0,TV2 Lorry
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
+#EXTINF:0,TV2 Midt-Vest
+rtmp://live.tvmidtvest.dk/tvmv/live
+#EXTINF:0,TV2 Syd
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_1000
+#EXTINF:0,tv2fyn
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2fyn_2000
+#EXTINF:0,tv2lorry
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
+#EXTINF:0,tv2nord
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2nord-plus_2000
+#EXTINF:0,tvsyd
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_2000
+#EXTINF:0,tv2lorry
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
+#EXTINF:0,tvmidtvest
+rtmp://live.tvmidtvest.dk/tvmv/live
+#EXTINF:0,tvsyd
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_1000
+#EXTINF:0,tv2fyn
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2fyn_2000
+#EXTINF:0,tv2lorry
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
+#EXTINF:0,tv2nord
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2nord-plus_2000
+#EXTINF:0,tvsyd
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_2000
