@@ -231,21 +231,19 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:-1, Sky sports 1 HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.78.85:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Sky sports 2 HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.70.106:443/liverepeater playpath=2 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Sky sports 3 HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.78.15:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Sky sports 4 HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.78.15:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Sky sports 5
-rtmp://$OPT:rtmp-raw=rtmp://94.102.49.126:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, BT sport 1 Espn
-rtmp://$OPT:rtmp-raw=rtmp://94.102.49.126:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, WWE
-rtmp://$OPT:rtmp-raw=rtmp://94.102.49.126:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, BT sport 2 HD
-rtmp://$OPT:rtmp-raw=rtmp://94.102.49.126:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Euro sport HD
-rtmp://$OPT:rtmp-raw=rtmp://94.102.49.126:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:0,AR:Bein1
+http://abod:abod@37.59.164.230:3300/AR:Bein1
+#EXTINF:0,AR:Bein2
+http://abod:abod@37.59.164.230:3300/AR:Bein2
+#EXTINF:0,AR:Bein3
+http://abod:abod@37.59.164.230:3300/AR:Bein3
+#EXTINF:0,AR:Bein4
+http://abod:abod@37.59.164.230:3300/AR:Bein4
+#EXTINF:0,AR:Bein5
+http://abod:abod@37.59.164.230:3300/AR:Bein5
+#EXTINF:0,AR:Bein6
+http://abod:abod@37.59.164.230:3300/AR:Bein6
+#EXTINF:0,AR:Bein7
+http://abod:abod@37.59.164.230:3300/AR:Bein7
+#EXTINF:0,AR:Bein8
+http://abod:abod@37.59.164.230:3300/AR:Bein8
