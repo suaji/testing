@@ -230,21 +230,3 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
-
-#EXTINF:0,AR:Bein1
-http://abod:abod@37.59.164.230:3300/AR:Bein1
-#EXTINF:0,AR:Bein5
-http://abod:abod@37.59.164.230:3300/AR:Bein5
-#EXTINF:0,AR:Bein7
-http://abod:abod@37.59.164.230:3300/AR:Bein7
-#EXTINF:0,AR:Bein8
-http://abod:abod@37.59.164.230:3300/AR:Bein8
-
-#EXTINF:-1,Sky Movie Action
-acestream://40593806fe7f7fc8d202e6894674bef9b9f34386
-#EXTINF:-1,Sky Movie Comedy
-acestream://1d143d9bb4222d97f40cfa130f10d1ba6a85452a
-#EXTINF:-1,Sky Movie Family
-acestream://adf575ba1f6ff56b0185fe40cab4963d8ce02d8d
-#EXTINF:-1,Sky Movie Premiere
-acestream://4d5bb4f25be19724b62088851f92d07407ee1c2c
