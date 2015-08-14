@@ -230,3 +230,28 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:0,AR: beINSport 1 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/148.ts
+#EXTINF:0,AR: beINSport 2 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/149.ts
+#EXTINF:0,AR: beINSport 3 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/150.ts
+#EXTINF:0,AR: beINSport 4 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/151.ts
+#EXTINF:0,AR: beINSport 5 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/152.ts
+#EXTINF:0,AR: beINSport 6 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/153.ts
+#EXTINF:0,AR: beINSport 7 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/154.ts
+#EXTINF:0,AR: beINSport 8 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/155.ts
+#EXTINF:0,AR: beINSport 9 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/156.ts
+#EXTINF:0,AR: beINSport 10 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/157.ts
+#EXTINF:0,FR Bein Sport 1 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/146.ts
+#EXTINF:0,FR Bein Sport 2 HD
+http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/147.ts
