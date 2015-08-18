@@ -54,6 +54,7 @@ http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch020.stream_360p/playlist.m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/hijau.png" tvg-name="HIJAU TV"  group-title="Malaysia",HIJAU TV
 rtmp://119.110.96.71/live/1htv
 
+#EXTINF:0, [COLOR crimson]SINGAPORE[/COLOR]
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA"  group-title="Singapore",SURIA
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
 
@@ -65,6 +66,10 @@ http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/channel_newsasia.png" tvg-name="NEWS ASIA"  group-title="Singapore",NEWS ASIA
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
+
+#EXTINF:0, [COLOR deeppink]INDONESIA[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/trans_7_id.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
+http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/antv.png" tvg-name="ANTV"  group-title="Indonesia",ANTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
@@ -87,9 +92,6 @@ http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_all/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/mnc_id_tv.png" tvg-name="MNCTV"  group-title="Indonesia",MNCTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/mnctv2_all/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/trans_7_id.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
-http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/indosiar.png" tvg-name="INDOSIAR"  group-title="Indonesia",INDOSIAR
 http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8
 
@@ -99,6 +101,7 @@ rtmp://202.137.11.52:1935/jakarta/offair.sdp
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/antara_tv.png" tvg-name="ANTARA TV"  group-title="Indonesia",ANTARA TV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 
+#EXTINF:0, [COLOR blue]NEWS[/COLOR]
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
@@ -123,6 +126,7 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
+#EXTINF:0, [COLOR kodi]FAMILY[/COLOR]
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/cinemax.png" tvg-name="CINEMAX"  group-title="ENGLISH",CINEMAX
 http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
 
@@ -138,6 +142,17 @@ http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/animal_planet_us.png" tvg-name="ANIMAL PLANET"  group-title="ENGLISH",ANIMAL PLANET
 http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
 
+#EXTINF:0, [COLOR gold]KIDS[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/cartoonnetwork.png" tvg-name="CARTOON NETWORK"  group-title="Kids",CARTOON NETWORK
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m3u8
+
+#EXTINF:0, Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL"  group-title="Kids",DISNEY CHANNEL
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+
+#EXTINF:0, [COLOR indigo]SPORTS[/COLOR]
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
 
@@ -165,15 +180,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/cartoonnetwork.png" tvg-name="CARTOON NETWORK"  group-title="Kids",CARTOON NETWORK
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m3u8
-
-#EXTINF:0, Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL"  group-title="Kids",DISNEY CHANNEL
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-
+#EXTINF:0, [COLOR darkorange]MUSIC[/COLOR]
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/mivo_tv.png" tvg-name="MIVOTV"  group-title="Indonesia",MIVOTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
 
@@ -186,6 +193,7 @@ http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNBC"  group-title="ENGLISH",CNBC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
 
+#EXTINF:0, [COLOR aquamarine]RADIO[/COLOR]
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
 http://50.7.96.210:8285/;stream.mp3
 
@@ -231,6 +239,7 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
+#EXTINF:0, [COLOR green]SPORTS_BACKUP[/COLOR]
 #EXTINF:0, SKY SPORTS 1 HD
 rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
 #EXTINF:0, SKY SPORTS 2 HD
