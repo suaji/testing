@@ -231,6 +231,19 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://iptvmy.pe.hu/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
+#EXTINF:0, SKY SPORTS 1 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 2 HD
+rtmp://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 3 HD
+rtmp://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 4 HD
+rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 5 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS F1 HD
+rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
+
 #EXTINF:0,AR: beINSport 1 HD
 http://89.163.146.40:8000/live/goldlocal/VZUgW2Su7u/148.ts
 #EXTINF:0,AR: beINSport 2 HD
