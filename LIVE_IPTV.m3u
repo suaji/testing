@@ -54,7 +54,8 @@ http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch020.stream_360p/playlist.m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/hijau.png" tvg-name="HIJAU TV"  group-title="Malaysia",HIJAU TV
 rtmp://119.110.96.71/live/1htv
 
-#EXTINF:0, [COLOR crimson]SINGAPORE[/COLOR]
+#EXTINF:-1, [COLOR green]SINGAPORE[/COLOR]
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA"  group-title="Singapore",SURIA
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
 
@@ -67,7 +68,8 @@ http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/channel_newsasia.png" tvg-name="NEWS ASIA"  group-title="Singapore",NEWS ASIA
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
 
-#EXTINF:0, [COLOR deeppink]INDONESIA[/COLOR]
+#EXTINF:-0, [COLOR green]INDONESIA[/COLOR]
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/trans_7_id.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
 http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
 
@@ -101,7 +103,8 @@ rtmp://202.137.11.52:1935/jakarta/offair.sdp
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/antara_tv.png" tvg-name="ANTARA TV"  group-title="Indonesia",ANTARA TV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 
-#EXTINF:0, [COLOR blue]NEWS[/COLOR]
+#EXTINF:-0, [COLOR green]NEWS[/COLOR]
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
