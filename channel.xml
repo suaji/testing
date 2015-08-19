@@ -366,6 +366,18 @@
 <items>
 
 <item>
+<title>Stream 1</title>
+<sportsdevil>http://footsy.ml/</sportsdevil>
+<referer>http://footsy.ml/</referer>
+</item>
+
+<item>
+<title>Stream 2</title>
+<sportsdevil>http://footsy.ml/page/1</sportsdevil>
+<referer>http://footsy.ml/</referer>
+</item>
+
+<item>
 <title>[COLOR=FFFFA500]Updated : 10 July 2015[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
@@ -432,7 +444,7 @@
 </item>
 
 <item>
-<title>ArenaVision 13 (streamup)</title>
+<title>ArenaVision 13</title>
 <link>rtmp://$doregex[get-ip]:1935/app playpath=$doregex[id]-channel  swfUrl=https://streamup.com/assets/StreamupVideoChat.swf 
 pageUrl=https://streamup.com live=1 timeout=15</link>
 <regex>
