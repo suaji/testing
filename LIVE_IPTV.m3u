@@ -241,3 +241,30 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:-1,beINSport 1 HD
+http://178.33.88.129:888/udp/239.102.0.4:1234
+#EXTINF:-1,beINSport 2 HD
+http://178.33.88.129:888/udp/239.102.0.2:1234
+#EXTINF:-1,beINSport 3 HD
+http://bit.ly/1gUqMa3
+#EXTINF:-1,beINSport 4 HD
+http://178.33.88.129:888/udp/239.102.0.5:1234
+#EXTINF:-1,beINSport 5 HD
+http://178.33.88.129:888/udp/239.102.0.6:1234
+#EXTINF:-1,:beINSport 6 HD
+http://178.33.88.129:888/udp/239.102.0.7:1234
+#EXTINF:-1,beINSport 7 HD
+http://178.33.88.129:888/udp/239.102.0.8:1234
+#EXTINF:-1,beINSport 8 HD
+http://178.33.88.129:888/udp/239.102.0.9:1234
+EXTINF:-1,beINSport 9 HD
+http://178.33.88.129:888/udp/239.102.0.10:1234
+#EXTINF:-1,AR_beINSport 10 HD
+http://178.33.88.129:888/udp/239.102.0.11:1234
+#EXTINF:-1,beINSport 1
+http://178.33.88.129:888/udp/239.102.0.15:1234
+#EXTINF:-1,beINSport 2
+http://178.33.88.129:888/udp/239.102.0.16:1234
+#EXTINF:-1,beINSport 3
+http://178.33.88.129:888/udp/239.102.0.17:1234
