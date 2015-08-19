@@ -800,7 +800,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Gangsterock Kasi Sengat (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7gangsterock00_450.jpg</thumbnail>
-<poster>http://www.cinema.com.my/images/movies/2015/7gangsterock00_450.jpg</poster>
+<fanart>http://www.cinema.com.my/images/movies/2015/7gangsterock00_450.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -825,7 +825,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Banting (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gtfarqbj9cok-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/banting-724x1024.jpg</thumbnail>
-<art><poster>http://pencurimovie.pw/wp-content/uploads/2015/06/banting-724x1024.jpg</poster></art>
+<art><fanart>http://pencurimovie.pw/wp-content/uploads/2015/06/banting-724x1024.jpg</fanart></art>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
