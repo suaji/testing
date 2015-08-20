@@ -273,8 +273,20 @@ http://4.31.30.159:9085
 #EXTINF:-1, TEST 1
 http://j.gs/975035/line6-4
 
-#EXTINF:-1, TEST 2
+#EXTINF:-1, KBS World
 http://lihattv.wha.la/jhos/kbs/-/playlist.m3u8
+
+#EXTINF:0, Animal Planet
+http://80.80.160.168/live/1/500000/playlist.m3u8
+
+#EXTINF:0, Anime Plus
+http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8
+
+#EXTINF:0, Disney XD
+http://84.232.5.115/liveedge3/disneyxd.stream/playlist.m3u8
+
+#EXTINF:0, SKY Movie Disney
+http://84.232.5.115/liveedge3/movdisney.stream/playlist.m3u8
 
 #EXTINF:-1, TEST 3
 http://1440047600409.ts
