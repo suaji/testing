@@ -93,6 +93,12 @@ http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 #EXTINF:-1, [COLOR saddlebrown]__SINGAPORE__[/COLOR]
 http://50.7.96.210:8285
 
+#EXTINF:0, KBS World
+http://goo.gl/nQkZJ4
+
+#EXTINF:0, Animal Planet
+http://80.80.160.168/live/1/500000/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA"  group-title="Singapore",SURIA
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
 
@@ -152,6 +158,15 @@ http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
 
 #EXTINF:0, [COLOR fuchsia]__KIDS__[/COLOR]
 http://50.7.96.210:8285
+
+#EXTINF:0, Anime Plus
+http://goo.gl/HF3RnK
+
+#EXTINF:0, Disney XD
+http://84.232.5.115/liveedge3/disneyxd.stream/playlist.m3u8
+
+#EXTINF:0, SKY Movie Disney
+http://84.232.5.115/liveedge3/movdisney.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/cartoonnetwork.png" tvg-name="CARTOON NETWORK"  group-title="Kids",CARTOON NETWORK
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m3u8
