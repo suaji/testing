@@ -234,7 +234,7 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR crimson]__SPORTS__[/COLOR]
+#EXTINF:0, [COLOR crimson][B]__SPORTS__[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, * BPL live sila guna Vdubt25 @ TURK'S
