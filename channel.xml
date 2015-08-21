@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[COLOR red]KEMASKINI LIVE TV stiap hari, sila layari http://goo.gl/9qhWxj[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+
+</items>
+</channel>
+
+<channel>
 <name>MAKKAH Live Prayers</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -619,49 +629,20 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
-<title>Hollywood</title>
-<link>$doregex[rtmp] playpath=Hollywood token=$doregex[tok] flashVer=WIN\18,0,0,194 swfVfy=1 swfUrl=http://tutelehd.com/player.swf pageUrl=http://tutelehd.com live=1 timeout=20</link>
-<regex>
-<name>rtmp</name>
-<expres>streamer', '(.*)'</expres>
-<page>http://tutelehd.com/embed/embed.php?channel=Hollywood</page>
-<referer>http://tutelehd.com</referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>token', '(.*?)'</expres>
-<page>http://tutelehd.com/embed/embed.php?channel=Hollywood</page>
-<referer>http://tutelehd.com</referer>
-</regex>
-</item>
-
-<item>
-<title>Animal Planet</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>uhls","url":"(.*?)"</expres>                                           
-	<page>http://$doregex[host]/1/ustream?connectionId=$doregex[cid]</page>
-	<referer>http://www.ustream.tv</referer>
-</regex>
-<regex>
-	<name>host</name>
-	<expres>host":"(.*?)"</expres>                                           
-	<page>http://r45917422-1-12762028-channel-live.ums.ustream.tv/1/ustream?type=viewer&amp;appId=11&amp;appVersion=2&amp;media=12762028&amp;application=channel</page>
-	<referer>http://www.ustream.tv</referer>
-</regex>
-<regex>
-	<name>cid</name>
-	<expres>Id":"(.*?)"</expres>                                           
-	<page>http://r45917422-1-12762028-channel-live.ums.ustream.tv/1/ustream?type=viewer&amp;appId=11&amp;appVersion=2&amp;media=12762028&amp;application=channel</page>
-	<referer>http://www.ustream.tv</referer>
-</regex>
+<title>National Geographic</title>
+<link>http://167.114.119.209:1935/flu555/_definst_/natgeo/playlist.m3u8?token=</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Nat Geo Wild</title>
+<link>http://167.114.101.188:1935/flu555/_definst_/natgeowild/playlist.m3u8?token=</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Discovery Channel</title>
+<link>http://167.114.119.209:1935/flu555/_definst_/discovery/playlist.m3u8?token=</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -770,32 +751,26 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 </item>
 
 <item>
+<title>Anime Plus</title>
+<link>http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Cartoon Network</title>
-<link>http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m3u8</link>
+<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Nickelodeon</title>
+<link>http://167.114.101.188:1935/flu555/_definst_/nick/playlist.m3u8?token=</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Disney Channel</title>
-<link>http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Cartoon Network 2</title>
-<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chcartoonnetworkyes/2009/07/25/fae8e5c2-0854-4f80-988a-82b954d477a8 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&height=450&time=&autoplay=true&width=600 pageUrl=http://cdn.livestream.com/embed/cartoonnetworkyes?layout=4&height=450&width=600&autoplay=true</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Disney Channel 2</title>
-<link>http://213.250.19.50/disneychannel/disneychannel.isml/disneychannel-video=2500000-audio101=128000.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CNBC</title>
-<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8</link>
+<link>http://167.114.119.209:1935/flu555/_definst_/disneyxd/playlist.m3u8?token=</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -807,6 +782,18 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
+
+<item>
+<title>Suamiku Jatuh Dari Langit (2015)</title>
+<link>$doregex[url]</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/07/Suamiku-Jatuh-Dari-Langit-2015-Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OHH_Top4QBs/maxresdefault.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/embed-yl9ibw8v2na5-.html</page>
+</regex>
+</item>
 
 <item>
 <title>Gangsterock Kasi Sengat (2015)</title>
