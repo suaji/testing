@@ -138,8 +138,77 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
+#EXTINF:0, [COLOR black]__DOCUMENTARY__[/COLOR]
+http://50.7.96.210:8285
+
+#EXTINF:0,Updated:8/15-National Geographic
+http://167.114.119.209:1935/flu555/_definst_/natgeo/playlist.m3u8?token=
+
+#EXTINF:0,Top Documentary- Nat Geo Wild
+http://167.114.101.188:1935/flu555/_definst_/natgeowild/playlist.m3u8?token=
+
+#EXTINF:0,Updated:8/15-Discovery Channel
+http://167.114.119.209:1935/flu555/_definst_/discovery/playlist.m3u8?token=
+
+#EXTINF:0,Updated:8/15-Animal Planet
+http://167.114.156.29:1935/flu555/_definst_/animal/playlist.m3u8?token=
+
+#EXTINF:0,Updated:8/15-History Channel
+http://167.114.157.40:1935/flu555/_definst_/history/playlist.m3u8?token=
+
+#EXTINF:0,Updated:8/15-History 2
+http://167.114.101.188:1935/flu555/_definst_/h2/playlist.m3u8?token=
+
+#EXTINF:0,Updated:8/15-TLC
+http://167.114.119.209:1935/flu555/_definst_/jtlc/playlist.m3u8?token=
+
+#EXTINF:0,Updated:8/15-Food Channel
+http://167.114.119.209:1935/flu555/_definst_/food/playlist.m3u8?token=
+
+#EXTINF:0,Updated:8/15-Cooking Channel
+http://167.114.119.209:1935/flu555/_definst_/cookingchannel/playlist.m3u8?token=
+
+#EXTINF:0,Updated:8/15-DIY
+http://167.114.101.188:1935/flu555/_definst_/diy/playlist.m3u8?token=
+
 #EXTINF:0, [COLOR springgreen]__FAMILY__[/COLOR]
 http://50.7.96.210:8285
+
+#EXTINF:0, HBO EAST
+http://167.114.119.209:1935/flu555/_definst_/hboeast/playlist.m3u8?token=
+
+#EXTINF:0, HBO Comedy
+http://167.114.119.209:1935/flu555/_definst_/hbocomedy/playlist.m3u8?token=
+
+#EXTINF:0, HBO Signature
+http://167.114.119.209:1935/flu555/_definst_/hbosignature/playlist.m3u8?token=
+
+#EXTINF:0, HBO Zone
+http://167.114.119.209:1935/flu555/_definst_/hbozone/playlist.m3u8?token=
+
+#EXTINF:0, MBC Movies Action
+http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
+
+#EXTINF:0, MBC Movies Bollywood
+http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
+
+#EXTINF:0, MBC Movies Drama
+http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
+
+#EXTINF:0, MBC Movies Msr
+http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
+
+#EXTINF:0, MBC Movies MAX
+http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
+
+#EXTINF:0, Starz Cinema
+http://167.114.101.188:1935/flu555/_definst_/starzcinema/playlist.m3u8?token=
+
+#EXTINF:0, Starz Edge
+http://167.114.156.30:1935/flu555/_definst_/starzedge/playlist.m3u8?token=
+
+#EXTINF:0, Starz East
+http://167.114.101.188:1935/flu555/_definst_/starzeast/playlist.m3u8?token=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/cinemax.png" tvg-name="CINEMAX"  group-title="ENGLISH",CINEMAX
 http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
@@ -168,17 +237,29 @@ http://84.232.5.115/liveedge3/disneyxd.stream/playlist.m3u8
 #EXTINF:0, SKY Movie Disney
 http://84.232.5.115/liveedge3/movdisney.stream/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/cartoonnetwork.png" tvg-name="CARTOON NETWORK"  group-title="Kids",CARTOON NETWORK
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/chunklist.m3u8
+#EXTINF:0, Disney Channel
+http://167.114.119.209:1935/flu555/_definst_/disneyxd/playlist.m3u8?token=
 
 #EXTINF:0, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL"  group-title="Kids",DISNEY CHANNEL
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+#EXTINF:0,Top Kids- Nickelodeon
+http://167.114.101.188:1935/flu555/_definst_/nick/playlist.m3u8?token=
 
 #EXTINF:0, [COLOR cyan]__MUSIC__[/COLOR]
 http://50.7.96.210:8285
+
+#EXTINF:0, VEVO 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:0, VEVO 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:0, VEVO 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:0,Updated:8/15-MTV Music
+http://81.92.105.134:5555/pl.m3u8?channel=516
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mivo_tv.png" tvg-name="MIVOTV"  group-title="Indonesia",MIVOTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
@@ -243,10 +324,19 @@ http://50.7.96.210:8285
 #EXTINF:0, *BPL LIVE Vdubt25 @ TURKS
 http://50.7.96.210:8285
 
-#EXTINF:0,Euronews
+#EXTINF:0, Sky News
+http://81.92.105.134:5555/pl.m3u8?channel=311
+
+#EXTINF:0, Euronews
 http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
 
-#EXTINF:0,Fight Sport
+#EXTINF:0, ESPN
+http://167.114.119.209:1935/flu555/_definst_/espn/playlist.m3u8?token=
+
+#EXTINF:0, 2
+http://167.114.119.209:1935/flu555/_definst_/espn2/playlist.m3u8?token=
+
+#EXTINF:0, Fight Sport
 http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
 
 #EXTINF:0, Sport Time TV2
@@ -272,6 +362,12 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0, FOX Sports 1
+http://167.114.119.209:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
+
+#EXTINF:0, FOX Sports 2
+http://167.114.119.209:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
 
 #EXTINF:-1, BT SPORT 1
 rtmp://109.200.1.82:1935/tes/bt1.stream?e607b5b743e1842ee50e1556bbf3ae42
