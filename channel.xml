@@ -784,7 +784,14 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <items>
 
 <item>
-<title>Suamiku Jatuh Dari Langit (2015)</title>
+<title>Suamiku Jatuh Dari Langit HD (2015)</title>
+<link>http://st122.u1.videomega.tv/v/71399a8503f025f82e6b1d7f03fb293f.mp4?st=9jUSAIdBoEptE1xoLbmIHQ&hash=3zfm0C01VJjnp6-OBxmiQg</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/07/Suamiku-Jatuh-Dari-Langit-2015-Poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OHH_Top4QBs/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Suamiku Jatuh Dari Langit SD (2015)</title>
 <link>$doregex[url]</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/07/Suamiku-Jatuh-Dari-Langit-2015-Poster.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/OHH_Top4QBs/maxresdefault.jpg</fanart>
