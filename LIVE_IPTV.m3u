@@ -94,7 +94,7 @@ http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 http://50.7.96.210:8285
 
 #EXTINF:0, KBS World
-http://goo.gl/nQkZJ4
+http://lihattv.wha.la/jhos/kbs/-/playlist.m3u8
 
 #EXTINF:0, Animal Planet
 http://80.80.160.168/live/1/500000/playlist.m3u8
@@ -160,7 +160,7 @@ http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
 http://50.7.96.210:8285
 
 #EXTINF:0, Anime Plus
-http://goo.gl/HF3RnK
+http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8
 
 #EXTINF:0, Disney XD
 http://84.232.5.115/liveedge3/disneyxd.stream/playlist.m3u8
@@ -240,8 +240,14 @@ http://astro1.rastream.com/lite?type=.flv
 #EXTINF:0, [COLOR crimson]__SPORTS__[/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, *BPL LIVE guna Vdubt25 @ TURKS
+#EXTINF:0, *BPL LIVE Vdubt25 @ TURKS
 http://50.7.96.210:8285
+
+#EXTINF:0,Euronews
+http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
+
+#EXTINF:0,Fight Sport
+http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
 
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
@@ -287,36 +293,3 @@ http://4.31.30.159:9085
 
 #EXTINF:-1,(testing)
 http://4.31.30.15:9085
-
-#EXTINF:0,Arirang
-http://lihattv.wha.la/jhos/arirang/-/playlist.m3u8
-#EXTINF:0,Aniplus
-http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8
-#EXTINF:0,Australia Plus
-http://lihattv.wha.la/jhos/aplus/-/playlist.m3u8
-#EXTINF:0,CNA
-http://lihattv.wha.la/jhos/newsasia/-/playlist.m3u8
-#EXTINF:0,CCTV4
-http://lihattv.wha.la/jhos/cctv4/-/playlist.m3u8
-#EXTINF:0,CCTV9
-http://lihattv.wha.la/jhos/cctv9/-/playlist.m3u8
-#EXTINF:0,Da Vinci Learning
-http://lihattv.wha.la/jhos/davinci/-/playlist.m3u8
-#EXTINF:0,DWTV
-http://lihattv.wha.la/jhos/dwtv/-/playlist.m3u8
-#EXTINF:0,English Club
-http://lihattv.wha.la/jhos/englishclub/-/playlist.m3u8
-#EXTINF:0,Euronews
-http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
-#EXTINF:0,Fashion TV
-http://lihattv.wha.la/jhos/fashiontv/-/playlist.m3u8
-#EXTINF:0,Fight Sport
-http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
-#EXTINF:0,Ginx
-http://lihattv.wha.la/jhos/ginx/-/playlist.m3u8
-#EXTINF:0,Li
-http://lihattv.wha.la/jhos/litv/-/playlist.m3u8
-#EXTINF:0,KBS
-http://lihattv.wha.la/jhos/kbs/-/playlist.m3u8
-#EXTINF:0,Outdoor
-http://lihattv.wha.la/jhos/outdoor/-/playlist.m3u8
