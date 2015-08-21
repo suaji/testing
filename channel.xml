@@ -791,7 +791,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <regex>
 <name>url</name>
 <expres>"(.*?m3u8.*?)"</expres>
-<page>http://vidzi.tv/embed-yl9ibw8v2na5-.html</page>
+<page>http://vidzi.tv/embed-68yi3nsnbzup-640x360.html</page>
 </regex>
 </item>
 
