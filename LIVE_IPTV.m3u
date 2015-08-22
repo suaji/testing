@@ -231,11 +231,11 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mivo_tv.png" tvg-name="MIVOTV"  group-title="Indonesia",MIVOTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
 http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mivo_tv.png" tvg-name="MIVOTV"  group-title="Indonesia",MIVOTV
+http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
 
 #EXTINF:0, [COLOR gold][B]__RADIO__[/B][/COLOR]
 http://50.7.96.210:8285
@@ -291,6 +291,12 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
 http://50.7.96.210:8285
 
+#EXTINF:0, FOX Sports 1
+http://167.114.119.209:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
+
+#EXTINF:0, FOX Sports 2
+http://167.114.119.209:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
+
 #EXTINF:0, Euronews
 http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
 
@@ -327,18 +333,6 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0, FOX Sports 1
-http://167.114.119.209:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
-
-#EXTINF:0, FOX Sports 2
-http://167.114.119.209:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
-
-#EXTINF:-1, BT SPORT 1
-rtmp://109.200.1.82:1935/tes/bt1.stream?e607b5b743e1842ee50e1556bbf3ae42
-
-#EXTINF:-1, BT SPORT 2
-rtmp://109.200.1.82:1935/tes/bt2.stream?e607b5b743e1842ee50e1556bbf3ae42
-
 #EXTINF:-1,TSN 1
 http://4.31.30.159:9082
 
@@ -350,21 +344,3 @@ http://4.31.30.159:9084
 
 #EXTINF:-1,TSN 4
 http://4.31.30.159:9085
-
-#EXTINF:-1, VOD_Test_Suamiku Jatuh Dari Langit (2015)
-http://st122.u1.videomega.tv/v/71399a8503f025f82e6b1d7f03fb293f.mp4?st=9jUSAIdBoEptE1xoLbmIHQ&hash=3zfm0C01VJjnp6-OBxmiQg
-
-#EXTINF:-1, VOD_Test_Jangan Pandang Belakang Congkak (2015)
-http://st117.u1.videomega.tv/v/4f111a9013bddd06a0c2e8858cef2cb5.mp4?st=2roxmIrfvPVPltnCk9_4yA&hash=80gkns3NtBUQC7bn8UreaQ
-
-#EXTINF:0, VOD_Test_JURASSIC PARK 2015
-http://st401.u1.videomega.tv/v/000fe48692975d6aadc68f888489886e.mp4?st=ihENH0SHehRGh8Mj8qkkSw&hash=9v7XlPREm4gZ88lM55zPHQ
-
-#EXTINF:0, VOD_Test_FRAKENSTEIN VS THE MUMMY 2015
-http://st115.u1.videomega.tv/v/21ef171ee12eb850d1a75ee0185a2ca1.mp4?st=95QKmy1m7Q9V2KlvXDIoiQ&hash=EblrBeO11IBqJMdONGo3nQ
-
-#EXTINF:0, VOD_Test_PREDATOR THE DARK AGES 2015
-http://st127.u1.videomega.tv/v/85f6037d3adee31c93ffab9b681d9a73.mp4?st=TPnrM5vDmmXaMcNdC_XA4A&hash=tToxgyTK98PT7PqXawZQXw
-
-#EXTINF:0, VOD_Test_SURVIVOR 2015
-http://st131.u1.videomega.tv/v/f225fc8aeebd8f3f3b91e3d4667f411b.mp4?st=H4Cffhy9ZoTkn5fnqesr_w&hash=LIIxejwk3dB87ltUeon-Jg
