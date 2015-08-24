@@ -2187,25 +2187,12 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Jangan Pandang Belakang Congkak (2009)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-j48n2igwx95r-640x360.html</link>
+<link>$doregex[url]</link>
 <thumbnail>http://3.bp.blogspot.com/_nMmF-4VM-y0/TDE6AO0rsoI/AAAAAAAAAlk/c6iGfwe2e_w/s1600/jpbc2.jpg</thumbnail>
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-j48n2igwx95r-640x360.html</page>
-<referer>http://streamin.to/j48n2igwx95r</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-j48n2igwx95r-640x360.html</page>
-<referer>http://streamin.to/j48n2igwx95r</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-j48n2igwx95r-640x360.html</page>
-<referer>http://streamin.to/j48n2igwx95r</referer>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/embed-ao7l2jkxbtrb-640x360.html</page>
 </regex>
 </item>
 
