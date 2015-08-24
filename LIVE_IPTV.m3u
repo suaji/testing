@@ -285,7 +285,7 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR crimson][B]__SPORTS__[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B]__SPORTS__ (24-08-2015)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
@@ -345,21 +345,23 @@ http://4.31.30.159:9084
 #EXTINF:-1,TSN 4
 http://4.31.30.159:9085
 
-#EXTINF:-1,UK: SkySports News HD
-http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/139.ts
-#EXTINF:-1,UK: SkySports 5 HD
-http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/140.ts
-#EXTINF:-1,UK: SkySports 3 HD
-http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/141.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/125.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/126.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/127.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/128.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/129.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/130.ts
+EXTINF:0,beINSport1 FR
+http://178.33.88.129:888/udp/239.102.0.15:1234
+#EXTINF:0,beINSport2 FR
+http://178.33.88.129:888/udp/239.102.0.16:1234
+#EXTINF:0,beINSport3 FR
+http://178.33.88.129:888/udp/239.102.0.17:1234
+#EXTINF:0,bein sport 4hd
+http://178.33.88.129:888/udp/239.102.0.5:1234
+#EXTINF:0,bein sport 5hd
+http://178.33.88.129:888/udp/239.102.0.6:1234
+#EXTINF:0,bein sport 6hd
+http://178.33.88.129:888/udp/239.102.0.7:1234
+#EXTINF:0,bein sport 7hd
+http://178.33.88.129:888/udp/239.102.0.8:1234
+#EXTINF:0,bein sport 9hd
+http://178.33.88.129:888/udp/239.102.0.9:1234
+#EXTINF:0,bein sport 10hd
+http://178.33.88.129:888/udp/239.102.0.11:1234
+#EXTINF:0,bein sport 2hd ar
+http://178.33.88.129:888/udp/239.102.0.2:1234
