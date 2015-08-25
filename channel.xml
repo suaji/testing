@@ -1731,25 +1731,13 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Hantu Nan Sempit (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z1875tfw8zoo-640x360.html</link>
+<link>$doregex[url]</link>
 <thumbnail>http://1.bp.blogspot.com/-dxlDSFN9x94/U46_nsT7HJI/AAAAAAAAIq8/FFjkIsFSqA8/s1600/Hantu+Nan+Sempit.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-dxlDSFN9x94/U46_nsT7HJI/AAAAAAAAIq8/FFjkIsFSqA8/s1600/Hantu+Nan+Sempit.jpg</fanart>
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-z1875tfw8zoo-640x360.html</page>
-<referer>http://streamin.to/z1875tfw8zoo</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-z1875tfw8zoo-640x360.html</page>
-<referer>http://streamin.to/z1875tfw8zoo</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-z1875tfw8zoo-640x360.html</page>
-<referer>http://streamin.to/z1875tfw8zoo</referer>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/embed-as40jf6olfo1-640x360.html</page>
 </regex>
 </item>
 
