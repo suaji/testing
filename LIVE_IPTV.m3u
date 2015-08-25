@@ -60,7 +60,7 @@ http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch020.stream_360p/playlist.m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/hijau.png" tvg-name="HIJAU TV"  group-title="Malaysia",HIJAU TV
 rtmp://119.110.96.71/live/1htv
                    
-#EXTINF:-0, [COLOR deepskyblue][B]:::> INDONESIA <:::[/B][/COLOR]
+#EXTINF:-0, [COLOR deepskyblue][B]<::: INDONESIA :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/trans_7_id.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
@@ -96,7 +96,7 @@ rtmp://202.137.11.52:1935/jakarta/offair.sdp
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/antara_tv.png" tvg-name="ANTARA TV"  group-title="Indonesia",ANTARA TV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 
-#EXTINF:-1, [COLOR saddlebrown][B]:::> SINGAPORE <:::[/B][/COLOR]
+#EXTINF:-1, [COLOR saddlebrown][B]<::: SINGAPORE :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA"  group-title="Singapore",SURIA
@@ -108,7 +108,7 @@ http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHANNEL 8"  group-title="Singapore",CHANNEL 8
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8
 
-#EXTINF:-0, [COLOR slateblue][B]:::> NEWS <:::[/B][/COLOR]
+#EXTINF:-0, [COLOR slateblue][B]<::: NEWS :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/channel_newsasia.png" tvg-name="NEWS ASIA"  group-title="Singapore",NEWS ASIA
@@ -135,7 +135,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:0, [COLOR orange][B]:::> DOCUMENTARY <:::[/B][/COLOR]
+#EXTINF:0, [COLOR orange][B]<::: DOCUMENTARY :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, National Geographic
@@ -162,7 +162,7 @@ http://167.114.119.209:1935/flu555/_definst_/cookingchannel/playlist.m3u8?token=
 #EXTINF:0, DIY
 http://167.114.101.188:1935/flu555/_definst_/diy/playlist.m3u8?token=
 
-#EXTINF:0, [COLOR springgreen][B]:::> FAMILY <:::[/B][/COLOR]
+#EXTINF:0, [COLOR springgreen][B]<::: FAMILY :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, HBO EAST
@@ -195,7 +195,7 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI ONE"  group-title="ENGLISH",DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
-#EXTINF:0, [COLOR fuchsia][B]:::> KIDS <:::[/B][/COLOR]
+#EXTINF:0, [COLOR fuchsia][B]<::: KIDS :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, Anime Plus (Sub Ind)
@@ -210,7 +210,7 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/p
 #EXTINF:0, Nickelodeon
 http://167.114.101.188:1935/flu555/_definst_/nick/playlist.m3u8?token=
 
-#EXTINF:0, [COLOR cyan][B]:::> MUSIC <:::[/B][/COLOR]
+#EXTINF:0, [COLOR cyan][B]<::: MUSIC :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, VEVO 1 HD
@@ -228,7 +228,7 @@ http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mivo_tv.png" tvg-name="MIVOTV"  group-title="Indonesia",MIVOTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
 
-#EXTINF:0, [COLOR gold][B]:::> RADIO <:::[/B][/COLOR]
+#EXTINF:0, [COLOR gold][B]<::: RADIO :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
@@ -276,7 +276,7 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR crimson][B]:::> SPORTS <:::(24-08-2015)[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(24-08-15)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
