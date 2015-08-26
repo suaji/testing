@@ -1887,25 +1887,13 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Panik (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ijuydmsjaft5-640x360.html</link>
+<link>$doregex[url]</link>
 <thumbnail>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</fanart>
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-8hf96jo701sl-640x360.html</page>
-<referer>http://streamin.to/ijuydmsjaft5</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ijuydmsjaft5-640x360.html</page>
-<referer>http://streamin.to/ijuydmsjaft5</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ijuydmsjaft5-640x360.html</page>
-<referer>http://streamin.to/ijuydmsjaft5</referer>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/embed-fkfokb5c6pp2-640x360.html</page>
 </regex>
 </item>
 
