@@ -1683,25 +1683,13 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Muka Surat Cinta (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-zax4zcnsnaq1-640x360.html</link>
+<link>$doregex[url]</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/02/2014-Muka-Surat-Cinta.jpg</thumbnail>
+<fanart>http://pencurimovie.cc/wp-content/uploads/2014/02/2014-Muka-Surat-Cinta.jpg</fanart>
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-zax4zcnsnaq1-640x360.html</page>
-<referer>http://streamin.to/zax4zcnsnaq1</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-zax4zcnsnaq1-640x360.html</page>
-<referer>http://streamin.to/zax4zcnsnaq1</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-zax4zcnsnaq1-640x360.html</page>
-<referer>http://streamin.to/zax4zcnsnaq1</referer>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/embed-quqqn5wnsd8v-640x360.html</page>
 </regex>
 </item>
 
