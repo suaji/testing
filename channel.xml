@@ -849,6 +849,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Lawak Ke Der 4 (2015)</title>
 <link>$doregex[url]</link>
 <thumbnail>https://farm8.staticflickr.com/7593/16808759479_d877c431ec_b.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>"(.*?m3u8.*?)"</expres>
@@ -860,6 +861,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Hantu Wefie (2015)</title>
 <link>$doregex[url]</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/07/Hantu-Wefie-2015-Tonton-Online-Telefilem-Melayu.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>"(.*?m3u8.*?)"</expres>
@@ -871,6 +873,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Isyarat Cinta (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y5o8da733vjn-640x360.html</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7isyaratcinta00_450.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -895,6 +898,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Suami Aku Ustaz (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7ryq6e0h0yso-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/suami-aku-ustaz.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -919,6 +923,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Dia (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-ABr-YdVVBqM/VX8X6hTpSTI/AAAAAAAAAY8/a_v8f2YKXSo/s1600/dia.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -943,6 +948,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Jendela (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-du2daeywzauf-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-8DP2k5rDYg0/VXk4mRNVuyI/AAAAAAAABH0/0Orz1alzS6I/s1600/Jendela.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -967,6 +973,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Ophilia (2014)</title>
 <link>$doregex[url]</link>
 <thumbnail>http://1.bp.blogspot.com/-0Zpvjw5VsfU/VJPZ3NamuUI/AAAAAAAAEUA/bL_Pmg0ssQw/s1600/skinhead.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>"(.*?m3u8.*?)"</expres>
@@ -978,6 +985,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Jalan Puncak Alam (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7jalanpuncakalam00_450.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1002,6 +1010,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Pilot Cafe (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bak2bry40apl-640x360.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/4/45/Pilot-Cafe-Poster-27x39-copy3.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1026,6 +1035,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Selfie Suara Kubur (2015)</title>
 <link>$doregex[url]</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/05/selfie.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>"(.*?m3u8.*?)"</expres>
@@ -1037,6 +1047,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>To Know Malaysia Is To Laugh (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2z0sgodn044x-640x360.html</link>
 <thumbnail>http://i1.wp.com/i386.photobucket.com/albums/oo307/beautifulnara/beautifulnara023/harith.jpg?w=584</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1061,6 +1072,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Abang Lejen (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-is82iux03xrp-640x360.html</link>
 <thumbnail>http://www.thesoftbay.com/wp-content/uploads/2015/05/Abang-Lejen-2015-DVDRip.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1085,6 +1097,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Hantu Bungkus Ikat Tepi (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-26cliglouhgg-640x360.html</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2014/7hantubungkusikattepi00_450.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1109,6 +1122,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Jengka (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jv7yt6zdupij-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-hDNKpqnTYRo/VRJ0Gz41k3I/AAAAAAAAAcE/BNRMYtXalVk/s1600/sdsdfe.JPG</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1133,6 +1147,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Werewolf Dari Bangladesh (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4uf9ew116wzm-640x360.html</link>
 <thumbnail>https://farm9.staticflickr.com/8639/16391791030_c1f870164a_b.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1157,6 +1172,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Cicakman 3 (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-6ks1radcoilp-640x360.html</link>
 <thumbnail>http://twitchfilm.com/assets_c/2014/12/Cicakman3-thumb-300xauto-52120.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1181,6 +1197,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Coverina (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-64zhcybn5c0b-640x360.html</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7coverina00_450.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1205,6 +1222,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Gudang Kubur (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kl752xdtrgd5-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/gudang-kubur.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1229,6 +1247,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Bangunan (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-774pel8o3y28-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/bangunan.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1253,6 +1272,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Suamiku Encik Perfect 10 (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-85s10h8licl0-640x360.html</link>
 <thumbnail>http://3.bp.blogspot.com/-pigROVAtpz0/VLgLMtNpoEI/AAAAAAAAAXA/CQ9vXhZIUQk/s1600/Suamiku%2BEncik%2BPerfect%2B10!.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1277,6 +1297,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Puaka Balai Gombak (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ipw0jw8c9zng-640x360.html</link>
 <thumbnail>https://farm9.staticflickr.com/8625/16049169137_f49fd2be9c_b.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1301,6 +1322,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Villa Nabila (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-e6gw2kokw91x-640x360.html</link>
 <thumbnail>http://www.hairulafiz.com/wp-content/uploads/2014/11/Filem-Villa-Nabila-bakal-ditayangkan-pada-tahun-2015.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1325,6 +1347,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Rumah Pusaka Di Simpang Jalan (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-0ofkm0rbiy26-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-PSUPFivVMVE/VI0eg6MQ-rI/AAAAAAAAH18/h_QRLwMLRYk/s1600/Rumah%2BPusaka%2BDi%2BSimpang%2BJalan.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1349,6 +1372,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Misi Tawan Baby (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7bd50q803xez-640x360.html</link>
 <thumbnail>http://galaksi-media.com/wp-content/uploads/2014/11/FA-MTB-2-01.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1373,6 +1397,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Hantu Bukit Cina (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nlffhx5h9658-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/08/hantu-bukit-cina-sdtvrip-dvdrip-download-pencuri-movie.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1397,6 +1422,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Fobia Malam Pertama (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8004p4tvasza-640x360.html</link>
 <thumbnail>http://i.ytimg.com/vi/7LEqlMy18KI/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1421,6 +1447,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Kasut Ku Kusut (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5eg4u89bnfag-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-EGewTMK6Fig/VKZwuvnuqEI/AAAAAAAAHzQ/TOsXQh6Ljxg/s1600/10382150_871873926167546_7879890121740029874_n.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1445,6 +1472,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Manisnya Cinta Di Cappadoccia (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-i9czbuo2rf46-640x360.html</link>
 <thumbnail>http://gscmovies.com.my/wp-content/uploads/2014/09/MCDC_Poster-FINALedit-1280-02092014-BalloonsXtraColor.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1469,6 +1497,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Rentap (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9st15wwiwvwq-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/--LbE6mxOYmU/VA_aXDseNNI/AAAAAAAAO3c/035E1PH6Evo/s1600/rentap.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1493,6 +1522,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Cerita Hantu (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eo01u9ykym4k-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/01/Cerita-Hantu-Malaysia-2014-PPVRIP.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1517,6 +1547,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Terbaik Dari Langit (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s4bhkoaq0l44-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-qejBbkr8Ezc/VJ0xFOhwICI/AAAAAAAAAnI/mUqRx0Z9wRw/s1600/541586_1535913813323742_5063583405201954531_n.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1541,6 +1572,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Kaki Kitai (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5z7iv30n05ap-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2014/12/kitai.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1565,6 +1597,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Kelibat (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-is4hpvpy962f-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2014/11/kelibat-dvd.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1589,6 +1622,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Dendam Orang Mati (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ko8fsbzfzme7-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/11/dendam-orang-mati.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1613,6 +1647,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Misteri Syirik Tahyul (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-r9d66e0kqq87-640x360.html</link>
 <thumbnail>http://3.bp.blogspot.com/-FHRvF57RKe4/VBiGKcFFbmI/AAAAAAAAHOE/1v-fCN9W6YI/s1600/Mistik%2BSyirik%2BTahyul.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1637,6 +1672,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Mamak Cup Cake (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9uxjovmik08c-640x360.html</link>
 <thumbnail>http://www.astrogempak.com.my/portals/72/images/meletop_filem/mamak.JPG</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1661,6 +1697,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Nasi Tangas (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2iv0rrugs4vo-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/10/nasi-tangas-679x1024.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1697,6 +1734,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Lagenda Budak Setan 3 (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eq7trczqkekt-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-Qhmn-EfW-0A/U-5sH9rnfKI/AAAAAAAAG_U/YoBPkFcOmVw/s1600/Lagenda%2BBudak%2BSetan%2B3%2BKasyah.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1733,6 +1771,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Adnan Sempit Sawadikap (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wn821dgwu8qv-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-xNqC5mqCSAs/U5Nb8SUnoYI/AAAAAAAAGNw/ixBuCnaaons/s1600/Adnan+Sempit+Sawadikap.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1755,25 +1794,13 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Cara Mengundang Hantu (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</link>
+<link>$doregex[url]</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</fanart>
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</page>
-<referer>http://streamin.to/lcwvfhvh9o5k</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</page>
-<referer>http://streamin.to/lcwvfhvh9o5k</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-lcwvfhvh9o5k-640x360.html</page>
-<referer>http://streamin.to/lcwvfhvh9o5k</referer>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/embed-j78sofkwlehu-640x360.html</page>
 </regex>
 </item>
 
@@ -1781,6 +1808,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Ia Wujud (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-f4sm5pld1iw7-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-vZo1pAGiU6Q/U4iN-w46urI/AAAAAAAAA78/A3LMYEHnSKs/s1600/iw.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1805,6 +1833,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Apokalips-X (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-tgmmzppcbt2n-640x360.html</link>
 <thumbnail>http://i.imgur.com/6d2HXVM.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1829,6 +1858,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Lu Gua Bro (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wt8vy9sglsf5-640x360.html</link>
 <thumbnail>http://i.imgur.com/B4D71O6.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1853,6 +1883,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Zombi Kilang Biskut (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qrkxghle89i2-640x360.html</link>
 <thumbnail>http://i.imgur.com/mrFAFEP.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1889,6 +1920,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Paku Pontianak (2013)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ok0zhdyoxy11-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-QWKihKpHI1g/UiqhygyDf_I/AAAAAAAAATo/Bm2aPQqxeVA/s1600/1239820_612215095484782_1882814147_n.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1913,6 +1945,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Istanbul Aku Datang (2012)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nxgm0ximk9a9-640x360.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/b/b6/Istanbul_Aku_Datang.jpeg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1937,6 +1970,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Aku Terima Nikahnya (2012)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-92rng1s6dfi3-640x360.html</link>
 <thumbnail>http://www.astrogempak.com.my/portals/72/images/meletop_filem/02.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1961,6 +1995,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Seram Sejuk (2012)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-he0ufkt2qdme-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-qI08Vu9Y6uY/UEVVrwxDMBI/AAAAAAAADz0/QB1CQff1qIE/s640/Seram+Sejuk+%25282012%2529.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -1985,6 +2020,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Karak (2011)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ln763kop2ixk-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-oManyfaMANM/TgBtd0ULXWI/AAAAAAAAADg/9oc1tEbN_wY/s1600/karak.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -2009,6 +2045,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Khurafat (2011)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-29botvuuidwj-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/_8E1zWkoXI6g/TSAdYIXB2VI/AAAAAAAAA1Y/VKlfPnNKBXA/s400/khurafat.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -2033,6 +2070,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Senjakala (2011)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-lm94gtjst4o5-640x360.html</link>
 <thumbnail>http://filemwayang.com/wp-content/uploads/2011/03/Poster-Senjakala.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -2057,6 +2095,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Penunggu Istana (2011)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jqzldf87n00u-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-OWvjywonYvQ/TkLz1d0EBLI/AAAAAAAAADs/l9bZkANoA9k/s1600/penunggu+istana+-+ohfilem.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -2081,6 +2120,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Seru (2011)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-l8gl12aauaud-640x360.html</link>
 <thumbnail>http://www.horror-movies.ca/wp-content/uploads/2011/04/Seru-Poster.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -2105,6 +2145,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Hantu Kak Limah Balik Rumah (2010)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jzqoqy8od137-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/_dYtjWGhIfm0/TS3VgzFmtVI/AAAAAAAAAH0/ghgkfuAze6g/s1600/hantu+kak+limah.png</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -2129,6 +2170,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Jangan Tegur (2009)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-pqnntni43x1h-640x360.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/e7/Jangan_Tegur(poster).jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
@@ -2153,6 +2195,7 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <title>Jangan Pandang Belakang Congkak (2009)</title>
 <link>$doregex[url]</link>
 <thumbnail>http://3.bp.blogspot.com/_nMmF-4VM-y0/TDE6AO0rsoI/AAAAAAAAAlk/c6iGfwe2e_w/s1600/jpbc2.jpg</thumbnail>
+<fanart></fanart>
 <regex>
 <name>url</name>
 <expres>"(.*?m3u8.*?)"</expres>
