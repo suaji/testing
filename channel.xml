@@ -11,59 +11,6 @@
 </channel>
 
 <channel>
-<name>MAKKAH Live Prayers</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<items>
-
-<item>
-<title>Kaaba and Masjid Al-Haram</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/').replace('https', 'http')</expres>
-<page></page>
-</regex>
-<regex>
-<name>jsonurl</name>
-<expres>"hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[get-page]</page>
-<referer></referer>
-</regex>
-<regex>
-<name>get-page</name>
-<expres>data-context-item-id="([^"]+)</expres>
-<page>https://www.youtube.com/channel/UCos52azQNBgW63_9uDJoPDA</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Masjid Al-Nabawi in Madinah</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/').replace('https', 'http')</expres>
-<page></page>
-</regex>
-<regex>
-<name>jsonurl</name>
-<expres>"hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[get-page]</page>
-<referer></referer>
-</regex>
-<regex>
-<name>get-page</name>
-<expres>data-context-item-id="([^"]+)</expres>
-<page>https://www.youtube.com/channel/UCROKYPep-UuODNwyipe6JMw</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-</items>
-</channel>
-
-<channel>
 <name>[COLOR=FF00FF00]MALAYSIA CHANNELS[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -195,7 +142,6 @@
 <channel>
 <name>[COLOR=FFFFFF00]ASIAN CHANNELS[/COLOR]</name>
 <thumbnail></thumbnail>
-<fanart></fanart>
 <items>
 
 <item>
@@ -1620,26 +1566,13 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 
 <item>
 <title>Dendam Orang Mati (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ko8fsbzfzme7-640x360.html</link>
+<link>$doregex[url]</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/11/dendam-orang-mati.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-7AflueZZuM8/VFH01YdGshI/AAAAAAAADyQ/TxLPUxW47s4/s1600/cde.jpg</fanart>
 <regex>
 <name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ko8fsbzfzme7-640x360.html</page>
-<referer>http://streamin.to/ko8fsbzfzme7</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ko8fsbzfzme7-640x360.html</page>
-<referer>http://streamin.to/ko8fsbzfzme7</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ko8fsbzfzme7-640x360.html</page>
-<referer>http://streamin.to/ko8fsbzfzme7</referer>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://vidzi.tv/embed-bf2lync15dr2-640x360.html</page>
 </regex>
 </item>
 
