@@ -356,3 +356,13 @@ http://178.33.88.129:888/udp/239.102.0.9:1234
 http://178.33.88.129:888/udp/239.102.0.11:1234
 #EXTINF:0,bein sport 2hd ar
 http://178.33.88.129:888/udp/239.102.0.2:1234
+
+#EXTINF:-1,NTVPlusFootbal
+http://213.95.47.104:8080/btv_00171/
+#EXTINF:-1,NTVPlusFootbalHD
+http://213.95.47.104:8080/btv_00172/
+
+#EXTINF:-1,NTVPlusSport
+http://213.95.47.104:8080/btv_00169/
+#EXTINF:-1,NTVPlusSportPlus
+http://213.95.47.104:8080/btv_00170
