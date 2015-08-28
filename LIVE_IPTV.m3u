@@ -147,44 +147,10 @@ http://167.114.101.188:1935/flu555/_definst_/natgeowild/playlist.m3u8?token=
 #EXTINF:0, Discovery Channel
 http://167.114.119.209:1935/flu555/_definst_/discovery/playlist.m3u8?token=
 
-#EXTINF:0, History 2
-http://167.114.101.188:1935/flu555/_definst_/h2/playlist.m3u8?token=
-
-#EXTINF:0, TLC
-http://167.114.119.209:1935/flu555/_definst_/jtlc/playlist.m3u8?token=
-
-#EXTINF:0, Food Channel
-http://167.114.119.209:1935/flu555/_definst_/food/playlist.m3u8?token=
-
-#EXTINF:0, Cooking Channel
-http://167.114.119.209:1935/flu555/_definst_/cookingchannel/playlist.m3u8?token=
-
-#EXTINF:0, DIY
-http://167.114.101.188:1935/flu555/_definst_/diy/playlist.m3u8?token=
-
 #EXTINF:0, [COLOR springgreen][B]<::: FAMILY :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, HBO EAST
-http://167.114.119.209:1935/flu555/_definst_/hboeast/playlist.m3u8?token=
-
-#EXTINF:0, HBO Comedy
-http://167.114.119.209:1935/flu555/_definst_/hbocomedy/playlist.m3u8?token=
-
-#EXTINF:0, HBO Signature
-http://167.114.119.209:1935/flu555/_definst_/hbosignature/playlist.m3u8?token=
-
-#EXTINF:0, HBO Zone
-http://167.114.119.209:1935/flu555/_definst_/hbozone/playlist.m3u8?token=
-
-#EXTINF:0, Starz Cinema
-http://167.114.101.188:1935/flu555/_definst_/starzcinema/playlist.m3u8?token=
-
-#EXTINF:0, Starz Edge
-http://167.114.156.30:1935/flu555/_definst_/starzedge/playlist.m3u8?token=
-
-#EXTINF:0, Starz East
-http://167.114.101.188:1935/flu555/_definst_/starzeast/playlist.m3u8?token=
+ttp://167.114.119.209:1935/flu555/_definst_/hbozone/playlist.m3u8?token=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/cinemax.png" tvg-name="CINEMAX"  group-title="ENGLISH",CINEMAX
 http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
@@ -201,14 +167,8 @@ http://50.7.96.210:8285
 #EXTINF:0, Anime Plus (Sub Ind)
 http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8
 
-#EXTINF:0, Disney Channel
-http://167.114.119.209:1935/flu555/_definst_/disneyxd/playlist.m3u8?token=
-
 #EXTINF:0, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:0, Nickelodeon
-http://167.114.101.188:1935/flu555/_definst_/nick/playlist.m3u8?token=
 
 #EXTINF:0, [COLOR cyan][B]<::: MUSIC :::>[/B][/COLOR]
 http://50.7.96.210:8285
