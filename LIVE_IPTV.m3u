@@ -282,20 +282,8 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
 http://50.7.96.210:8285
 
-#EXTINF:0, FOX Sports 1
-http://167.114.119.209:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
-
-#EXTINF:0, FOX Sports 2
-http://167.114.119.209:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
-
 #EXTINF:0, Euronews
 http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
-
-#EXTINF:0, ESPN
-http://167.114.119.209:1935/flu555/_definst_/espn/playlist.m3u8?token=
-
-#EXTINF:0, ESPN2
-http://167.114.119.209:1935/flu555/_definst_/espn2/playlist.m3u8?token=
 
 #EXTINF:0, Fight Sport
 http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
@@ -318,25 +306,17 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARENA SPORT"  group-title="Indonesia",ARENA SPORT
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lfctv.png" tvg-name="LIVERPOOL TV"  group-title="Sports",LIVERPOOL TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
-
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,TSN 1
-http://4.31.30.159:9082
+#EXTINF:-1,NTVPlusFootbal
+http://213.95.47.104:8080/btv_00171/
+#EXTINF:-1,NTVPlusFootbal HD
+http://213.95.47.104:8080/btv_00172/
+#EXTINF:-1,NTVPlusSport
+http://213.95.47.104:8080/btv_00169/
 
-#EXTINF:-1,TSN 2
-http://4.31.30.159:9083
-
-#EXTINF:-1,TSN 3
-http://4.31.30.159:9084
-
-#EXTINF:-1,TSN 4
-http://4.31.30.159:9085
-
-EXTINF:0,beINSport1 FR
+EXTINF:0,beIN Sport1 FR
 http://178.33.88.129:888/udp/239.102.0.15:1234
 #EXTINF:0,beINSport2 FR
 http://178.33.88.129:888/udp/239.102.0.16:1234
@@ -356,13 +336,3 @@ http://178.33.88.129:888/udp/239.102.0.9:1234
 http://178.33.88.129:888/udp/239.102.0.11:1234
 #EXTINF:0,bein sport 2hd ar
 http://178.33.88.129:888/udp/239.102.0.2:1234
-
-#EXTINF:-1,NTVPlusFootbal
-http://213.95.47.104:8080/btv_00171/
-#EXTINF:-1,NTVPlusFootbalHD
-http://213.95.47.104:8080/btv_00172/
-
-#EXTINF:-1,NTVPlusSport
-http://213.95.47.104:8080/btv_00169/
-#EXTINF:-1,NTVPlusSportPlus
-http://213.95.47.104:8080/btv_00170
