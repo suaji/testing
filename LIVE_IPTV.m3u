@@ -295,3 +295,27 @@ http://118.97.167.19/jhos/arena//Playlist.m3u8
 
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0, Bein Sport
+rtmp://kv2.ts33.net/sat/us141
+
+#EXTINF:0, FOX Sports
+rtmp://kv2.ts33.net/sat/us11
+
+#EXTINF:0, FOX Movies Premium (Indo Sub)
+rtmp://streaming.jogjamedianet.com/live//fmp.sdp
+
+#EXTINF:0, MIVO TV HD
+http://50.97.82.21/sedz1j6exeot/mivotv_all/sedz1j6exeot/mivotv_720p/chunks.m3u8
+
+#EXTINF:0, MIVO TV
+http://edge.nim.mivo.tv/wh76pzref44u5306/mivotv_all/playlist.m3u8
+
+#EXTINF:0, MIVO TV SD
+http://50.97.82.21/sedz1j6exeot/mivotv_all/sedz1j6exeot/mivotv_480p/chunks.m3u8
+
+#EXTINF:0, ANTARA TV SD
+http://edge.nim.mivo.tv/wh76pzref44u5306/antaratv_all/playlist.m3u8
+
+#EXTINF:0, ANTARA TV HD
+http://50.97.82.21/sedz1j6exeot/antaratv_all/sedz1j6exeot/antaratv_480p/chunks.m3u8
