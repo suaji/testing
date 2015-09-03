@@ -185,8 +185,18 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
 http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mivo_tv.png" tvg-name="MIVOTV"  group-title="Indonesia",MIVOTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
+#EXTINF:-1,: MTV Dance
+http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/79.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel=
+#EXTINF:-1,: MTV Hits
+http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/75.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel=
+#EXTINF:-1,: MTV Base
+http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/76.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel=
+#EXTINF:-1,: MTV Rocks
+http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/74.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel=
+#EXTINF:-1,: VIVA
+http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/77.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel=
+#EXTINF:-1,: VH1
+http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/149.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel=
 
 #EXTINF:0, [COLOR gold][B]<::: RADIO :::>[/B][/COLOR]
 http://50.7.96.210:8285
@@ -307,3 +317,9 @@ rtmp://streaming.jogjamedianet.com/live//fmp.sdp
 
 #EXTINF:0, ANTARA TV HD
 http://50.97.82.21/sedz1j6exeot/antaratv_all/sedz1j6exeot/antaratv_480p/chunks.m3u8?nimblesessionid=20649789&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTUgIDI6NTc6MTAgQU0maGFzaF92YWx1ZT1CUGEzNTdBaFliSTB0N2lNZ1Z4ZHVnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+#EXTINF:0, SPTV1
+http://satznt.mine.nu:7002/sptv1
+
+#EXTINF:0, SPTV2
+http://satznt.mine.nu:7003/sptv2
