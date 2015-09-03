@@ -248,6 +248,33 @@ http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
 #EXTINF:0, Fight Sport
 http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
 
+#EXTINF:-1,NTVPlusFootbal
+http://213.95.47.104:8080/btv_00171/
+
+#EXTINF:-1,NTVPlusFootbal HD
+http://213.95.47.104:8080/btv_00172/
+
+#EXTINF:-1,NTVPlusSport
+http://213.95.47.104:8080/btv_00169/
+
+#EXTINF:0, BEIN SPORT 4hd
+http://178.33.88.129:888/udp/239.102.0.5:1234
+
+#EXTINF:0, BEIN SPORT 5hd
+http://178.33.88.129:888/udp/239.102.0.6:1234
+
+#EXTINF:0, BEIN SPORT 6hd
+http://178.33.88.129:888/udp/239.102.0.7:1234
+
+#EXTINF:0, BEIN SPORT 7hd
+http://178.33.88.129:888/udp/239.102.0.8:1234
+
+#EXTINF:0, BEIN SPORT 9hd
+http://178.33.88.129:888/udp/239.102.0.9:1234
+
+#EXTINF:0, BEIN SPORT 10hd
+http://178.33.88.129:888/udp/239.102.0.11:1234
+
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
 
@@ -268,31 +295,3 @@ http://118.97.167.19/jhos/arena//Playlist.m3u8
 
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,NTVPlusFootbal
-http://213.95.47.104:8080/btv_00171/
-#EXTINF:-1,NTVPlusFootbal HD
-http://213.95.47.104:8080/btv_00172/
-#EXTINF:-1,NTVPlusSport
-http://213.95.47.104:8080/btv_00169/
-
-EXTINF:0,beIN Sport1 FR
-http://178.33.88.129:888/udp/239.102.0.15:1234
-#EXTINF:0,beINSport2 FR
-http://178.33.88.129:888/udp/239.102.0.16:1234
-#EXTINF:0,beINSport3 FR
-http://178.33.88.129:888/udp/239.102.0.17:1234
-#EXTINF:0,bein sport 4hd
-http://178.33.88.129:888/udp/239.102.0.5:1234
-#EXTINF:0,bein sport 5hd
-http://178.33.88.129:888/udp/239.102.0.6:1234
-#EXTINF:0,bein sport 6hd
-http://178.33.88.129:888/udp/239.102.0.7:1234
-#EXTINF:0,bein sport 7hd
-http://178.33.88.129:888/udp/239.102.0.8:1234
-#EXTINF:0,bein sport 9hd
-http://178.33.88.129:888/udp/239.102.0.9:1234
-#EXTINF:0,bein sport 10hd
-http://178.33.88.129:888/udp/239.102.0.11:1234
-#EXTINF:0,bein sport 2hd ar
-http://178.33.88.129:888/udp/239.102.0.2:1234
