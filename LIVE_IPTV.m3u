@@ -323,3 +323,37 @@ http://satznt.mine.nu:7002/sptv1
 
 #EXTINF:0, SPTV2
 http://satznt.mine.nu:7003/sptv2
+
+#EXTINF:-1, DISNEY CHANNEL
+http://222.8.213.121:1935/live11/livestream1.sdp/playlist.m3u8
+#EXTINF:0,Disney Junior (UK)
+http://88.198.154.58:8000/produsat.com/forum/210
+#EXTINF:0,Nickelodeon (UK)
+http://88.198.154.58:8000/produsat.com/forum/211
+
+#EXTINF:-1,T - EUROSPORT
+http://www.nasatv.eu:80/live?channelId=42&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,EUROSPORT 2 - EUROSPORT 2
+http://www.nasatv.eu:80/live?channelId=43&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:0,BT Sports 1 HD (UK)
+http://88.198.154.58:8000/produsat.com/forum/202
+#EXTINF:0,BT Sports 2 HD (UK)
+http://88.198.154.58:8000/produsat.com/forum/203
+
+#EXTINF:-1,Digital Alb Super sport 1 - supersport1
+http://www.nasatv.eu:80/live?channelId=126&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Digital Alb Super sport 2 - SuperSport2
+http://www.nasatv.eu:80/live?channelId=127&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Digital Alb Super sport 3 - SuperSport3
+http://www.nasatv.eu:80/live?channelId=128&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Digital Alb Super sport 4 - SuperSport4
+http://www.nasatv.eu:80/live?channelId=129&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:0,Animal Planet (UK)
+http://88.198.154.58:8000/produsat.com/forum/212
+#EXTINF:0,History Channel (UK)
+http://88.198.154.58:8000/produsat.com/forum/213
+#EXTINF:0,Discovery Science (UK)
+http://88.198.154.58:8000/produsat.com/forum/214
+#EXTINF:0,National Geography (UK)
+http://88.198.154.58:8000/produsat.com/forum/215
