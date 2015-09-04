@@ -150,7 +150,8 @@ http://167.114.119.209:1935/flu555/_definst_/discovery/playlist.m3u8?token=
 #EXTINF:0, [COLOR springgreen][B]<::: FAMILY :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
-ttp://167.114.119.209:1935/flu555/_definst_/hbozone/playlist.m3u8?token=
+#EXTINF:0, FOX Movies Premium (Indo Sub)
+rtmp://streaming.jogjamedianet.com/live//fmp.sdp
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/cinemax.png" tvg-name="CINEMAX"  group-title="ENGLISH",CINEMAX
 http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
@@ -306,54 +307,14 @@ http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0, Bein Sport
-rtmp://kv2.ts33.net/sat/us141
-
-#EXTINF:0, FOX Sports
-rtmp://kv2.ts33.net/sat/us011
-
-#EXTINF:0, FOX Movies Premium (Indo Sub)
-rtmp://streaming.jogjamedianet.com/live//fmp.sdp
-
-#EXTINF:0, ANTARA TV HD
-http://50.97.82.21/sedz1j6exeot/antaratv_all/sedz1j6exeot/antaratv_480p/chunks.m3u8?nimblesessionid=20649789&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMTUgIDI6NTc6MTAgQU0maGFzaF92YWx1ZT1CUGEzNTdBaFliSTB0N2lNZ1Z4ZHVnPT0mdmFsaWRtaW51dGVzPTE0NDA=
-
 #EXTINF:0, SPTV1
 http://satznt.mine.nu:7002/sptv1
 
 #EXTINF:0, SPTV2
 http://satznt.mine.nu:7003/sptv2
 
-#EXTINF:-1, DISNEY CHANNEL
-http://222.8.213.121:1935/live11/livestream1.sdp/playlist.m3u8
-#EXTINF:0,Disney Junior (UK)
-http://88.198.154.58:8000/produsat.com/forum/210
-#EXTINF:0,Nickelodeon (UK)
-http://88.198.154.58:8000/produsat.com/forum/211
-
 #EXTINF:-1,T - EUROSPORT
 http://www.nasatv.eu:80/live?channelId=42&uid=7&deviceUser=dm800&devicePass=dm800
+
 #EXTINF:-1,EUROSPORT 2 - EUROSPORT 2
 http://www.nasatv.eu:80/live?channelId=43&uid=7&deviceUser=dm800&devicePass=dm800
-#EXTINF:0,BT Sports 1 HD (UK)
-http://88.198.154.58:8000/produsat.com/forum/202
-#EXTINF:0,BT Sports 2 HD (UK)
-http://88.198.154.58:8000/produsat.com/forum/203
-
-#EXTINF:-1,Digital Alb Super sport 1 - supersport1
-http://www.nasatv.eu:80/live?channelId=126&uid=7&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1,Digital Alb Super sport 2 - SuperSport2
-http://www.nasatv.eu:80/live?channelId=127&uid=7&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1,Digital Alb Super sport 3 - SuperSport3
-http://www.nasatv.eu:80/live?channelId=128&uid=7&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1,Digital Alb Super sport 4 - SuperSport4
-http://www.nasatv.eu:80/live?channelId=129&uid=7&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:0,Animal Planet (UK)
-http://88.198.154.58:8000/produsat.com/forum/212
-#EXTINF:0,History Channel (UK)
-http://88.198.154.58:8000/produsat.com/forum/213
-#EXTINF:0,Discovery Science (UK)
-http://88.198.154.58:8000/produsat.com/forum/214
-#EXTINF:0,National Geography (UK)
-http://88.198.154.58:8000/produsat.com/forum/215
