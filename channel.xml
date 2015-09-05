@@ -3313,6 +3313,16 @@ pageUrl=https://streamup.com live=1 timeout=15</link>
 <thumbnail>http://media.movideo.com/media-images-540/media/1143957/171x128.png</thumbnail>
 </item>
 
+<item>
+<title>MIVO TV - HD</title>
+<regex>
+<name>url</name>
+<expres>"(.*?m3u8.*?)"</expres>
+<page>http://www.mivo.com/#/mivotv</page>
+<referer>http://www.mivo.com</referer>
+</regex>
+</item>
+
 </items>
 </channel>
 
