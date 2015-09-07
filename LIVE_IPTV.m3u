@@ -305,3 +305,6 @@ http://www.nasatv.eu:80/live?channelId=42&uid=7&deviceUser=dm800&devicePass=dm80
 
 #EXTINF:-1,EUROSPORT 2 - EUROSPORT 2
 http://www.nasatv.eu:80/live?channelId=43&uid=7&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1, Apple's September 9 Keynote
+http://p.events-delivery.apple.com.edgesuite.net/15pijbnaefvpoijbaefvpihb06/m3u8/atv_mvp.m3u8
