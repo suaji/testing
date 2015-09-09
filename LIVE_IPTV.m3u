@@ -1,16 +1,13 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
-http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch001.stream_360p/playlist.m3u8
-
-#EXTINF:-1, RTM TV1_a
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442372680&myTokenPrefixhash=Yw0lWZxbeYG1AUCiIh0nCeb_TkFVyV9L3VE7QWJ9SkM=
 
-#EXTINF:-1, RTM TV2_b
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8
+#EXTINF:-1, RTM TV1 HD (testing)
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442372680&myTokenPrefixhash=Yw0lWZxbeYG1AUCiIh0nCeb_TkFVyV9L3VE7QWJ9SkM=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
-http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442373088&myTokenPrefixhash=Qw5ICPXwhqxgoqiFo_0piBFDL9TugqnF9p99cgB3DEA=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
@@ -25,10 +22,10 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
-http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch005.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442373378&myTokenPrefixhash=G_RfIYAEJi1qaWTUXgdrbxPYuaPvj2qxKzaFgrIL09Y=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="GALAKSI MUZIK"  group-title="Malaysia",GALAKSI MUZIK
-http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch006.stream_360p/playlist.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442373506&myTokenPrefixhash=tbZEUxlij5AgrrqWJcx_jE54gJjjShbE7Vc27slt1x4=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Malaysia",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
@@ -61,7 +58,7 @@ rtmp://cp160334.live.edgefcs.net:443/live app=live?ovpfv=1.1 playpath=AstroAwani
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
-http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch020.stream_360p/playlist.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch020.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442373548&myTokenPrefixhash=sg2_9TkkavLAHe-sv6hnSfdV8IFaFlwCSQ0PckYMbas=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/hijau.png" tvg-name="HIJAU TV"  group-title="Malaysia",HIJAU TV
 rtmp://119.110.96.71/live/1htv
@@ -191,6 +188,15 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
 http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
+
+#EXTINF:0, MIVO HD_1
+http://edge.nim.mivo.tv/wh76pzref44u5306/mivotv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMTUgIDM6MjE6MjUgQU0maGFzaF92YWx1ZT1XS3Q3bXBoalZaRk5Zc1VGaW1xZ2p3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
+
+#EXTINF:0, MIVO HD_2
+http://173.192.105.199/sedz1j6exeot/mivotv_all/sedz1j6exeot/mivotv_720p/chunks.m3u8?nimblesessionid=276635088&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMTUgIDM6MjE6MjUgQU0maGFzaF92YWx1ZT1XS3Q3bXBoalZaRk5Zc1VGaW1xZ2p3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
+
+#EXTINF:0, MIVO HD_3
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch022.smil/chunklist_w66771000_b264000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDIzNzM2MzUmbXlUb2tlblByZWZpeGhhc2g9cEJVVlJMNVBYVkN0N1JFcTM5Q2dBeVVWMHExZEpjTHpGYVdnQ2wtN043MD0=.m3u8
 
 #EXTINF:0, [COLOR gold][B]<::: RADIO :::>[/B][/COLOR]
 http://50.7.96.210:8285
