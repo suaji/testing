@@ -3,6 +3,12 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
 http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch001.stream_360p/playlist.m3u8
 
+#EXTINF:-1, RTM TV1_a
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442372680&myTokenPrefixhash=Yw0lWZxbeYG1AUCiIh0nCeb_TkFVyV9L3VE7QWJ9SkM=
+
+#EXTINF:-1, RTM TV2_b
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
 http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
 
