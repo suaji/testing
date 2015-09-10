@@ -90,6 +90,9 @@ http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 #EXTINF:0, i24 News
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
+#EXTINF:0, CNBC
+http://60.49.56.182/web/stream.m3u?ref=1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
