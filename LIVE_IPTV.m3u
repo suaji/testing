@@ -195,13 +195,10 @@ http://lihattv.toh.info/jhos/beib2.m3u8
 #EXTINF:0, Bein 3
 http://lihattv.toh.info/jhos/beib3.m3u8
 
-#EXTINF:0, Astro Super Sports 1
-http://81.7.13.162/hls/ss1/index.m3u8
-
-#EXTINF:0, Astro Super Sports 2
+#EXTINF:0, Super Sports 2
 http://81.7.13.162/hls/ss2/index.m3u8
 
-#EXTINF:0, Astro Super Sports 3
+#EXTINF:0, Super Sports 3
 http://81.7.13.162/hls/ss3/index.m3u8
 
 #EXTINF:0, SPTV1
