@@ -186,11 +186,23 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
 http://50.7.96.210:8285
 
-#EXTINF:0, NBCSN Live Extra HD
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8
+#EXTINF:0, Bein 1
+http://lihattv.toh.info/jhos/beib1.m3u8
 
-#EXTINF:0, NBCSN Live Extra FULL HD
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+#EXTINF:0, Bein 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+
+#EXTINF:0, Bein 3
+http://lihattv.toh.info/jhos/beib3.m3u8
+
+#EXTINF:0, Astro Super Sports 1
+http://81.7.13.162/hls/ss1/index.m3u8
+
+#EXTINF:0, Astro Super Sports 2
+http://81.7.13.162/hls/ss2/index.m3u8
+
+#EXTINF:0, Astro Super Sports 3
+http://81.7.13.162/hls/ss3/index.m3u8
 
 #EXTINF:0, SPTV1
 http://satznt.mine.nu:7002/sptv1
