@@ -96,6 +96,38 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0, [COLOR orange][B]<::: DOCUMENTARY :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
+#EXTINF:-1,IPTVSAGA: Animal Planet HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.52:1234/udp/233.7.70.225:5000 
+
+#EXTINF:-1,IPTVSAGA: Discovery Channel HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.52:1234/udp/233.7.70.253:5000
+
+#EXTINF:-1,IPTVSAGA: Discovery Science HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.52:1234/udp/233.7.70.195:5000
+
+#EXTINF:-1,IPTVSAGA: History HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.52:1234/udp/233.7.70.230:5000
+
+#EXTINF:-1,IPTVSAGA: Nat Geo Wild HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.52:1234/udp/233.7.70.133:5000
+
+#EXTINF:-1,IPTVSAGA: National Geographic HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.52:1234/udp/233.7.70.159:5000
+
+#EXTINF:-1,IPTVSAGA: Travel+ Adventure HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.52:1234/udp/233.7.70.156:5000
+
+#EXTINF:-1,IPTVSAGA: Outdoor HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.52:1234/udp/233.7.70.163:5000
+
 #EXTINF:0, [COLOR springgreen][B]<::: FAMILY :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
