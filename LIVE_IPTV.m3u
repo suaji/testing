@@ -3,9 +3,6 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442372680&myTokenPrefixhash=Yw0lWZxbeYG1AUCiIh0nCeb_TkFVyV9L3VE7QWJ9SkM=
 
-#EXTINF:-1, RTM TV1 HD (testing)
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442372680&myTokenPrefixhash=Yw0lWZxbeYG1AUCiIh0nCeb_TkFVyV9L3VE7QWJ9SkM=
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442373088&myTokenPrefixhash=Qw5ICPXwhqxgoqiFo_0piBFDL9TugqnF9p99cgB3DEA=
 
@@ -33,20 +30,11 @@ http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/ria.png" tvg-name="RIA"  group-title="Malaysia",RIA
 http://goo.gl/x1ybsM
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/prima.png" tvg-name="PRIMA"  group-title="Malaysia",PRIMA
-http://goo.gl/IJhG8O
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/oasis.png" tvg-name="OASIS"  group-title="Malaysia",OASIS
 http://goo.gl/85e4T1
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/warna.png" tvg-name="WARNA"  group-title="Malaysia",WARNA
-http://goo.gl/sQQRqV
-
 #EXTINF:0, KBS World (Sub Eng)
 http://lihattv.wha.la/jhos/kbs/-/playlist.m3u8
-
-#EXTINF:0, Animal Planet
-http://80.80.160.168/live/1/500000/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI"  group-title="Malaysia",AWANI
 rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
@@ -59,45 +47,12 @@ http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch020.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442373548&myTokenPrefixhash=sg2_9TkkavLAHe-sv6hnSfdV8IFaFlwCSQ0PckYMbas=
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/hijau.png" tvg-name="HIJAU TV"  group-title="Malaysia",HIJAU TV
-rtmp://119.110.96.71/live/1htv
                    
 #EXTINF:-0, [COLOR deepskyblue][B]<::: INDONESIA :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/trans_7_id.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
-http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/antv.png" tvg-name="ANTV"  group-title="Indonesia",ANTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="Indonesia",SCTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/rcti_id.png" tvg-name="RCTI"  group-title="Indonesia",RCTI
-http://edge.nim.mivo.tv/kqcsmbqna6yg/rcti2_all/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/trans_tv_id.png" tvg-name="TRANSTV"  group-title="Indonesia",TRANSTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/transtv2_all/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/metro_tv_id.png" tvg-name="METROTV"  group-title="Indonesia",METROTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/metrotv2_all/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVONE"  group-title="Indonesia",TVONE
-http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_all/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mnc_id_tv.png" tvg-name="MNCTV"  group-title="Indonesia",MNCTV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/mnctv2_all/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/indosiar.png" tvg-name="INDOSIAR"  group-title="Indonesia",INDOSIAR
-http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/kompas_tv_id.png" tvg-name="KOMPAS TV"  group-title="Indonesia",KOMPAS TV
 rtmp://202.137.11.52:1935/jakarta/offair.sdp
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/antara_tv.png" tvg-name="ANTARA TV"  group-title="Indonesia",ANTARA TV
-http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 
 #EXTINF:-1, [COLOR saddlebrown][B]<::: SINGAPORE :::>[/B][/COLOR]
 http://50.7.96.210:8285
@@ -141,23 +96,11 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0, [COLOR orange][B]<::: DOCUMENTARY :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, National Geographic
-http://167.114.119.209:1935/flu555/_definst_/natgeo/playlist.m3u8?token=
-
-#EXTINF:0, Nat Geo Wild
-http://167.114.101.188:1935/flu555/_definst_/natgeowild/playlist.m3u8?token=
-
-#EXTINF:0, Discovery Channel
-http://167.114.119.209:1935/flu555/_definst_/discovery/playlist.m3u8?token=
-
 #EXTINF:0, [COLOR springgreen][B]<::: FAMILY :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, FOX Movies Premium (Indo Sub)
 rtmp://streaming.jogjamedianet.com/live//fmp.sdp
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/cinemax.png" tvg-name="CINEMAX"  group-title="ENGLISH",CINEMAX
-http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MAX"  group-title="ENGLISH",MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -188,15 +131,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
 http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
-
-#EXTINF:0, MIVO HD_1
-http://edge.nim.mivo.tv/wh76pzref44u5306/mivotv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMTUgIDM6MjE6MjUgQU0maGFzaF92YWx1ZT1XS3Q3bXBoalZaRk5Zc1VGaW1xZ2p3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
-
-#EXTINF:0, MIVO HD_2
-http://173.192.105.199/sedz1j6exeot/mivotv_all/sedz1j6exeot/mivotv_720p/chunks.m3u8?nimblesessionid=276635088&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMTUgIDM6MjE6MjUgQU0maGFzaF92YWx1ZT1XS3Q3bXBoalZaRk5Zc1VGaW1xZ2p3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
-
-#EXTINF:0, MIVO HD_3
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch022.smil/chunklist_w66771000_b264000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDIzNzM2MzUmbXlUb2tlblByZWZpeGhhc2g9cEJVVlJMNVBYVkN0N1JFcTM5Q2dBeVVWMHExZEpjTHpGYVdnQ2wtN043MD0=.m3u8
 
 #EXTINF:0, [COLOR gold][B]<::: RADIO :::>[/B][/COLOR]
 http://50.7.96.210:8285
@@ -246,44 +180,29 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(24-08-15)[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(10-09-15)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
 http://50.7.96.210:8285
+
+#EXTINF:0, NBCSN Live Extra HD
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8
+
+#EXTINF:0, NBCSN Live Extra FULL HD
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+
+#EXTINF:0, SPTV1
+http://satznt.mine.nu:7002/sptv1
+
+#EXTINF:0, SPTV2
+http://satznt.mine.nu:7003/sptv2
 
 #EXTINF:0, Euronews
 http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
 
 #EXTINF:0, Fight Sport
 http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
-
-#EXTINF:-1,NTVPlusFootbal
-http://213.95.47.104:8080/btv_00171/
-
-#EXTINF:-1,NTVPlusFootbal HD
-http://213.95.47.104:8080/btv_00172/
-
-#EXTINF:-1,NTVPlusSport
-http://213.95.47.104:8080/btv_00169/
-
-#EXTINF:0, BEIN SPORT 4hd
-http://178.33.88.129:888/udp/239.102.0.5:1234
-
-#EXTINF:0, BEIN SPORT 5hd
-http://178.33.88.129:888/udp/239.102.0.6:1234
-
-#EXTINF:0, BEIN SPORT 6hd
-http://178.33.88.129:888/udp/239.102.0.7:1234
-
-#EXTINF:0, BEIN SPORT 7hd
-http://178.33.88.129:888/udp/239.102.0.8:1234
-
-#EXTINF:0, BEIN SPORT 9hd
-http://178.33.88.129:888/udp/239.102.0.9:1234
-
-#EXTINF:0, BEIN SPORT 10hd
-http://178.33.88.129:888/udp/239.102.0.11:1234
 
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
@@ -305,18 +224,3 @@ http://118.97.167.19/jhos/arena//Playlist.m3u8
 
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:0, SPTV1
-http://satznt.mine.nu:7002/sptv1
-
-#EXTINF:0, SPTV2
-http://satznt.mine.nu:7003/sptv2
-
-#EXTINF:-1,T - EUROSPORT
-http://www.nasatv.eu:80/live?channelId=42&uid=7&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1,EUROSPORT 2 - EUROSPORT 2
-http://www.nasatv.eu:80/live?channelId=43&uid=7&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1, Apple's September 9 Keynote
-http://p.events-delivery.apple.com.edgesuite.net/15pijbnaefvpoijbaefvpihb06/m3u8/atv_mvp.m3u8
