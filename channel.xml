@@ -5,6 +5,31 @@
 </item>
 
 <item>
+<title>Jejak Warriors (2015)  -streamin-</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://static.vidzi.tv/nplayer/jwplayer.flash.swf pageUrl=http://vidzi.tv/embed-p8bykbvtj35i-640x360.html</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/09/jejak.jpg</thumbnail>
+<fanart>http://i0.wp.com/selebritionline.com/wp-content/uploads/2015/06/JW05.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://vidzi.tv/embed-p8bykbvtj35i-640x360.html</page>
+<referer>http://vidzi.tv/p8bykbvtj35i.html</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://vidzi.tv/embed-p8bykbvtj35i-640x360.html</page>
+<referer>http://vidzi.tv/p8bykbvtj35i.html</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://vidzi.tv/embed-p8bykbvtj35i-640x360.html</page>
+<referer>http://vidzi.tv/p8bykbvtj35i.html</referer>
+</regex>
+</item>
+
+<item>
 <title>Jejak Warriors (2015)  -vidzi</title>
 <link>$doregex[url]</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/09/jejak.jpg</thumbnail>
