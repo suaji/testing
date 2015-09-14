@@ -51,6 +51,18 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:-0, [COLOR deepskyblue][B]<::: INDONESIA :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
+#EXTINF:0, TRANS 7
+http://stream.sg.mytrans.com/live/trans7@3.sdp/playlist.m3u8
+
+#EXTINF:0, TRANS TV
+http://stream.sg.mytrans.com/live/transtv@3.sdp/playlist.m3u8
+
+#EXTINF:0, MYTRANS VOD
+http://live.mytrans.com:1935/live/hijab-hunt-2014.sdp/playlist.m3u8
+
+#EXTINF:0, TRANS MYMUSIC
+http://stream.sg.mytrans.com/vods3/_definst_/amazons3/mytrans/5143750a518c966007000000-high.m4v/playlist.m3u8?wowzasessionid=255487156
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/kompas_tv_id.png" tvg-name="KOMPAS TV"  group-title="Indonesia",KOMPAS TV
 rtmp://202.137.11.52:1935/jakarta/offair.sdp
 
