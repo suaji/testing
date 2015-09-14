@@ -60,35 +60,20 @@ http://stream.sg.mytrans.com/live/transtv@3.sdp/playlist.m3u8
 #EXTINF:0, MYTRANS VOD
 http://live.mytrans.com:1935/live/hijab-hunt-2014.sdp/playlist.m3u8
 
-#EXTINF:0, TRANS MYMUSIC
-http://stream.sg.mytrans.com/vods3/_definst_/amazons3/mytrans/5143750a518c966007000000-high.m4v/playlist.m3u8?wowzasessionid=255487156
-
-#EXTINF:0 INDOSIAR
+#EXTINF:0, INDOSIAR
 http://livestreaming.production.liputan6.static6.com/tv/indosiarstream300.m3u8
 
 #EXTINF:0, SCTV
 http://livestreaming.production.liputan6.static6.com/tv/sctvstream300.m3u8
 
-#EXTINF:0, TVRi
-rtmp://118.97.50.102/digital app=live?ovpfv=1.1 conn=Z: playpath=nasional swfUrl=http://tvri.co.id/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://tvri.co.id/home
-
-#EXTINF:0, BunayyaTV
-rtmp://wowza60.indostreamserver.com:1935/bunayyatv/ app=live?ovpfv=1.1 conn=Z: playpath=live swfUrl=http://jwplayer.indostreamserver.com/player.swf pageUrl=http://www.bunayya.tv/p/live.html
-
-#EXTINF:0, BeritaSatu WORLD_2K
-http://stream.beritasatu.com:8134/world.m3u8
-
-#EXTINF:0, BeritaSatu WORLD_HD
-http://stream.beritasatu.com:8134/hls-live/livepkgr/_definst_/b1world/world1.m3u8
-
-#EXTINF:0, Metro NEWS_1
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:0, Metro NEWS_2
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2129753328_b216000_sleng.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/kompas_tv_id.png" tvg-name="KOMPAS TV"  group-title="Indonesia",KOMPAS TV
 rtmp://202.137.11.52:1935/jakarta/offair.sdp
+
+#EXTINF:0, BeritaSatu WORLD HD
+http://stream.beritasatu.com:8134/world.m3u8
+
+#EXTINF:0, Metro NEWS HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1, [COLOR saddlebrown][B]<::: SINGAPORE :::>[/B][/COLOR]
 http://50.7.96.210:8285
