@@ -71,26 +71,26 @@
 
 <item>
 <title>Bukit Kepong (2015) -streamin</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9y24nn2mxb4q-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</link>
 <thumbnail>https://pbs.twimg.com/media/CCMZr5RUAAEemnr.jpg</thumbnail>
 <fanart>http://img.astroawani.com/2015-04/81429013834_950x600.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-9y24nn2mxb4q-640x360.html</page>
-<referer>http://streamin.to/9y24nn2mxb4q</referer>
+<page>http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</page>
+<referer>http://streamin.to/jm9nvv2uwhr9</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9y24nn2mxb4q-640x360.html</page>
-<referer>http://streamin.to/9y24nn2mxb4q</referer>
+<page>http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</page>
+<referer>http://streamin.to/jm9nvv2uwhr9</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9y24nn2mxb4q-640x360.html</page>
-<referer>http://streamin.to/9y24nn2mxb4q</referer>
+<page>http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</page>
+<referer>http://streamin.to/jm9nvv2uwhr9</referer>
 </regex>
 </item>
 
