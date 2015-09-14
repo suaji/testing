@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>Jejak Warriors (2015) - vidzi</title>
+<title>Jejak Warriors (2015) -vidzi</title>
 <link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/09/jejak.jpg</thumbnail>
 <fanart>http://www.duniasukan.com/wp-content/uploads/2015/08/JW06.jpg</fanart>
@@ -28,7 +28,7 @@
 </item>
 
 <item>
-<title>Jejak Warriors (2015) - streamin</title>
+<title>Jejak Warriors (2015) -streamin</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9k6oqbt41nti-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/09/jejak.jpg</thumbnail>
 <fanart>http://www.duniasukan.com/wp-content/uploads/2015/08/JW06.jpg</fanart>
@@ -53,7 +53,7 @@
 </item>
 
 <item>
-<title>Bukit Kepong (2015) -vidzi</title>
+<title>Bukit Kepong HD (2015) -vidzi</title>
 <link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
 <thumbnail>https://pbs.twimg.com/media/CCMZr5RUAAEemnr.jpg</thumbnail>
 <fanart>http://img.astroawani.com/2015-04/81429013834_950x600.jpg</fanart>
@@ -70,7 +70,7 @@
 </item>
 
 <item>
-<title>Bukit Kepong (2015) -streamin</title>
+<title>Bukit Kepong HD (2015) -streamin</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</link>
 <thumbnail>https://pbs.twimg.com/media/CCMZr5RUAAEemnr.jpg</thumbnail>
 <fanart>http://img.astroawani.com/2015-04/81429013834_950x600.jpg</fanart>
