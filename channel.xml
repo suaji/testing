@@ -11,6 +11,48 @@
 </item>
 
 <item>
+<title>Jejak Warriors (2015) - vidzi</title>
+<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/09/jejak.jpg</thumbnail>
+<fanart>http://www.duniasukan.com/wp-content/uploads/2015/08/JW06.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>hls....file:"(.*?)"</expres>
+<page>$doregex[unpacked]</page>
+</regex>
+<regex>
+<name>unpacked</name>
+<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-p8bykbvtj35i-640x360.html','(eval.*)')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Jejak Warriors (2015) -streamin</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nsdr5m6d1ugh-640x360.html</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/09/jejak.jpg</thumbnail>
+<fanart>http://www.duniasukan.com/wp-content/uploads/2015/08/JW06.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-nsdr5m6d1ugh-640x360.html</page>
+<referer>http://streamin.to/nsdr5m6d1ugh</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-nsdr5m6d1ugh-640x360.html</page>
+<referer>http://streamin.to/nsdr5m6d1ugh</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-nsdr5m6d1ugh-640x360.html</page>
+<referer>http://streamin.to/nsdr5m6d1ugh</referer>
+</regex>
+</item>
+
+<item>
 <title>NOTA (2015) -streamin-</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5t69axf6pq4f-640x360.html</link>
 <thumbnail>http://3.bp.blogspot.com/-Sq4X2HWAXHY/VbOht-gJYLI/AAAAAAAAASM/23xI8X0BFXc/s1600/nota_fullmovie.png</thumbnail>
@@ -32,18 +74,6 @@
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-5t69axf6pq4f-640x360.html</page>
 <referer>http://streamin.to/5t69axf6pq4f</referer>
-</regex>
-</item>
-
-<item>
-<title>NOTA (2015) -vidzi-</title>
-<link>$doregex[url]</link>
-<thumbnail>http://3.bp.blogspot.com/-Sq4X2HWAXHY/VbOht-gJYLI/AAAAAAAAASM/23xI8X0BFXc/s1600/nota_fullmovie.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/88IuZOoGpN4/maxresdefault.jpg</fanart>
-<regex>
-<name>url</name>
-<expres>"(.*?m3u8.*?)"</expres>
-<page>http://vidzi.tv/embed-lk4m3p48dsye-640x360.html</page>
 </regex>
 </item>
 
