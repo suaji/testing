@@ -222,6 +222,21 @@ http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:0, CTH Stadium 1 HD
+http://103.7.56.114/vit2/stadium5new.stream/playlist.m3u8
+
+#EXTINF:0, CTH Stadium 2 HD
+http://103.7.56.114/vit2/stadium4new.stream/playlist.m3u8
+
+#EXTINF:0, CTH Stadium 3 HD
+http://103.7.56.114/vit2/stadium3new.stream/playlist.m3u8
+
+#EXTINF:0, CTH Stadium 4 HD
+http://103.7.56.114/vit2/stadium2new.stream/playlist.m3u8
+
+#EXTINF:0, CTH Stadium 5 HD
+http://103.7.56.114/vit2/stadium1new.stream/playlist.m3u8
+
 #EXTINF:0, ____________________________
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0
 
