@@ -54,12 +54,6 @@ http://50.7.96.210:8285
 #EXTINF:0, TRANS 7
 http://stream.sg.mytrans.com/live/trans7@3.sdp/playlist.m3u8
 
-#EXTINF:0, TRANS TV
-http://stream.sg.mytrans.com/live/transtv@3.sdp/playlist.m3u8
-
-#EXTINF:0, MYTRANS VOD
-http://live.mytrans.com:1935/live/hijab-hunt-2014.sdp/playlist.m3u8
-
 #EXTINF:0, INDOSIAR
 http://livestreaming.production.liputan6.static6.com/tv/indosiarstream300.m3u8
 
@@ -75,23 +69,11 @@ http://stream.beritasatu.com:8134/world.m3u8
 #EXTINF:0, Metro NEWS HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1, [COLOR saddlebrown][B]<::: SINGAPORE :::>[/B][/COLOR]
-http://50.7.96.210:8285
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA"  group-title="Singapore",SURIA
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHANNEL U"  group-title="Singapore",CHANNEL U
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHANNEL 8"  group-title="Singapore",CHANNEL 8
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8
-
 #EXTINF:-0, [COLOR slateblue][B]<::: NEWS :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/channel_newsasia.png" tvg-name="NEWS ASIA"  group-title="Singapore",NEWS ASIA
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
+http://imtcnai-lh.akamaihd.net/z/cnai_main@334572/manifest.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
@@ -111,14 +93,8 @@ http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 #EXTINF:0, i24 News
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
-#EXTINF:0, CNBC
-http://60.49.56.182/web/stream.m3u?ref=1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:0, [COLOR orange][B]<::: DOCUMENTARY :::>[/B][/COLOR]
-http://50.7.96.210:8285
 
 #EXTINF:0, [COLOR springgreen][B]<::: FAMILY :::>[/B][/COLOR]
 http://50.7.96.210:8285
@@ -204,7 +180,7 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(10-09-15)[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(18-09-15)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
@@ -218,18 +194,6 @@ http://lihattv.toh.info/jhos/beib2.m3u8
 
 #EXTINF:0, Bein 3
 http://lihattv.toh.info/jhos/beib3.m3u8
-
-#EXTINF:0, Super Sports 2
-http://81.7.13.162/hls/ss2/index.m3u8
-
-#EXTINF:0, Super Sports 3
-http://81.7.13.162/hls/ss3/index.m3u8
-
-#EXTINF:0, SPTV1
-http://satznt.mine.nu:7002/sptv1
-
-#EXTINF:0, SPTV2
-http://satznt.mine.nu:7003/sptv2
 
 #EXTINF:0, Euronews
 http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
@@ -260,9 +224,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 
 #EXTINF:0, ____________________________
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0
-
-#EXTINF:0, ____________________________
-http://60.49.100.124:8001/web/stream.m3u?ref=1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [COLOR yellow][B]PAYPAL suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
