@@ -186,6 +186,15 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
 http://50.7.96.210:8285
 
+#EXTINF:0, Astro Supersport 1
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDEucGhw
+
+#EXTINF:0, Astro Supersport 2
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDIucGhw
+
+#EXTINF:0, Astro Supersport 3
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDMucGhw
+
 #EXTINF:0, Bein 1
 http://lihattv.toh.info/jhos/beib1.m3u8
 
