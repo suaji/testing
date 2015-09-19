@@ -75,12 +75,6 @@ http://stream.beritasatu.com:8134/world.m3u8
 #EXTINF:0, Metro NEWS HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:0, RTV ISLAM
-http://iptv.kicks-ass.net:8005/live/irfan/irfan/490.ts
-
-#EXTINF:0, ALQURAN
-http://iptv.kicks-ass.net:8005/live/irfan/irfan/491.ts
-
 #EXTINF:-0, [COLOR slateblue][B]<::: NEWS :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
@@ -197,9 +191,6 @@ http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
 http://50.7.96.210:8285
-
-#EXTINF:0, ARENA
-http://bit.ly/astro-ARENA
 
 #EXTINF:0, Supersport 1
 http://goo.gl/sBdIUh
