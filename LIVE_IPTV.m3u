@@ -27,13 +27,19 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Malaysia",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/ria.png" tvg-name="RIA"  group-title="Malaysia",RIA
-http://goo.gl/x1ybsM
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/oasis.png" tvg-name="OASIS"  group-title="Malaysia",OASIS
 http://goo.gl/85e4T1
 
-#EXTINF:0, KBS World (Sub Eng)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/ria.png" tvg-name="RIA"  group-title="Malaysia",RIA
+http://goo.gl/x1ybsM
+
+#EXTINF:0, PRIMA
+http://bit.ly/astro-PRIMA
+
+#EXTINF:0, WARNA
+http://bit.ly/astro-WARNA
+
+#EXTINF:0, KBS WORLD
 http://lihattv.wha.la/jhos/kbs/-/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI"  group-title="Malaysia",AWANI
@@ -68,6 +74,12 @@ http://stream.beritasatu.com:8134/world.m3u8
 
 #EXTINF:0, Metro NEWS HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:0, RTV ISLAM
+http://iptv.kicks-ass.net:8005/live/irfan/irfan/490.ts
+
+#EXTINF:0, ALQURAN
+http://iptv.kicks-ass.net:8005/live/irfan/irfan/491.ts
 
 #EXTINF:-0, [COLOR slateblue][B]<::: NEWS :::>[/B][/COLOR]
 http://50.7.96.210:8285
@@ -180,20 +192,23 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(18-09-15)[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(19-09-15)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
 http://50.7.96.210:8285
 
-#EXTINF:0, Astro Supersport 1
-http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDEucGhw
+#EXTINF:0, ARENA
+http://bit.ly/astro-ARENA
 
-#EXTINF:0, Astro Supersport 2
-http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDIucGhw
+#EXTINF:0, Supersport 1
+http://goo.gl/sBdIUh
 
-#EXTINF:0, Astro Supersport 3
-http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDMucGhw
+#EXTINF:0, Supersport 2
+http://goo.gl/kzgi3E
+
+#EXTINF:0, Supersport 3
+http://goo.gl/izGdgd
 
 #EXTINF:0, Bein 1
 http://lihattv.toh.info/jhos/beib1.m3u8
