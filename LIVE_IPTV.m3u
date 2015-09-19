@@ -177,6 +177,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
+#EXTINF:0, MTV HITS
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MTVHITS/variant.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD"  group-title="Movies",1HD
 http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 
