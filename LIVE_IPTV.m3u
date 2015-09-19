@@ -108,6 +108,33 @@ http://50.7.96.210:8285
 #EXTINF:0, FOX Movies Premium (Indo Sub)
 rtmp://streaming.jogjamedianet.com/live//fmp.sdp
 
+#EXTINF:0, FOX Movies Premium 2 (Indo Sub)
+http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8?wowzasessionid=65923956
+
+#EXTINF:0, TIC (Indonesia)
+http://gcasialive-i.akamaihd.net/hls/live/218243/TIC-HLS-stream/master.m3u8
+
+#EXTINF:0, PLAY WEST
+http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
+
+#EXTINF:0, PLAYY ASIA HD
+http://123.108.164.71/etv2sb/phd509/lihattv.m3u8
+
+#EXTINF:0, THE MOVIE
+http://123.108.164.71/etv2sb/phd8/lihattv.m3u8
+
+#EXTINF:0, MOVIE & JOY
+http://123.108.164.71/etv2sb/phd509/lihattv.m3u8
+
+#EXTINF:0, EVERYTHING TV WEST
+http://123.108.164.71/etv2sb/phd513/lihattv.m3u8
+
+#EXTINF:0, DRAMA WORLD
+http://123.108.164.71/etv2sb/phd505/lihattv.m3u8
+
+#EXTINF:0, MBC 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MAX"  group-title="ENGLISH",MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
@@ -122,6 +149,21 @@ http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8
 
 #EXTINF:0, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:0, BUNNAYA KIDS
+rtmp://wowza60.indostreamserver.com:1935/bunayyatv
+
+#EXTINF:0, DA VINCI LEARNING
+http://lihattv.wha.la/jhos/davinci/-/playlist.m3u8
+
+#EXTINF:0, JIMJAM
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_JIMJAM/variant.m3u8
+
+#EXTINF:0, KIDS PLAY
+http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
+
+#EXTINF:0, JEI ENGLISH TV
+http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 
 #EXTINF:0, [COLOR cyan][B]<::: MUSIC :::>[/B][/COLOR]
 http://50.7.96.210:8285
