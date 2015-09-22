@@ -231,7 +231,7 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(19-09-15)[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(22-09-15)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
@@ -279,8 +279,23 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARENA SPORT"  group-title="Indonesia",ARENA SPORT
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 
+#EXTINF:-0, LIVERPOOL TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
+
+#EXTINF:-0, CHELSEA TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8
+
+#EXTINF:-0, MAN CITY TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
+
+#EXTINF:-0, Barca TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
+
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-0, 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
 
 #EXTINF:0, ____________________________
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0
