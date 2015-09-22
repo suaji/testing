@@ -78,14 +78,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-0, [COLOR slateblue][B]<::: NEWS :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/channel_newsasia.png" tvg-name="NEWS ASIA"  group-title="Singapore",NEWS ASIA
-http://imtcnai-lh.akamaihd.net/z/cnai_main@334572/manifest.m3u8
-
 #EXTINF:0, NEWS ASIA
-http://imtcnai-lh.akamaihd.net/z/cnai_main@334572/manifest.f4m?hdcore=3.2&b=240,528,736,960,1472
-
-#EXTINF:0, NEWS ASIA 2
-http://imtcnai-lh.akamaihd.net/z/cnai_main@334572/manifest.m3u8
+http://imtcnai-lh.akamaihd.net/z/cnai_main@334572/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
