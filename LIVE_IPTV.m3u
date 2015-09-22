@@ -294,7 +294,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-0, 
+#EXTINF:-0, CHAMPIONS LEAGUE
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
 
 #EXTINF:0, ____________________________
