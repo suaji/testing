@@ -13,7 +13,7 @@
 </item>
 
 <item>
-<title>Jejak Warriors (2015) -streamin</title>
+<title>Jejak Warriors (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9k6oqbt41nti-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/09/jejak.jpg</thumbnail>
 <fanart>http://www.duniasukan.com/wp-content/uploads/2015/08/JW06.jpg</fanart>
@@ -38,7 +38,7 @@
 </item>
 
 <item>
-<title>Bukit Kepong HD (2015) -streamin</title>
+<title>Bukit Kepong HD (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</link>
 <thumbnail>https://pbs.twimg.com/media/CCMZr5RUAAEemnr.jpg</thumbnail>
 <fanart>http://img.astroawani.com/2015-04/81429013834_950x600.jpg</fanart>
@@ -824,26 +824,26 @@
 
 <item>
 <title>Kasut Ku Kusut (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5eg4u89bnfag-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-100bwgtj1hr5-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-EGewTMK6Fig/VKZwuvnuqEI/AAAAAAAAHzQ/TOsXQh6Ljxg/s1600/10382150_871873926167546_7879890121740029874_n.jpg</thumbnail>
 <fanart>http://kitepunye.com/wp-content/uploads/2015/01/11.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-5eg4u89bnfag-640x360.html</page>
-<referer>http://streamin.to/5eg4u89bnfag</referer>
+<page>http://streamin.to/embed-100bwgtj1hr5-640x360.html</page>
+<referer>http://streamin.to/100bwgtj1hr5</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-5eg4u89bnfag-640x360.html</page>
-<referer>http://streamin.to/5eg4u89bnfag</referer>
+<page>http://streamin.to/embed-100bwgtj1hr5-640x360.html</page>
+<referer>http://streamin.to/100bwgtj1hr5</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-5eg4u89bnfag-640x360.html</page>
-<referer>http://streamin.to/5eg4u89bnfag</referer>
+<page>http://streamin.to/embed-100bwgtj1hr5-640x360.html</page>
+<referer>http://streamin.to/100bwgtj1hr5</referer>
 </regex>
 </item>
 
@@ -1091,18 +1091,26 @@
 
 <item>
 <title>Muka Surat Cinta (2014)</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ep3mjnb3zd3f-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/02/2014-Muka-Surat-Cinta.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-bKtzJiq0-B8/UtlO5DiuHMI/AAAAAAAALPs/aBJKyshibWg/s1600/muka+surat+cinta.png</fanart>
 <regex>
 <name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ep3mjnb3zd3f-640x360.html</page>
+<referer>http://streamin.to/ep3mjnb3zd3f</referer>
 </regex>
 <regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-quqqn5wnsd8v-640x360.html','(eval.*)')</expres>
-<page></page>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ep3mjnb3zd3f-640x360.html</page>
+<referer>http://streamin.to/ep3mjnb3zd3f</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ep3mjnb3zd3f-640x360.html</page>
+<referer>http://streamin.to/ep3mjnb3zd3f</referer>
 </regex>
 </item>
 
@@ -1175,18 +1183,26 @@
 
 <item>
 <title>Cara Mengundang Hantu (2014)</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-xobw9px56ez8-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/--9ze3veQq4/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-xobw9px56ez8-640x360.html</page>
+<referer>http://streamin.to/xobw9px56ez8</referer>
 </regex>
 <regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-j78sofkwlehu-640x360.html','(eval.*)')</expres>
-<page></page>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-xobw9px56ez8-640x360.html</page>
+<referer>http://streamin.to/xobw9px56ez8</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-xobw9px56ez8-640x360.html</page>
+<referer>http://streamin.to/xobw9px56ez8</referer>
 </regex>
 </item>
 
@@ -1292,43 +1308,51 @@
 
 <item>
 <title>Panik (2014)</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-vnytfpjqfyw6-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</thumbnail>
 <fanart>http://pencurimovie.pw/wp-content/uploads/2014/04/Panik.2014.SDTVRip.XviD_.AC3-LTTi.PFT-KakiSharing.com_.avi.jpg</fanart>
 <regex>
 <name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-vnytfpjqfyw6-640x360.html</page>
+<referer>http://streamin.to/vnytfpjqfyw6</referer>
 </regex>
 <regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-fkfokb5c6pp2-640x360.html','(eval.*)')</expres>
-<page></page>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-vnytfpjqfyw6-640x360.html</page>
+<referer>http://streamin.to/vnytfpjqfyw6</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-vnytfpjqfyw6-640x360.html</page>
+<referer>http://streamin.to/vnytfpjqfyw6</referer>
 </regex>
 </item>
 
 <item>
 <title>Paku Pontianak (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gip5t0xcz6cd-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-94zbyk4613d1-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-QWKihKpHI1g/UiqhygyDf_I/AAAAAAAAATo/Bm2aPQqxeVA/s1600/1239820_612215095484782_1882814147_n.jpg</thumbnail>
 <fanart>http://www.broframestone.com/wp-content/uploads/2013/08/Paku-Pontianak-Uqasha-Senrose-Jadi-Pontianak.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-gip5t0xcz6cd-640x360.html</page>
-<referer>http://streamin.to/gip5t0xcz6cd</referer>
+<page>http://streamin.to/embed-94zbyk4613d1-640x360.html</page>
+<referer>http://streamin.to/94zbyk4613d1</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-gip5t0xcz6cd-640x360.html</page>
-<referer>http://streamin.to/gip5t0xcz6cd</referer>
+<page>http://streamin.to/embed-94zbyk4613d1-640x360.html</page>
+<referer>http://streamin.to/94zbyk4613d1</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-gip5t0xcz6cd-640x360.html</page>
-<referer>http://streamin.to/gip5t0xcz6cd</referer>
+<page>http://streamin.to/embed-94zbyk4613d1-640x360.html</page>
+<referer>http://streamin.to/94zbyk4613d1</referer>
 </regex>
 </item>
 
@@ -1376,26 +1400,26 @@
 
 <item>
 <title>Seram Sejuk (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-fodwanqwot19-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-exrkrym3reok-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-qI08Vu9Y6uY/UEVVrwxDMBI/AAAAAAAADz0/QB1CQff1qIE/s640/Seram+Sejuk+%25282012%2529.jpg</thumbnail>
 <fanart>http://www.kakiwayang.com/gambar/posts/xcvxc-500x333.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-fodwanqwot19-640x360.html</page>
-<referer>http://streamin.to/fodwanqwot19</referer>
+<page>http://streamin.to/embed-exrkrym3reok-640x360.html</page>
+<referer>http://streamin.to/exrkrym3reok</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-fodwanqwot19-640x360.html</page>
-<referer>http://streamin.to/fodwanqwot19</referer>
+<page>http://streamin.to/embed-exrkrym3reok-640x360.html</page>
+<referer>http://streamin.to/exrkrym3reok</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-fodwanqwot19-640x360.html</page>
-<referer>http://streamin.to/fodwanqwot19</referer>
+<page>http://streamin.to/embed-exrkrym3reok-640x360.html</page>
+<referer>http://streamin.to/exrkrym3reok</referer>
 </regex>
 </item>
 
@@ -1551,43 +1575,51 @@
 
 <item>
 <title>Jangan Pandang Belakang Congkak (2009)</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-152mips53pc7-640x360.html</link>
 <thumbnail>http://3.bp.blogspot.com/_nMmF-4VM-y0/TDE6AO0rsoI/AAAAAAAAAlk/c6iGfwe2e_w/s1600/jpbc2.jpg</thumbnail>
 <fanart>http://farm4.static.flickr.com/3390/3525357102_224618eb01.jpg</fanart>
 <regex>
 <name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-152mips53pc7-640x360.html</page>
+<referer>http://streamin.to/152mips53pc7</referer>
 </regex>
 <regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-ao7l2jkxbtrb-640x360.html','(eval.*)')</expres>
-<page></page>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-152mips53pc7-640x360.html</page>
+<referer>http://streamin.to/152mips53pc7</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-152mips53pc7-640x360.html</page>
+<referer>http://streamin.to/152mips53pc7</referer>
 </regex>
 </item>
 
 <item>
 <title>Jangan Tegur (2009)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-pqnntni43x1h-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nirta65safbe-640x360.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/e7/Jangan_Tegur(poster).jpg</thumbnail>
 <fanart>http://farm3.static.flickr.com/2337/2411435423_9d277fab63.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-pqnntni43x1h-640x360.html</page>
-<referer>http://streamin.to/pqnntni43x1h</referer>
+<page>http://streamin.to/embed-nirta65safbe-640x360.html</page>
+<referer>http://streamin.to/nirta65safbe</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-pqnntni43x1h-640x360.html</page>
-<referer>http://streamin.to/pqnntni43x1h</referer>
+<page>http://streamin.to/embed-nirta65safbe-640x360.html</page>
+<referer>http://streamin.to/nirta65safbe</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-pqnntni43x1h-640x360.html</page>
-<referer>http://streamin.to/pqnntni43x1h</referer>
+<page>http://streamin.to/embed-nirta65safbe-640x360.html</page>
+<referer>http://streamin.to/nirta65safbe</referer>
 </regex>
 </item>
 
@@ -1598,6 +1630,6 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 11.09 14-09-2015 , suaji86@gmail.com[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 11.09 22-09-2015 , PAYPAL suaji86@gmail.com[/COLOR]</title>
 <link>.</link>
 </item>
