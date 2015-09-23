@@ -219,7 +219,7 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(22-09-15)[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(23-09-15)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
@@ -242,6 +242,21 @@ http://lihattv.toh.info/jhos/beib2.m3u8
 
 #EXTINF:0, Bein 3
 http://lihattv.toh.info/jhos/beib3.m3u8
+
+#EXTINF:0, beIN Sports 1
+http://edge.ultracast.me:1935/live/1beinR3BMD/playlist.m3u8?Token
+
+#EXTINF:0, beIN Sports 2
+http://edge.ultracast.me:1935/live/2beinXW706/playlist.m3u8?Token
+
+#EXTINF:0, beIN Sports 3
+http://edge.ultracast.me:1935/live/3beinRQMI7/playlist.m3u8?Token
+
+#EXTINF:0, beIN Sports 4
+http://edge.ultracast.me:1935/live/4beinI5R4T/playlist.m3u8?Token
+
+#EXTINF:0, SKYsports
+http://tring-amd-live.tring.tv/out/u/84_107.m3u8
 
 #EXTINF:0, Sky Sports 1 
 http://01s2.vp9.tv/chn/sks1/v.m3u8
