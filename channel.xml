@@ -13,7 +13,7 @@
 </item>
 
 <item>
-<title>BRAVO 5 (2015)</title>
+<title>BRAVO 5 HD (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-mknu7sjbfw1r-640x360.html</link>
 <thumbnail>http://www.layanjer.com/wp-content/uploads/2015/09/Bravo-5-Malaysia.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/r7VIT-yhBP8/maxresdefault.jpg</fanart>
@@ -1655,6 +1655,6 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 11.09 22-09-2015 , PAYPAL suaji86@gmail.com[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 10.09 29-09-2015 , PAYPAL suaji86@gmail.com[/COLOR]</title>
 <link>.</link>
 </item>
