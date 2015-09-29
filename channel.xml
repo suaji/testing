@@ -13,6 +13,31 @@
 </item>
 
 <item>
+<title>BRAVO 5 (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-mknu7sjbfw1r-640x360.html</link>
+<thumbnail>http://www.layanjer.com/wp-content/uploads/2015/09/Bravo-5-Malaysia.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/r7VIT-yhBP8/maxresdefault.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-mknu7sjbfw1r-640x360.html</page>
+<referer>http://streamin.to/mknu7sjbfw1r</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-mknu7sjbfw1r-640x360.html</page>
+<referer>http://streamin.to/mknu7sjbfw1r</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-mknu7sjbfw1r-640x360.html</page>
+<referer>http://streamin.to/mknu7sjbfw1r</referer>
+</regex>
+</item>
+
+<item>
 <title>Jejak Warriors (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9k6oqbt41nti-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/09/jejak.jpg</thumbnail>
