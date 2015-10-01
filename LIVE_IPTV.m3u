@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/media_w2106611860_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzAxOTAmbXlUb2tlblByZWZpeGhhc2g9ZXI1NlVjWDVneVh2WlBYejROYTBJRFFzYVBDRi1wUGlPYlRXczJod1k5Yz0=_4356.ts
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/chunklist_w936551296_b214000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzA4MDImbXlUb2tlblByZWZpeGhhc2g9VXBBY1Y3WllXYmoyRzRJMzNFYWhUc0djd3pfT2pQcVF4VEJKaktzS2VOWT0=.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/chunklist_w220012189_b214000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzAyNzUmbXlUb2tlblByZWZpeGhhc2g9UGs2dnN6TGJuZWFHdU9SZlhqSW9Sb3lPR1FucXNra1ZQbTM1LWpxcWFTaz0=.m3u8
@@ -32,12 +32,6 @@ http://goo.gl/85e4T1
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/ria.png" tvg-name="RIA"  group-title="Malaysia",RIA
 http://goo.gl/x1ybsM
-
-#EXTINF:0, PRIMA
-http://bit.ly/astro-PRIMA
-
-#EXTINF:0, WARNA
-http://bit.ly/astro-WARNA
 
 #EXTINF:0, KBS WORLD
 http://lihattv.wha.la/jhos/kbs/-/playlist.m3u8
