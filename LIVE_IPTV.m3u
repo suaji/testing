@@ -243,14 +243,8 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
 http://50.7.96.210:8285
 
-#EXTINF:0, Supersport 1
-http://goo.gl/sBdIUh
-
-#EXTINF:0, Supersport 2
-http://goo.gl/kzgi3E
-
-#EXTINF:0, Supersport 3
-http://goo.gl/izGdgd
+#EXTINF:0, BEIN PRIMIERER ASIA [720p]
+http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
 
 #EXTINF:0, Bein 1 [720p]
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -269,6 +263,9 @@ http://edge.ultracast.me:1935/live/2beinXW706/playlist.m3u8?Token
 
 #EXTINF:0, BEIN SPORTS 4
 http://edge.ultracast.me:1935/live/4beinI5R4T/playlist.m3u8?Token
+
+#EXTINF:0, SPORT NEWS
+http://81.7.13.162/hls/ss1/index.m3u8
 
 #EXTINF:0, Euronews
 http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
@@ -340,36 +337,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]PAYPAL suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0, ASTRO SUPERSPORTS 1_testA
-http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=d14abdc236b1843395a041b931e65d86
-#EXTINF:0, ASTRO SUPERSPORTS 1_testB
-http://31.220.41.111/LiveEdge/astro1.stream/playlist.m3u8?token=d14abdc236b1843395a041b931e65d86
-#EXTINF:0, ASTRO SUPERSPORTS 1_testC
-http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/chunklist_w955645887_b1000000.m3u8?token=d14abdc236b1843395a041b931e65d86
-
-#EXTINF:0, ASTRO SUPERSPORTS 2_testA
-http://31.220.40.118:80/LiveEdge/astro2.stream/playlist.m3u8?token=d8a6aadae712d6a0a39d317e41353b6b
-#EXTINF:0, ASTRO SUPERSPORTS 2_testB
-http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro2.stream/playlist.m3u8?token=d8a6aadae712d6a0a39d317e41353b6b
-#EXTINF:0, ASTRO SUPERSPORTS 2_testC
-http://31.220.40.100/LiveEdge/astro2.stream/playlist.m3u8?token=d8a6aadae712d6a0a39d317e41353b6b
-
-#EXTINF:0, ASTRO SUPERSPORTS 3_testA
-http://31.220.41.111/LiveEdge/astro3.stream/playlist.m3u8?token=8872838aa1624025ef87697fd20d637b
-#EXTINF:0, ASTRO SUPERSPORTS 3_testB
-http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro3.stream/chunklist_w100001590_b1000000.m3u8?token=8872838aa1624025ef87697fd20d637b
-#EXTINF:0, ASTRO SUPERSPORTS 3_testC
-http://31.220.41.111:80/LiveEdge/astro3.stream/chunklist_w100001590_b1000000.m3u8?token=8872838aa1624025ef87697fd20d637b
-
-#EXTINF:0, BEIN PRIMIERER ASIA [720p]
-http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
-
-#EXTINF:0, NBCSN LIVE EXTRA [1080p]
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
-
-#EXTINF:0, NBCSN LIVE EXTRA [720p]
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8
-
-#EXTINF:0, SPORT NEWS
-http://81.7.13.162/hls/ss1/index.m3u8
