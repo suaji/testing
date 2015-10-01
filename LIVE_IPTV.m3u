@@ -361,3 +361,15 @@ http://31.220.41.111/LiveEdge/astro3.stream/playlist.m3u8?token=8872838aa1624025
 http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro3.stream/chunklist_w100001590_b1000000.m3u8?token=8872838aa1624025ef87697fd20d637b
 #EXTINF:0, ASTRO SUPERSPORTS 3_testC
 http://31.220.41.111:80/LiveEdge/astro3.stream/chunklist_w100001590_b1000000.m3u8?token=8872838aa1624025ef87697fd20d637b
+
+#EXTINF:0, BEIN PRIMIERER ASIA [720p]
+http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
+
+#EXTINF:0, NBCSN LIVE EXTRA [1080p]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+
+#EXTINF:0, NBCSN LIVE EXTRA [720p]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8
+
+#EXTINF:0, SPORT NEWS
+http://81.7.13.162/hls/ss1/index.m3u8
