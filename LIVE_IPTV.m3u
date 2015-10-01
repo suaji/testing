@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1443155109&myTokenPrefixhash=YFFAcBdtYKS9s0H040m_LguLncqaY8QmXHjSfZjVBpU=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/media_w2106611860_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzAxOTAmbXlUb2tlblByZWZpeGhhc2g9ZXI1NlVjWDVneVh2WlBYejROYTBJRFFzYVBDRi1wUGlPYlRXczJod1k5Yz0=_4356.ts
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1443155310&myTokenPrefixhash=y1SovF_oPwagYTFGRJTjfviT8sC1Y0mqrx3r-yj1Qp8=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/chunklist_w220012189_b214000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzAyNzUmbXlUb2tlblByZWZpeGhhc2g9UGs2dnN6TGJuZWFHdU9SZlhqSW9Sb3lPR1FucXNra1ZQbTM1LWpxcWFTaz0=.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
@@ -19,10 +19,10 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch005.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1443155341&myTokenPrefixhash=2-qtHVLS7FQs74cYRB8IzieyOPtQdQ-VwgCRl4jE7b8=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/chunklist_w614159331_b214000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzAzNjQmbXlUb2tlblByZWZpeGhhc2g9aGZZTXRFdG1LblozMWhLWVBnU0YtODRBamxmeGhqNDAwbi1DY1ByWjVxUT0=.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1443155389&myTokenPrefixhash=YD5OLU4SDFYuWJ5rFKF-ozVnTClIGHN_qCzMmymZmD4=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/chunklist_w36043950_b214000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzA0MDYmbXlUb2tlblByZWZpeGhhc2g9WGtneUxMWXNQWjZsRzRVdmNIamFKZXRkdFY0STc3UnRZajRSdzdRN0FQWT0=.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Malaysia",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
@@ -52,7 +52,7 @@ rtmp://cp160334.live.edgefcs.net:443/live app=live?ovpfv=1.1 playpath=AstroAwani
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch020.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1443155445&myTokenPrefixhash=X7hyxYE7-ywaTp_sq9GdHEJEAVbsL36aN_7WtVZUzj0=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/chunklist_w1338538661_b214000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzA0ODImbXlUb2tlblByZWZpeGhhc2g9UEplcjZpV1J6WnYwYnhrUXQzT2dEbkNoMjZ4RVVPV0FiZWE0NGpzak5wND0=.m3u8
 
 #EXTINF:-0, [COLOR deepskyblue][B]<::: INDONESIA :::>[/B][/COLOR]
 http://50.7.96.210:8285
