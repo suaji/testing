@@ -48,11 +48,8 @@ http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/chunklist_w1338538661_b214000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzA0ODImbXlUb2tlblByZWZpeGhhc2g9UEplcjZpV1J6WnYwYnhrUXQzT2dEbkNoMjZ4RVVPV0FiZWE0NGpzak5wND0=.m3u8
 
-#EXTINF:-0, [COLOR deepskyblue][B]<::: INDONESIA :::>[/B][/COLOR]
+#EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
 http://50.7.96.210:8285
-
-#EXTINF:0, TRANS 7
-http://stream.sg.mytrans.com/live/trans7@3.sdp/playlist.m3u8
 
 #EXTINF:0, INDOSIAR
 http://livestreaming.production.liputan6.static6.com/tv/indosiarstream300.m3u8
@@ -69,11 +66,8 @@ http://stream.beritasatu.com:8134/world.m3u8
 #EXTINF:0, Metro NEWS HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-0, [COLOR slateblue][B]<::: NEWS :::>[/B][/COLOR]
+#EXTINF:-0, [COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]
 http://50.7.96.210:8285
-
-#EXTINF:0, NEWS ASIA
-http://imtcnai-lh.akamaihd.net/z/cnai_main@334572/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
@@ -87,16 +81,13 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:0, BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG ASIA"  group-title="News",BLOOMBERG ASIA
-http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
-
 #EXTINF:0, i24 News
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:0, [COLOR aquamarine][B]<::: DOCUMENTARY :::>[/B][/COLOR]
+#EXTINF:0, [COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:-1, DISCOVERY UK
@@ -123,7 +114,7 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
 #EXTINF:-1, FOOD NETWORK
 http://ipsat.dvrdns.org:8000/live/jose7/gago7/495.m3u8
 
-#EXTINF:0, [COLOR springgreen][B]<::: FAMILY :::>[/B][/COLOR]
+#EXTINF:0, [COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, FOX Movies Premium (Indo Sub)
@@ -153,23 +144,17 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI ONE"  group-title="ENGLISH",DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
-#EXTINF:0, [COLOR fuchsia][B]<::: KIDS :::>[/B][/COLOR]
+#EXTINF:0, [COLOR fuchsia][B](::: KIDS :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, Anime Plus (Sub Ind)
 http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8
-
-#EXTINF:0, Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.
 
 #EXTINF:-1, DISNEY CHANNEL
 http://ipsat.dvrdns.org:8000/live/jose7/gago7/904.m3u8
 
 #EXTINF:-1, DISNEY XD
 http://ipsat.dvrdns.org:8000/live/jose7/gago7/493.m3u8
-
-#EXTINF:-1, DISNEY JUNIOR
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/494.m3u8
 
 #EXTINF:0, DA VINCI LEARNING
 http://lihattv.wha.la/jhos/davinci/-/playlist.m3u8
@@ -183,7 +168,7 @@ http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
 #EXTINF:0, JEI ENGLISH TV
 http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 
-#EXTINF:0, [COLOR cyan][B]<::: MUSIC :::>[/B][/COLOR]
+#EXTINF:0, [COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, VEVO 1 [720p]
@@ -204,7 +189,7 @@ http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:-1, ONE 1 [1080p]
 http://rtmp.one.by:1300
 
-#EXTINF:0, [COLOR gold][B]<::: RADIO :::>[/B][/COLOR]
+#EXTINF:0, [COLOR gold][B](::: RADIO :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
@@ -252,7 +237,7 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR crimson][B]<::: SPORTS :::>(23-09-15)[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B](::: SPORTS :::)(23-09-15)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BPL LIVE Vdubt25 @ TURKS[/B]
