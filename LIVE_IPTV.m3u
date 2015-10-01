@@ -303,6 +303,36 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
 #EXTINF:0, REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:0, [COLOR yellow][B]Video On Demand[/B][/COLOR]
+http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0,#EXTINF:-1, X-Men
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:0,#EXTINF:-1, X-Men 2
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:0,#EXTINF:-1, X-Men 3
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:0,#EXTINF:-1, X-Men Origin
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:0,#EXTINF:-1, X-Men - The Last Stand
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:0,#EXTINF:-1, X-Men - First Class
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:0,#EXTINF:-1, X-Men - The Wolverine
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+
+#EXTINF:0,#EXTINF:-1, Need For Speed
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
+#EXTINF:0,#EXTINF:-1, The Hobbit The Desolation Of Smaug (FILM)
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
+
+#EXTINF:0,#EXTINF:-1, Maleficent
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+#EXTINF:0,#EXTINF:-1, The Lego Movie
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:0,#EXTINF:-1, Turbo
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+
 #EXTINF:0, ____________________________
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0
 
