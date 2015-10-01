@@ -192,20 +192,22 @@ http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 #EXTINF:0, [COLOR cyan][B]<::: MUSIC :::>[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, VEVO 1 HD
+#EXTINF:0, VEVO 1 [720p]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
-#EXTINF:0, VEVO 2 HD
+#EXTINF:0, VEVO 2 [720p]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
-#EXTINF:0, VEVO 3 HD
+#EXTINF:0, VEVO 3 [720p]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:0, MTV HITS
 http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MTVHITS/variant.m3u8
+
+#EXTINF:0, 1HD Music [1080p]
 http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 
-#EXTINF:-1, ONE 1
+#EXTINF:-1, ONE 1 [1080p]
 http://rtmp.one.by:1300
 
 #EXTINF:0, [COLOR gold][B]<::: RADIO :::>[/B][/COLOR]
@@ -271,29 +273,23 @@ http://goo.gl/kzgi3E
 #EXTINF:0, Supersport 3
 http://goo.gl/izGdgd
 
-#EXTINF:0, Bein 1
+#EXTINF:0, Bein 1 [720p]
 http://lihattv.toh.info/jhos/beib1.m3u8
 
-#EXTINF:0, Bein 2
+#EXTINF:0, Bein 2 [720p]
 http://lihattv.toh.info/jhos/beib2.m3u8
 
-#EXTINF:0, Bein 3
+#EXTINF:0, Bein 3 [720p]
 http://lihattv.toh.info/jhos/beib3.m3u8
 
-#EXTINF:0, beIN Sports 1
+#EXTINF:0, BEIN SPORTS 1
 http://edge.ultracast.me:1935/live/1beinR3BMD/playlist.m3u8?Token
 
-#EXTINF:0, beIN Sports 2
+#EXTINF:0, BEIN SPORTS 2
 http://edge.ultracast.me:1935/live/2beinXW706/playlist.m3u8?Token
 
-#EXTINF:0, beIN Sports 3
-http://edge.ultracast.me:1935/live/3beinRQMI7/playlist.m3u8?Token
-
-#EXTINF:0, beIN Sports 4
+#EXTINF:0, BEIN SPORTS 4
 http://edge.ultracast.me:1935/live/4beinI5R4T/playlist.m3u8?Token
-
-#EXTINF:0, SKY SPORTS
-http://tring-amd-live.tring.tv/out/u/84_107.m3u8
 
 #EXTINF:0, Euronews
 http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
@@ -307,25 +303,19 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 #EXTINF:0, Sport Time TV3
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_1200.mp4.m3u8
 
-#EXTINF:0, Sport Time TV4
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8
-
 #EXTINF:0, Sport Time TV5
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
 
 #EXTINF:0, Sport Time TV6
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARENA SPORT"  group-title="Indonesia",ARENA SPORT
-http://118.97.167.19/jhos/arena//Playlist.m3u8
-
-#EXTINF:-0, LIVERPOOL TV
+#EXTINF:-0, LIVERPOOL TV [720p]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
 
-#EXTINF:-0, CHELSEA TV
+#EXTINF:-0, CHELSEA TV [720p]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8
 
-#EXTINF:-0, MAN CITY TV
+#EXTINF:-0, MAN CITY TV [720p]
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
 
 #EXTINF:-0, BARCA TV
@@ -333,9 +323,6 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
 
 #EXTINF:0, REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-0, CHAMPIONS LEAGUE
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
 
 #EXTINF:0, ____________________________
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0
