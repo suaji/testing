@@ -120,14 +120,10 @@ http://50.7.96.210:8285
 #EXTINF:0, FOX Movies Premium (Indo Sub)
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8?wowzasessionid=65923956
 
-#EXTINF:-1, FOX
-http://alturl.com/yr2sy
 #EXTINF:-1,,HBO Zone
 http://alturl.com/w623g
 #EXTINF:-1, HBO West
 http://alturl.com/yffih
-#EXTINF:-1, HBO Signature Latinoamerica
-http://alturl.com/8s7dc
 #EXTINF:-1, HBO Signature East
 http://alturl.com/6zuo4
 #EXTINF:-1, HBO Family East
@@ -170,6 +166,9 @@ http://50.7.96.210:8285
 
 #EXTINF:0, Anime Plus (Sub Ind)
 http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8
+
+#EXTINF:-1, FOX
+http://alturl.com/yr2sy
 
 #EXTINF:-1, DISNEY CHANNEL
 http://ipsat.dvrdns.org:8000/live/jose7/gago7/904.m3u8
