@@ -114,26 +114,26 @@
 
 <item>
 <title>Misi Rayyan Dan Danish (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-o69n7h06vt6z-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-j3m746si28zj-640x360.html</link>
 <thumbnail>http://www.thesoftbay.com/wp-content/uploads/2015/09/Misi-Rayyan-Dan-Danish.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-SQDZv1jw4QU/VdTI65f9oUI/AAAAAAAAOco/L43RrmkXbl0/s1600/_1590590_jpg.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-o69n7h06vt6z-640x360.html</page>
-<referer>http://streamin.to/o69n7h06vt6z</referer>
+<page>http://streamin.to/embed-j3m746si28zj-640x360.html</page>
+<referer>http://streamin.to/j3m746si28zj</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-o69n7h06vt6z-640x360.html</page>
-<referer>http://streamin.to/o69n7h06vt6z</referer>
+<page>http://streamin.to/embed-j3m746si28zj-640x360.html</page>
+<referer>http://streamin.to/j3m746si28zj</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-o69n7h06vt6z-640x360.html</page>
-<referer>http://streamin.to/o69n7h06vt6z</referer>
+<page>http://streamin.to/embed-j3m746si28zj-640x360.html</page>
+<referer>http://streamin.to/j3m746si28zj</referer>
 </regex>
 </item>
 
