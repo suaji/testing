@@ -1674,12 +1674,62 @@
 </item>
 
 <item>
+<title>Kapsul (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/kapsul.jpg</thumbnail>
+<fanart>http://www.cinema.com.my/images/news/2015/7n_kapsulakanubahpersepsifilem00.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page></page>
+<referer></referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page></page>
+<referer></referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page></page>
+<referer></referer>
+</regex>
+</item>
+
+<item>
+<title>Usop Wilcha Menghonjang Makhluk Muzium (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7makhlukmuzium00_450.jpg</thumbnail>
+<fanart>http://www.cinema.com.my/images/news/2015/7n_elizabethtantodebut02.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page></page>
+<referer></referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page></page>
+<referer></referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page></page>
+<referer></referer>
+</regex>
+</item>
+
+<item>
 <title>==============================================================</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 10.09 29-09-2015 , PAYPAL suaji86@gmail.com[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 10.43 03-10-2015 , PAYPAL suaji86@gmail.com[/COLOR]</title>
 <link>.</link>
 </item>
