@@ -39,51 +39,51 @@
 
 <item>
 <title>Kapsul (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kdystk4ef27v-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/kapsul.jpg</thumbnail>
 <fanart>http://www.cinema.com.my/images/news/2015/7n_kapsulakanubahpersepsifilem00.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page></page>
-<referer></referer>
+<page>http://streamin.to/embed-kdystk4ef27v-640x360.html</page>
+<referer>http://streamin.to/kdystk4ef27v</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page></page>
-<referer></referer>
+<page>http://streamin.to/embed-kdystk4ef27v-640x360.html</page>
+<referer>http://streamin.to/kdystk4ef27v</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page></page>
-<referer></referer>
+<page>http://streamin.to/embed-kdystk4ef27v-640x360.html</page>
+<referer>http://streamin.to/kdystk4ef27v</referer>
 </regex>
 </item>
 
 <item>
 <title>Usop Wilcha Menghonjang Makhluk Muzium (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3bnm753zkuxe-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7makhlukmuzium00_450.jpg</thumbnail>
 <fanart>http://www.cinema.com.my/images/news/2015/7n_elizabethtantodebut02.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page></page>
-<referer></referer>
+<page>http://streamin.to/embed-3bnm753zkuxe-640x360.html</page>
+<referer>http://streamin.to/3bnm753zkuxe</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page></page>
-<referer></referer>
+<page>http://streamin.to/embed-3bnm753zkuxe-640x360.html</page>
+<referer>http://streamin.to/3bnm753zkuxe</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page></page>
-<referer></referer>
+<page>http://streamin.to/embed-3bnm753zkuxe-640x360.html</page>
+<referer>http://streamin.to/3bnm753zkuxe</referer>
 </regex>
 </item>
 
@@ -774,26 +774,26 @@
 
 <item>
 <title>Puaka Balai Gombak (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ig7d919i77fe-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kmysr8azsqle-640x360.html</link>
 <thumbnail>https://farm9.staticflickr.com/8625/16049169137_f49fd2be9c_b.jpg</thumbnail>
 <fanart>http://s1.dmcdn.net/LMAt2/1280x720-5TZ.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ig7d919i77fe-640x360.html</page>
-<referer>http://streamin.to/ig7d919i77fe</referer>
+<page>http://streamin.to/embed-kmysr8azsqle-640x360.html</page>
+<referer>http://streamin.to/kmysr8azsqle</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ig7d919i77fe-640x360.html</page>
-<referer>http://streamin.to/ig7d919i77fe</referer>
+<page>http://streamin.to/embed-kmysr8azsqle-640x360.html</page>
+<referer>http://streamin.to/kmysr8azsqle</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ig7d919i77fe-640x360.html</page>
-<referer>http://streamin.to/ig7d919i77fe</referer>
+<page>http://streamin.to/embed-kmysr8azsqle-640x360.html</page>
+<referer>http://streamin.to/kmysr8azsqle</referer>
 </regex>
 </item>
 
