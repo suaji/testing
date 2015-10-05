@@ -30,31 +30,10 @@ http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/oasis.png" tvg-name="OASIS"  group-title="Malaysia",OASIS
 http://goo.gl/85e4T1
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/ria.png" tvg-name="RIA"  group-title="Malaysia",RIA
-http://goo.gl/x1ybsM
-
 #EXTINF:-1,ASTRO RIA
 http://www.layarku.tv/media/riav6.m3u8
 
-#EXTINF:-1,ASTRO PRIMA
-http://www.layarku.tv/media/primav6.m3u8
-
-#EXTINF:-1, ASTRO WARNA
-http://www.layarku.tv/media/warnav6.m3u8
-
-#EXTINF:-1,ASTRO OASIS
-http://www.layarku.tv/media/oasisv6.m3u8
-
-#EXTINF:-1,ASTRO MUSTIKA
-rtmp://54.169.145.31:8898/live/02
-
-#EXTINF:-1,ASTRO ARENA
-http://www.layarku.tv/media/arenav6.m3u8
-
-#EXTINF:0, KBS WORLD
-http://lihattv.wha.la/jhos/kbs/-/playlist.m3u8
-
-#EXTINF:-1, KBS World 2
+#EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
 
 #EXTINF:-1, KBS WORLD HD (UK/US VPN)
@@ -162,62 +141,41 @@ http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
 #EXTINF:0, JEI ENGLISH TV
 http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 
-#EXTINF:-1, [COLOR yellow]BoBoiboy Musim 3 Episod 18: Bahagia Bersama BoBoiBot[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=KKo1Jv8K6uk
-
 #EXTINF:0, [COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:-1, DISCOVERY UK
+#EXTINF:-1, Discovery UK
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
 
-#EXTINF:-1, DISCOVERY HISTORY
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/491.m3u8
-
-#EXTINF:-1, ANIMAL PLANET
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/497.m3u8
-
-#EXTINF:-1, NATIONAL GEOGRAPHIC
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/499.m3u8
-
-#EXTINF:-1, NAT GEO WILD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/498.m3u8
-
-#EXTINF:-1, HISTORY
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/496.m3u8
-
-#EXTINF:-1, COOKING CHANNEL
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
-
-#EXTINF:-1, FOOD NETWORK
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/495.m3u8
-
-#EXTINF:-1,Travel Channel
+#EXTINF:-1, Travel Channel
 http://lag1.tv-mobile.org/prgu.m3u8
 
-#EXTINF:-1,Animal Planet BG
+#EXTINF:-1, Animal Planet BG
 http://lag1.tv-mobile.org/prgw.m3u8
 
-#EXTINF:-1,National Geographic Channel BG
+#EXTINF:-1, National Geographic Channel BG
 http://lag2.tv-mobile.org/prgf.m3u8
 
-#EXTINF:-1,Nat Geo WILD
+#EXTINF:-1, Nat Geo WILD
 http://lag2.tv-mobile.org/prgg.m3u8
 
-#EXTINF:-1,Discovery Channel BG
+#EXTINF:-1, Discovery Channel BG
 http://lag2.tv-mobile.org/prgh.m3u8
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1, Discovery Science
 http://lag2.tv-mobile.org/prgi.m3u8
 
-#EXTINF:-1,Viasat Nature
+#EXTINF:-1, Viasat Nature
 http://lag2.tv-mobile.org/prgj.m3u8
 
-#EXTINF:-1,Viasat Explore
+#EXTINF:-1, Viasat Explore
 http://lag2.tv-mobile.org/prgk.m3u8
 
 #EXTINF:-1,Willingly and Rybalka
 http://lag2.tv-mobile.org/prgl.m3u8
+
+#EXTINF:-1, Cooking Channel
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
 
 #EXTINF:0, [COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -225,33 +183,25 @@ http://50.7.96.210:8285
 #EXTINF:0, FOX Movies Premium (Indo Sub)
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8?wowzasessionid=65923956
 
-#EXTINF:-1,,HBO Zone
-http://alturl.com/w623g
-#EXTINF:-1, HBO West
-http://alturl.com/yffih
-#EXTINF:-1, HBO Signature East
-http://alturl.com/6zuo4
-#EXTINF:-1, HBO Family East
-http://alturl.com/zosjg
-#EXTINF:-1, HBO East
-http://alturl.com/fmzew
-#EXTINF:-1, HBO Comedy East
-http://alturl.com/j2wpc
-#EXTINF:-1, HBO 2 West
-http://alturl.com/mgrii
-#EXTINF:-1, HBO 2 East
-http://alturl.com/ynddr
-
 #EXTINF:-1,HBO
 http://lag2.tv-mobile.org/prgp.m3u8
 
-#EXTINF:-1,Cinemax
+#EXTINF:-1,,HBO Zone
+http://alturl.com/w623g
+
+#EXTINF:-1, HBO Comedy East
+http://alturl.com/j2wpc
+
+#EXTINF:-1, HBO 2 East
+http://alturl.com/ynddr
+
+#EXTINF:-1, Cinemax
 http://lag2.tv-mobile.org/prgb.m3u8
 
-#EXTINF:-1,MovieStar
+#EXTINF:-1, MovieStar
 http://lag2.tv-mobile.org/prgc.m3u8
 
-#EXTINF:-1,AXN
+#EXTINF:-1, AXN
 http://lag2.tv-mobile.org/prgd.m3u8
 
 #EXTINF:-1, Filmbox
@@ -266,23 +216,11 @@ http://lag1.tv-mobile.org/prgd.m3u8
 #EXTINF:-1,BTV Comedy
 http://lag1.tv-mobile.org/prgc.m3u8
 
-#EXTINF:-1,Cinema Nova
+#EXTINF:-1, Cinema Nova
 http://lag1.tv-mobile.org/prgg.m3u8
-
-#EXTINF:0, TIC (Indonesia)
-http://gcasialive-i.akamaihd.net/hls/live/218243/TIC-HLS-stream/master.m3u8
 
 #EXTINF:0, PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
-
-#EXTINF:0, PLAYY ASIA
-http://123.108.164.71/etv2sb/phd509/lihattv.m3u8
-
-#EXTINF:0, THE MOVIE
-http://123.108.164.71/etv2sb/phd8/lihattv.m3u8
-
-#EXTINF:0, EVERYTHING TV WEST
-http://123.108.164.71/etv2sb/phd513/lihattv.m3u8
 
 #EXTINF:0, DRAMA WORLD
 http://123.108.164.71/etv2sb/phd505/lihattv.m3u8
@@ -320,62 +258,35 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
 http://50.7.96.210:8285
 
-#EXTINF:0, [B]Install UK Turk Playlists @ HallowLive[/B]
+#EXTINF:0, [B]*Install UK Turk Playlists @ HallowLive[/B]
 http://50.7.96.210:8285
 
-#EXTINF:0, BEIN PRIMIERER ASIA [720p]
-http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
+#EXTINF:0, [B]http://goo.gl/BTWS7d[/B]
+http://goo.gl/BTWS7d
 
-#EXTINF:0, Bein 1 [720p]
-http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:0, Sky Sports 1
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp1.stream/playlist.m3u8?token=f37e5bd79dd1c97458c52817e4362ec7
 
-#EXTINF:0, Bein 2 [720p]
-http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:0, Sky Sports 2
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp2.stream/playlist.m3u8?token=f66213e271a58b1d32ecdcf1f11a594a
 
-#EXTINF:0, Bein 3 [720p]
-http://lihattv.toh.info/jhos/beib3.m3u8
+#EXTINF:0, Sky Sports 3
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp3.stream/playlist.m3u8?token=46fbfcfc0a459afaa473a8f8a4e9fd50
 
-#EXTINF:0, BEIN SPORTS 1
-http://edge.ultracast.me:1935/live/1beinR3BMD/playlist.m3u8?Token
+#EXTINF:0, Sky Sports 4
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp4.stream/playlist.m3u8?token=036517947dd3a06ceb20250b588f49d3
 
-#EXTINF:0, BEIN SPORTS 2
-http://edge.ultracast.me:1935/live/2beinXW706/playlist.m3u8?Token
+#EXTINF:0, Sky Sports 5
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp5.stream/playlist.m3u8?token=6532b1ac7d7fbe52b1039dc59d2a0a9f
 
-#EXTINF:0, BEIN SPORTS 4
-http://edge.ultracast.me:1935/live/4beinI5R4T/playlist.m3u8?Token
+#EXTINF:0, Sky Sports F1
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/skyspf1.stream/playlist.m3u8?token=fa6bd111512253132d4f314ae7d26b85
 
-#EXTINF:-1,beIN SPORTS 1 HD
-http://iptv.star7arab.com/free?token=546521378&id=1
-#EXTINF:-1,beIN SPORTS 2 HD
-http://iptv.star7arab.com/free?token=546521378&id=2
-#EXTINF:-1,beIN SPORTS 3 HD
-http://iptv.star7arab.com/free?token=546521378&id=3
-#EXTINF:-1,beIN SPORTS 4 HD
-http://iptv.star7arab.com/free?token=546521378&id=4
-#EXTINF:-1,beIN SPORTS 5 HD
-http://iptv.star7arab.com/free?token=546521378&id=5
-#EXTINF:-1,beIN SPORTS 6 HD
-http://iptv.star7arab.com/free?token=546521378&id=6
-#EXTINF:-1,beIN SPORTS 7 HD
-http://iptv.star7arab.com/free?token=546521378&id=7
-#EXTINF:-1,beIN SPORTS 8 HD
-http://iptv.star7arab.com/free?token=546521378&id=8
-#EXTINF:-1,beIN SPORTS 9 HD
-http://iptv.star7arab.com/free?token=546521378&id=9
-#EXTINF:-1,beIN SPORTS 10 HD
-http://iptv.star7arab.com/free?token=546521378&id=10
-#EXTINF:-1,beIN SPORTS 11 HD
-http://iptv.star7arab.com/free?token=546521378&id=11
-#EXTINF:-1,beIN SPORTS 12 HD
-http://iptv.star7arab.com/free?token=546521378&id=12
-#EXTINF:-1,beIN SPORTS 13 HD
-http://iptv.star7arab.com/free?token=546521378&id=13
-#EXTINF:-1,beIN SPORTS 14 HD
-http://iptv.star7arab.com/free?token=546521378&id=14
-#EXTINF:-1,beIN SPORTS 15 HD
-http://iptv.star7arab.com/free?token=546521378&id=15
-#EXTINF:-1,beIN SPORTS 16 HD
-http://iptv.star7arab.com/free?token=546521378&id=16
+#EXTINF:0, BT Sports 1
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/btsport1.stream/playlist.m3u8?token=f098a09c62390a91751e24251e906c29
+
+#EXTINF:0, BT Sports 2
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/btsport2.stream/playlist.m3u8?token=2c465196a185833599645fbb94229576
 
 #EXTINF:0, SPORT NEWS
 http://81.7.13.162/hls/ss1/index.m3u8
