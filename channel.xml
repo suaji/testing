@@ -20,20 +20,20 @@
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-02c0m3svdcqk-640x360.html</page>
-<referer>http://streamin.to/02c0m3svdcqk</referer>
+<page>.</page>
+<referer>.</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-02c0m3svdcqk-640x360.html</page>
-<referer>http://streamin.to/02c0m3svdcqk</referer>
+<page>.</page>
+<referer>.</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-02c0m3svdcqk-640x360.html</page>
-<referer>http://streamin.to/02c0m3svdcqk</referer>
+<page>.</page>
+<referer>.</referer>
 </regex>
 </item>
 
