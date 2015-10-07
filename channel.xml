@@ -12,7 +12,7 @@
 <fanart>http://s26.postimg.org/psk64mftl/screenshot015.png</fanart>
 </item>
 
-<item>
+<it
 <title>POLIS EVO (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-02c0m3svdcqk-640x360.html</link>
 <thumbnail>http://twitchfilm.com/assets/2015/08/PolisEvo.jpg</thumbnail>
