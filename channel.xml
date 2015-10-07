@@ -12,8 +12,41 @@
 <fanart>http://s26.postimg.org/psk64mftl/screenshot015.png</fanart>
 </item>
 
-<it
-<title>POLIS EVO (2015)</title>
+<item>
+<title>[COLOR hotpink]ASTRO SUPERSPORT[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name><expres>token=(.*)</expres>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=sinleche&amp;canal=astro1.stream&amp;cm=2471&amp;nombre=US.m3u8</page>
+<referer>http://tasterschoice.x10.bz/</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>
+
+<item>
+<title>[COLOR hotpink]ASTRO SUPERSPORT 2[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro2.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name><expres>token=(.*)</expres>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=sinleche&amp;canal=astro2.stream&amp;cm=2473&amp;nombre=US.m3u8</page>
+<referer>http://tasterschoice.x10.bz/</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>
+
+<item>
+<title>[COLOR hotpink]ASTRO SUPERSPORT 3[/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro3.stream/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name><expres>token=(.*)</expres>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=sinleche&amp;canal=astro3.stream&amp;cm=2475&amp;nombre=US.m3u8</page>
+<referer>http://tasterschoice.x10.bz/</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>
+
+<item>
+<title>POLIS EVO (2015) akan datang!</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-02c0m3svdcqk-640x360.html</link>
 <thumbnail>http://twitchfilm.com/assets/2015/08/PolisEvo.jpg</thumbnail>
 <fanart>http://www.rotikaya.com/wp-content/uploads/2015/09/Polis-Evo-Raih-RM2.5-Juta-Hanya-Dalam-4-Hari-ROTIKAYA-700x427.jpg</fanart>
