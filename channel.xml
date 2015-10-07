@@ -15,6 +15,7 @@
 <item>
 <title>[COLOR hotpink]ASTRO SUPERSPORT HD[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=$doregex[tok]</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_supersport_my.png</thumbnail>
 <regex>
 <name>tok</name><expres>token=(.*)</expres>
 <page>http://tasterschoice.x10.bz/nescafe.php?contra=sinleche&amp;canal=astro1.stream&amp;cm=2471&amp;nombre=US.m3u8</page>
@@ -26,6 +27,7 @@
 <item>
 <title>[COLOR hotpink]ASTRO SUPERSPORT 2 HD[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro2.stream/playlist.m3u8?token=$doregex[tok]</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_2.png</thumbnail>
 <regex>
 <name>tok</name><expres>token=(.*)</expres>
 <page>http://tasterschoice.x10.bz/nescafe.php?contra=sinleche&amp;canal=astro2.stream&amp;cm=2473&amp;nombre=US.m3u8</page>
@@ -36,6 +38,7 @@
 
 <item>
 <title>[COLOR hotpink]ASTRO SUPERSPORT 3 HD[/COLOR]</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_3.png</thumbnail>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro3.stream/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
 <name>tok</name><expres>token=(.*)</expres>
