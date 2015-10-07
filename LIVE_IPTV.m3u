@@ -99,47 +99,28 @@ http://50.7.96.210:8285
 #EXTINF:0, Anime Plus (Sub Ind)
 http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8
 
-#EXTINF:-1, FOX
-http://alturl.com/yr2sy
-
-#EXTINF:-1, DISNEY CHANNEL
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/904.m3u8
-
-#EXTINF:-1, DISNEY XD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/493.m3u8
-
-#EXTINF:-1, Disney Channel East
-http://bit.do/bmHSj
-#EXTINF:-1, Disney Channel West
-http://bit.do/bmHSA
-#EXTINF:-1, Disney Jr
-http://bit.do/bmHSB
-#EXTINF:-1, Disney XD
-http://bit.do/bmHSQ
-
-#EXTINF:-1, NICKELODEON
-http://bit.do/bmHS2
-
-#EXTINF:-1, NICK JR
-http://bit.do/bmHSW
-
-#EXTINF:-1, TEEN NICK
-http://bit.do/bmHTg
-
-#EXTINF:-1, TOONCAST
-http://bit.do/bmHTm
-
-#EXTINF:0, DA VINCI LEARNING
-http://lihattv.wha.la/jhos/davinci/-/playlist.m3u8
-
-#EXTINF:0, JIMJAM
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_JIMJAM/variant.m3u8
-
 #EXTINF:0, KIDS PLAY
 http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
 
 #EXTINF:0, JEI ENGLISH TV
 http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
+
+#EXTINF:0, Cartoon Network
+http://bstream.planetstream.org:8000/live/massi/massi/29.m3u8
+#EXTINF:0, Sky Disney XD HD
+http://bstream.planetstream.org:8000/live/massi/massi/829.m3u8
+#EXTINF:0, Disney Channel HD
+http://bstream.planetstream.org:8000/live/massi/massi/852.m3u8
+#EXTINF:0, NickJunior
+http://bstream.planetstream.org:8000/live/massi/massi/2716.m3u8
+#EXTINF:0, NickelOdeon
+http://bstream.planetstream.org:8000/live/massi/massi/2715.m3u8
+#EXTINF:0, Disney Junior
+http://bstream.planetstream.org:8000/live/massi/massi/531.m3u8
+#EXTINF:0, Premium Disney Channel +1
+http://bstream.planetstream.org:8000/live/massi/massi/530.m3u8
+#EXTINF:0, Tom & Jerry Channel
+http://bstream.planetstream.org:8000/live/massi/massi/1101.m3u8
 
 #EXTINF:0, [COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -183,18 +164,6 @@ http://50.7.96.210:8285
 #EXTINF:0, FOX Movies Premium (Indo Sub)
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8?wowzasessionid=65923956
 
-#EXTINF:-1,HBO
-http://lag2.tv-mobile.org/prgp.m3u8
-
-#EXTINF:-1,,HBO Zone
-http://alturl.com/w623g
-
-#EXTINF:-1, HBO Comedy East
-http://alturl.com/j2wpc
-
-#EXTINF:-1, HBO 2 East
-http://alturl.com/ynddr
-
 #EXTINF:-1, Cinemax
 http://lag2.tv-mobile.org/prgb.m3u8
 
@@ -231,6 +200,33 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI ONE"  group-title="ENGLISH",DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
+#EXTINF:0, Sky Cinema 1 HD
+http://bstream.planetstream.org:8000/live/massi/massi/773.m3u8
+#EXTINF:0, Sky Cinema +1 HD
+http://bstream.planetstream.org:8000/live/massi/massi/1390.m3u8
+#EXTINF:0, Sky Cinema +24 HD
+http://bstream.planetstream.org:8000/live/massi/massi/42.m3u8
+#EXTINF:0, Sky Cinema Hits HD
+http://bstream.planetstream.org:8000/live/massi/massi/513.m3u8
+#EXTINF:0, Sky Cinema Family HD
+http://bstream.planetstream.org:8000/live/massi/massi/771.m3u8
+#EXTINF:0, Sky Cinema Family +1 HD
+http://bstream.planetstream.org:8000/live/massi/massi/1388.m3u8
+#EXTINF:0, Sky Cinema Passion HD
+http://bstream.planetstream.org:8000/live/massi/massi/44.m3u8
+#EXTINF:0, Sky Cinema Comedy HD
+http://bstream.planetstream.org:8000/live/massi/massi/657.m3u8
+#EXTINF:0, Sky Cinema Max HD
+http://bstream.planetstream.org:8000/live/massi/massi/769.m3u8
+#EXTINF:0, Sky Cinema Max +1 HD
+http://bstream.planetstream.org:8000/live/massi/massi/1394.m3u8
+#EXTINF:0, Sky Cinema Cult HD
+http://bstream.planetstream.org:8000/live/massi/massi/678.m3u8
+#EXTINF:0, Sky Cinema Classic HD
+http://bstream.planetstream.org:8000/live/massi/massi/763.m3u8
+#EXTINF:0, Sky 3D
+http://bstream.planetstream.org:8000/live/massi/massi/957.m3u8
+
 #EXTINF:0, [COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
@@ -252,7 +248,7 @@ http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:-1, ONE 1 [1080p]
 http://rtmp.one.by:1300
 
-#EXTINF:0, [COLOR crimson][B](::: SPORTS :::)(23-09-15)[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B](::: SPORTS :::)(07-10-15)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -264,8 +260,6 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]http://goo.gl/BTWS7d[/B]
 http://goo.gl/BTWS7d
 
-#EXTINF:0, Sky Sport 24 HD
-http://bstream.planetstream.org:8000/live/massi/massi/124.m3u8
 #EXTINF:0, Sky Sport Plus HD
 http://bstream.planetstream.org:8000/live/massi/massi/777.m3u8
 #EXTINF:0, Sky Fox Sport HD
@@ -286,15 +280,6 @@ http://bstream.planetstream.org:8000/live/massi/massi/538.m3u8
 http://bstream.planetstream.org:8000/live/massi/massi/894.m3u8
 #EXTINF:0, Sky Eurosport 2 HD
 http://bstream.planetstream.org:8000/live/massi/massi/895.m3u8
-
-#EXTINF:0, SPORT NEWS
-http://81.7.13.162/hls/ss1/index.m3u8
-
-#EXTINF:0, Euronews
-http://lihattv.wha.la/jhos/euronews/-/playlist.m3u8
-
-#EXTINF:0, Fight Sport
-http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
 
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
