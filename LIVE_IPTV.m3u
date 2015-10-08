@@ -391,3 +391,12 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]PAYPAL suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, Canal+ Futbol 720
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119-1443592510783.m3u8
+
+#EXTINF:0, Canal+ Futbol 720p
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119-1443592510783.m3u8
+
+#EXTINF:0, NFL Network 720p
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
