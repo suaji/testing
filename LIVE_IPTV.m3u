@@ -400,3 +400,25 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119-1443592510783.m3u8
 
 #EXTINF:0, NFL Network 720p
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
+
+#EXTINF:0, Nickelodeon 720p
+http://78.30.254.43:8989/udp/239.0.0.128:4000
+
+#EXTINF:0, MGM 720p
+http://78.30.254.43:8989/udp/239.0.0.104:4000
+
+#EXTINF:0, Travel 1080p
+http://78.30.254.43:8989/udp/239.0.0.248:4000
+
+#EXTINF:0, Discovery 1080p
+http://78.30.254.43:8989/udp/239.0.0.119:4000
+
+#EXTINF:0, Animal Planet (1080p) [5.1]
+http://78.30.254.43:8989/udp/239.0.0.129:4000
+
+#EXTINF:0, Nat Geo Wild 1080p
+http://78.30.254.43:8989/udp/239.0.0.168:4000
+
+#EXTINF:0, Arirang TV World 720p
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+
