@@ -451,3 +451,24 @@ http://178.33.88.130:888/udp/239.102.0.20:1234?live786&wmsAuthSigns=
 http://178.33.88.130:888/udp/239.102.0.20:1234?live786&wmsAuthSigns=
 #EXTINF:0, Testing 25
 http://178.33.88.130:888/udp/239.102.0.20:1234?live786&wmsAuthSigns=
+
+#EXTINF:-1, beIN Sports 1 HD
+http://50.7.69.138:9080/hls/bein1hd.m3u8
+#EXTINF:-1, beIN Sports 2 HD
+http://50.7.69.138:9080/hls/bein2hd.m3u8
+#EXTINF:-1, beIN Sports 3 HD
+http://50.7.69.138:9080/hls/bein3hd.m3u8
+#EXTINF:-1, beIN Sports 4 HD
+http://50.7.69.138:9080/hls/bein4hd.m3u8
+#EXTINF:-1, beIN Sports 5 HD
+http://50.7.69.138:9080/hls/bein5hd.m3u8
+#EXTINF:-1, beIN Sports 6 HD
+http://50.7.69.138:9080/hls/bein6hd.m3u8
+#EXTINF:-1, beIN Sports 7 HD
+http://50.7.69.138:9080/hls/bein7hd.m3u8
+#EXTINF:-1, beIN Sports 9 HD
+http://50.7.69.138:9080/hls/bein8hd.m3u8
+#EXTINF:-1, beIN Sports 9 HD
+http://50.7.69.138:9080/hls/bein9hd.m3u8
+#EXTINF:-1, beIN Sports 10 HD
+http://50.7.69.138:9080/hls/bein10hd.m3u8
