@@ -265,24 +265,19 @@ http://goo.gl/BTWS7d
 
 #EXTINF:0, Sky Sport Plus HD
 http://bstream.planetstream.org:8000/live/massi/massi/777.m3u8
-#EXTINF:0, Sky Fox Sport HD
-http://bstream.planetstream.org:8000/live/massi/massi/410.m3u8
-#EXTINF:0, Sky Sport 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/129.m3u8
-#EXTINF:0, Sky Sport 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/165.m3u8
-#EXTINF:0, Sky Sport 3 HD
-http://bstream.planetstream.org:8000/live/massi/massi/628.m3u8
 
-#EXTINF:0, Sky Sport F1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/131.m3u8
-#EXTINF:0, Sky Sport MotoGP HD
-http://bstream.planetstream.org:8000/live/massi/massi/538.m3u8
-
-#EXTINF:0, Sky Eurosport 1 HD
-http://bstream.planetstream.org:8000/live/massi/massi/894.m3u8
-#EXTINF:0, Sky Eurosport 2 HD
-http://bstream.planetstream.org:8000/live/massi/massi/895.m3u8
+#EXTINF:-1,BT Sport EUROPE
+http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asgdkhasg!54754
+#EXTINF:-1,BT Sport ESPN
+http://stream.balticbox.tv:8080/BTSespn/mono.m3u8?token=asgdkhasg!54754
+#EXTINF:-1,BT Sport 1
+http://stream.balticbox.tv:8080/BTSp1/mono.m3u8?token=asgdkhasg!54754
+#EXTINF:-1,BT Sport 2
+http://stream.balticbox.tv:8080/BTSp2/mono.m3u8?token=asgdkhasg!54754
+#EXTINF:-1,PremierSports
+http://stream.balticbox.tv:8080/PRMSP/mono.m3u8?token=asgdkhasg!54754
+#EXTINF:-1,Racing UK
+http://stream.balticbox.tv:8080/RACUK/mono.m3u8?token=asgdkhasg!54754
 
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
