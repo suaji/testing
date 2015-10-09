@@ -13,31 +13,6 @@
 </item>
 
 <item>
-<title>Dragon Ball Z resurrection F (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
-<thumbnail>http://geekmelee.com/wp-content/uploads/2015/08/drgaon-ball-z-resurrection-no-f-movie.jpg</thumbnail>
-<fanart>http://cdn.crossmap.com/images/2/63/26380.jpg</fanart>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page></page>
-<referer></referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page></page>
-<referer></referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page></page>
-<referer></referer>
-</regex>
-</item>
-
-<item>
 <title>POLIS EVO (2015) akan datang!</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-02c0m3svdcqk-640x360.html</link>
 <thumbnail>http://twitchfilm.com/assets/2015/08/PolisEvo.jpg</thumbnail>
