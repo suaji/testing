@@ -300,6 +300,39 @@ http://stream.balticbox.tv:8080/PRMSP/mono.m3u8?token=asgdkhasg!54754
 #EXTINF:-1,Racing UK
 http://stream.balticbox.tv:8080/RACUK/mono.m3u8?token=asgdkhasg!54754
 
+#EXTINF:-1,beIN SPORTS 1 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=1
+#EXTINF:-1,beIN SPORTS 2 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=2
+#EXTINF:-1,beIN SPORTS 3 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=3
+#EXTINF:-1,beIN SPORTS 4 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=4
+#EXTINF:-1,beIN SPORTS 5 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=5
+#EXTINF:-1,beIN SPORTS 6 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=6
+#EXTINF:-1,beIN SPORTS 7 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=7
+#EXTINF:-1,beIN SPORTS 8 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=8
+#EXTINF:-1,beIN SPORTS 9 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=9
+#EXTINF:-1,beIN SPORTS 10 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=10
+#EXTINF:-1,beIN SPORTS 11 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=11
+#EXTINF:-1,beIN SPORTS 12 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=12
+#EXTINF:-1,beIN SPORTS 13 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=13
+#EXTINF:-1,beIN SPORTS 14 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=14
+#EXTINF:-1,beIN SPORTS 15 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=15
+#EXTINF:-1,beIN SPORTS 16 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=16
+
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
 
