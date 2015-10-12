@@ -468,3 +468,9 @@ http://iptv.latino-webtv.com/mariocs.php?canal=FoxSportsLA&cm=2505&f=mariocs.m3u
 
 #EXTINF:-1,Fox Sports 2
 http://iptv.latino-webtv.com/mariocs.php?canal=FoxSports2SD&cm=475&f=mariocs.m3u8
+
+#EXTINF:-1, Premier
+http://185.63.252.176/live/premier/playlist.m3u8
+
+#EXTINF:-1, Sky Sports 2
+http://185.63.252.176/live/ss2/playlist.m3u8
