@@ -19,7 +19,7 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/chunklist_w614159331_b214000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDQyNzAzNjQmbXlUb2tlblByZWZpeGhhc2g9aGZZTXRFdG1LblozMWhLWVBnU0YtODRBamxmeGhqNDAwbi1DY1ByWjVxUT0=.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1445225751&myTokenPrefixhash=QHKBrk95XD3UcdOZg9KQVkLZoI1Gjq-0Sku7-M17fyw=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1445225863&myTokenPrefixhash=7TXjjls5bLLq5IwugDmcYvfoUWYs7gJ20hETDVqzVYo=
