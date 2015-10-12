@@ -290,18 +290,17 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]http://goo.gl/SbCqWs[/B]
 http://goo.gl/12345
 
-#EXTINF:0, Astro Supersport 1 [720p]
+#EXTINF:0, Astro Supersport 1
 http://185.63.252.176/live/antenasportucl1/playlist.m3u8
 
-#EXTINF:0, Astro Supersport 2 [720p]
+#EXTINF:0, Astro Supersport 2
 http://185.63.252.176/live/antenasportucl2/playlist.m3u8
 
-#EXTINF:0, Astro Supersport 3 [720p]
+#EXTINF:0, Astro Supersport 3
 http://185.63.252.176/live/antenasportucl3/playlist.m3u8
 
-#EXTINF:0, Astro Supersport 4 [720p]
+#EXTINF:0, Astro Supersport 4
 http://185.63.252.176/live/antenasportucl4/playlist.m3u8
-
 
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
@@ -348,7 +347,7 @@ http://goo.gl/mi4RDE
 #EXTINF:0, Jejak Warriors (2015) [720p]
 http://goo.gl/Ak3HzP
 
-#EXTINF:0, Pixels (2015)
+#EXTINF:0, Pixels (2015) [720p]
 http://vip.ciplak.tips/download/Pixels%20(2015)%20720p%20BluRay%20x264%20AAC%20Cknz%20(Eng%20Subs%20&%20Dual%20Audio).mkv
 
 #EXTINF:0,#EXTINF:-1, X-Men
