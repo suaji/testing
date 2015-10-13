@@ -924,26 +924,26 @@
 
 <item>
 <title>Kasut Ku Kusut (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-100bwgtj1hr5-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s9xtpht6n15m-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-EGewTMK6Fig/VKZwuvnuqEI/AAAAAAAAHzQ/TOsXQh6Ljxg/s1600/10382150_871873926167546_7879890121740029874_n.jpg</thumbnail>
 <fanart>http://kitepunye.com/wp-content/uploads/2015/01/11.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-100bwgtj1hr5-640x360.html</page>
-<referer>http://streamin.to/100bwgtj1hr5</referer>
+<page>http://streamin.to/embed-s9xtpht6n15m-640x360.html</page>
+<referer>http://streamin.to/s9xtpht6n15m</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-100bwgtj1hr5-640x360.html</page>
-<referer>http://streamin.to/100bwgtj1hr5</referer>
+<page>http://streamin.to/embed-s9xtpht6n15m-640x360.html</page>
+<referer>http://streamin.to/s9xtpht6n15m</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-100bwgtj1hr5-640x360.html</page>
-<referer>http://streamin.to/100bwgtj1hr5</referer>
+<page>http://streamin.to/embed-s9xtpht6n15m-640x360.html</page>
+<referer>http://streamin.to/s9xtpht6n15m</referer>
 </regex>
 </item>
 
@@ -974,26 +974,26 @@
 
 <item>
 <title>Rentap (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9st15wwiwvwq-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1tkc0stglmvp-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/--LbE6mxOYmU/VA_aXDseNNI/AAAAAAAAO3c/035E1PH6Evo/s1600/rentap.jpg</thumbnail>
 <fanart>http://yesworld.my/wp-content/uploads/2014/11/Rentap-contest-Slider.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-9st15wwiwvwq-640x360.html</page>
-<referer>http://streamin.to/9st15wwiwvwq</referer>
+<page>http://streamin.to/embed-1tkc0stglmvp-640x360.html</page>
+<referer>http://streamin.to/1tkc0stglmvp</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9st15wwiwvwq-640x360.html</page>
-<referer>http://streamin.to/9st15wwiwvwq</referer>
+<page>http://streamin.to/embed-1tkc0stglmvp-640x360.html</page>
+<referer>http://streamin.to/1tkc0stglmvp</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9st15wwiwvwq-640x360.html</page>
-<referer>http://streamin.to/9st15wwiwvwq</referer>
+<page>http://streamin.to/embed-1tkc0stglmvp-640x360.html</page>
+<referer>http://streamin.to/1tkc0stglmvp</referer>
 </regex>
 </item> 
 
@@ -1458,26 +1458,26 @@
 
 <item>
 <title>Paku Pontianak (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z6ga7b67oina-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-on69ac5o1kbh-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-QWKihKpHI1g/UiqhygyDf_I/AAAAAAAAATo/Bm2aPQqxeVA/s1600/1239820_612215095484782_1882814147_n.jpg</thumbnail>
 <fanart>http://www.broframestone.com/wp-content/uploads/2013/08/Paku-Pontianak-Uqasha-Senrose-Jadi-Pontianak.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-z6ga7b67oina-640x360.html</page>
-<referer>http://streamin.to/z6ga7b67oina</referer>
+<page>http://streamin.to/embed-on69ac5o1kbh-640x360.html</page>
+<referer>http://streamin.to/on69ac5o1kbh</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-z6ga7b67oina-640x360.html</page>
-<referer>http://streamin.to/z6ga7b67oina</referer>
+<page>http://streamin.to/embed-on69ac5o1kbh-640x360.html</page>
+<referer>http://streamin.to/on69ac5o1kbh</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-z6ga7b67oina-640x360.html</page>
-<referer>http://streamin.to/z6ga7b67oina</referer>
+<page>http://streamin.to/embed-on69ac5o1kbh-640x360.html</page>
+<referer>http://streamin.to/on69ac5o1kbh</referer>
 </regex>
 </item>
 
