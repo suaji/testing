@@ -7,34 +7,16 @@
 
 <item>
 <title>[COLOR red]Tutorial http://goo.gl/9qhWxj[/COLOR]</title>
-<link>http://streamer1.playlist.m3u8</link>
+<link>http://goo.gl/0KAuq9</link>
 <thumbnail>http://s26.postimg.org/qgt0nkejd/screenshot016.png</thumbnail>
 <fanart>http://s26.postimg.org/psk64mftl/screenshot015.png</fanart>
 </item>
 
 <item>
 <title>POLIS EVO (2015) akan datang!</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-02c0m3svdcqk-640x360.html</link>
+<link>http://goo.gl/0KAuq9</link>
 <thumbnail>http://twitchfilm.com/assets/2015/08/PolisEvo.jpg</thumbnail>
 <fanart>http://www.rotikaya.com/wp-content/uploads/2015/09/Polis-Evo-Raih-RM2.5-Juta-Hanya-Dalam-4-Hari-ROTIKAYA-700x427.jpg</fanart>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>.</page>
-<referer>.</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>.</page>
-<referer>.</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>.</page>
-<referer>.</referer>
-</regex>
 </item>
 
 <item>
