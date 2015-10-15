@@ -1173,26 +1173,26 @@
 
 <item>
 <title>Nasi Tangas (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-w9cdo7x14rjk-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-n7ie6s9dz19n-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/10/nasi-tangas-679x1024.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-7nzzsvP0SpM/VBj7RcbkcmI/AAAAAAAAM9Y/YzrwXX8Fv28/s1600/nasi%2Btangas%2B2.JPG</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-w9cdo7x14rjk-640x360.html</page>
-<referer>http://streamin.to/w9cdo7x14rjk</referer>
+<page>http://streamin.to/embed-n7ie6s9dz19n-640x360.html</page>
+<referer>http://streamin.to/n7ie6s9dz19n</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-w9cdo7x14rjk-640x360.html</page>
-<referer>http://streamin.to/w9cdo7x14rjk</referer>
+<page>http://streamin.to/embed-n7ie6s9dz19n-640x360.html</page>
+<referer>http://streamin.to/n7ie6s9dz19n</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-w9cdo7x14rjk-640x360.html</page>
-<referer>http://streamin.to/w9cdo7x14rjk</referer>
+<page>http://streamin.to/embed-n7ie6s9dz19n-640x360.html</page>
+<referer>http://streamin.to/n7ie6s9dz19n</referer>
 </regex>
 </item>
 
