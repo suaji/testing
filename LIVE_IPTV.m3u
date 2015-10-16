@@ -99,14 +99,8 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0, [COLOR fuchsia][B](::: KIDS :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, Anime Plus (Sub Ind)
-http://lihattv.wha.la/jhos/aniplus/-/playlist.m3u8
-
 #EXTINF:0, KIDS PLAY
 http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
-
-#EXTINF:0, JEI ENGLISH TV
-http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 
 #EXTINF:0, Nickelodeon 720p
 http://78.30.254.43:8989/udp/239.0.0.128:4000
@@ -130,6 +124,9 @@ http://bstream.planetstream.org:8000/live/massi/massi/531.m3u8
 http://bstream.planetstream.org:8000/live/massi/massi/530.m3u8
 #EXTINF:0, Tom & Jerry Channel
 http://bstream.planetstream.org:8000/live/massi/massi/1101.m3u8
+
+#EXTINF:0, JEI ENGLISH TV
+http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 
 #EXTINF:0, [COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -290,6 +287,18 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]http://goo.gl/SbCqWs[/B]
 http://goo.gl/12345
 
+#EXTINF:0, CTH Stadium 1 HD [720p]
+rtmp://27.254.149.71:1935/live/cth14.stream
+
+#EXTINF:0, CTH Stadium 2 HD [720p]
+rtmp://27.254.149.71:1935/live/cth24.stream
+
+#EXTINF:0, CTH Stadium 3 HD [720p]
+rtmp://27.254.149.71:1935/live/cth34.stream
+
+#EXTINF:0, CTH Stadium 4 HD [720p]
+rtmp://27.254.149.71:1935/live/cth44.stream
+
 #EXTINF:0, Bein Sports Spanyol [720p]
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 
@@ -316,6 +325,11 @@ http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 
 #EXTINF:0, zAstro SuperSport 4 (backup)
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp4/playlist.m3u8
+
+#EXTINF:0,ESPN
+http://192.99.147.19:5808/espnhdguys/playlist.m3u8
+#EXTINF:0,FOX SPORTS 1
+http://192.99.147.19:5808/foxsports/playlist.m3u8
 
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
@@ -459,51 +473,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0,CBS 2
-HTTP://192.99.147.19:5808/cbshdguys/playlist.m3u8
-#EXTINF:0,NBC 4
-http://192.99.147.19:5808/nbchdguys/index.m3u8
-#EXTINF:0,ABC 7
-http://192.99.147.19:5808/abchdguys/playlist.m3u8
-#EXTINF:0,FOX 5
-http://192.99.147.19:5808/foxhdguys/index.m3u8?
-#EXTINF:0,ESPN
-http://192.99.147.19:5808/espnhdguys/playlist.m3u8
-#EXTINF:0,FOX SPORTS 1
-http://192.99.147.19:5808/foxsports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="136" tvg-name="SPORT KLUB 1 HD"
-http://master.nika.rs.ba:80/live?channelId=136id=66&deviceUser=besplatno&devicePass=besplatno
-#EXTINF:-1 tvg-id="137" tvg-name="SPORT KLUB 2 HD" 
-http://master.nika.rs.ba:80/live?channelId=137id=66&deviceUser=besplatno&devicePass=besplatno
-#EXTINF:-1 tvg-id="138" tvg-name="SPORT KLUB 3 HD"
-http://master.nika.rs.ba:80/live?channelId=138id=66&deviceUser=besplatno&devicePass=besplatno
-
-#EXTINF:-1 tvg-id="139" tvg-name="SUPERSPORT ALB 1 HD" 
-http://master.nika.rs.ba:80/live?channelId=139id=66&deviceUser=besplatno&devicePass=besplatno
-#EXTINF:-1 tvg-id="150" tvg-name="SUPERSPORT ALB 2 HD" 
-http://master.nika.rs.ba:80/live?channelId=150id=66&deviceUser=besplatno&devicePass=besplatno
-#EXTINF:-1 tvg-id="151" tvg-name="SUPERSPORT ALB 3 HD" 
-http://master.nika.rs.ba:80/live?channelId=151id=66&deviceUser=besplatno&devicePass=besplatno
-
-#EXTINF:-1 tvg-id="11" tvg-name="BEIN SPORT 1 HD" 
-http://master.nika.rs.ba:80/live?channelId=11id=66&deviceUser=besplatno&devicePass=besplatno
-
-#EXTINF:0, ASSP 1 Backup
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
-
-#EXTINF:0, ASSP 2
-http://185.63.252.176/live/antenasportucl2/playlist.m3u8
-
-#EXTINF:0, CTH Stadium 1 HD
-rtmp://27.254.149.71:1935/live/cth14.stream
-
-#EXTINF:0, CTH Stadium 2 HD
-rtmp://27.254.149.71:1935/live/cth24.stream
-
-#EXTINF:0, CTH Stadium 3 HD
-rtmp://27.254.149.71:1935/live/cth34.stream
-
-#EXTINF:0, CTH Stadium 4 HD
-rtmp://27.254.149.71:1935/live/cth44.stream
