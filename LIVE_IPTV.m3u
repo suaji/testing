@@ -490,8 +490,20 @@ http://master.nika.rs.ba:80/live?channelId=151id=66&deviceUser=besplatno&deviceP
 #EXTINF:-1 tvg-id="11" tvg-name="BEIN SPORT 1 HD" 
 http://master.nika.rs.ba:80/live?channelId=11id=66&deviceUser=besplatno&devicePass=besplatno
 
-#EXTINF:0, 
+#EXTINF:0, ASSP 1 Backup
+http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
 
-#EXTINF:0, 
+#EXTINF:0, ASSP 2
+http://185.63.252.176/live/antenasportucl2/playlist.m3u8
 
-#EXTINF:0, 
+#EXTINF:0, CTH Stadium 1 HD
+rtmp://27.254.149.71:1935/live/cth14.stream
+
+#EXTINF:0, CTH Stadium 2 HD
+rtmp://27.254.149.71:1935/live/cth24.stream
+
+#EXTINF:0, CTH Stadium 3 HD
+rtmp://27.254.149.71:1935/live/cth34.stream
+
+#EXTINF:0, CTH Stadium 4 HD
+rtmp://27.254.149.71:1935/live/cth44.stream
