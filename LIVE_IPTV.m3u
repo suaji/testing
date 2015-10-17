@@ -275,7 +275,7 @@ http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:-1, ONE 1 [1080p]
 http://rtmp.one.by:1300
 
-#EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](14-10-15)
+#EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](17-10-15)
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -325,6 +325,21 @@ http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 
 #EXTINF:0, zAstro SuperSport 4 (backup)
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp4/playlist.m3u8
+
+#EXTINF:-1, Sky Sports 1
+rtmp://$OPT:rtmp-raw=rtmp://185.53.90.34/live playpath=ss12sky1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss12sky1&vw=620&vh=490
+
+#EXTINF:-1, Sky Sports 2
+rtmp://$OPT:rtmp-raw=rtmp://185.53.90.34/live playpath=ss2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss2skys&vw=620&vh=490
+
+#EXTINF:-1, Sky Sports 3
+rtmp://$OPT:rtmp-raw=rtmp://185.53.90.43/live playpath=ss3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss3skys&vw=620&vh=490
+
+#EXTINF:-1, Sky Sports 4
+rtmp://$OPT:rtmp-raw=rtmp://93.174.93.196/live playpath=ss4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss4skys&vw=620&vh=490
+
+#EXTINF:-1, Sky Sports 5
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.24/live playpath=skys5ssd5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=skys5ssd5&vw=620&vh=490
 
 #EXTINF:0,ESPN
 http://192.99.147.19:5808/espnhdguys/playlist.m3u8
