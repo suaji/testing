@@ -326,21 +326,6 @@ http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 #EXTINF:0, zAstro SuperSport 4 (backup)
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp4/playlist.m3u8
 
-#EXTINF:-1, Sky Sports 1
-rtmp://$OPT:rtmp-raw=rtmp://185.53.90.34/live playpath=ss12sky1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss12sky1&vw=620&vh=490
-
-#EXTINF:-1, Sky Sports 2
-rtmp://$OPT:rtmp-raw=rtmp://185.53.90.34/live playpath=ss2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss2skys&vw=620&vh=490
-
-#EXTINF:-1, Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmp://185.53.90.43/live playpath=ss3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss3skys&vw=620&vh=490
-
-#EXTINF:-1, Sky Sports 4
-rtmp://$OPT:rtmp-raw=rtmp://93.174.93.196/live playpath=ss4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss4skys&vw=620&vh=490
-
-#EXTINF:-1, Sky Sports 5
-rtmp://$OPT:rtmp-raw=rtmp://80.82.78.24/live playpath=skys5ssd5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=skys5ssd5&vw=620&vh=490
-
 #EXTINF:0,ESPN
 http://192.99.147.19:5808/espnhdguys/playlist.m3u8
 #EXTINF:0,FOX SPORTS 1
@@ -378,6 +363,9 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5
 
 #EXTINF:0, [COLOR yellow][B]((Video On Demand))[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, Jwanita (2015) [720p]
+http://goo.gl/J4SmqB
 
 #EXTINF:0, BRAVO (2015) [1080p]
 http://goo.gl/WDfvOH
