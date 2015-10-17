@@ -13,7 +13,14 @@
 </item>
 
 <item>
-<title>Jwanita (2015) -sedang upload-</title>
+<title>Jwanita (2015) HD</title>
+<link>http://goo.gl/J4SmqB</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7jwanita00_450.jpg</thumbnail>
+<fanart>http://www.tv14.my/wp-content/uploads/2015/09/Jwanita9.jpg</fanart>
+</item>
+
+<item>
+<title>Jwanita (2015) SD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kdystk4ef27v-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7jwanita00_450.jpg</thumbnail>
 <fanart>http://www.tv14.my/wp-content/uploads/2015/09/Jwanita9.jpg</fanart>
