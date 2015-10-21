@@ -20,38 +20,6 @@
 </item>
 
 <item>
-<title>Jwanita (2015) SD</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kdystk4ef27v-640x360.html</link>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7jwanita00_450.jpg</thumbnail>
-<fanart>http://www.tv14.my/wp-content/uploads/2015/09/Jwanita9.jpg</fanart>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>.</page>
-<referer>.</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>.</page>
-<referer>.</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>.</page>
-<referer>.</referer>
-</regex>
-</item>
-
-<item>
-<title>POLIS EVO (2015) akan datang!</title>
-<link>http://goo.gl/0KAuq9</link>
-<thumbnail>http://twitchfilm.com/assets/2015/08/PolisEvo.jpg</thumbnail>
-<fanart>http://www.rotikaya.com/wp-content/uploads/2015/09/Polis-Evo-Raih-RM2.5-Juta-Hanya-Dalam-4-Hari-ROTIKAYA-700x427.jpg</fanart>
-</item>
-
-<item>
 <title>Kapsul (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kdystk4ef27v-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/kapsul.jpg</thumbnail>
