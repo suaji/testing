@@ -20,6 +20,31 @@
 </item>
 
 <item>
+<title>Jwanita (2015) SD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1avzq022jzsi-640x360.html</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7jwanita00_450.jpg</thumbnail>
+<fanart>http://www.tv14.my/wp-content/uploads/2015/09/Jwanita9.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-1avzq022jzsi-640x360.html</page>
+<referer>http://streamin.to/1avzq022jzsi</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-1avzq022jzsi-640x360.html</page>
+<referer>http://streamin.to/1avzq022jzsi</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-1avzq022jzsi-640x360.html</page>
+<referer>http://streamin.to/1avzq022jzsi</referer>
+</regex>
+</item>
+
+<item>
 <title>Kapsul (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kdystk4ef27v-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/kapsul.jpg</thumbnail>
@@ -1737,6 +1762,6 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 10.43 03-10-2015 , PAYPAL suaji86@gmail.com[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 10.08 22-10-2015 , PAYPAL suaji86@gmail.com[/COLOR]</title>
 <link>.</link>
 </item>
