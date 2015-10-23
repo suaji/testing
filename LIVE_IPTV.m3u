@@ -225,6 +225,33 @@ http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 #EXTINF:0, SuperSport 4 (backup)
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp4/playlist.m3u8
 
+#EXTINF:0, BT Sport 1
+rtmp://195.154.154.115:1935/goLive/btsports1_93bmm8fu
+
+#EXTINF:0, BT Sport 1 (backup1)
+rtmp://89.248.169.50/live playpath=vbt1  swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
+
+#EXTINF:0, BT Sport 1 (backup2)
+rtmp://80.82.70.155/live playpath=vbt1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss3skys&vw=620&vh=490
+
+#EXTINF:0, BT Sport 2 
+http://195.154.226.186:1935/lol/btsports2lsh/playlist.m3u8
+
+#EXTINF:0, BT Sport 2 (backup1)
+rtmpe://134.19.185.244:1935/livedge playPath=mamahdbtsport2 swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swf flashver=WIN/2019,0,0,185 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky3&vw=854&vh=480
+
+#EXTINF:0, BT Sport 2 (backup2)
+rtmpe://134.19.185.252:1935/livedge/mamahdbtsport2
+
+#EXTINF:0, BT Sport Europe
+http://195.154.226.186:1935/lol/bteulsh/playlist.m3u8
+
+#EXTINF:0, BT Sport Europe (backup)
+rtmpe://134.19.185.252:1935/livedge/mamahdbteu
+
+#EXTINF:0, Football 1 Ukraine(Champions League)
+http://195.2.236.22:4022/udp/225.1.3.103:4001
+
 #EXTINF:-1, FOX SPORTS 1
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
 
@@ -382,30 +409,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0, BT Sport 1
-rtmp://195.154.154.115:1935/goLive/btsports1_93bmm8fu
-
-#EXTINF:0, BT Sport 1 (backup1)
-rtmp://89.248.169.50/live playpath=vbt1  swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
-
-#EXTINF:0, BT Sport 1 (backup2)
-rtmp://80.82.70.155/live playpath=vbt1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss3skys&vw=620&vh=490
-
-#EXTINF:0, BT Sport 2 
-http://195.154.226.186:1935/lol/btsports2lsh/playlist.m3u8
-
-#EXTINF:0, BT Sport 2 (backup1)
-rtmpe://134.19.185.244:1935/livedge playPath=mamahdbtsport2 swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swf flashver=WIN/2019,0,0,185 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky3&vw=854&vh=480
-
-#EXTINF:0, BT Sport 2 (backup2)
-rtmpe://134.19.185.252:1935/livedge/mamahdbtsport2
-
-#EXTINF:0, BT Sport Europe
-http://195.154.226.186:1935/lol/bteulsh/playlist.m3u8
-
-#EXTINF:0, BT Sport Europe (backup)
-rtmpe://134.19.185.252:1935/livedge/mamahdbteu
-
-#EXTINF:0, Football 1 Ukraine(Champions League)
-http://195.2.236.22:4022/udp/225.1.3.103:4001
