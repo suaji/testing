@@ -27,10 +27,7 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/alhijrah.png" tvg-name="TV Al-Hijrah"  group-title="Malaysia",TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/oasis.png" tvg-name="OASIS"  group-title="Malaysia",OASIS
-http://goo.gl/85e4T1
-
-#EXTINF:-1,ASTRO RIA
+#EXTINF:-1, RIA
 http://www.layarku.tv/media/riav6.m3u8
 
 #EXTINF:-1, KBS WORLD
@@ -46,19 +43,10 @@ rtmp://cp160334.live.edgefcs.net:443/live app=live?ovpfv=1.1 playpath=AstroAwani
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1445225914&myTokenPrefixhash=baw7tMgphbf1jW51gywjQDctKTqtFqS9aft4vCeDcgg=
-
-#EXTINF:0, Arirang TV World 720p
-http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1446166842&myTokenPrefixhash=ZMXyu-0qbtBoogt5xMlLtGrGtqVilxdWpi8fgsQ5AyE=
 
 #EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
 http://50.7.96.210:8285
-
-#EXTINF:0, INDOSIAR
-http://livestreaming.production.liputan6.static6.com/tv/indosiarstream300.m3u8
-
-#EXTINF:0, SCTV
-http://livestreaming.production.liputan6.static6.com/tv/sctvstream300.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/kompas_tv_id.png" tvg-name="KOMPAS TV"  group-title="Indonesia",KOMPAS TV
 rtmp://202.137.11.52:1935/jakarta/offair.sdp
@@ -102,14 +90,12 @@ http://50.7.96.210:8285
 #EXTINF:0, KIDS PLAY
 http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
 
-#EXTINF:0, Nickelodeon 720p
-http://78.30.254.43:8989/udp/239.0.0.128:4000
-
 #EXTINF:0, Cartoon Network Asia
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
 #EXTINF:0, Cartoon Network
 http://bstream.planetstream.org:8000/live/massi/massi/29.m3u8
+
 #EXTINF:0, Sky Disney XD HD
 http://bstream.planetstream.org:8000/live/massi/massi/829.m3u8
 #EXTINF:0, Disney Channel HD
@@ -131,47 +117,8 @@ http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 #EXTINF:0, [COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, Discovery 1080p
-http://78.30.254.43:8989/udp/239.0.0.119:4000
-
-#EXTINF:0, Animal Planet (1080p) [5.1]
-http://78.30.254.43:8989/udp/239.0.0.129:4000
-
-#EXTINF:0, Nat Geo Wild 1080p
-http://78.30.254.43:8989/udp/239.0.0.168:4000
-
-#EXTINF:0, Travel 1080p
-http://78.30.254.43:8989/udp/239.0.0.248:4000
-
 #EXTINF:-1, Discovery UK
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
-
-#EXTINF:-1, Travel Channel
-http://lag1.tv-mobile.org/prgu.m3u8
-
-#EXTINF:-1, Animal Planet BG
-http://lag1.tv-mobile.org/prgw.m3u8
-
-#EXTINF:-1, National Geographic Channel BG
-http://lag2.tv-mobile.org/prgf.m3u8
-
-#EXTINF:-1, Nat Geo WILD
-http://lag2.tv-mobile.org/prgg.m3u8
-
-#EXTINF:-1, Discovery Channel BG
-http://lag2.tv-mobile.org/prgh.m3u8
-
-#EXTINF:-1, Discovery Science
-http://lag2.tv-mobile.org/prgi.m3u8
-
-#EXTINF:-1, Viasat Nature
-http://lag2.tv-mobile.org/prgj.m3u8
-
-#EXTINF:-1, Viasat Explore
-http://lag2.tv-mobile.org/prgk.m3u8
-
-#EXTINF:-1,Willingly and Rybalka
-http://lag2.tv-mobile.org/prgl.m3u8
 
 #EXTINF:-1, Cooking Channel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
@@ -185,32 +132,8 @@ http://50.7.96.210:8285
 #EXTINF:0, FOX Movies Premium (Indo Sub)
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8?wowzasessionid=65923956
 
-#EXTINF:0, HBO Plus Europe [720p]
+#EXTINF:0, HBO Plus Europe HD
 rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
-
-#EXTINF:-1, Cinemax
-http://lag2.tv-mobile.org/prgb.m3u8
-
-#EXTINF:-1, MovieStar
-http://lag2.tv-mobile.org/prgc.m3u8
-
-#EXTINF:-1, AXN
-http://lag2.tv-mobile.org/prgd.m3u8
-
-#EXTINF:-1, Filmbox
-http://lag1.tv-mobile.org/prgw.m3u8
-
-#EXTINF:-1,BTV Action
-http://lag1.tv-mobile.org/prge.m3u8
-
-#EXTINF:-1,BTV Cinema
-http://lag1.tv-mobile.org/prgd.m3u8
-
-#EXTINF:-1,BTV Comedy
-http://lag1.tv-mobile.org/prgc.m3u8
-
-#EXTINF:-1, Cinema Nova
-http://lag1.tv-mobile.org/prgg.m3u8
 
 #EXTINF:0, PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
@@ -223,9 +146,6 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI ONE"  group-title="ENGLISH",DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-
-#EXTINF:0, MGM 720p
-http://78.30.254.43:8989/udp/239.0.0.104:4000
 
 #EXTINF:0, Sky Cinema 1 HD
 http://bstream.planetstream.org:8000/live/massi/massi/773.m3u8
@@ -257,22 +177,16 @@ http://bstream.planetstream.org:8000/live/massi/massi/957.m3u8
 #EXTINF:0, [COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, VEVO 1 [720p]
+#EXTINF:0, VEVO 1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
-#EXTINF:0, VEVO 2 [720p]
+#EXTINF:0, VEVO 2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
-#EXTINF:0, VEVO 3 [720p]
+#EXTINF:0, VEVO 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:0, MTV HITS
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MTVHITS/variant.m3u8
-
-#EXTINF:0, 1HD Music [1080p]
-http://109.239.142.62:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
-
-#EXTINF:-1, ONE 1 [1080p]
+#EXTINF:-1, ONE 1 HD
 http://rtmp.one.by:1300
 
 #EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](17-10-15)
@@ -284,8 +198,8 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]*Install UK Turk Playlists @ HallowLive[/B]
 http://50.7.96.210:8285
 
-#EXTINF:0, [B]http://goo.gl/SbCqWs[/B]
-http://goo.gl/12345
+#EXTINF:0, [B]http://alturl.com/xwi6j[/B]
+http://alturl.com/xwi6j
 
 #EXTINF:0, CTH Stadium 1 HD [720p]
 rtmp://27.254.149.71:1935/live/cth14.stream
@@ -302,34 +216,29 @@ rtmp://27.254.149.71:1935/live/cth44.stream
 #EXTINF:0, Bein Sports Spanyol [720p]
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 
-#EXTINF:0, zAstro SuperSport 1
+#EXTINF:0, SuperSport 1
 http://185.63.252.176/live/antenasportucl1/playlist.m3u8
 
-#EXTINF:0, zAstro SuperSport 1 (backup)
+#EXTINF:0, SuperSport 1 (backup)
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
 
-#EXTINF:0, zAstro SuperSport 2
+#EXTINF:0, SuperSport 2
 http://185.63.252.176/live/antenasportucl2/playlist.m3u8
 
-#EXTINF:0, zAstro SuperSport 2 (backup)
+#EXTINF:0, SuperSport 2 (backup)
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
 
-#EXTINF:0, zAstro SuperSport 3
+#EXTINF:0, SuperSport 3
 http://185.63.252.176/live/antenasportucl3/playlist.m3u8
 
-#EXTINF:0, zAstro SuperSport 3 (backup)
+#EXTINF:0, SuperSport 3 (backup)
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
 
-#EXTINF:0, zAstro SuperSport 4
+#EXTINF:0, SuperSport 4
 http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 
-#EXTINF:0, zAstro SuperSport 4 (backup)
+#EXTINF:0, SuperSport 4 (backup)
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp4/playlist.m3u8
-
-#EXTINF:0,ESPN
-http://192.99.147.19:5808/espnhdguys/playlist.m3u8
-#EXTINF:0,FOX SPORTS 1
-http://192.99.147.19:5808/foxsports/playlist.m3u8
 
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
@@ -343,23 +252,20 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 #EXTINF:0, Sport Time TV6
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
 
-#EXTINF:-0, LIVERPOOL TV [720p]
+#EXTINF:-0, LIVERPOOL TV HD
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
 
-#EXTINF:-0, CHELSEA TV [720p]
+#EXTINF:-0, CHELSEA TV HD
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8
 
-#EXTINF:-0, MAN CITY TV [720p]
+#EXTINF:-0, MAN CITY TV HD
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
 
-#EXTINF:-0, BARCA TV
+#EXTINF:-0, BARCA TV HD
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
 
-#EXTINF:0, REAL MADRID TV
+#EXTINF:0, REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:0, NFL Network [720p]
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
 
 #EXTINF:0, [COLOR yellow][B]((Video On Demand))[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
@@ -482,3 +388,32 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:-1, Man city
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
+#EXTINF:-1, Champions League, live
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
+#EXTINF:-1, FIFA TV (Live/Gaming)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/113.m3u8
+#EXTINF:-1, FOX SPORTS 1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
+#EXTINF:-1, Nascar
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
+#EXTINF:-1, Nascar loop
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/66.m3u8
+#EXTINF:-1, NBA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/149.m3u8
+EXTINF:-1, Golf
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/67.m3u8
+#EXTINF:-1, Bein Sports Xtra (mixed lang.)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
+#EXTINF:-1, Liga BBVA spanish
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
+#EXTINF:-1,FC Barcelona
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
+#EXTINF:-1,, Ligue 1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/120.m3u8
+#EXTINF:-1, CHELSEA TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8
+#EXTINF:-1, LIVERPOOL TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
