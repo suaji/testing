@@ -291,7 +291,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 #EXTINF:0, [COLOR yellow][B]((Video On Demand))[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
-#EXTINF:0, [COLOR gold][B]VPS dari monster_forex[/B][/COLOR]
+#EXTINF:0, [COLOR gold][B]::VPS dari 'monster_forex'::[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, Jwanita (2015) [720p]
