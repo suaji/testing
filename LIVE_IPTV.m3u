@@ -291,6 +291,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 #EXTINF:0, [COLOR yellow][B]((Video On Demand))[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
+#EXTINF:0, [COLOR gold][B]VPS dari monster_forex[/B][/COLOR]
+http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
 #EXTINF:0, Jwanita (2015) [720p]
 http://goo.gl/J4SmqB
 
@@ -309,6 +312,12 @@ http://goo.gl/Ak3HzP
 #EXTINF:0, Pixels (2015) [720p]
 http://goo.gl/zZuzpA
 
+#EXTINF:0, [COLOR yellow][B]((Video On Demand KIDS))[/B][/COLOR]
+http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, Minions (2015) [1080p]
+http://goo.gl/umpsHO
+
 #EXTINF:0, Detective Conan – Sunflowers of Inferno (2015) [720p]
 http://goo.gl/nuxkS5
 
@@ -317,35 +326,6 @@ http://218.251.113.190/The.Last.Naruto.the.Movie.2015.mkv
 
 #EXTINF:0, Dragon Ball Z Resurrection F (2015) [720p] =EngSub=
 http://goo.gl/0KAuq9
-
-#EXTINF:0, Captain America The First.Avenger (2011) [720p]
-http://dl.nfilm.org/DL/film/Collection-Film/Captain.America.The.First.Avenger.2011.720p.BluRay_NFILM_.mkv
-#EXTINF:0, Captain America The Winter Soldier (2014) [720p]
-http://dl.nfilm.org/DL/film/Collection-Film/Captain.America.The.Winter.Soldier.2014.BluRay.720p.x264.mkv
-
-#EXTINF:0, The Fast and the Furious (2001) [720p]
-http://dl.nfilm.org/DL/film/Collection-Film/Final.Dest.1.720p.mkv
-
-#EXTINF:0, 2 Fast 2 Furious (2003) (broken link)
-http://www.deadlyblogger.com
-
-#EXTINF:0, The Fast and the Furious: Tokyo Drift (2006) [720p]
-http://dl.nfilm.org/DL/film/Collection-Film/Fast.And.Furious.3.720p.mkv
-
-#EXTINF:0, Fast & Furious (2009) [720p]
-http://dl.nfilm.org/DL/film/Collection-Film/Fast.And.Furious.4.2009.720p.mkv
-
-#EXTINF:0, Fast Five (2011) (broken link)
-http://www.deadlyblogger.com
-
-#EXTINF:0, Fast & Furious 6 (2013) [720p]
-http://dl.nfilm.org/DL/film/Collection-Film/Fast.And.Furious.6.2013.EXTENDED.BluRay.720p.x264.mkv
-
-#EXTINF:0,Furious 7 (2015) (broken link)
-http://www.deadlyblogger.com
-
-#EXTINF:0,#EXTINF:-1, Need For Speed [720p]
-http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
 
 #EXTINF:0, Despicable Me 2 (2013) [720p]
 http://dl.nfilm.org/DL/film/Collection-Film/Despicable.Me.2.2013.BluRay.720p.x264.mkv
