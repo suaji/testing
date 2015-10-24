@@ -174,6 +174,25 @@ http://bstream.planetstream.org:8000/live/massi/massi/763.m3u8
 #EXTINF:0, Sky 3D
 http://bstream.planetstream.org:8000/live/massi/massi/957.m3u8
 
+#EXTINF:-1,Sky Family Movies
+http://stream.balticbox.tv:8080/SkyFamily/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Greats Movies
+http://stream.balticbox.tv:8080/SkyGreats/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Thriller Movies
+http://stream.balticbox.tv:8080/SkyCrime/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Comedy Movies
+http://stream.balticbox.tv:8080/SkyComedy/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Premiere Movies
+http://stream.balticbox.tv:8080/SkyPremiere/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Action Movies
+http://stream.balticbox.tv:8080/SkyAction/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Select Movies
+http://stream.balticbox.tv:8080/SkySelect/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky DramaRom Movies
+http://stream.balticbox.tv:8080/SkyDrama/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky ScFiHorror Movies
+http://stream.balticbox.tv:8080/SkySci/mono.m3u8?token=asg!1dkhasg!54754
+
 #EXTINF:0, [COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
@@ -389,3 +408,45 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, SKY SPORT MOTO GP
+rtmp://185.63.255.26/live/xoveIODWN89
+
+#EXTINF:0, SKY SPORT MOTO GP (backup)
+rtmpe://185.63.255.26/live/xoveIODWN89
+
+#EXTINF:0, SPORT KLUB 1
+http://195.154.226.186:1935/lol/skhd1lsh/playlist.m3u8
+#EXTINF:0, SPORT KLUB 2
+http://195.154.226.186:1935/lol/skhd2lsh/playlist.m3u8
+#EXTINF:0, SPORT KLUB 3
+http://195.154.226.186:1935/lol/skhd3lsh/playlist.m3u8
+
+#EXTINF:-1,BT Sport EUROPE
+http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,BT Sport ESPN
+http://stream.balticbox.tv:8080/BTSespn/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,BT Sport 1
+http://stream.balticbox.tv:8080/BTSp1/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,BT Sport 2
+http://stream.balticbox.tv:8080/BTSp2/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,PremierSports
+http://stream.balticbox.tv:8080/PRMSP/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Racing UK
+http://stream.balticbox.tv:8080/RACUK/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Setanta Ireland
+http://stream.balticbox.tv:8080/SETIRL/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sports F1
+http://stream.balticbox.tv:8080/SkySPf1/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Sp News HQ
+http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Sports 1
+http://stream.balticbox.tv:8080/SkySP1/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Sports 2
+http://stream.balticbox.tv:8080/SkySP2/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Sports 3
+http://stream.balticbox.tv:8080/SkySP3/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Sports 4
+http://stream.balticbox.tv:8080/SkySP4/mono.m3u8?token=asg!1dkhasg!54754
+#EXTINF:-1,Sky Sports 5
+http://stream.balticbox.tv:8080/SkySP5/mono.m3u8?token=asg!1dkhasg!54754
