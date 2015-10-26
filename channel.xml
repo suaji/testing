@@ -96,26 +96,26 @@
 
 <item>
 <title>BRAVO 5 HD (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-cqll9uti0lj3-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-adhg9yozly13-640x360.html</link>
 <thumbnail>http://www.layanjer.com/wp-content/uploads/2015/09/Bravo-5-Malaysia.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/r7VIT-yhBP8/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-cqll9uti0lj3-640x360.html</page>
-<referer>http://streamin.to/cqll9uti0lj3</referer>
+<page>http://streamin.to/embed-adhg9yozly13-640x360.html</page>
+<referer>http://streamin.to/adhg9yozly13</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-cqll9uti0lj3-640x360.html</page>
-<referer>http://streamin.to/cqll9uti0lj3</referer>
+<page>http://streamin.to/embed-adhg9yozly13-640x360.html</page>
+<referer>http://streamin.to/adhg9yozly13</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-cqll9uti0lj3-640x360.html</page>
-<referer>http://streamin.to/cqll9uti0lj3</referer>
+<page>http://streamin.to/embed-adhg9yozly13-640x360.html</page>
+<referer>http://streamin.to/adhg9yozly13</referer>
 </regex>
 </item>
 
@@ -1527,6 +1527,31 @@
 <name>unpacked</name>
 <expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-wrv3395rknb4-640x360.html','(eval.*)')</expres>
 <page></page>
+</regex>
+</item>
+
+<item>
+<title>Aku Terima Nikahnya (2012) SD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-d92gq11nrqde-640x360.html</link>
+<thumbnail>http://www.astrogempak.com.my/portals/72/images/meletop_filem/02.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-INgi2m9rKjU/UKxuZDsnHqI/AAAAAAAAJrs/zCLhfLsX2Ro/s1600/04.JPG</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-d92gq11nrqde-640x360.html</page>
+<referer>http://streamin.to/d92gq11nrqde</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-d92gq11nrqde-640x360.html</page>
+<referer>http://streamin.to/d92gq11nrqde</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-d92gq11nrqde-640x360.html</page>
+<referer>http://streamin.to/d92gq11nrqde</referer>
 </regex>
 </item>
 
