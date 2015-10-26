@@ -312,40 +312,6 @@
 </item>
 
 <item>
-<title>Lawak Ke Der 4 (2015)</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
-<thumbnail>https://farm8.staticflickr.com/7593/16808759479_d877c431ec_b.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/media/CKRo3XXUEAA0HLY.jpg</fanart>
-<regex>
-<name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
-</regex>
-<regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-yl9ibw8v2na5-640x360.html','(eval.*)')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>Hantu Wefie (2015</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/07/Hantu-Wefie-2015-Tonton-Online-Telefilem-Melayu.jpg</thumbnail>
-<fanart>http://i.ytimg.com/vi/6TDZZURetrc/hqdefault.jpg</fanart>
-<regex>
-<name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
-</regex>
-<regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-eyjoiw596vxu-640x360.html','(eval.*)')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
 <title>Isyarat Cinta (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y5o8da733vjn-640x360.html</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7isyaratcinta00_450.jpg</thumbnail>
@@ -446,23 +412,6 @@
 </item>
 
 <item>
-<title>Ophilia (2014)</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
-<thumbnail>http://1.bp.blogspot.com/-0Zpvjw5VsfU/VJPZ3NamuUI/AAAAAAAAEUA/bL_Pmg0ssQw/s1600/skinhead.jpg</thumbnail>
-<fanart>https://ophilia2014movie6201.files.wordpress.com/2014/11/40236-ophilia-2014-movie.jpg?w=300&h=225</fanart>
-<regex>
-<name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
-</regex>
-<regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-mr5ks7jhq04w-640x360.html','(eval.*)')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
 <title>Jalan Puncak Alam (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7jalanpuncakalam00_450.jpg</thumbnail>
@@ -511,6 +460,7 @@
 <referer>http://streamin.to/bak2bry40apl</referer>
 </regex>
 </item>
+
 
 <item>
 <title>Selfie Suara Kubur (2015)</title>
@@ -1105,24 +1055,7 @@
 </item>
 
 <item>
-<title>Dendam Orang Mati (2014) -vidzi-</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
-<thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/11/dendam-orang-mati.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-7AflueZZuM8/VFH01YdGshI/AAAAAAAADyQ/TxLPUxW47s4/s1600/cde.jpg</fanart>
-<regex>
-<name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
-</regex>
-<regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-bf2lync15dr2-640x360.html','(eval.*)')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>Dendam Orang Mati (2014) -streamin-</title>
+<title>Dendam Orang Mati (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4r5mkgrwr161-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/11/dendam-orang-mati.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-7AflueZZuM8/VFH01YdGshI/AAAAAAAADyQ/TxLPUxW47s4/s1600/cde.jpg</fanart>
@@ -1364,56 +1297,6 @@
 </item>
 
 <item>
-<title>Apokalips-X (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-tgmmzppcbt2n-640x360.html</link>
-<thumbnail>http://i.imgur.com/6d2HXVM.jpg</thumbnail>
-<fanart>http://www.rotikaya.com/wp-content/uploads/2014/04/1966348_744071975626843_1488924682_o-1000x562.jpg</fanart>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-tgmmzppcbt2n-640x360.html</page>
-<referer>http://streamin.to/tgmmzppcbt2n</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-tgmmzppcbt2n-640x360.html</page>
-<referer>http://streamin.to/tgmmzppcbt2n</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-tgmmzppcbt2n-640x360.html</page>
-<referer>http://streamin.to/tgmmzppcbt2n</referer>
-</regex>
-</item>
-
-<item>
-<title>Lu Gua Bro (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wt8vy9sglsf5-640x360.html</link>
-<thumbnail>http://i.imgur.com/B4D71O6.jpg</thumbnail>
-<fanart>http://i.ytimg.com/vi/QkMs2AgNbGM/maxresdefault.jpg</fanart>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-wt8vy9sglsf5-640x360.html</page>
-<referer>http://streamin.to/wt8vy9sglsf5</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-wt8vy9sglsf5-640x360.html</page>
-<referer>http://streamin.to/wt8vy9sglsf5</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-wt8vy9sglsf5-640x360.html</page>
-<referer>http://streamin.to/wt8vy9sglsf5</referer>
-</regex>
-</item>
-
-<item>
 <title>Zombi Kilang Biskut (2014)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qrkxghle89i2-640x360.html</link>
 <thumbnail>http://i.imgur.com/mrFAFEP.jpg</thumbnail>
@@ -1515,23 +1398,6 @@
 
 <item>
 <title>Aku Terima Nikahnya (2012)</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=iPad</link>
-<thumbnail>http://www.astrogempak.com.my/portals/72/images/meletop_filem/02.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-INgi2m9rKjU/UKxuZDsnHqI/AAAAAAAAJrs/zCLhfLsX2Ro/s1600/04.JPG</fanart>
-<regex>
-<name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
-</regex>
-<regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-wrv3395rknb4-640x360.html','(eval.*)')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>Aku Terima Nikahnya (2012) SD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-d92gq11nrqde-640x360.html</link>
 <thumbnail>http://www.astrogempak.com.my/portals/72/images/meletop_filem/02.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-INgi2m9rKjU/UKxuZDsnHqI/AAAAAAAAJrs/zCLhfLsX2Ro/s1600/04.JPG</fanart>
