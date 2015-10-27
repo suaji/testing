@@ -46,26 +46,26 @@
 
 <item>
 <title>Kapsul (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kdystk4ef27v-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eblczr5olk77-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/kapsul.jpg</thumbnail>
 <fanart>http://www.cinema.com.my/images/news/2015/7n_kapsulakanubahpersepsifilem00.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-kdystk4ef27v-640x360.html</page>
-<referer>http://streamin.to/kdystk4ef27v</referer>
+<page>http://streamin.to/embed-eblczr5olk77-640x360.html</page>
+<referer>http://streamin.to/eblczr5olk77</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-kdystk4ef27v-640x360.html</page>
-<referer>http://streamin.to/kdystk4ef27v</referer>
+<page>http://streamin.to/embed-eblczr5olk77-640x360.html</page>
+<referer>http://streamin.to/eblczr5olk77</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-kdystk4ef27v-640x360.html</page>
-<referer>http://streamin.to/kdystk4ef27v</referer>
+<page>http://streamin.to/embed-eblczr5olk77-640x360.html</page>
+<referer>http://streamin.to/eblczr5olk77</referer>
 </regex>
 </item>
 
@@ -1273,26 +1273,26 @@
 
 <item>
 <title>Ia Wujud (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-x7m5ss3eeq3b-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-yo5drftdu1ai-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-vZo1pAGiU6Q/U4iN-w46urI/AAAAAAAAA78/A3LMYEHnSKs/s1600/iw.jpg</thumbnail>
 <fanart>http://www.sinarharian.com.my/polopoly_fs/1.281056.1400289052!/image/image.jpg_gen/derivatives/landscape_490/image.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-x7m5ss3eeq3b-640x360.html</page>
-<referer>http://streamin.to/x7m5ss3eeq3b</referer>
+<page>http://streamin.to/embed-yo5drftdu1ai-640x360.html</page>
+<referer>http://streamin.to/yo5drftdu1ai</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-x7m5ss3eeq3b-640x360.html</page>
-<referer>http://streamin.to/x7m5ss3eeq3b</referer>
+<page>http://streamin.to/embed-yo5drftdu1ai-640x360.html</page>
+<referer>http://streamin.to/yo5drftdu1ai</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-x7m5ss3eeq3b-640x360.html</page>
-<referer>http://streamin.to/x7m5ss3eeq3b</referer>
+<page>http://streamin.to/embed-yo5drftdu1ai-640x360.html</page>
+<referer>http://streamin.to/yo5drftdu1ai</referer>
 </regex>
 </item>
 
