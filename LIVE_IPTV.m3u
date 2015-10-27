@@ -366,27 +366,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0, ............................
-https://copy.com/Bg3yctJnCuBD10rU/%5BPENCURIMOVIE.PW%20%5D%20Jwanita.2015.720P.PPVRiP.AC3.PFT.mkv
-
-#EXTINF:0, AWANI
-http://awaniioslive-i.akamaihd.net/hls/live/207096-b/awaniIOSLiveStream@207096/awani_stream.m3u8
-
-#EXTINF:0, Arena
-http://www.layarku.tv/media/tmp1arena.m3u8
-
-#EXTINF:0, TRANS 7
-http://stream.sg.mytrans.com/live/trans7@3.sdp/Playlist.m3u8
- 
-#EXTINF:0, TRANSTV
-http://stream.sg.mytrans.com/live/transtv@3.sdp/Playlist.m3u8
-
-#EXTINF:0, INDOSIAR
-http://livestreaming.production.liputan6.static6.com/tv/indosiarstream300.m3u8
- 
-#EXTINF:0, SCTV
-http://livestreaming.production.liputan6.static6.com/tv/sctvstream300.m3u8
-
-#EXTINF:0, KBS WORLD
-rtmp://118.97.183.196/jhos//kbs
