@@ -13,6 +13,31 @@
 </item>
 
 <item>
+<title>Jelmaan (2015) HD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/11/jelmaan.jpg</thumbnail>
+<fanart>http://pencurimovie.pw/wp-content/uploads/2015/11/PENCURIMOVIE.PW-Jelmaan.2015.PPVRiP.720P.AC3_.x264.PFT_-1024x655.jpeg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</page>
+<referer>http://streamin.to/z0f9p8fzi7ju</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</page>
+<referer>http://streamin.to/z0f9p8fzi7ju</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</page>
+<referer>http://streamin.to/z0f9p8fzi7ju</referer>
+</regex>
+</item>
+
+<item>
 <title>Jwanita (2015) HD</title>
 <link>http://goo.gl/J4SmqB</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7jwanita00_450.jpg</thumbnail>
