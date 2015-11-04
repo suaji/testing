@@ -13,6 +13,31 @@
 </item>
 
 <item>
+<title>Darah Panas (2015) HD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-97o8dwtj5q5j-640x360.html</link>
+<thumbnail>http://fullmovieonlinestreaming.com/wp-content/uploads/2015/08/Darah-Panas-2015-Download-Online-Full-Movie.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/mpR1NST3nuY/maxresdefault.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-97o8dwtj5q5j-640x360.html</page>
+<referer>http://streamin.to/97o8dwtj5q5j</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-97o8dwtj5q5j-640x360.html</page>
+<referer>http://streamin.to/97o8dwtj5q5j</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-97o8dwtj5q5j-640x360.html</page>
+<referer>http://streamin.to/97o8dwtj5q5j</referer>
+</regex>
+</item>
+
+<item>
 <title>Jelmaan (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/11/jelmaan.jpg</thumbnail>
