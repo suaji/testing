@@ -355,33 +355,83 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
-#EXTINF:-1,UK: Sky Uk Sport HD 1
-http://mainstream.dyndns.tv:8000/live/conny/conny/17.m3u8
-#EXTINF:-1,UK: Sky Uk Sport HD 2
-http://mainstream.dyndns.tv:8000/live/conny/conny/18.m3u8
-#EXTINF:-1,UK: Sky Uk Sport HD 3
-http://mainstream.dyndns.tv:8000/live/conny/conny/220.m3u8
-#EXTINF:-1,UK: Sky Uk Sport HD 4
-http://mainstream.dyndns.tv:8000/live/conny/conny/19.m3u8
-#EXTINF:-1,UK: Sky Uk Sport HD 5
-http://mainstream.dyndns.tv:8000/live/conny/conny/129.m3u8
-#EXTINF:-1,UK: Sky Uk Sport F1 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/221.m3u8
-#EXTINF:-1,UK: Sky Uk Sporm3u8 News HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/174.m3u8
-#EXTINF:-1,UK: Sky Uk BT Sport 1 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/15.m3u8
-#EXTINF:-1,UK: Sky Uk BT Sport 2 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/16.m3u8
-#EXTINF:-1,UK: BT Sport Europe HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1023.m3u8
-#EXTINF:-1,UK: CTH Stadium 1 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1064.m3u8
-#EXTINF:-1,UK: CTH Stadium 2 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1065.m3u8
-#EXTINF:-1,UK: CTH Stadium 3 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1066.m3u8
-#EXTINF:-1,UK: CTH Stadium 4 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1067.m3u8
-#EXTINF:-1,UK: CTH Stadium 5 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1096.m3u8
+#EXTINF:0, Bein Sport 1
+rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live= pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:0, Bein Sport2
+rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=ix87jz08b1l9wjl swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:0, Bein Sport 3
+rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=zqd4jye2ubzsk8g swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:0, Bein Sport 4
+rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=6kvth9vfk31w5hq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:0, Bein Sport 5
+rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=uzd0xctulomtekn swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:0, Bein Sport 6
+rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=a66ht7p4opy1s5r swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+Bein Sport 7
+#EXTINF:0, rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=ilirzmz6u21561n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+Bein Sport 8
+#EXTINF:0, rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=heh8qiagrxkwcm3 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,AR:BEIN_SPORT_1
+http://cdn.step-tv.com:8000/live/1313/1313/1209.m3u8
+#EXTINF:-1,AR:BEIN_SPORT_2
+http://cdn.step-tv.com:8000/live/1313/1313/1210.m3u8
+#EXTINF:-1,AR:BEIN_SPORT_3
+http://cdn.step-tv.com:8000/live/1313/1313/1211.m3u8
+#EXTINF:-1,AR:BEIN_SPORT_4
+http://cdn.step-tv.com:8000/live/1313/1313/1212.m3u8
+#EXTINF:-1,AR:BEIN_SPORT_5
+http://cdn.step-tv.com:8000/live/1313/1313/1213.m3u8
+#EXTINF:-1,AR:BEIN_SPORT_6
+http://cdn.step-tv.com:8000/live/1313/1313/1214.m3u8
+#EXTINF:-1,AR:BEIN_SPORT_7
+http://cdn.step-tv.com:8000/live/1313/1313/1215.m3u8
+#EXTINF:-1,AR:BEIN_SPORT_8
+http://cdn.step-tv.com:8000/live/1313/1313/1216.m3u8
+#EXTINF:-1,AR:BEIN_SPORT_9
+http://cdn.step-tv.com:8000/live/1313/1313/1217.m3u8
+#EXTINF:-1,AR:BEIN_SPORT_10
+http://cdn.step-tv.com:8000/live/1313/1313/1218.m3u8
+#EXTINF:-1,FR:CANAL+SPORT
+http://cdn.step-tv.com:8000/live/1313/1313/446.m3u8
+#EXTINF:-1,FR:BEIN_SPORT_HD1
+http://cdn.step-tv.com:8000/live/1313/1313/190.m3u8
+#EXTINF:-1,FR:BEIN_SPORT_HD2
+http://cdn.step-tv.com:8000/live/1313/1313/191.m3u8
+#EXTINF:-1,FR:BEIN_SPORT_HD3
+http://cdn.step-tv.com:8000/live/1313/1313/192.m3u8
+#EXTINF:-1,AR:MBC_PROSPORm3u84
+http://cdn.step-tv.com:8000/live/1313/1313/49.m3u8
+#EXTINF:-1,AR:MBC_PROSPORT 3
+http://cdn.step-tv.com:8000/live/1313/1313/182.m3u8
+#EXTINF:-1,AR:MBC_PROSPORT 2
+http://cdn.step-tv.com:8000/live/1313/1313/181.m3u8
+#EXTINF:-1,AR:MBC_PROSPORT 1
+http://cdn.step-tv.com:8000/live/1313/1313/180.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD1
+http://cdn.step-tv.com:8000/live/1313/1313/26.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD2
+http://cdn.step-tv.com:8000/live/1313/1313/27.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD3
+http://cdn.step-tv.com:8000/live/1313/1313/28.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD4
+http://cdn.step-tv.com:8000/live/1313/1313/29.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD5
+http://cdn.step-tv.com:8000/live/1313/1313/30.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD6
+http://cdn.step-tv.com:8000/live/1313/1313/31.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD7
+http://cdn.step-tv.com:8000/live/1313/1313/32.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD8
+http://cdn.step-tv.com:8000/live/1313/1313/33.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD9
+http://cdn.step-tv.com:8000/live/1313/1313/34.m3u8
+#EXTINF:-1,AR:BEIN_SPORT HD10
+http://cdn.step-tv.com:8000/live/1313/1313/35.m3u8
