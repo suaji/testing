@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1446533711&myTokenPrefixhash=z6SHzub2W3cgvlcIwlVjqMTwHehvs2r32W4Fy-1reNQ=
+http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv1/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1446533760&myTokenPrefixhash=wgYrvruNp_zHjt00aDE8ceBsVn5U-w1ZDH6LicVVG60=
+http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv2/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
