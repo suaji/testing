@@ -13,6 +13,13 @@
 </item>
 
 <item>
+<title>Polis Evo (2015) SD</title>
+<link>https://copy.com/web/users/user-15999799/copy/Polis%20Evo%20%282015%29%20m-HD.mkv?revision=27&download=1</link>
+<thumbnail>http://twitchfilm.com/assets/2015/08/PolisEvo.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-jSQz6apsWnI/Vf-u-V6IYkI/AAAAAAAAMsA/qeqXnIvMATo/s640/polis%2Bevo.png</fanart>
+</item>
+
+<item>
 <title>Darah Panas (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-97o8dwtj5q5j-640x360.html</link>
 <thumbnail>http://fullmovieonlinestreaming.com/wp-content/uploads/2015/08/Darah-Panas-2015-Download-Online-Full-Movie.jpg</thumbnail>
