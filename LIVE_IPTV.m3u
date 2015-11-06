@@ -347,3 +347,13 @@ http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
 
 #EXTINF:0, BT Sport 2
 http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
+
+#EXTINF:0,UK: BT-sport2
+http://top-iptv.zapto.org:8000/live/adem/adem/549.ts
+#EXTINF:0,UK: BT-sport1
+http://top-iptv.zapto.org:8000/live/adem/adem/550.ts
+
+#EXTINF:0,UK: BT-sport2 A
+http://top-iptv.zapto.org:8000/live/adem/adem/549.m3u8
+#EXTINF:0,UK: BT-sport1 A
+http://top-iptv.zapto.org:8000/live/adem/adem/550.m3u8
