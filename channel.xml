@@ -13,6 +13,31 @@
 </item>
 
 <item>
+<title>Badi (2015) HD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-fjtq960bsrmh-640x360.html</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/11/7badi00_450-324x160.jpg</thumbnail>
+<fanart>http://pencurimovie.pw/wp-content/uploads/2015/11/PENCURIMOVIE.PW-Badi.2015.PPVRiP.720P.AC3_.x264.Audio_.Fixed_.PFT_-1024x655.jpeg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-fjtq960bsrmh-640x360.html</page>
+<referer>http://streamin.to/fjtq960bsrmh</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-fjtq960bsrmh-640x360.html</page>
+<referer>http://streamin.to/fjtq960bsrmh</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-fjtq960bsrmh-640x360.html</page>
+<referer>http://streamin.to/fjtq960bsrmh</referer>
+</regex>
+</item>
+
+<item>
 <title>Polis Evo (2015) HD</title>
 <link>http://goo.gl/1uRtmK</link>
 <thumbnail>http://twitchfilm.com/assets/2015/08/PolisEvo.jpg</thumbnail>
@@ -21,9 +46,27 @@
 
 <item>
 <title>Polis Evo (2015) SD</title>
-<link>http://goo.gl/knwlTT</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bo24gerzemix-640x360.html</link>
 <thumbnail>http://twitchfilm.com/assets/2015/08/PolisEvo.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-jSQz6apsWnI/Vf-u-V6IYkI/AAAAAAAAMsA/qeqXnIvMATo/s640/polis%2Bevo.png</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-bo24gerzemix-640x360.html</page>
+<referer>http://streamin.to/bo24gerzemix</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-bo24gerzemix-640x360.html</page>
+<referer>http://streamin.to/bo24gerzemix</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-bo24gerzemix-640x360.html</page>
+<referer>http://streamin.to/bo24gerzemix</referer>
+</regex>
 </item>
 
 <item>
@@ -1717,6 +1760,6 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 16.36 04-11-2015 , suaji86@gmail.com[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 12.21 09-11-2015 , suaji86@gmail.com[/COLOR]</title>
 <link>https://copy.com/Bg3yctJnCuBD10rU/%5BPENCURIMOVIE.PW%20%5D%20Jwanita.2015.720P.PPVRiP.AC3.PFT.mkv?revision=9&download=1</link>
 </item>
