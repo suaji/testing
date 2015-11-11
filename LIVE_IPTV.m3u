@@ -367,30 +367,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 #EXTINF:0, [COLOR yellow][B]UPDATED : 06/11/2015[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:-1, ASTRO SUPER SPORT 1
-http://185.63.252.176/live/antenasportucl1/playlist.m3u8
-
-#EXTINF:-1, ASTRO SUPER SPORT 2
-http://185.63.252.176/live/antenasportucl2/playlist.m3u8
-
-#EXTINF:-1, ASTRO SUPER SPORT 3
-http://185.63.252.176/live/antenasportucl3/playlist.m3u8
-
-#EXTINF:-1, ASTRO SUPER SPORT 4
-http://185.63.252.176/live/antenasportucl4/playlist.m3u8
-
-#EXTINF:0,SPORTS : CTH STADIUM HD1
-http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1809.gi
-
-#EXTINF:0,SPORTS : CTH STADIUM HD1A
-http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1809.m3u8
-
-#EXTINF:0,SPORTS : CTH STADIUM HD2
-http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1810.gi
-
-#EXTINF:0,SPORTS : CTH STADIUM HD3
-http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1811.gi
-
-#EXTINF:0,SPORTS : CTH STADIUM HD4
-http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1812.gi
