@@ -367,3 +367,12 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 #EXTINF:0, [COLOR yellow][B]UPDATED : 06/11/2015[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, BT Sport 1
+http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
+#EXTINF:0, BT Sport 2
+http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 1 HD
+http://195.154.226.186:1935/liveedge/bein1frlsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 2 HD
+http://195.154.226.186:1935/liveedge/bein2frlsh/playlist.m3u8
