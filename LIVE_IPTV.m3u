@@ -26,11 +26,8 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:-1, TV Al-Hijrah (down)
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 
-#EXTINF:-1, TV Al-Hijrah_1
+#EXTINF:-1, TV Al-Hijrah (VOD)
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
-
-#EXTINF:-1, TV Al-Hijrah_2
-http://platform.mynexa.my/p/101/sp/10100/playManifest/entryId/0_qkwvy8wi/format/applehttp/protocol/http/uiConfId/23448197/chunklist_b446000.m3u8
 
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
