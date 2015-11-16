@@ -57,6 +57,12 @@ http://stream.beritasatu.com:8134/world.m3u8
 #EXTINF:0, Metro NEWS HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
+#EXTINF:0, MIVO HD
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_all/playlist.m3u8
+
+#EXTINF:0, MIVO HD (backup)
+http://119.81.135.56/sedz1j6exeot/mivotv_all/sedz1j6exeot/mivotv_720p/chunks.m3u8?nimblesessionid=243668911
+
 #EXTINF:-0, [COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
