@@ -375,3 +375,12 @@ http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
 http://195.154.226.186:1935/liveedge/bein1frlsh/playlist.m3u8
 #EXTINF:-1, beIN Sports 2 HD
 http://195.154.226.186:1935/liveedge/bein2frlsh/playlist.m3u8
+
+#EXTINF:0,SuperSport 1
+http://balancer1.herokuapp.com/al/facebook/makiatoiptv/ssnews/index.m3u8?token3D102ddc93055465212d9ba40201928a48
+#EXTINF:0,SuperSport 2
+http://balancer1.herokuapp.com/al/facebook/makiatoiptv/ss2/index.m3u8?token3D102ddc93055465212d9ba40201928a48
+#EXTINF:0,SuperSport 3
+http://balancer1.herokuapp.com/al/facebook/makiatoiptv/ss3/index.m3u8?token3D102ddc93055465212d9ba40201928a48
+#EXTINF:0,SuperSport 4
+http://balancer1.herokuapp.com/al/facebook/makiatoiptv/ss4/index.m3u8?token3D102ddc93055465212d9ba40201928a48
