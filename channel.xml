@@ -1580,26 +1580,26 @@
 
 <item>
 <title>Karak (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-sstfd8j2jzlg-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-arti8sd7pun1-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-oManyfaMANM/TgBtd0ULXWI/AAAAAAAAADg/9oc1tEbN_wY/s1600/karak.jpg</thumbnail>
 <fanart>http://www.ariefzainal.com/wordpress/wp-content/uploads/2011/07/karak-ss5.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-sstfd8j2jzlg-640x360.html</page>
-<referer>http://streamin.to/sstfd8j2jzlg</referer>
+<page>http://streamin.to/embed-arti8sd7pun1-640x360.html</page>
+<referer>http://streamin.to/arti8sd7pun1</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-sstfd8j2jzlg-640x360.html</page>
-<referer>http://streamin.to/sstfd8j2jzlg</referer>
+<page>http://streamin.to/embed-arti8sd7pun1-640x360.html</page>
+<referer>http://streamin.to/arti8sd7pun1</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-sstfd8j2jzlg-640x360.html</page>
-<referer>http://streamin.to/sstfd8j2jzlg</referer>
+<page>http://streamin.to/embed-arti8sd7pun1-640x360.html</page>
+<referer>http://streamin.to/arti8sd7pun1</referer>
 </regex>
 </item>
 
