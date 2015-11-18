@@ -24,10 +24,7 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448260167&myTokenPrefixhash=7hIHfoCoiY1EQmezprPy5MMyGFp59W4SUzKL3xeAKJw=
 
-#EXTINF:-1, TV Al-Hijrah (down)
-http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
-
-#EXTINF:-1, TV Al-Hijrah (VOD)
+#EXTINF:-1, TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
 #EXTINF:-1, KBS WORLD
@@ -36,11 +33,11 @@ rtmp://118.97.183.196/jhos//kbs
 #EXTINF:-1, Awani
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
-#EXTINF:-1, Awani (backup)
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI_04.m3u8
+#EXTINF:0, Awani -backup-
+http://awaniioslive-i.akamaihd.net/hls/live/207096-b/awaniIOSLiveStream@207096/awani_stream.m3u8
 
-#EXTINF:-1, Benama (down)
-http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:0, Bernama
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448260189&myTokenPrefixhash=R9L-fV9cCk-oBqXn06VntgT0o6f2IHf5xClnRz_Jz6w=
@@ -48,17 +45,35 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
+#EXTINF:0, TRANS7
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_all/playlist.m3u8
+
+#EXTINF:0, TRANSTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_all/playlist.m3u8
+
+#EXTINF:0, INDOSIAR
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_all/playlist.m3u8
+
+#EXTINF:0, KOMPAS TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_all/playlist.m3u8
+
+#EXTINF:0, ANTARA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/antaratv_all/playlist.m3u8
+
 #EXTINF:0, BeritaSatu WORLD HD
 http://stream.beritasatu.com:8134/world.m3u8
 
 #EXTINF:0, Metro NEWS HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
+#EXTINF:0, LBS K-Drama
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/ldrama2_all/playlist.m3u8
+
+#EXTINF:0, LBS IN-Drama
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_all/playlist.m3u8
+
 #EXTINF:0, MIVO HD
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_all/playlist.m3u8
-
-#EXTINF:0, MIVO HD (backup)
-http://119.81.135.56/sedz1j6exeot/mivotv_all/sedz1j6exeot/mivotv_720p/chunks.m3u8?nimblesessionid=243668911
 
 #EXTINF:-0, [COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -99,14 +114,20 @@ http://50.7.96.210:8285
 #EXTINF:-1, Discovery UK
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
 
+#EXTINF:0, Nat Geo 2
+http://alturl.com/zbw8j
+
+#EXTINF:0, Discovery
+http://fr456.edem.tv/iptv/LZ3NMTRTBEN8ET/140/index.m3u8
+
 #EXTINF:-1, Cooking Channel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
 
 #EXTINF:0, [COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, FOX Movies Premium (Indo Sub)
-http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8?wowzasessionid=65923956
+#EXTINF:-1, FOX Movies Premium (Indo Sub)
+http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 
 #EXTINF:0, HBO Plus Europe HD
 rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
@@ -122,6 +143,18 @@ http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 
 #EXTINF:0, DRAMA WORLD
 http://123.108.164.71/etv2sb/phd505/lihattv.m3u8
+
+#EXTINF:0, Fox Crime
+http://103.245.167.28/tot/5028f7ff1d1b4d5f8189690233364737.m3u8
+
+#EXTINF:0, Universal
+http://103.245.167.28/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
+
+#EXTINF:0, Warner
+http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
+
+#EXTINF:0, Syfy
+http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
 
 #EXTINF:0,UK: Sky Movies SciFi
 http://top-iptv.zapto.org:8000/live/adem/adem/708.m3u8
@@ -204,9 +237,6 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 #EXTINF:0, [COLOR yellow][B]((Video On Demand))[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
-#EXTINF:0, [COLOR gold][B]::VPS dari 'monster_forex'::[/B][/COLOR]
-http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
 #EXTINF:0, Polis Evo (2015) [1080p]
 http://goo.gl/1uRtmK
 
@@ -236,6 +266,9 @@ http://goo.gl/Ak3HzP
 
 #EXTINF:0, Pixels (2015) [720p]
 http://goo.gl/zZuzpA
+
+#EXTINF:0, [COLOR gold][B]::VPS dari 'monster_forex'::[/B][/COLOR]
+http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [COLOR yellow][B]((Video On Demand KIDS))[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
@@ -309,76 +342,10 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, ____________________________
+#EXTINF:0, [COLOR yellow][B]____________________________[/B][/COLOR]
 http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-#EXTINF:0, [COLOR yellow][B]UPDATED : 16/11/2015[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 18/11/2015[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0, Bernama
-http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
-
-#EXTINF:0, Awani Backup
-http://awaniioslive-i.akamaihd.net/hls/live/207096-b/awaniIOSLiveStream@207096/awani_stream.m3u8
-
-#EXTINF:0, Nat Geo 2
-http://alturl.com/zbw8j
-
-#EXTINF:0, Discovery
-http://fr456.edem.tv/iptv/LZ3NMTRTBEN8ET/140/index.m3u8
-
-#EXTINF:0, Fox Crime
-http://103.245.167.28/tot/5028f7ff1d1b4d5f8189690233364737.m3u8
-
-#EXTINF:0, Universal
-http://103.245.167.28/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
-
-#EXTINF:0, Warner
-http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
-
-#EXTINF:0, Syfy
-http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
-
-#EXTINF:0, Suria Sing
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
-
-#EXTINF:0, CHANNEL 5
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch5.smil/playlist.m3u8
-
-#EXTINF:0, CHANNEL 8
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8
-
-#EXTINF:-1,[ID] FOX MOVIES PREMIUM #1
-rtmp://streaming.jogjamedianet.com:1935/live playpath=fmp.sdp
-
-#EXTINF:-1,[ID] FOX MOVIES PREMIUM #2
-http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
-
-#EXTINF:0, ANI PLUS
-http://118.97.183.222:1935/discover/aniplus/chunklist_w698076622.m3u8
-
-#EXTINF:0, TRANS7
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_all/playlist.m3u8
-
-#EXTINF:0, TRANSTV
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_all/playlist.m3u8
-
-#EXTINF:0, INDOSIAR
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_all/playlist.m3u8
-
-#EXTINF:0, KOMPAS TV
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_all/playlist.m3u8
-
-#EXTINF:0, ANTARA TV
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/antaratv_all/playlist.m3u8
-
-#EXTINF:0, LBS K-Drama
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/ldrama2_all/playlist.m3u8
-
-#EXTINF:0, LBS IN-Drama
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_all/playlist.m3u8
-
-#EXTINF:0, SHOWTIME HD
-http://80.80.160.168/live/7/5000000/live.m3u8
