@@ -33,6 +33,9 @@ http://www.layarku.tv/media/arenav6.m3u8
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
 
+#EXTINF:-1, Arena
+http://penang.layarku.tv/edge/149_330_live/chunklist_w52914436.m3u8
+
 #EXTINF:-1, Awani
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
