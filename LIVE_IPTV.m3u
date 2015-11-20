@@ -355,3 +355,26 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 #EXTINF:0, [COLOR yellow][B]UPDATED : 18/11/2015[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, beIN_SPORTS_HD1
+http://2.109.65.138/masa/tun3701.m3u8
+#EXTINF:0, beIN_SPORTS_HD2
+http://2.109.65.138/masa/tun3702.m3u8
+#EXTINF:0, beIN_SPORTS_HD3
+http://2.109.65.138/masa/tun3703.m3u8
+#EXTINF:0, beIN_SPORTS_HD4
+http://2.109.65.138/masa/tun3704.m3u8
+#EXTINF:0, beIN_SPORTS_HD5
+http://2.109.65.138/masa/tun3705.m3u8
+#EXTINF:0, beIN_SPORTS_HD6
+http://2.109.65.138/masa/tun3706.m3u8
+#EXTINF:0, beIN_SPORTS_HD8
+http://2.109.65.138/masa/tun3708.m3u8
+#EXTINF:0, beIN_SPORTS_HD10
+http://2.109.65.138/masa/tun3710.m3u8
+#EXTINF:0, beIN_SPORTS_HD1 FR
+http://2.109.65.138/masa/tun3713.m3u8
+#EXTINF:0, beIN_SPORTS_HD2 FR
+http://2.109.65.138/masa/tun3714.m3u8
+#EXTINF:0,beIN_SPORTS_HD3 FR
+http://2.109.65.138/masa/tun3715.m3u8
