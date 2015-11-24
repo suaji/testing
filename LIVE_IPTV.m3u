@@ -362,3 +362,25 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 #EXTINF:0, [COLOR yellow][B]UPDATED : 18/11/2015[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0,True Drama
+http://84.232.5.115/liveedge/truedrama.stream/playlist.m3u8
+#EXTINF:0,True Entertainment
+http://84.232.5.115/liveedge/trueentertainment.stream/playlist.m3u8
+#EXTINF:0,True Movies 1
+http://84.232.5.115/liveedge/true1.stream/playlist.m3u8
+#EXTINF:0,True Movies 2
+http://84.232.5.115/liveedge/true2.stream/playlist.m3u8
+#EXTINF:0,Tru TV
+http://84.232.5.115/liveedge/trutv.stream/playlist.m3u8
+#EXTINF:0,Universal
+http://84.232.5.115/liveedge3/universal.stream/playlist.m3u8
+#EXTINF:0,Watch
+http://84.232.5.115/liveedge3/watch.stream/playlist.m3u8
+#EXTINF:0,Yesterday
+http://84.232.5.115/liveedge3/yesterday.stream/playlist.m3u8
+
+#EXTINF:0,Updated:8/15-Golf Channel
+http://167.114.156.30:1935/flu555/_definst_/golf/playlist.m3u8?token=
+#EXTINF:0,Updated:8/15-NBCSN
+http://167.114.119.209:1935/flu555/_definst_/nbcsports/playlist.m3u8?token=
