@@ -1288,26 +1288,26 @@
 
 <item>
 <title>Nasi Tangas (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-n7ie6s9dz19n-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2ajc64avfmhs-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/10/nasi-tangas-679x1024.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-7nzzsvP0SpM/VBj7RcbkcmI/AAAAAAAAM9Y/YzrwXX8Fv28/s1600/nasi%2Btangas%2B2.JPG</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-n7ie6s9dz19n-640x360.html</page>
-<referer>http://streamin.to/n7ie6s9dz19n</referer>
+<page>http://streamin.to/embed-2ajc64avfmhs-640x360.html</page>
+<referer>http://streamin.to/2ajc64avfmhs</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-n7ie6s9dz19n-640x360.html</page>
-<referer>http://streamin.to/n7ie6s9dz19n</referer>
+<page>http://streamin.to/embed-2ajc64avfmhs-640x360.html</page>
+<referer>http://streamin.to/2ajc64avfmhs</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-n7ie6s9dz19n-640x360.html</page>
-<referer>http://streamin.to/n7ie6s9dz19n</referer>
+<page>http://streamin.to/embed-2ajc64avfmhs-640x360.html</page>
+<referer>http://streamin.to/2ajc64avfmhs</referer>
 </regex>
 </item>
 
@@ -1505,26 +1505,26 @@
 
 <item>
 <title>Paku Pontianak (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-on69ac5o1kbh-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ol05zxywn0uk-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-QWKihKpHI1g/UiqhygyDf_I/AAAAAAAAATo/Bm2aPQqxeVA/s1600/1239820_612215095484782_1882814147_n.jpg</thumbnail>
 <fanart>http://www.broframestone.com/wp-content/uploads/2013/08/Paku-Pontianak-Uqasha-Senrose-Jadi-Pontianak.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-on69ac5o1kbh-640x360.html</page>
-<referer>http://streamin.to/on69ac5o1kbh</referer>
+<page>http://streamin.to/embed-ol05zxywn0uk-640x360.html</page>
+<referer>http://streamin.to/ol05zxywn0uk</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-on69ac5o1kbh-640x360.html</page>
-<referer>http://streamin.to/on69ac5o1kbh</referer>
+<page>http://streamin.to/embed-ol05zxywn0uk-640x360.html</page>
+<referer>http://streamin.to/ol05zxywn0uk</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-on69ac5o1kbh-640x360.html</page>
-<referer>http://streamin.to/on69ac5o1kbh</referer>
+<page>http://streamin.to/embed-ol05zxywn0uk-640x360.html</page>
+<referer>http://streamin.to/ol05zxywn0uk</referer>
 </regex>
 </item>
 
