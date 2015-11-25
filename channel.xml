@@ -938,26 +938,26 @@
 
 <item>
 <title>Rumah Pusaka Di Simpang Jalan (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-0ofkm0rbiy26-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gnxcivzg9e9v-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-PSUPFivVMVE/VI0eg6MQ-rI/AAAAAAAAH18/h_QRLwMLRYk/s1600/Rumah%2BPusaka%2BDi%2BSimpang%2BJalan.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/x1o6oSoWPQA/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-0ofkm0rbiy26-640x360.html</page>
-<referer>http://streamin.to/0ofkm0rbiy26</referer>
+<page>http://streamin.to/embed-gnxcivzg9e9v-640x360.html</page>
+<referer>http://streamin.to/gnxcivzg9e9v</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-0ofkm0rbiy26-640x360.html</page>
-<referer>http://streamin.to/0ofkm0rbiy26</referer>
+<page>http://streamin.to/embed-gnxcivzg9e9v-640x360.html</page>
+<referer>http://streamin.to/gnxcivzg9e9v</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-0ofkm0rbiy26-640x360.html</page>
-<referer>http://streamin.to/0ofkm0rbiy26</referer>
+<page>http://streamin.to/embed-gnxcivzg9e9v-640x360.html</page>
+<referer>http://streamin.to/gnxcivzg9e9v</referer>
 </regex>
 </item>
 
