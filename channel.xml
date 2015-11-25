@@ -1038,26 +1038,26 @@
 
 <item>
 <title>Kasut Ku Kusut (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-s9xtpht6n15m-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-psxl7vhqstdf-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-EGewTMK6Fig/VKZwuvnuqEI/AAAAAAAAHzQ/TOsXQh6Ljxg/s1600/10382150_871873926167546_7879890121740029874_n.jpg</thumbnail>
 <fanart>http://kitepunye.com/wp-content/uploads/2015/01/11.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-s9xtpht6n15m-640x360.html</page>
-<referer>http://streamin.to/s9xtpht6n15m</referer>
+<page>http://streamin.to/embed-psxl7vhqstdf-640x360.html</page>
+<referer>http://streamin.to/psxl7vhqstdf</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-s9xtpht6n15m-640x360.html</page>
-<referer>http://streamin.to/s9xtpht6n15m</referer>
+<page>http://streamin.to/embed-psxl7vhqstdf-640x360.html</page>
+<referer>http://streamin.to/psxl7vhqstdf</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-s9xtpht6n15m-640x360.html</page>
-<referer>http://streamin.to/s9xtpht6n15m</referer>
+<page>http://streamin.to/embed-psxl7vhqstdf-640x360.html</page>
+<referer>http://streamin.to/psxl7vhqstdf</referer>
 </regex>
 </item>
 
@@ -1430,26 +1430,26 @@
 
 <item>
 <title>Ia Wujud (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-yo5drftdu1ai-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-n9n7nle37v2y-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-vZo1pAGiU6Q/U4iN-w46urI/AAAAAAAAA78/A3LMYEHnSKs/s1600/iw.jpg</thumbnail>
 <fanart>http://www.sinarharian.com.my/polopoly_fs/1.281056.1400289052!/image/image.jpg_gen/derivatives/landscape_490/image.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-yo5drftdu1ai-640x360.html</page>
-<referer>http://streamin.to/yo5drftdu1ai</referer>
+<page>http://streamin.to/embed-n9n7nle37v2y-640x360.html</page>
+<referer>http://streamin.to/n9n7nle37v2y</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-yo5drftdu1ai-640x360.html</page>
-<referer>http://streamin.to/yo5drftdu1ai</referer>
+<page>http://streamin.to/embed-n9n7nle37v2y-640x360.html</page>
+<referer>http://streamin.to/n9n7nle37v2y</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-yo5drftdu1ai-640x360.html</page>
-<referer>http://streamin.to/yo5drftdu1ai</referer>
+<page>http://streamin.to/embed-n9n7nle37v2y-640x360.html</page>
+<referer>http://streamin.to/n9n7nle37v2y</referer>
 </regex>
 </item>
 
@@ -1630,26 +1630,26 @@
 
 <item>
 <title>Khurafat (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-29botvuuidwj-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-svnwdo9wcmki-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/_8E1zWkoXI6g/TSAdYIXB2VI/AAAAAAAAA1Y/VKlfPnNKBXA/s400/khurafat.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-LvAnqn6_VeY/ThkraGSsluI/AAAAAAAABNw/s6UwyKK33VQ/s1600/khurafat.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-29botvuuidwj-640x360.html</page>
-<referer>http://streamin.to/29botvuuidwj</referer>
+<page>http://streamin.to/embed-svnwdo9wcmki-640x360.html</page>
+<referer>http://streamin.to/svnwdo9wcmki</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-29botvuuidwj-640x360.html</page>
-<referer>http://streamin.to/29botvuuidwj</referer>
+<page>http://streamin.to/embed-svnwdo9wcmki-640x360.html</page>
+<referer>http://streamin.to/svnwdo9wcmki</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-29botvuuidwj-640x360.html</page>
-<referer>http://streamin.to/29botvuuidwj</referer>
+<page>http://streamin.to/embed-svnwdo9wcmki-640x360.html</page>
+<referer>http://streamin.to/svnwdo9wcmki</referer>
 </regex>
 </item>
 
