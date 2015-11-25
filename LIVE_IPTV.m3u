@@ -384,3 +384,34 @@ http://84.232.5.115/liveedge3/yesterday.stream/playlist.m3u8
 http://167.114.156.30:1935/flu555/_definst_/golf/playlist.m3u8?token=
 #EXTINF:0,Updated:8/15-NBCSN
 http://167.114.119.209:1935/flu555/_definst_/nbcsports/playlist.m3u8?token=
+
+#EXTINF:-1,UK: Sky Uk Sport HD 1
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/17.m3u8
+#EXTINF:-1,UK: Sky Uk Sport HD 2
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/18.m3u8
+#EXTINF:-1,UK: Sky Uk Sport HD 3
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/220.m3u8
+#EXTINF:-1,UK: Sky Uk Sport HD 4
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/19.m3u8
+#EXTINF:-1,UK: Sky Uk Sport HD 5
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/129.m3u8
+#EXTINF:-1,UK: Sky Uk Sport F1 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/221.m3u8
+#EXTINF:-1,UK: Sky Uk Sports News HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/174.m3u8
+#EXTINF:-1,UK: Sky Uk BT Sport 1 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/15.m3u8
+#EXTINF:-1,UK: Sky Uk BT Sport 2 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/16.m3u8
+#EXTINF:-1,UK: BT Sport Europe HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/1023.m3u8
+#EXTINF:-1,UK: CTH Stadium 1 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/1064.m3u8
+#EXTINF:-1,UK: CTH Stadium 2 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/1065.m3u8
+#EXTINF:-1,UK: CTH Stadium 3 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/1066.m3u8
+#EXTINF:-1,UK: CTH Stadium 4 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/1067.m3u8
+#EXTINF:-1,UK: CTH Stadium 5 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/1096.m3u8
