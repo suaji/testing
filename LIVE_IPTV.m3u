@@ -27,14 +27,8 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:-1, TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
-#EXTINF:-1, RIA
-http://www.layarku.tv/media/arenav6.m3u8
-
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
-
-#EXTINF:-1, Arena
-http://penang.layarku.tv/edge/149_330_live/chunklist_w52914436.m3u8
 
 #EXTINF:-1, Awani
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
@@ -117,17 +111,8 @@ http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 #EXTINF:0, [COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:-1, Discovery UK
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
-
 #EXTINF:0, Nat Geo 2
 http://alturl.com/zbw8j
-
-#EXTINF:0, Discovery
-http://fr456.edem.tv/iptv/LZ3NMTRTBEN8ET/140/index.m3u8
-
-#EXTINF:-1, Cooking Channel
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
 
 #EXTINF:0, [COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -150,26 +135,17 @@ http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 #EXTINF:0, DRAMA WORLD
 http://123.108.164.71/etv2sb/phd505/lihattv.m3u8
 
-#EXTINF:0, Fox Crime
+#EXTINF:0, Warner HD
 http://103.245.167.28/tot/5028f7ff1d1b4d5f8189690233364737.m3u8
 
-#EXTINF:0, Universal
+#EXTINF:0, Fox Crime HD
 http://103.245.167.28/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
 
-#EXTINF:0, Warner
+#EXTINF:0, KIX HD
 http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
 
-#EXTINF:0, Syfy
+#EXTINF:0, Fox Crime
 http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
-
-#EXTINF:0,UK: Sky Movies SciFi
-http://top-iptv.zapto.org:8000/live/adem/adem/708.m3u8
-#EXTINF:0,UK: Sky Movies Family HD
-http://top-iptv.zapto.org:8000/live/adem/adem/707.m3u8
-#EXTINF:0,UK: SKY Movies Disney HD
-http://top-iptv.zapto.org:8000/live/adem/adem/648.m3u8
-#EXTINF:0,UK: Sky Atlantic HD
-http://top-iptv.zapto.org:8000/live/adem/adem/753.m3u8
 
 #EXTINF:0, [COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -186,7 +162,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1, ONE 1 HD
 http://rtmp.one.by:1300
 
-#EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](23-10-15)
+#EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](30-11-15)
 http://50.7.96.210:8285
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -209,31 +185,6 @@ http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
 
 #EXTINF:0, SuperSport 4
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp4/playlist.m3u8
-
-#EXTINF:0,UK: BT-Sport 1
-http://top-iptv.zapto.org:8000/live/adem/adem/550.m3u8
-#EXTINF:0,UK: BT-Sport 2
-http://top-iptv.zapto.org:8000/live/adem/adem/549.m3u8
-
-#EXTINF:0, beIN_SPORTS_HD1 FR
-http://2.109.65.138/masa/tun3713.m3u8
-#EXTINF:0, beIN_SPORTS_HD2 FR
-http://2.109.65.138/masa/tun3714.m3u8
-#EXTINF:0,beIN_SPORTS_HD3 FR
-http://2.109.65.138/masa/tun3715.m3u8
-
-#EXTINF:0,UK: Sky Sports 1 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/536.m3u8
-#EXTINF:0,UK: Sky Sports 2 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/535.m3u8
-#EXTINF:0,UK: Sky Sports 3 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/534.m3u8
-#EXTINF:0,UK: Sky Sports 4 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/533.m3u8
-#EXTINF:0,UK: Sky Sports 5 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/532.m3u8
-#EXTINF:0,UK: Sky F1 HD
-http://top-iptv.zapto.org:8000/live/adem/adem/542.m3u8
 
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
@@ -360,5 +311,5 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-#EXTINF:0, [COLOR yellow][B]UPDATED : 18/11/2015[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 30/11/2015[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
