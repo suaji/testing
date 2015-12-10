@@ -13,6 +13,31 @@
 </item>
 
 <item>
+<title>Strawberi Karipap Hello Gold Coast (2015) HD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4rjx9svmcyuf-640x360.html</link>
+<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/12/176107.jpg</thumbnail>
+<fanart>http://185.109.162.4/i/01/00002/fh1gqka4bpee.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-4rjx9svmcyuf-640x360.html</page>
+<referer>http://streamin.to/4rjx9svmcyuf</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-4rjx9svmcyuf-640x360.html</page>
+<referer>http://streamin.to/4rjx9svmcyuf</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-4rjx9svmcyuf-640x360.html</page>
+<referer>http://streamin.to/4rjx9svmcyuf</referer>
+</regex>
+</item>
+
+<item>
 <title>Juvana 2 : Terperangkap Dalam Kebebasan (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jzfleo4ywawo-640x360.html</link>
 <thumbnail>https://pbs.twimg.com/profile_images/625873083811803136/_8in0SBs_400x400.jpg</thumbnail>
@@ -1430,26 +1455,26 @@
 
 <item>
 <title>Ia Wujud (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-n9n7nle37v2y-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-42l7i6in6bdz-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-vZo1pAGiU6Q/U4iN-w46urI/AAAAAAAAA78/A3LMYEHnSKs/s1600/iw.jpg</thumbnail>
 <fanart>http://www.sinarharian.com.my/polopoly_fs/1.281056.1400289052!/image/image.jpg_gen/derivatives/landscape_490/image.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-n9n7nle37v2y-640x360.html</page>
-<referer>http://streamin.to/n9n7nle37v2y</referer>
+<page>http://streamin.to/embed-42l7i6in6bdz-640x360.html</page>
+<referer>http://streamin.to/42l7i6in6bdz</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-n9n7nle37v2y-640x360.html</page>
-<referer>http://streamin.to/n9n7nle37v2y</referer>
+<page>http://streamin.to/embed-42l7i6in6bdz-640x360.html</page>
+<referer>http://streamin.to/42l7i6in6bdz</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-n9n7nle37v2y-640x360.html</page>
-<referer>http://streamin.to/n9n7nle37v2y</referer>
+<page>http://streamin.to/embed-42l7i6in6bdz-640x360.html</page>
+<referer>http://streamin.to/42l7i6in6bdz</referer>
 </regex>
 </item>
 
@@ -1810,7 +1835,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 13.49 16-11-2015 , suaji86@gmail.com[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 09.19 10-12-2015 , suaji86@gmail.com[/COLOR]</title>
 <link>https://copy.com/Bg3yctJnCuBD10rU/%5BPENCURIMOVIE.PW%20%5D%20Jwanita.2015.720P.PPVRiP.AC3.PFT.mkv?revision=9&download=1</link>
 </item>
 
