@@ -1063,26 +1063,26 @@
 
 <item>
 <title>Kasut Ku Kusut (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-psxl7vhqstdf-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-n332qfnu8kex-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-EGewTMK6Fig/VKZwuvnuqEI/AAAAAAAAHzQ/TOsXQh6Ljxg/s1600/10382150_871873926167546_7879890121740029874_n.jpg</thumbnail>
 <fanart>http://kitepunye.com/wp-content/uploads/2015/01/11.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-psxl7vhqstdf-640x360.html</page>
-<referer>http://streamin.to/psxl7vhqstdf</referer>
+<page>http://streamin.to/embed-n332qfnu8kex-640x360.html</page>
+<referer>http://streamin.to/n332qfnu8kex</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-psxl7vhqstdf-640x360.html</page>
-<referer>http://streamin.to/psxl7vhqstdf</referer>
+<page>http://streamin.to/embed-n332qfnu8kex-640x360.html</page>
+<referer>http://streamin.to/n332qfnu8kex</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-psxl7vhqstdf-640x360.html</page>
-<referer>http://streamin.to/psxl7vhqstdf</referer>
+<page>http://streamin.to/embed-n332qfnu8kex-640x360.html</page>
+<referer>http://streamin.to/n332qfnu8kex</referer>
 </regex>
 </item>
 
@@ -1530,26 +1530,26 @@
 
 <item>
 <title>Paku Pontianak (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ol05zxywn0uk-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-yguwr0fvcxtv-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-QWKihKpHI1g/UiqhygyDf_I/AAAAAAAAATo/Bm2aPQqxeVA/s1600/1239820_612215095484782_1882814147_n.jpg</thumbnail>
 <fanart>http://www.broframestone.com/wp-content/uploads/2013/08/Paku-Pontianak-Uqasha-Senrose-Jadi-Pontianak.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ol05zxywn0uk-640x360.html</page>
-<referer>http://streamin.to/ol05zxywn0uk</referer>
+<page>http://streamin.to/embed-yguwr0fvcxtv-640x360.html</page>
+<referer>http://streamin.to/yguwr0fvcxtv</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ol05zxywn0uk-640x360.html</page>
-<referer>http://streamin.to/ol05zxywn0uk</referer>
+<page>http://streamin.to/embed-yguwr0fvcxtv-640x360.html</page>
+<referer>http://streamin.to/yguwr0fvcxtv</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ol05zxywn0uk-640x360.html</page>
-<referer>http://streamin.to/ol05zxywn0uk</referer>
+<page>http://streamin.to/embed-yguwr0fvcxtv-640x360.html</page>
+<referer>http://streamin.to/yguwr0fvcxtv</referer>
 </regex>
 </item>
 
