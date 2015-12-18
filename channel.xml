@@ -13,6 +13,31 @@
 </item>
 
 <item>
+<title>Banglo Berkunci (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wd40kmrtrtaf-640x360.html</link>
+<thumbnail>http://i1068.photobucket.com/albums/u441/mig_online/Artikel/2015/Artikel%20September%202015/Banglo%20Berkunci%20FA%20Poster/FA%20Poster%20Banglo%20Berkunci_zpsxluxglsx.jpg</thumbnail>
+<fanart>http://kitepunye.com/wp-content/uploads/2015/12/P1580269.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-wd40kmrtrtaf-640x360.html</page>
+<referer>http://streamin.to/wd40kmrtrtaf</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-wd40kmrtrtaf-640x360.html</page>
+<referer>http://streamin.to/wd40kmrtrtaf</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-wd40kmrtrtaf-640x360.html</page>
+<referer>http://streamin.to/wd40kmrtrtaf</referer>
+</regex>
+</item>
+
+<item>
 <title>Strawberi Karipap Hello Gold Coast (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4rjx9svmcyuf-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/12/176107.jpg</thumbnail>
