@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1451974369&myTokenPrefixhash=cEc8w-b3a6MSy7hPJk3z0nUk8E5iOBFfsPRBNEN6QVY=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478664&myTokenPrefixhash=S99txbh2z3yv5ARwFT6rUZYNKd2CvpKRw3ruBKGl_fI=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1451974394&myTokenPrefixhash=yO7NUII88LY3NvhnehtMcMoYenwFe2xqlwpzlnZcxUg=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478714&myTokenPrefixhash=ezKd77-6s4TNbDxgLY2AEx3fvmk0qiayzmxkd_dl1z4=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master002.m3u8
@@ -19,10 +19,10 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1451974421&myTokenPrefixhash=GnUU8eliKIGVrZ2HUQirA5Auki7qylBEMxIh0IAcdd8=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478733&myTokenPrefixhash=LEoUuCI4vT9Qfa-_XoWVfb2iimd5FZOoE7ehfot525I=
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1451974446&myTokenPrefixhash=31nwv9UFyNklcYHtKYulJZBWnA9ovXTMmJoIE2o4NRk=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478758&myTokenPrefixhash=1zcyJWaTXdLrfsxEwT4HP6t2NfeWizWWXofrrKSYPWU=
 
 #EXTINF:-1, TV Al-Hijrah
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
@@ -43,7 +43,7 @@ http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w77
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w1145460817_b878000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1451974473&myTokenPrefixhash=2zA7vxQ-6n6w0hpXqm5lmSqfFYkLqsxTkNtGD_90EZw=
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1452478788&myTokenPrefixhash=_-biOA7j8tqOjvcFHAR29B8k59FoIEl21GQcAb3eJqE=
 
 #EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -314,38 +314,5 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-#EXTINF:0, [COLOR yellow][B]UPDATED : 02/12/2015[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 04/01/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF: -1, SET Asia
-http://eu05.sputniktv.asia/set_asia_gb.m3u8?user=61710&token=1cf2cb7d413ee5b7a37e455b6e8b8d0a&e=1450281693&bands=956
-#EXTINF: -1, SET Max Hindi
-http://148.251.195.105/set_max_in.m3u8?user=61710&token=a535d60f96cafaf4dcc341d734301a2d&e=1450281693&bands=956
-#EXTINF: -1, Setanta Ireland
-http://136.243.12.170/setanta_ie.m3u8?user=61710&token=22343ab32f99a3c220beae58a59c876c&e=1450281693&bands=956
-#EXTINF: -1, Sky Action
-http://136.243.12.170/sky_moviesaction_gb.m3u8?user=61710&token=0165ac76b3ea59b80c64778c6f75f2e9&e=1450281693&bands=956
-#EXTINF: -1, Sky Movies Comedy
-http://136.243.12.170/sky_moviescomedy_gb.m3u8?user=61710&token=9cefa49a3a9ab879128ed0eda2acc53a&e=1450281693&bands=956
-#EXTINF: -1, Sky Movies Crime&Thriller
-http://136.243.12.170/sky_moviescrime_gb.m3u8?user=61710&token=7220ecc83fc0b64746f43428a313154f&e=1450281693&bands=956
-#EXTINF: -1, Sky Movies Drama Romance
-http://148.251.195.105/sky_drama_rom_gb.m3u8?user=61710&token=b8b65b8a415745c691e1c6e0839095f3&e=1450281693&bands=956
-#EXTINF: -1, Sky Movies Family
-http://148.251.195.105/sky_mov_fam_gb.m3u8?user=61710&token=f3823260d63d06d7ee01c89beb1e8a06&e=1450281693&bands=956
-#EXTINF: -1, Sky Movies Premiere
-http://136.243.12.170/sky_moviespremiere_gb.m3u8?user=61710&token=d0a8c3231da67a8034a99c1fd8cbe53b&e=1450281693&bands=956
-#EXTINF: -1, Sky Movies Sci-Fi Horror
-http://136.243.12.170/sky_moviesscifi_gb.m3u8?user=61710&token=ea47a91a0ce22b2a478d099f40eef32a&e=1450281693&bands=956
-#EXTINF: -1, Sky News
-http://144.76.2.39/sky_news_gb.m3u8?user=61710&token=788e6690e52172cdfc8f59c40bb0c9c3&e=1450281693&bands=956
-#EXTINF: -1, Sky One
-http://136.243.12.170/sky_one_gb.m3u8?user=61710&token=44fdaadf5cc0f65434efd01789756d18&e=1450281693&bands=956
-#EXTINF: -1, Star Gold Hindi
-http://144.76.3.83/star_gold_in.m3u8?user=61710&token=eb1c2712be66b5e0d7c612b5f46a5761&e=1450281693&bands=956
-#EXTINF: -1, TV3 IE
-http://136.243.12.170/tv3_ireland_ie.m3u8?user=61710&token=823e70429dbc8feaf74e09e46bf99eed&e=1450281693&bands=956
-#EXTINF: -1, True Movies 1
-http://144.76.2.39/true_movies1_gb.m3u8?user=61710&token=2acb505355f1d10eebd6465a29dc90a7&e=1450281693&bands=956
-#EXTINF: -1, True Movies 2
-http://136.243.12.170/true_movies2_gb.m3u8?user=61710&token=79352b6f370538906892844b44a6a29f&e=1450281693&bands=956
