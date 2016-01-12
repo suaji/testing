@@ -33,9 +33,6 @@ rtmp://118.97.183.196/jhos//kbs
 #EXTINF:-1, Awani
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
-#EXTINF:0, Awani -backup-
-http://awaniioslive-i.akamaihd.net/hls/live/207096-b/awaniIOSLiveStream@207096/awani_stream.m3u8
-
 #EXTINF:0, Bernama
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
 
@@ -90,9 +87,6 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0, BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
-#EXTINF:0, i24 News
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-
 #EXTINF:-1, NHK WORLD
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 
@@ -120,12 +114,6 @@ http://alturl.com/zbw8j
 #EXTINF:0, [COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:-1, FOX Movies Premium (Indo Sub)
-http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
-
-#EXTINF:0, HBO Plus Europe HD
-rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MAX"  group-title="ENGLISH",MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
@@ -134,21 +122,6 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
 #EXTINF:0, PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
-
-#EXTINF:0, DRAMA WORLD
-http://123.108.164.71/etv2sb/phd505/lihattv.m3u8
-
-#EXTINF:0, Warner HD
-http://103.245.167.28/tot/5028f7ff1d1b4d5f8189690233364737.m3u8
-
-#EXTINF:0, Fox Crime HD
-http://103.245.167.28/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
-
-#EXTINF:0, KIX HD
-http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
-
-#EXTINF:0, Fox Crime
-http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
 
 #EXTINF:0, [COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -197,9 +170,6 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 
 #EXTINF:0, Sport Time TV5
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
-
-#EXTINF:0, Sport Time TV6
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
 
 #EXTINF:0, [COLOR yellow][B]((Video On Demand))[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
@@ -317,17 +287,15 @@ http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 #EXTINF:0, [COLOR yellow][B]UPDATED : 04/01/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
-#EXTINF:-1, Sky Sports HD1
-http://144.76.3.83/sky_sports1gb.m3u8?token=fd08446a425d2c492505cc973e0ba074&user=41166&bands=956
-
-#EXTINF:-1, Sky Sports HD2
-http://144.76.3.83/sky_sports2gb.m3u8?token=27549478605c2e9d28debee3fb65bb39&user=41166&bands=956
-
-#EXTINF:-1, Sky Sports HD3
-http://144.76.3.83/sky_sports3gb.m3u8?token=f663571502c473b739fa94db15303a11&user=41166&bands=956
-
-#EXTINF:-1, Sky Sports HD4
-http://144.76.3.83/sky_sports4gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
-
-#EXTINF:-1, Sky Sports HD5
-http://144.76.3.83/sky_sports5gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
+#EXTINF:-1,Fox HD
+http://xs.best-tv.us:8000/live/DANY/dany/393.m3u8
+#EXTINF:-1,Fox +1
+http://xs.best-tv.us:8000/live/DANY/dany/562.m3u8
+#EXTINF:-1,Fox Life HD
+http://xs.best-tv.us:8000/live/DANY/dany/438.m3u8
+#EXTINF:-1,Fox Life +1
+http://xs.best-tv.us:8000/live/DANY/dany/563.m3u8
+#EXTINF:-1,Fox Crime HD
+http://xs.best-tv.us:8000/live/DANY/dany/448.m3u8
+#EXTINF:-1,Fox Crime +1
+http://xs.best-tv.us:8000/live/DANY/dany/564.m3u8
