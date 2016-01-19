@@ -21,6 +21,12 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv9.png" tvg-name="TV9"  group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 
+#EXTINF:-1, TV9 Test_1
+http://tv9flashsecure-lh.akamaihd.net/z/tv9flash_sp@392291/playlist.m3u8
+
+#EXTINF:-1, TV9 Test_2
+http://tv9flashsecure-lh.akamaihd.net/z/tv9flash_sp@392291/master.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453173028&myTokenPrefixhash=5ggTPyX4pQX-yphSr-89NdxzAT99hIB1tXV6HHnLJzo=
 
