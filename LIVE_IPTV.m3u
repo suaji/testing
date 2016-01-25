@@ -6,11 +6,14 @@ http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:r
 #EXTINF:-1, TV1 HD
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/playlist.m3u8
 
-#EXTINF:-1, TV1 HD (backup)
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/chunklist_b1265536.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453799589&myTokenPrefixhash=SRVT6mTU1GynHwzqLxwEqME9NlpxzgAXSYcx7q3i_BU=
+
+#EXTINF:-1, TV2 SD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/chunklist_b965536.m3u8
+
+#EXTINF:-1, TV2 HD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
 
 #EXTINF:-1, TV3
 http://www.layarku.tv/media/2tv3.m3u8
@@ -18,10 +21,16 @@ http://www.layarku.tv/media/2tv3.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi"  group-title="Malaysia",TVi
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453799617&myTokenPrefixhash=ohVOAw-i1lsZBiQzquXak_lpK_ytbJ1pEXYu7RCCQug=
 
+#EXTINF:-1, TVi HD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF"  group-title="Malaysia",MUZIK AKTIF
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453799638&myTokenPrefixhash=iXkOWqivBhDuErbgEGoNhg_KmED0g-tkvxM20mUE8zo=
 
-#EXTINF:-1, TV Al-Hijrah
+#EXTINF:-1, Muzik Aktif HD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/playlist.m3u8
+
+#EXTINF:-1, TV Al-Hijrah HD
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
 #EXTINF:-1, KBS WORLD
@@ -38,6 +47,9 @@ http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w11
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/1news.png" tvg-name="1NEWS"  group-title="Malaysia",1NEWS
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1453799666&myTokenPrefixhash=CINVENL6-Sv0-oqchuEybmTm1UQcqesU425JO_Ftm2g=
+
+#EXTINF:-1, 1NEWS HD
+http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/playlist.m3u8
 
 #EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
 http://50.7.96.210:8285
