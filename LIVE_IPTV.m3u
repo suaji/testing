@@ -292,3 +292,35 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 #EXTINF:0, [COLOR yellow][B]UPDATED : 25/01/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0,BT Sport 1
+http://62.210.162.88/live/uk_sport80/154325012016/902.m3u8
+
+#EXTINF:0,BT Sport 2
+http://62.210.162.88/live/uk_sport80/154325012016/903.m3u8
+
+#EXTINF:0,CTH STADIUM 1
+http://www.t12v.com:8000/live/test1/test1/1087.m3u8
+#EXTINF:0,CTH STADIUM 2
+http://www.t12v.com:8000/live/test1/test1/1086.m3u8
+#EXTINF:0,CTH STADIUM 3
+http://www.t12v.com:8000/live/test1/test1/1069.m3u8
+#EXTINF:0,CTH STADIUM 4
+http://www.t12v.com:8000/live/test1/test1/1070.m3u8
+#EXTINF:0,CTH STADIUM 5
+http://www.t12v.com:8000/live/test1/test1/1085.m3u8
+#EXTINF:0,CTH STADIUM 6
+http://www.t12v.com:8000/live/test1/test1/1100.m3u8
+
+#EXTINF:-1,UK: Sky BT Sport 1 HD
+http://ipsatpro.com:8000/live/Krishna/Krishna/528.m3u8
+#EXTINF:-1,UK: Sky BT Sport 2 HD
+http://ipsatpro.com:8000/live/Krishna/Krishna/527.m3u8
+#EXTINF:-1,UK: Sky BT Sport Europe
+http://ipsatpro.com:8000/live/Krishna/Krishna/453.m3u8
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://ipsatpro.com:8000/live/Krishna/Krishna/536.m3u8
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://ipsatpro.com:8000/live/Krishna/Krishna/537.m3u8
+#EXTINF:-1,UK: Sky MUTV
+http://ipsatpro.com:8000/live/Krishna/Krishna/535.m3u8
