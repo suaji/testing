@@ -156,17 +156,17 @@ http://rtmp.one.by:1300
 #EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR](30-11-15)
 http://50.7.96.210:8285
 
-#EXTINF:0, [B]*BACKUP BPL LIVE[/B]
-http://50.7.96.210:8285
-
 #EXTINF:0, [COLOR yellow][B]UPDATED : 26/01/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
-#EXTINF:0, [B]*Install Phoenix @ UK Turk Playlist[/B]
+#EXTINF:0, [B]*BACKUP BPL LIVE[/B]
 http://50.7.96.210:8285
 
-#EXTINF:0, [B]http://alturl.com/xwi6j[/B]
-http://alturl.com/xwi6j
+#EXTINF:0, [B]*Sila Download Phoenix[/B]
+http://50.7.96.210:8285
+
+#EXTINF:0, [B]http:/bit.ly/1S9ZsEY[/B]
+http:/bit.ly/1S9ZsEY
 
 #EXTINF:0,CTH STADIUM 1 HD
 http://www.t12v.com:8000/live/test1/test1/1087.m3u8
