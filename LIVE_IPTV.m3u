@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1, TV1
+#EXTINF:-1, TV1 SD
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/chunklist_b965536.m3u8
 
-#EXTINF:-1, TV1 HD
+#EXTINF:-1, TV1
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/playlist.m3u8
 
-#EXTINF:-1, TV2
+#EXTINF:-1, TV2 SD
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/chunklist_b965536.m3u8
 
-#EXTINF:-1, TV2 HD
+#EXTINF:-1, TV2
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
 
 #EXTINF:-1, TV3
@@ -21,40 +21,40 @@ http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/chunklist_b965536.m
 #EXTINF:-1, TVi HD
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/playlist.m3u8
 
-#EXTINF:-1, Muzik Aktif
+#EXTINF:-1, MUZIK AKTIF SD
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/chunklist_b965536.m3u8
 
-#EXTINF:-1, Muzik Aktif HD
+#EXTINF:-1, MUZIK AKTIF
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/playlist.m3u8
 
-#EXTINF:-1, TV Al-Hijrah HD
+#EXTINF:-1, AL HIJRAH
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
 
-#EXTINF:-1, Awani
+#EXTINF:-1, ASTRO AWANI
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
-#EXTINF:0, Bernama
+#EXTINF:0, BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
 
 #EXTINF:0, Bernama -backup-
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w1145460817_b878000_sleng.m3u8
 
-#EXTINF:-1, 1NEWS
+#EXTINF:-1, 1NEWS SD
 http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/chunklist_b965536.m3u8
 
-#EXTINF:-1, 1NEWS HD
+#EXTINF:-1, 1NEWS
 http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/playlist.m3u8
 
 #EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, TRANS7
+#EXTINF:0, TRANS 7
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_all/playlist.m3u8
 
-#EXTINF:0, TRANSTV
+#EXTINF:0, TRANS TV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_all/playlist.m3u8
 
 #EXTINF:0, INDOSIAR
@@ -66,10 +66,10 @@ http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_all/playlist.m3u8
 #EXTINF:0, ANTARA TV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/antaratv_all/playlist.m3u8
 
-#EXTINF:0, BeritaSatu WORLD HD
+#EXTINF:0, BERITA SATU
 http://stream.beritasatu.com:8134/world.m3u8
 
-#EXTINF:0, Metro NEWS HD
+#EXTINF:0, METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:0, LBS K-Drama
@@ -78,7 +78,7 @@ http://edge.nim.mivo.tv/mp17pjqx1esapruf/ldrama2_all/playlist.m3u8
 #EXTINF:0, LBS IN-Drama
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_all/playlist.m3u8
 
-#EXTINF:0, MIVO HD
+#EXTINF:0, MIVO TV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_all/playlist.m3u8
 
 #EXTINF:-0, [COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]
@@ -192,13 +192,13 @@ http://ipsatpro.com:8000/live/Krishna/Krishna/536.m3u8
 #EXTINF:-1,UK: Sky Chelsea TV HD
 http://ipsatpro.com:8000/live/Krishna/Krishna/537.m3u8
 
-#EXTINF:0, SuperSport 1 
+#EXTINF:0, ASTRO SUPERSPORT 1
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
 
-#EXTINF:0, SuperSport 2
+#EXTINF:0, ASTRO SUPERSPORT 2
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
 
-#EXTINF:0, SuperSport 3
+#EXTINF:0, ASTRO SUPERSPORT 3
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
 
 #EXTINF:0, Sport Time TV2
