@@ -15,6 +15,9 @@ http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
 #EXTINF:-1, TV3
 http://www.layarku.tv/media/2tv3.m3u8
 
+#EXTINF:-1, TV9
+http://www.layarku.tv/media/2tv9.m3u8
+
 #EXTINF:-1, TVi
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/chunklist_b965536.m3u8
 
