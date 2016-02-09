@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, TV1 SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/chunklist_b965536.m3u8
-
 #EXTINF:-1, TV1
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/playlist.m3u8
-
-#EXTINF:-1, TV2 SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/chunklist_b965536.m3u8
 
 #EXTINF:-1, TV2
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
@@ -18,14 +12,8 @@ http://www.layarku.tv/media/2tv3.m3u8
 #EXTINF:-1, TV9
 http://www.layarku.tv/media/2tv9.m3u8
 
-#EXTINF:-1, TVi SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/chunklist_b965536.m3u8
-
 #EXTINF:-1, TVi
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/playlist.m3u8
-
-#EXTINF:-1, Muzik Aktif SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/chunklist_b965536.m3u8
 
 #EXTINF:-1, Muzik Aktif
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/playlist.m3u8
