@@ -22,7 +22,7 @@ http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/playlist.m3u8
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-n4lAk-IWmvI/VVsbN074wgI/AAAAAAAAHvs/f3jstIW7IVI/s1600/astroawani.png" , Astro Awani
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/132_300.png" group-title="Malaysia" ,Astro Warna
 http://www.layarku.tv/media/warna6v.m3u8
