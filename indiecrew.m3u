@@ -1,0 +1,157 @@
+#EXTM3U
+
+#EXTINF:-0, [COLOR deepskyblue][B](::: MALAYSIA :::)[/B][/COLOR]
+http://ignoreme
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_tv1_zpsea9qcgvm.png" group-title="MALAYSIA", TV1
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_tv2_zpsk9cjp0q7.png" group-title="MALAYSIA", TV2
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_tv3_zpsr9dziuob.png" group-title="MALAYSIA", TV3
+http://penang.layarku.tv/edge/149_323_live/chunklist_w1314099846.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_tv9_zpsyyhe8wgn.png" group-title="MALAYSIA", TV9
+http://penang.layarku.tv/edge/149_325_live/chunklist_w156613139.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_ria_zpsljlhniqc.png" group-title="MALAYSIA", ASTRO RIA
+http://penang.layarku.tv/edge/149_327_live/chunklist_w590415699.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_warna_zpswsggehjh.png" group-title="MALAYSIA", ASTRO WARNA
+http://sg.layarku.tv/edge/149_369_live/chunklist_w433672773.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_prima_zpswdaseqdo.png" group-title="MALAYSIA", ASTRO PRIMA
+http://sg.layarku.tv/edge/149_328_live/chunklist_w1621499343.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_oasis_zpsaf1ab0uu.png" group-title="MALAYSIA", ASTRO OASIS
+http://penang.layarku.tv/edge/149_329_live/chunklist_w278239321.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_alhijrah_zpsgxa7ek3g.png" group-title="MALAYSIA", TV AL-HIJRAH
+http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_tvi_zpsbvg5jpcq.png" group-title="MALAYSIA", TVi
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_muzikaktif_zpsnl2kq0e1.png" group-title="MALAYSIA", MUZIK AKTIF
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_1news_zpsvnvqw6kd.png" group-title="MALAYSIA", 1 NEWS
+http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_rtmparlimen_zpslfuxghzd.png" group-title="MALAYSIA", RTM PARLIMEN
+http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch007_1080_all/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_aksisukan_zpsszf4rfkr.png" group-title="MALAYSIA", AKSI SUKAN
+http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch008_all/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_maratv_zpslvyh8imm.png" group-title="MALAYSIA", MARA TV
+http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_bernamatv_zpsqyzrl7fo.png" group-title="MALAYSIA", BERNAMA TV
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_awani_zpstajxcomn.png" group-title="MALAYSIA", ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer4.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_arena_zpsdamm7p3c.png" group-title="MALAYSIA", ASTRO ARENA
+http://penang.layarku.tv/edge/149_330_live/chunklist_w968005433.m3u8
+
+#EXTINF:-0, [COLOR deepskyblue][B](::: ENGLISH CHANNELS :::)[/B][/COLOR]
+http://ignoreme
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png" group-title="ENGLISH", AXN BLACK
+http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png" group-title="ENGLISH", AXN WHITE
+http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png" group-title="ENGLISH", AXN SPIN
+http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaione_zpssrf0caqz.png" group-title="ENGLISH", DUBAI ONE
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc2_zpsxjojooiw.png" group-title="ENGLISH", MBC 2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc4_zpsysprui9q.png" group-title="ENGLISH", MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbcaction_zpsgok0amsy.png" group-title="ENGLISH", MBC ACTION
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/syfy_zpsjw4dxznn.png" group-title="ENGLISH", SYFY
+http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES ACTION & ADVENTURE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzoxMiBQTSZoYXNoX3ZhbHVlPUpHTVNFSFZrS3hHRmQ1a2hCUTBhVEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/maction.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES CRIME & THRILLER
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMTozNiBQTSZoYXNoX3ZhbHVlPW0vbEJNNEdlbnBJMit4UmlaU2dsaXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcrime.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES COMEDY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMjozMiBQTSZoYXNoX3ZhbHVlPVJYZmpxaEtHSWZSczN0MUc2dG1NaEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcomedy.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES DISNEY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiBQTSZoYXNoX3ZhbHVlPWlIV3hrZkpHejQxR1Y1N0VIYWdEYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdisney.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES DRAMA & ROMANCE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMDo0MyBQTSZoYXNoX3ZhbHVlPUcrVkpLVDdiZDNqaHVBRTk2eXpTSlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdrama.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES FAMILY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1ODo1NyBQTSZoYXNoX3ZhbHVlPTJvOWN0VmN0YW1DYmppMVl5U2dkM0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/mfamily.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES PREMIERE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Nzo0NSBQTSZoYXNoX3ZhbHVlPVN0VjVlTmRncWJJdm1vZUpBSy9lYkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mpremiere.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES SCI-FI & HORROR
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Njo0OSBQTSZoYXNoX3ZhbHVlPUZRSjViQ2ZOcDg0cWtaMGZKNlVFS3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/mscifi.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES SELECT
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiBQTSZoYXNoX3ZhbHVlPWlIV3hrZkpHejQxR1Y1N0VIYWdEYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mselect.stream
+
+#EXTINF:-0, [COLOR deepskyblue][B](::: NON-ENGLISH CHANNELS :::)[/B][/COLOR]
+http://ignoreme
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/chinamovie_zpsu5rd56hv.png" group-title="NON-ENGLISH", CHINA MOVIE (CHINA)
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/colorstv_zpspjxlvmyq.png" group-title="NON-ENGLISH", COLOR TV (INDIA)
+http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_864_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaitv_zpszosqsfyr.png" group-title="NON-ENGLISH", DUBAI TV (UAE)
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png" group-title="NON-ENGLISH", GEM BOLLYWOOD (IRAN)
+http://63.237.48.23/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/hkstv_zpsswudi87a.png" group-title="NON-ENGLISH", HKS (HONG KONG)
+http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ifilm_zps6drhslvc.png" group-title="NON-ENGLISH", IFILM (IRAN)
+http://63.237.48.23/ios/IFILM/IFILM.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbcbollywood_zps9myoys5c.png" group-title="NON-ENGLISH", MBC BOLLYWOOD (UAE)
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/shandongtv_zpseumd12yh.png" group-title="NON-ENGLISH", SHANDONG TV (CHINA)
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/trt1_zpslrs0fljr.png" group-title="NON-ENGLISH", TRT 1 (TURKEY)
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tianjintv_zpsnjgrwxct.png" group-title="NON-ENGLISH", TIANJIN TV (CHINA)
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/zhejiangtv_zpspygzblqy.png" group-title="NON-ENGLISH", ZHEJIANG TV (CHINA)
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png" group-title="NON-ENGLISH", ZEE CINEMA (INDIA)
+http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png" group-title="NON-ENGLISH", ZEE TAMIL (INDIA)
+http://185.59.222.89:1935/cdn/zeetamilhd/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png" group-title="NON-ENGLISH", ZEE TV (INDIA)
+http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_864_av-p.m3u8

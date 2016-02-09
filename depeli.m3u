@@ -1,0 +1,616 @@
+#EXTM3U
+#EXTINF:-1,copyNpaste by De Peli
+
+#EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="http://3.bp.blogspot.com/-WkvxIvLwti8/VZMDUNG9ZtI/AAAAAAAAIwo/pT2GN4Ly2uo/s320/Screen%2BShot%2B2015-07-01%2Bat%2B4.55.41%2BAM.png",•Like Pages URL DePeli iptv•
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+
+#EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="http://blog.ezyinsights.com/wp-content/uploads/2014/09/link.png" ,•URL Ni FREE JER•
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+
+#EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="http://blog.ezyinsights.com/wp-content/uploads/2014/09/link.png" ,•NOT FOR SALE!!!•
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+
+#EXTINF:-1 tvg-logo="http://bit.ly/URLDePeliIPTV" group-title="Event", *LIVE Event 1
+rtmp://$OPT:rtmp-raw=rtmpe://162.253.131.34:1935/app/skysports1lsh pageUrl=http://cdn.lshstream.com/hpgdisco  token=SECURET0KEN#yw%.?()@W
+
+#EXTINF:-1 tvg-logo="http://bit.ly/URLDePeliIPTV" group-title="Event", *LIVE Event 2
+rtmp://$OPT:rtmp-raw=rtmpe://134.19.185.189:1935/app/vch1lsh pageUrl=http://cdn.lshstream.com/hpgdisco  token=SECURET0KEN#yw%.?()@W
+
+
+#EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="http://1.bp.blogspot.com/-GPIwrae2jdg/VVsbIQ7nkbI/AAAAAAAAHus/jK5QMaNg_H8/s1600/TV1.png" group-title="Malaysia",TV1
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/playlist.m3u8
+
+ 
+#EXTINF:-1 tvg-id=“TV 2” tvg-name=“TV_2” tvg-logo="http://2.bp.blogspot.com/-GQMvGq2bjrk/VVsbIxNH-2I/AAAAAAAAHuw/42ETJhVHSLs/s1600/TV2.png" group-title="Malaysia",TV2
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-KmAyt3WwkJ0/To3K2StdYtI/AAAAAAAAACY/0CHCDWwurpU/s1600/tvi.png" group-title="Malaysia",TVi
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-DDyDxIBcuRU/VHu1RhbEAXI/AAAAAAAAEs4/16pP12IDr6U/s1600/muzik_aktif.png", Muzik Aktif 
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://8.37.229.77:7080/group1/M01/03/73/ooYBAFQTaaSAHV2jAACl27joLzA957.jpg" group-title="Malaysia", TV3 (VPN)
+http://www.layarku.tv/media/2tv3.m3u8
+
+#EXTINF:-1 tvg-id=“TV 9” tvg-name=“TV_9” tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png" group-title="Malaysia", TV9 (VPN)
+http://www.layarku.tv/media/2tv9.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-bj-u8VT2n9o/VVsa5MABXbI/AAAAAAAAHqY/BtvLRwaehEo/s1600/NTV7.png" group-title="DiGi&MF",OFFLINE
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
+ 
+#EXTINF:-1 tvg-id=“8TV” tvg-name=“8TV” tvg-logo="http://4.bp.blogspot.com/-Yxgmo2clb9E/TjoIHwjck-I/AAAAAAAABbo/hiBWZpBz5yk/s1600/8tv_logo.jpg" group-title="DiGi&MF",OFFLINE
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
+ 
+#EXTINF:-1 tvg-id=“TV 9” tvg-name=“TV_9” tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png" group-title="DiGi&MF",OFFLINE
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
+
+
+#EXTINF:-1 tvg-logo="119_300.png" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Zy4HZQWPYgaD2Kwel6U5RX1YuG4TwAcwkof8iCFvVBJLNcUtzSFKNA" group-title="DiGi&MF",TV Al Hijrah
+http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-n4lAk-IWmvI/VVsbN074wgI/AAAAAAAAHvs/f3jstIW7IVI/s1600/astroawani.png" , Astro AWANI
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/132_300.png" group-title="Malaysia" ,ASTRO WARNA
+http://www.layarku.tv/media/warna6v.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/104_300.png" group-title="Malaysia", Astro RIA
+http://www.layarku.tv/media/tmp2ria.m3u8
+
+#EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="https://pbs.twimg.com/profile_images/3436916643/d06996441c8f8663aa7f2e04a81a553d.jpeg" group-title="Malaysia",ASTRO OASIS
+http://www.layarku.tv/media/oasis6v.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/dd/Astro_AEC.jpg/200px-Astro_AEC.jpg" group-title="Malaysia",ASTRO AEC
+http://go.layarku.tv/aec.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-j5Tr0sN7fKA/TxvEP-FLDdI/AAAAAAAAB-c/P0ZOUElTTuM/s1600/astro+logo.jpg" group-title="Malaysia", Astro ARENA
+http://go.layarku.tv/arena_temp2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.marketingmagazine.com.my/images/stories/2014/goshop_logo.jpg" group-title="DiGi&MF", GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_05.m3u8
+
+#EXTINF:-1 tvg-logo="http://malaysia1news.aws.stream.my/img/logo.png" group-title="Malaysia",1NEWS
+http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googledrive.com/host/0B2_jLO3lNcKXaVVLejg0NHdCSFE/public_html/image/maratv.png?format=raw" group-title="Malaysia", MARA TV
+http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=“TV9” tvg-name=“TV_9” tvg-logo="http://2.bp.blogspot.com/-k3pboqOlOVg/TktHKydTjPI/AAAAAAAABEE/79Ul9f6o0qM/s200/bernama+malaysia.jpg" group-title="Malaysia" group-title="DiGi&MF",Bernama TV
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vincentloy.files.wordpress.com/2013/04/470x275xbab20efc795e3b04c6d6580990c77b0f-pagespeed-ic-5cyca2pf2g.jpg" group-title="Malaysia",RTM Parlimen Najib
+http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch007_1080_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/07/Al-Quran-TV-Saudi-Arabia.jpg", KSA-Quran TV 
+http://46.245.160.224/mekke/mekke/media_w1824315188_225988.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-WtRVs6DCdLg/TlFTt-Uzl0I/AAAAAAAAADI/CyBTvKsErmM/s1600/mk8.jpg" ,Makkah Live
+rtsp://livestreaming2.itworkscdn.net/squranlive/squran_360p
+
+#EXTINF:-1 tvg-logo="makkah.png" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/f8/10/12/f810121ef065a40c3e3640300cd0d98c.jpg" ,Madinah Live
+http://46.245.160.224/medine/medine/gmswf.m3u8
+
+#EXTINF:-1, tvg-logo="http://www.cifiaonline.com/Peace%20TV%203.jpg" , Peace TV
+rtmp://peace.fms.visionip.tv/live//b2b-peace_usa-live-25f-4x3-sdh_1
+
+#EXTINF:-1 tvg-logo="http://arts1091.unsw.wikispaces.net/file/view/rtb4.jpg/357691594/86x76/rtb4.jpg" ,RTB 4 
+mms://202.160.15.85/stream-03-512
+ 
+ 
+
+
+#EXTINF:-1 tvg-logo="http://indonesiaflag.facts.co/indonesiaflagof/IndonesiaFlagImage3.png" group-title="Indonesia", •TV INDONESIA•
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_kompastv_zpspbla9f1l.png" group-title="Indonesia" ,LBS IN-DRAMA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_lbsindrama_zpshlkuj2w6.png" group-title="Indonesia" ,LBS K-DRAM
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/ldrama2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/a7vjYtCaVJJ-XBjsV7Jeh_6gktc9Hx_1xplvDbKqZkFe_yepVU_xhZKQTsSSD_XjJA=w300" group-title="DiGi&MF", TIC 
+http://gcasialive-i.akamaihd.net/hls/live/218243/TIC-HLS-stream/master.m3u8
+
+
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BrwIkbSteC0/VVsa3W6HhCI/AAAAAAAAHqA/EQHdUOT3BHo/s1600/MetroTV.png" group-title="Indonesia",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-uWWQ-aNvP4k/UJfa0IWzIPI/AAAAAAAAAcg/7vzZ7TVWRZI/s1600/Logo+Kompas+TV+thok.png" group-title="Indonesia", KOMPASTV 
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-mhEnTLjjwMM/VVsbgWqoZEI/AAAAAAAAHzA/A9Kfl5z8feI/s1600/rcti.png", RCTI
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://parabola-tv.com/wp-content/uploads/2015/03/biss-key-global-tv.jpg" group-title="Indonesia", GlobalTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-KbzbzOUK0Xk/VVsbLHpN5FI/AAAAAAAAHvM/UqUTuA7d9eM/s1600/Trans_7.png" group-title="Indonesia",TRANS 7
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Y-Ive-6-kYU/VVsbHqoOQjI/AAAAAAAAHuc/EtcInu1oME4/s1600/TRANSTV.png" group-title="Indonesia",TRANSTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anggitrendra17.files.wordpress.com/2011/03/indosiar.jpg" group-title="Indonesia", INDOSIAR 
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rP5apRj9dgw/AAAAAAAAAAI/AAAAAAAAAAA/4lhuStWfRgQ/s100-c-k-no/photo.jpg" group-title="Indonesia", antv 
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/antaratv_all/playlist.m3u8
+
+#EXTINF:-1  group-title="Indonesia", SCTV
+http://edge.nim.mivo.tv/wh76pzref44u5306/sctv2_576p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDE2ICA0OjIyOjEzIFBNJmhhc2hfdmFsdWU9NkYrSHU4eEVZUWNUZStKRTBrTGFiUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==
+
+#EXTINF:-1  tvg-logo="http://www.anneahira.com/images_wp/pembaca-berita-tv-one.jpg" group-title="Indonesia", tvOne 
+http://202.129.216.27:1935/tvone/tvone1/chunklist_w1063036215.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6cXuM-To630/AAAAAAAAAAI/AAAAAAAAAAA/WaY9wP3rWGQ/s900-c-k-no/photo.jpg" group-title="Indonesia", BeritaSatu WORLD HD 
+http://stream.beritasatu.com:8134/world.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cavanlibrary.ie/image/kids/lay_pub_index_icon_default.gif" group-title="Others", •K I D S•
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+ 
+
+
+
+
+
+#EXTINF:0 group-title="Others",JimJam
+http://77.120.118.235:8089
+
+#EXTINF:0 group-title="Others",Boomerang
+http://77.120.118.235:8085
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/i/XEZ5RgmxZc896ti0JkyyJg/mq1.jpg?v=507c3764" group-title="Others", KIDS PLAY 
+http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1642952792/___400x400.png" group-title="Others", JEI ENGLISH TV 
+http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.media247.co.uk/bizasia/wp-content/uploads/2013/05/jeemtv001.jpg" group-title="DiGi&MF", Al Jazeera Kids 
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/9iGokUAmsRA/hqdefault.jpg" group-title="Others",Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_350.sdp/playlist.m3u8
+
+
+
+ 
+
+ #EXTINF:-1 tvg-logo="http://ariadl.com/shop/image/data/Documentary.png" group-title="Others", •O T H E R S•
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+
+
+
+
+#EXTINF:0 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg", Nat Geo 
+http://alturl.com/zbw8j
+
+#EXTINF:-1 tvg-logo="food.png" group-title="DiGi&MF", Food Network
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:-1 group-title="DiGi&MF",NHK WORLD
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="http://channels.roku.com/images/928fc6cf7cf947f1b3ea353fa228bc31-hd.jpg" group-title="DiGi&MF",ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://sz.castroller.com/220/110/images.castroller.com/imageupload/channel88.png" group-title="Others",TWIT
+http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.streaming-hub.com/wp-content/uploads/2014/12/logo-jazeera-documentary.png" group-title="DiGi&MF",ALAZEERA (Documentary) 
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:0, tvg-logo="http://www.streethypenewspaper.com/wp-content/uploads/2014/04/Al-JazeeraLogo.jpg" tvg-name="AL JAZEERA ENGLISH"  group-title="DiGi&MF",AL JAZEERA ENGLISH
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:-1 group-title="DiGi&MF",BLOOMBERG (USA)
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+
+#EXTINF:-1 group-title="Others",DW (Asia)
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+
+#EXTINF:-1 group-title="DiGi&MF",CCTV News
+http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/5048e660e4b0bd178ab35a57/t/555f0d58e4b0bd5f4da97bc3/1432292696953/?format=300w" group-title="DiGi&MF",WFTV (USA)
+http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
+
+#EXTINF:-1 tvg-logo="http://i2.ytimg.com/i/5BMQOsAB8hKUyHu9KI6yig/mq1.jpg?v=91874e" group-title="Others", KBS WORLD 
+rtmp://118.97.183.196/jhos//kbs
+
+#EXTINF:-1 group-title="DiGi&MF", Arirang
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.kbs.co.kr/kplayer/WebV3/assets/images/empty/pc/channel_11.png" group-title="Others",KBS1
+rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7qM17ZfCWkGD8cOKrCMaRLEOYCgW1ladBd8-hD3G00YIerTBc" group-title="Others",KBS2
+rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlVd13TpPENRjG6JdzNwHHP41cvdVC12y1nN6CMiZCEW4ptkuo2E1NpA" group-title="Others", London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
+ 
+#EXTINF:-1 tvg-logo="http://blogs.air-watch.com/wp-content/uploads/2013/11/BloombergLogo.jpg" group-title="Others",Bloomberg TV
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+
+#EXTINF:0,RT
+http://msk3.peers.tv/streaming/russiatoday/16/tvrec/playlist.m3u8
+
+#EXTINF:0,  tvg-name="NASA TV HD"  group-title="Others",NASA TV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.gamelovin.com/images/apps/icon_sports.png" group-title="SPORTS", •S P O R T S•
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+
+
+
+
+#EXTINF:0, Sport Time TV2
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_800.mp4.m3u8
+
+#EXTINF:0, Sport Time TV3
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_800.mp4.m3u8
+
+#EXTINF:0, Sport Time TV5
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_800.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ethiosports.com/wp-content/uploads/2013/10/bein-Sport1.jpg", *beIN 1 UCTV
+http://180.250.29.12/jhos/beib1_4/anis_sat/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ethiosports.com/wp-content/uploads/2013/10/bein-Sport1.jpg", *beIN 2 UCTV
+http://180.250.29.12/jhos/beib2_4/anis_sat/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ethiosports.com/wp-content/uploads/2013/10/bein-Sport1.jpg", *beIN 3 UCTV
+http://180.250.29.12/jhos/beib3_5/anis_sat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://sport.bt.com/images/bt-sport-1-logo-136381974803410401-130801120118.jpg",*BT Sport 1
+rtmp://$OPT:rtmp-raw=rtmpe://134.19.185.196:1935/app/btsports1lsh58 pageUrl=http://cdn.lshstream.com/hpgdisco  token=SECURET0KEN#yw%.?()@W
+ 
+#EXTINF:-1 tvg-logo="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg",*BT Sport 2
+rtmp://$OPT:rtmp-raw=rtmpe://134.19.185.196:1935/app/btsports2lsh pageUrl=http://cdn.lshstream.com/hpgdisco  token=SECURET0KEN#yw%.?()@W
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Fight_Now_TV.png" group-title="SPORTS",FIGHT (Romania)
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4YTS8dWkt-w/VVwMBgHiP8I/AAAAAAAAH2o/8p_Gyz_Y9_Y/s1600/live7.png" group-title="SPORTS" ,LIVE&FREE MotoSports
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/dubai_sport_tv_uae_live_online_free_arabic_channel.jpeg" ,Dubai Sport
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn-img.easyicon.net/png/10908/1090821.gif", Eurosport 1
+http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn-img.easyicon.net/png/10908/1090821.gif", Eurosport 2
+http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6wg2XAw8SohQxElYvHx6bxw3BR5UiOmTnZ713qn2lYKyh4mWe", Cars & Sport
+mms://100automoto.tv/100livesport
+ 
+#EXTINF:-1 tvg-logo="http://sportsjournalism.org/wp-content/uploads/wp_sportsjournalism_org_/image/Fox%20Soccer.jpg", FSC   
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1,SCTV15
+http://112.197.2.135:1935/colive/C042_SD_3/playlist.m3u8
+
+#EXTINF:-1,SCTV BTV5
+http://112.197.2.135:1935/colive/C069_SD_4/playlist.m3u8
+
+#EXTINF:-1,SCTVHD THE THAO SCTV18
+http://112.197.2.135:1935/colive/C008_HD_4/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://hotholidaygifts.info/wp-content/uploads/2013/10/movies-icon.png", •M O V I E•
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+ 
+
+
+
+#EXTINF:0, tvg-logo="http://tvtvtv.ru/icons/playy_19+.png" tvg-name="MBC MAX" , PLAYY WEST
+http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
+
+#EXTINF:0, tvg-logo="http://4.bp.blogspot.com/-L4j4u42hrw4/UoKFC3Iba7I/AAAAAAAAD2I/xuQyB0iTlbY/s320/The%2BMovies%2BChannel.gif" tvg-name="MBC MAX" , THE MOVIE
+http://123.108.164.71/etv2sb/phd8/lihattv.m3u8
+
+#EXTINF:0, tvg-logo="https://lh4.googleusercontent.com/-LXDt-kJuq0s/AAAAAAAAAAI/AAAAAAAAAAA/hr3tSdjoj0I/photo.jpg" tvg-name="MBC MAX" , DRAMA WORLD
+http://123.108.164.71/etv2sb/phd505/lihattv.m3u8
+
+#EXTINF:0, tvg-logo="Logo N/A" tvg-name="MBC MAX" ,MBC MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+#EXTINF:-1 tvg-logo="http://www2.toggle.sg/priceplan/img/logo_chinal.png" group-title="DiGi&MF" ,China Film
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_xENSL-znbM/UjjEjlL69tI/AAAAAAAAIqE/hzYmAIu32G0/s1600/image+logo+6ter+Eutelsat+5+channel+tv.png" ,6ter HD
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CU6XNT3UAAA5Umc.jpg" group-title="DiGi&free",Mat Moto 2016
+https://v0.sg.cptr-api.com/st/4/jobs/06d36d2a-6cea-4f9c-b7af-416342b20d85/files_by_id/bd43cef3-9b62-4af8-9609-91ec3006ed95/PENCURIMOVIE.SE%20%20Mat.Moto.2016.Ahmad.Idham.WEB-DL.720P.AAC.x264.PFT.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://sorenfilm3.in/6911-large_default/the-revenant-2015.jpg" group-title="DiGi&free",Kongsi 2011
+https://v0.sg.cptr-api.com/st/4/jobs/74545796-e4af-44be-92c2-423f242cf42f/files_by_id/46426483-6fd7-468e-a7ea-0989440495d3/Kongsi%20(2011).mp4?sub=v-high&amp;auth=XFMeqEGlWTHgvfbn4mw7ozCyxy4%3D&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.sinarharian.com.my/polopoly_fs/1.417377.1438995205!/image/image.jpg_gen/derivatives/landscape_624/image.jpg" group-title="DiGi&free",JWanita 2015
+https://v0.sg.cptr-api.com/st/4/jobs/f98981e8-211d-4202-84d1-cbad4588ff12/files_by_id/166fed1d-b365-4ccc-bfc7-5f2c169e36e0/Jwanita.Capture.movie.stream.mkv?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://fullmovieonlinestreaming.com/wp-content/uploads/2016/01/Isteri-Untuk-Dijual-2015-150x150.jpg" group-title="DiGi&free",Isteri Untuk Dijual 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/baf51a0a-8022-43e7-9bf6-7b20d22a41a2/files_by_id/6c7164a2-4abe-4e6f-beb6-ef13f1155aa4/Isteri0Untuk%20Dijual%202015.DiGiIddStreaming.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://fullmovieonlinestreaming.com/wp-content/uploads/2015/09/Girlfriend-Kontrak-2015-Tonton-Online-Free-Full-Movie.png" group-title="DiGi&free",Girlfriend Kontrak 2015
+https://v0.sg.cptr-api.com/st/4/jobs/4470c83f-0898-4ed9-b3f0-e46c863a19c7/files_by_id/286cb69f-8590-46e4-a4df-d19d8d1a9ea1/Girlfriend.Kontrak.2015.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GV-cIp9gbhQ/VjAjln-Y3_I/AAAAAAAAA8w/5_dA93EBG24/s400/sinaran.jpg" group-title="DiGi&free",Sinaran 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/7b254c04-b8d1-48e6-8ef7-13962bb0a7b5/files_by_id/a69386bf-4a5e-4459-b63d-f4cbeeeb5a50/PENCURIMOVIE.PW%20Sinaran.2015.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-W41dNEY-Keo/VoasNYVD7EI/AAAAAAAAA0I/cnalJGcuxf8/s1600/Filem%2BChowrasta%2B%25282015%2529%2BFull%2BMovie.png" group-title="DiGi&free",Chowrasta 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/840663b4-6c13-4e32-8c58-be517636e1c7/files_by_id/c0a1231b-973c-47da-93f8-cc77cef8c7fb/Chowrasta.2015(1).mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://vplaytv.me/wp-content/uploads/2016/01/Apartment.jpg" group-title="DiGi&free",Apartment 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/1c6b58dc-6f24-4bbf-97e2-ec73a0f38284/files_by_id/940032dc-037f-43d1-b0ae-cbb99b308074/Apartmen.2015.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.tontononline.net/wp-content/uploads/2015/10/Jelmaan-2015-Tonton-Online-Full-Movie-240x140.jpg" group-title="DiGi&free",Pendekar Tongkat Emas 2014
+https://v0.sg.cptr-api.com/st/4/jobs/ecc5dbdf-630a-4554-94ad-29abcec2d362/files_by_id/d8562db7-2abd-4f59-a9fd-46638f715743/Pendekar.Tongkat.Emas.2014.720p.BrRip.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d6mJvqs7-iQ/hqdefault.jpg" group-title="DiGi&free",Wanted 2008
+https://v0.sg.cptr-api.com/st/4/jobs/a5b13036-955c-45c8-91a0-64aae355cff7/files_by_id/1a3f5acf-ea1f-4dd9-a143-6fdcddb56b10/Wanted.2008.Capture.movie.stream.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://images2.static-bluray.com/movies/covers/65360_front.jpg" group-title="DiGi&free",Confession of Murder 2012
+https://v0.sg.cptr-api.com/st/4/jobs/8535ab3c-e393-4b6e-9be5-3c37752661db/files_by_id/48717478-5127-4d36-b7c3-239be91ca733/CaptureMovieHd.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Inception_OST.jpg" group-title="DiGi&free",Inception 2010
+https://v0.sg.cptr-api.com/st/4/jobs/e942a91f-d1e3-43c1-b8f9-bc2f2a13944a/files_by_id/4253f580-0744-4352-8073-c09f1311b0bd/mp4&amp;lmt1450632507841181&amp;mt1453618623&amp;ip128.199.239.217&amp;ipbits8&amp;expire1453647508&amp;sparamsipipb.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://vasha.ir/vasha-content/uploads/Spy-Time-2015-370x410.jpg" group-title="DiGi&free",Spy Time 2015
+https://v0.sg.cptr-api.com/st/4/jobs/c3e53944-916b-4ce5-988f-8ad75c7ef0e3/files_by_id/7186bc94-6453-499b-91af-aff45c25cd30/spytime.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Pgcdo9krs4k/Vesgef0UPhI/AAAAAAAAOkQ/FQk-rGALGJ8/s1600/standee.jpg" group-title="DiGi&free",Spectre 2015
+https://v0.sg.cptr-api.com/st/4/jobs/ea222f66-36fc-4db7-a85f-8240f7e41a-75/files_by_id/1d884372-9498-412e-9966-cc663bd442df/Spectre.j03X.flv?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://cdn.playbuzz.com/cdn/fec85ed9-69d7-419f-9489-3923f0427c21/ff9dad3d-ef6a-407f-8cb2-a3ff3204d953.jpg" group-title="DiGi&free",Friday The 13th
+https://v0.sg.cptr-api.com/st/4/jobs/37ce4473-1285-41cb-9552-3a58a5c30b93/files_by_id/8de4bda7-1304-496b-a7b5-2d37ee0a0d85/Shinokun.org.Friday.the.13th.2009.BluRay.360p.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-yWoWojiTCVY/Vh9o-0u1G6I/AAAAAAAAFkg/bjACzgN_CKA/s1600/cartel%2Bbatman%2Bbad%2Bblood.jpg" group-title="DiGi&free",Batman Bad Blood 2016
+https://v0.sg.cptr-api.com/st/4/jobs/7394a07f-8595-4bd6-a575-590036fc0d4f/files_by_id/28a529da-d614-4eab-b167-cd474703d893/Batman.Bad.Blood.2016.Bluray.360p.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://yify-movies-torrents.com/wp-content/uploads/2015/10/The-Last-Witch-Hunter-2015-YIFY-Movies-Torrents-340x300.jpg" group-title="DiGi&free",The Last Witch Hunter 2015
+https://v0.sg.cptr-api.com/st/4/jobs/ec78b9b9-9527-454b-9c1d-b0a6a55f5bbb/files_by_id/8ac5fb88-7698-4b26-b4f8-c8a88331c820/the-last-witch-hunter.mp4.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://mountainx.com/wp-content/uploads/2015/09/Black-Mass-2015-Movie-Poster.jpg" group-title="DiGi&free",Black Mass 2015
+https://v0.sg.cptr-api.com/st/4/jobs/f6c0c169-f5c7-4ac6-84b6-e77b5275907d/files_by_id/ad5a2c7a-f49b-44a5-b5b2-defe8418b84f/Black.Mass.2015.BluRay.720p.900MB.Ganool.ag.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://images.popmatters.com/dvd_art/j/johnnygotgun-cover.jpg" group-title="DiGi&free",Johnny Got His Gun 1971
+https://v0.sg.cptr-api.com/st/4/jobs/e26aca4c-f597-404c-b0f5-9eadb9d0f66f/files_by_id/709fb728-a629-4735-855f-bdc437e2f1e4/Johnny.Got.His.Gun.1971.720p.BluRay.x264.YIFY(1).mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://sorenfilm3.in/6911-large_default/the-revenant-2015.jpg" group-title="DiGi&free",The Revenant 2015
+https://v0.sg.cptr-api.com/st/4/jobs/99190ad9-1633-4c33-8f41-30fc34802aa7/files_by_id/9ff54e64-28b4-4b76-8564-ca9112261ac9/The.Revenant.2015.DVDSCR.@Capture.mkv?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.beautyandthedirt.com/wp-content/uploads/2011/03/Limitless1.jpg" group-title="DiGi&free",Limitless 2011
+https://v0.sg.cptr-api.com/st/4/jobs/d1ed4c9e-0ecb-4c44-90be-f91c40e6895d/files_by_id/bc238bcc-adcf-400a-a87c-790b53ca06a5/Limitless.2011.720p.BrRip.x264.YIFY-_5BPS_5D.flv.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj 
+
+#EXTINF:-1 tvg-logo="http://cdn04.cdn.justjaredjr.com/wp-content/uploads/headlines/2015/02/big-hero-6-bonus-clips.jpg" group-title="DiGi&free",Big Hero 6 2015
+https://v0.sg.cptr-api.com/st/4/jobs/dff93f6f-bf1a-44c9-b7e1-31709f2d9d71/files_by_id/71e41d5b-55f8-4652-818b-d2be1a6974c9/Big%2520Hero%25206%2520(2014)%2520-%2520BluRay_high_(sharingan).mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-xKHq3_7ZCKg/VU15G_R9LiI/AAAAAAAAfYs/wQPUj8fF1d4/s1420-p/Mad%2BMax%2BFury%2BRoad%2B-%2BMad%2BMax%2B4%2B-GALLETA%2BCoveRdvdGratiS.Com%2BV6.jpg" group-title="DiGi&free",Mad Max Fury Road 2015
+https://v0.sg.cptr-api.com/st/4/jobs/5c49283e-c023-4649-bc4c-3ad4a5722208/files_by_id/ea92ac0b-c0c8-4252-ad63-b2898ef2f301/Mad.Max.Fury.Road.2015.720p.BluRay.x264.YIFY.mp4?sub=v-high&amp;auth=R%2BSMQyUHtozsU9JgFZDA2Jnhdf0%3D&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://entertain.netkosh.com/Upload/Movies/c8386b28-583a-44e5-969f-73ff590cf5acP1.jpg" group-title="DiGi&free",Ride Along 2 2016
+https://v0.sg.cptr-api.com/st/4/jobs/6e64b377-c216-442b-b186-cd825b30c1dd/files_by_id/ee8a84f0-1f32-45fd-bb2d-8e8b07aeeec4/Ride.Along.2.2016.%28nipuzer%29.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-aD30tDw4i38/Vj8oxC7tSiI/AAAAAAAAB50/LKzU2mWJmFY/s500-c/Yakuza%2BApocalypse%2B%2528%2B2015%2B%2529.jpg" group-title="DiGi&free",Yakuza Apocalypse 2015
+https://v0.sg.cptr-api.com/st/4/jobs/9b5db873-a9d5-4ed8-a67a-2985e82253c9/files_by_id/06321b9b-abfa-432d-9f51-214a567b9d9d/Yakuza.apocalypse.2015.mp4?sub=v-high&amp;auth=fohGnD22Jv6J%2BsHp3eBWhj3VcOA%3D&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-T0Fc0BPe9v8/Vl-zEpJdrOI/AAAAAAAAAZs/tGZijXKXjdQ/s1600/The-Last-Rescue-2015-Full-English-Movie-Watch-Online-Free.jpg" group-title="DiGi&free",The Last Rescue 2015
+https://v0.sg.cptr-api.com/st/4/jobs/f7b8953c-4f84-4955-8729-1ba1d4ca4fb2/files_by_id/f690c08d-6c4c-4a4a-81b3-1834e0d6a9a8/moviebagus.com_The.Last.Rescue.2015.720p.BRRip.x264.AAC-ETRG.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.customaniacs.org/forum/CM_show_preview.php?attachmentid=581339" group-title="DiGi&free",Friend With Benefits 2011
+https://v0.sg.cptr-api.com/st/4/jobs/246b74fb-28fe-4399-bc89-b4caed460df4/files_by_id/240d6784-a0c4-4a22-b594-4479d5d07ce2/Friends.with.Benefits.2011.720p.BrRip.264.YIFY.mp4?sub=v-high&amp;auth=JC9pDxTgxPB67mOt%2BfaddBvaQqQ%3D&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://imgice.ru/images/2015/07/24/CbJ2z.jpg" group-title="DiGi&free",The Mechanic2010
+https://v0.sg.cptr-api.com/st/4/jobs/c12d1d2b-5e78-457b-af32-84c75f59e0ca/files_by_id/35280c7c-8cd6-46d4-a9c9-7ab1ce9a1545/The%20Mechanic%202010%20BRRip%20XviD%20LTRG.avi?sub=v-high&amp;auth=PiM8hhkQahuicrzjj2awoJ%2F461k%3D&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4PlCGnxAM5Dru40w5htvn63Fl-kRwl8WwvLaXv9GofiEBuEco" group-title="DiGi&free",V For Vendetta 2006 
+https://v0.sg.cptr-api.com/st/4/jobs/549aa91d-7fc8-4cd5-86b4-fa9a17cd6be7/files_by_id/f74d3e6b-f47f-4076-95c6-18a0601714d6/V.For.Vendetta.2006.720p.downloadur.org.mp4?sub=v-high&amp;auth=EXI9LilTY21vqVuH6iAZ6q8ZLyQ%3D&amp;key=KVEz-WDMsj
+ 
+#EXTINF:-1 tvg-logo="http://www.filmsite.org/featured/movie-fr-lordrings.jpg" group-title="DiGi&free",LOTD 2001
+https://v0.sg.cptr-api.com/st/4/jobs/123ff12e-ab1b-48b2-b244-512f547d023b/files_by_id/33736f6c-36cd-4fb9-abde-f2bb27971cda/The.Lord.of.the.Rings.the.Fellowship.of.the.Ring.EXTENDED.2001.720p.BrRip.x264.BOKUTOX.YIFY.mp4?sub=v-high&amp;auth=CF9J8jhKV0hqw93yk%2BgT2gV8%2FrY%3D&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://images4.static-bluray.com/movies/covers/22770_front.jpg" group-title="DiGi&free",Original Sin 2001 
+https://v0.sg.cptr-api.com/st/4/jobs/2f589586-a37d-46d9-9bd0-66626b943525/files_by_id/4938697e-c16d-4779-b0f2-87d10828d268/Original.Sin.2001.720p.@Capture.mkv?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://cdn.traileraddict.com/content/sony-pictures/the-throwaways.jpg" group-title="DiGi&free",Throwaways 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/0c2952b3-4796-4054-873c-2bd0ae1ed93a/files_by_id/5748a8a5-c7c3-4db9-8d77-0e9f9c9227e8/The.Throwaways.2015.DVDRip.400MB.Ganool.ag.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="https://www.movie-asia.com/wallpaper/d/18421-5/wall2sizec.jpg" group-title="DiGi&free",Queen Of Langkasuka 2008 
+https://v0.sg.cptr-api.com/st/4/jobs/c51b69a9-2e41-47ea-8e65-48a1e4589b0e/files_by_id/57955f7e-3d59-4743-95c3-fe9709618e0d/Queens.of.Langkasuka.2008.720p.BRRip-PaHe.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TImZhuI.jpg" group-title="DiGi&free",Terminator Genisys 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/0d6749e7-d6b3-4ff9-b11b-bc51a843a47c/files_by_id/7a87b5e1-9c0e-4e1c-b0fc-9b6ae337deb4/terminator%202015.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://news.yuvayana.org/wp-content/uploads/sites/10/2015/06/MI5-Tom-Cruise-on-bike-wallpaper.jpg" group-title="DiGi&free",MI-Rogue Nation 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/016e2971-e729-4dbb-b7ef-ddaef4480cdd/files_by_id/92d983d8-1489-435a-b716-502a54857be9/Mission%20Impossible%20Rogue%20Nation%202015%20www.9xmovies.in%20BRRip%20480p%20ESub.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://ost.songsara.net/wp-content/uploads/2015/12/Magnus-Beite-The-Wave-2015-Cover.jpg" group-title="DiGi&free",The Wave 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/7bb0d3c4-72ad-48f3-a15a-21b8f2fd0f70/files_by_id/7e2091ff-eaad-4761-a6bc-f6671b7c43cc/Bolgen.2015.BluRay.720p.750MB.Ganool.uk.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://x.annihil.us/u/prod/marvel/i/mg/2/e0/54a1a5337532e/background.jpg" group-title="DiGi&free",Antman 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/7a84a0df-e0ef-4ede-addd-62768e9818d6/files_by_id/e44e41a5-c6bb-48f6-8d79-fea83c102662/Ant-Man%20%282015%29%20%20Sub%20Indonesia.j03X.flv?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/10/12/goosebumps-movie.jpg" group-title="DiGi&free",Goosebumps 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/e17ac748-b49b-4af4-978e-a856003303f4/files_by_id/d567415b-d604-4ccc-ba04-cd6947711a50/gos30dual.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.screenrelish.com/wp-content/uploads/2015/05/SANANDREAS.jpg" group-title="DiGi&free",San Andreas 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/14fac7a5-ce79-45eb-b773-f9523f48df6b/files_by_id/d4a981ff-dfb3-4645-922d-8168b29b5c74/San%20Andreas%20%20%282015%29%201080pFull.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.freecovers.net/preview/2/f34c95803203c0338339a7318de34c2b/big.jpg" group-title="DiGi&free",Transporter Refueled 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/2bd20c24-dc5b-45bf-bb9a-01642c46e5d1/files_by_id/a97e984d-6020-4a0d-b9eb-604d42398f6d/The%20Transporter%20Refueled.mkv?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://albums.songspk.link/images/cover/55982723f2175Bajrangi-Bhaijaan-Hindi-2015-500x500.jpg" group-title="DiGi&free",Bajrangi Bhaijaan 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/c0a29abd-2add-4646-b31b-0623a3773ec4/files_by_id/820d8fe4-83cf-431c-bedf-d8cfc6fa99f8/DP_Bajrangi.Bhaijaan.2015.720p.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GPSeTXb.jpg" group-title="DiGi&free",Maze Runner 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/1b552539-f97d-4194-bacf-7eec7e95ecc7/files_by_id/d0598f03-c2ef-4b56-8391-f0b03a5e2d0a/Maze-Runner--The-Scorch-Trials-.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IQZLKjh.jpg" group-title="DiGi&free",IP Man The Final Fight 2013 
+https://v0.sg.cptr-api.com/st/4/jobs/72d26-298-3a4b-44d1-960e-e571463f749e/files_by_id/a29e7c5f-e600-42b0-889c-2de260b-c40ac/Ip%20Man%20The%20Final%20Fight%20BRRip%20XviD-j03X.avi?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://images4.static-bluray.com/movies/covers/50195_front.jpg" group-title="DiGi&free",Gangster Squad 2013
+https://v0.sg.cptr-api.com/st/4/jobs/319d2470-473c-4f28-ad94-ea9f2ef29-fa9/files_by_id/64390966-f54a-46e6-95c3-1a0df90617aa/Gangster-Squad-2013-72-0p-BRrip-j03X.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.movierulz25.com/wp-content/uploads/2015/12/boruto-naruto-the-movie-original-soundtrack-2015-08-05.jpg" group-title="DiGi&free",Boruto 2015
+https://v0.sg.cptr-api.com/st/4/jobs/b61425f0-068d-4e89-a66d-3054c3f963b8/files_by_id/710b3da2-66fe-4fce-9e26-b6a822a07690/BNTM-360p-DUBJEP-SAMEHADAKU.NET.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://41.media.tumblr.com/5a95e1e56f71aeb4c0bfebe717c06160/tumblr_mv7zyqXq9M1ssldgzo1_500.jpg" group-title="DiGi&free",Dinosaur island 2014 
+https://v0.sg.cptr-api.com/st/4/jobs/f3f81d87-0b3b-48e1-926e-7d30b7c60a14/files_by_id/2c86262f-de67-496d-902e-31bf344691b4/dinosour%2520island.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://i.dailymail.co.uk/i/pix/2015/04/17/01/27A5B97A00000578-3042817-image-a-2_1429230263728.jpg" group-title="DiGi&free",Pan 2015
+https://v0.sg.cptr-api.com/st/4/jobs/d241cb59-4b22-44cc-afac-e69d09ea3242/files_by_id/0e20e0ec-8110-4210-98cb-0be5625f9ffb/Pan%20%282015%29.mkv?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://cosmouk.cdnds.net/15/37/980x978/gallery-1441795762-legend-poster.jpg" group-title="DiGi&free",Lagend 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/27ffc1d5-5d0c-43ce-8921-25ea5613d43a/files_by_id/a7e954a9-f9cc-4c9f-a2ef-59-e4c9e28917/Legend.2015.720p.WEBRip.950MB.MkvCage.mkv?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Dilwale_(2015)_album_cover.jpeg" group-title="DiGi&free",Dilwale 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/c9bb683f-3c04-46cb-a40f-129389f62597/files_by_id/24e885de-9b02-48b4-9747-f6f5f2241b1c/DF_Dilwale_2015_malaySubs.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.flickeringmyth.com/wp-content/uploads/2015/08/crimson-peak-poster-202x300.jpg" group-title="DiGi&free",Crimson Peak 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/e56d3cd8-1ad4-445d-8d9c-95de0a6eeb69/files_by_id/38ad17e0-be3e-4fb4-8537-5724da172d03/Crimson.Peak.2015.%28nipuzer%29.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.customdvd.org/forum/attachment.php?attachmentid=63971&stc=1&thumb=1&d=1441390288" group-title="DiGi&free", Hyena Road 2015 
+https://v0.sg.cptr-api.com/st/4/jobs/ad935f12-0546-4bf6-86de-9a4b01996161/files_by_id/0f9a339f-c712-41d2-a21d-91956e7b7350/DF_Hyena.Road.2015.BluRay.720pmkv?sub=v-high&amp;auth=nJItNah3Cbj8eQSzkaDTWR84siE%3D&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://www.hexder.com/blog/wp-content/uploads/2015/04/fast_and_furious_7-HD-Wallpaper-Vin-Diesel-Jason_statham_Paul-Walker-Hexder.jpg" group-title="DiGi&free", Furious 7 2015
+https://v0.sg.cptr-api.com/st/4/jobs/c257c882-b89e-47fe-844d-ad44d0dd6c79/files_by_id/39a7afb3-ac7d-42b8-97d4-3e40b1fe19cd/DF_Furious.Seven.2015.mp4?sub=v-high&amp;auth=adHfMmW7tD9DMeTqkmOolNezVig%3D&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-LFg6MLySit4/Vn6id1VXo7I/AAAAAAAABL4/OlI2ce_p_YE/s150-c/TVon9.NET%2BGulai%2BKawah%2BEmpulur%2BPisang.jpg" group-title="DiGi&free", Gulai Kawah Empulur Pisang 2015
+https://v0.sg.cptr-api.com/st/4/jobs/2c7246e5-f1d5-4bed-9ff7-cf8d7c369bac/files_by_id/ec4fb3cb-0b79-416f-9b61-6791a4e92dba/DP_GulaiKawah%20Empulur%20Pisang%202015%20HDTV%20720p%20x264%20AC3.mkv?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://bp2.blogger.com/_T0DqrATqrag/RhOu8lBLhGI/AAAAAAAAAhI/Vup6JTzrj-o/s320/zombi.jpg" group-title="DiGi&free",Zombi Kampung Pisang 2007
+https://v0.sg.cptr-api.com/st/4/jobs/d69797ae-a464-4453-a938-99d51b6f5319/files_by_id/6fb532ca-4d77-408f-832d-642047f6b19d/Zombiekgpisang.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://moviegoersmagazine.com/wp-content/uploads/2014/11/filmhantujugaselfie.jpg" group-title="DiGi&free",Hantu Selfie 2004
+https://v0.sg.cptr-api.com/st/4/jobs/0cf70dff-5cf5-46ef-9dea-ffaad58b272a/files_by_id/7fecff83-3af3-4bf3-a498-5938f13096b8/Hantu%20Selfie%202014.mp4?sub=v-high&amp;auth=&amp;key=KVEz-WDMsj
+
+#EXTINF:-1 tvg-logo="http://hdmovies.mywapblog.com/files/my-darah2bpanas-4jun.jpg" group-title="DiGi&free",Darah Panas 2015
+https://v0.sg.cptr-api.com/st/4/jobs/4627a563-3805-4a78-bb6f-d30df55ddc3b/files_by_id/e2fdbe56-472e-46c7-8f80-416df87f3cec/darahpanas.mp4?sub=v-high&auth=&key=KVEz-WDMsj
+
+
+
+
+#EXTINF:-1 tvg-logo="http://fredericksburglive.com/wp-content/uploads/2012/05/Music-Icon.jpg" group-title="Others" , •M U S I C•    
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/kWIu8K0qcCVKUsvDQ4sKrm4hojzdU5hkToL3GLmyqUbI8FtiIxNj9Mdw4z3f3nH9m2M=w300" group-title="Others" ,BOLLYWOOD HUNGAMA
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-pSTjDlSgahQ/VVsbLaM40NI/AAAAAAAAHvU/wr8F9v9gPoE/s1600/Vevo.png" group-title="DiGi&MF",Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-pSTjDlSgahQ/VVsbLaM40NI/AAAAAAAAHvU/wr8F9v9gPoE/s1600/Vevo.png" group-title="DiGi&MF",VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-pSTjDlSgahQ/VVsbLaM40NI/AAAAAAAAHvU/wr8F9v9gPoE/s1600/Vevo.png" group-title="DiGi&MF",Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-pSTjDlSgahQ/VVsbLaM40NI/AAAAAAAAHvU/wr8F9v9gPoE/s1600/Vevo.png" group-title="DiGi&MF",Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:0 group-title="Others",MCM Top
+http://46.19.99.11:8000/mcm-top
+
+#EXTINF:0 tvg-logo="http://sky1cast.com/img/tv-icons/miamiTV.jpg" group-title="Others",MIAMI TV
+http://74.208.152.93/music/stream.m3u8
+
+#EXTINF:0 tvg-logo="http://webhabertv.com/wp-content/uploads/2015/03/mzi.otveinak.png" group-title="Others",Number One TV
+http://wms.shared.streamshow.it/numberonetv/numberonetv/playlist.m3u8
+
+ 
+ 
+
+
+
+#EXTINF:-1 tvg-logo="https://t1.ftcdn.net/jpg/00/31/16/46/500_F_31164619_DcToVrQxCDK2PxJ3As3O4k4Mj5pXrTLu.jpg", •R A D I O•
+https://www.youtube.com/watch?v=x6NtpkIqOeA
+ 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/MPqEbnx4ZM79zRJMhkhzpV_KVwTggS8aUMLDOMTqYHigl91E6J30m0c42Ql6-OFseA=w300" group-title="Radio", This Habbo Radio
+http://sc.thishabbo.com:8080/;stream.nsv 
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s54689q.png" radio="true" group-title="DiGi&MF", *HOT FM
+http://2343.live.streamtheworld.com/HOTFMAAC
+ 
+#EXTINF:-1 tvg-logo="" tvg-logo="http://2.bp.blogspot.com/-YHSGOL1oPI0/UOOnPxK2bHI/AAAAAAAABq0/gknsiNf65Po/s1600/img_kelate_black.png" group-title="Radio",HOT FM KELATE
+http://2633.live.streamtheworld.com/HOTFMKELATEAAC
+ 
+#EXTINF:-1 tvg-logo="" tvg-logo="http://apps.hotfm.com.my/streaming/Hot-FM-Tganu-Logo-White.jpg" group-title="Radio",HOT FM GANU
+http://2173.live.streamtheworld.com/HOTFMTGANUAAC
+ 
+#EXTINF:-1 tvg-logo="" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/856_300.png" group-title="DiGi&MF", ERA.FM
+http://astro2.rastream.com/era?type=.flv/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-oePC3ktHT4c/UmWRQLHXIdI/AAAAAAAAEBE/vJFhhDfxA-w/s1600/manis-fm-image-250x250px.jpg" group-title="DiGi&MF", MANIS FM 
+http://radio.manis.fm:8000/;stream.nsv
+ 
+#EXTINF:-1 tvg-logo="http://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s306x306/e15/11032793_234914920012432_1780427240_n.jpg" group-title="DiGi&MF", KELANTAN FM
+http://72.20.10.34:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-TVbIR0010UA/Uj8xLFhKtiI/AAAAAAAAD44/FZSpsHFB8pE/s1600/terengganu-fm-image.jpg" group-title="Radio", Terengganu FM
+http://218.208.228.62:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.malaysiaradio.net/wp-content/uploads/2014/09/Perlis-FM.jpg" group-title="Radio",PERLIS FM
+http://198.154.106.102:8453/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/ikim-fm.jpg" group-title="DiGi&MF", IKIM FM
+http://50.7.96.210:8285/;stream.mp3 
+ 
+#EXTINF:-1 tvg-logo="" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTsmze1RXvzfK2mgGGQVd7dPIkTkw3qfCHJ_baaoxyr2wHesalF" group-title="DiGi&MF",SURIA FM
+http://starrfm.rastream.com/starrfm-suria?type=.flv/;stream.mp3
+ 
+#EXTINF:-1 tvg-logo="" tvg-logo="https://radioactive-images.s3.amazonaws.com/gegar.png" group-title="DiGi&MF",THR GEGAR
+http://astro3.rastream.com/gegar?/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://radioactive-images.s3.amazonaws.com/raaga.png" group-title="DiGi&MF",THR RAAGA FM
+http://astro3.rastream.com/raaga?type=.flv/;stream.mp3
+ 
+#EXTINF:-1 tvg-logo="" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/857_300.png" group-title="DiGi&MF" ,SINAR.FM
+http://astro2.rastream.com/sinar?type=.flv/;stream.mp3
+ 
+ 
+#EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r1000/102/Purple/v4/40/2a/b9/402ab925-4556-dacb-0d33-2305509eeced/mzl.byxryzcw.175x175-75.jpg" group-title="DiGi&MF",HITZ FM
+http://astro1.rastream.com/hitz?type=.flv/;stream.mp3
+ 
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/293/78E9FB2E4D27FFFC1EC587643CA29330/mix.png" group-title="DiGi&MF",MIX FM
+http://astro2.rastream.com/mix?type=.flv/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-DsmmWuBqWic/Ulhaivz88FI/AAAAAAAAD-k/M8RIp2borfc/s1600/muzik-fm-stesen-muzik-anda-image.jpg" group-title="Radio",MUZIK FM
+http://69.197.60.122:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s54528q.png" group-title="Radio",FLY FM
+http://7439.live.streamtheworld.com/FLYFMAAC?type=.flv/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Logo_of_LiteFM.svg/1015px-Logo_of_LiteFM.svg.png" group-title="DiGi&MF",LITE FM
+http://astro1.rastream.com/lite?type=.flv/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/radioactive-images/amp/myfm_logo_20150402.png" group-title="DiGi&MF",MY FM
+http://astro1.rastream.com/myfm?type=.flv/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.radioonlinestreaming.com/wp-content/uploads/2015/02/Warna-94.2-FM-Logo.jpg" group-title="Radio",WARNA 94.2FM (SINGAPORE)
+http://mediacorp.rastream.com/942fm?type=.mp3/;stream.mp3
+
+#EXTINF:-1 tvg-logo="radio.png" tvg-logo="http://d1i6vahw24eb07.cloudfront.net/s16407q.png" group-title="Radio",RIA 89.7FM (SINGAPORE)
+http://mediacorp.rastream.com/897fm?type=.mp3/;stream.mp3
