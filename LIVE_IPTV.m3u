@@ -7,7 +7,7 @@ http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/playlist.m3u8
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
 
 #EXTINF:-1, TV3
-http://www.layarku.tv/media/2tv3.m3u8
+http://www.layarku.tv/media/tv3web6.m3u8
 
 #EXTINF:-1, TV9
 http://www.layarku.tv/media/2tv9.m3u8
@@ -24,16 +24,16 @@ http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 #EXTINF:-1, Astro Awani
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/132_300.png" group-title="Malaysia" ,Astro Warna
+#EXTINF:-1, Astro Warna
 http://www.layarku.tv/media/warna6v.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/104_300.png" group-title="Malaysia", Astro Ria
+#EXTINF:-1, Astro Ria
 http://www.layarku.tv/media/tmp2ria.m3u8
 
-#EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="https://pbs.twimg.com/profile_images/3436916643/d06996441c8f8663aa7f2e04a81a553d.jpeg" group-title="Malaysia",Astro Oasis
+#EXTINF:-1, Astro Oasis
 http://www.layarku.tv/media/oasis6v.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/dd/Astro_AEC.jpg/200px-Astro_AEC.jpg" group-title="Malaysia",Astro AEC
+#EXTINF:-1, Astro AEC
 http://go.layarku.tv/aec.m3u8
 
 #EXTINF:-1, KBS
