@@ -1,51 +1,63 @@
 #EXTM3U
 
+#EXTINF:-1, TV1 SD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/chunklist_b965536.m3u8
+
 #EXTINF:-1, TV1
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/playlist.m3u8
+
+#EXTINF:-1, TV2 SD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/chunklist_b965536.m3u8
 
 #EXTINF:-1, TV2
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
 
 #EXTINF:-1, TV3
-http://www.layarku.tv/media/tv3web6.m3u8
+http://www.layarku.tv/media/2tv3.m3u8
 
 #EXTINF:-1, TV9
 http://www.layarku.tv/media/2tv9.m3u8
 
 #EXTINF:-1, TVi
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/chunklist_b965536.m3u8
+
+#EXTINF:-1, TVi HD
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/playlist.m3u8
 
-#EXTINF:-1, Muzik Aktif
+#EXTINF:-1, MUZIK AKTIF SD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/chunklist_b965536.m3u8
+
+#EXTINF:-1, MUZIK AKTIF
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/playlist.m3u8
 
-#EXTINF:-1, Al-Hijrah
+#EXTINF:-1, AL HIJRAH
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
-#EXTINF:-1, Astro Awani
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/03.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-n4lAk-IWmvI/VVsbN074wgI/AAAAAAAAHvs/f3jstIW7IVI/s1600/astroawani.png" , ASTRO AWANI
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
-#EXTINF:-1, Astro Warna
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/132_300.png" group-title="Malaysia" ,ASTRO WARNA
 http://www.layarku.tv/media/warna6v.m3u8
 
-#EXTINF:-1, Astro Ria
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/104_300.png" group-title="Malaysia", ASTRO RIA
 http://www.layarku.tv/media/tmp2ria.m3u8
 
-#EXTINF:-1, Astro Oasis
+#EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="https://pbs.twimg.com/profile_images/3436916643/d06996441c8f8663aa7f2e04a81a553d.jpeg" group-title="Malaysia",ASTRO OASIS
 http://www.layarku.tv/media/oasis6v.m3u8
 
-#EXTINF:-1, Astro AEC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/dd/Astro_AEC.jpg/200px-Astro_AEC.jpg" group-title="Malaysia",ASTRO AEC
 http://go.layarku.tv/aec.m3u8
 
-#EXTINF:-1, KBS
+#EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-j5Tr0sN7fKA/TxvEP-FLDdI/AAAAAAAAB-c/P0ZOUElTTuM/s1600/astro+logo.jpg" group-title="Malaysia", Astro Arena
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-j5Tr0sN7fKA/TxvEP-FLDdI/AAAAAAAAB-c/P0ZOUElTTuM/s1600/astro+logo.jpg" group-title="Malaysia", ASTRO ARENA
 http://go.layarku.tv/arena_temp2.m3u8
 
-#EXTINF:0, Astro Arena (backup)
+#EXTINF:0, ASTRO ARENA (backup)
 http://www.layarku.tv/media/2arena.m3u8
 
-#EXTINF:0, Bernama TV
+#EXTINF:0, BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
 
 #EXTINF:0, Bernama (backup)
@@ -93,13 +105,13 @@ http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_all/playlist.m3u8
 #EXTINF:-0, [COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",Al Jazeera English
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:0, BLOOMBERG TELEVISION
+#EXTINF:0, BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:-1, NHK WORLD
@@ -117,7 +129,7 @@ http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
 #EXTINF:0, Cartoon Network Asia
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,UK: Cartoon Network
 http://89.163.148.31:8000/live/aytac/aytac/2828.m3u8
 
 #EXTINF:0, JEI ENGLISH TV
@@ -141,13 +153,13 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:0, PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 
-#EXTINF:-1,Sky Movies Premiere HD
+#EXTINF:-1,UK: Sky Movies Premiere HD
 http://ipsatpro.com:8000/live/Krishna/Krishna/519.m3u8
-#EXTINF:-1,Movies 24
+#EXTINF:-1,UK: Sky Movies 24
 http://ipsatpro.com:8000/live/Krishna/Krishna/523.m3u8
-#EXTINF:-1,True Movies 1
+#EXTINF:-1,UK: Sky True Movies1
 http://ipsatpro.com:8000/live/Krishna/Krishna/472.m3u8
-#EXTINF:-1,True Movies 2
+#EXTINF:-1,UK: Sky True Movies 2
 http://ipsatpro.com:8000/live/Krishna/Krishna/534.m3u8
 
 #EXTINF:0, [COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]
@@ -162,7 +174,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:-1, ONE HD
+#EXTINF:-1, ONE 1 HD
 http://rtmp.one.by:1300
 
 #EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR]
@@ -180,33 +192,33 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]http://bit.ly/1S9ZsEY[/B]
 http://ow.ly/XzGG7
 
-#EXTINF:-1,BT Sport 1
+#EXTINF:-1,UK: BT Sports 1
 http://89.163.148.31:8000/live/aytac/aytac/2830.m3u8
-#EXTINF:-1,BT Sport 2
+#EXTINF:-1,UK: BT Sports 2 HD
 http://89.163.148.31:8000/live/aytac/aytac/2829.m3u8
 
-#EXTINF:0, Astro SuperSport
+#EXTINF:0, ASTRO SUPERSPORT 1
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
 
-#EXTINF:0, Astro SuperSport 2
+#EXTINF:0, ASTRO SUPERSPORT 2
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
 
-#EXTINF:0, Astro SuperSport 3
+#EXTINF:0, ASTRO SUPERSPORT 3
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
 
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1,UK: Sky Sport F1 HD
 http://89.163.148.31:8000/live/aytac/aytac/2762.m3u8
-#EXTINF:-1,Sky Sports 5
+#EXTINF:-1,UK: SKY SPORT 5 HD
 http://89.163.148.31:8000/live/aytac/aytac/2763.m3u8
-#EXTINF:-1,Sky Sports 4
+#EXTINF:-1,UK: Sky Sport 4 HD
 http://89.163.148.31:8000/live/aytac/aytac/2764.m3u8
-#EXTINF:-1,Sky Sports 3
+#EXTINF:-1,UK: Sky Sport 3 HD
 http://89.163.148.31:8000/live/aytac/aytac/2765.m3u8
-#EXTINF:-1,Sky Sports 2
+#EXTINF:-1,UK: SKY SPORT 2HD
 http://89.163.148.31:8000/live/aytac/aytac/2766.m3u8
-#EXTINF:-1,Sky Sports 1
+#EXTINF:-1,UK: SKY SPORT 1 HD
 http://89.163.148.31:8000/live/aytac/aytac/2767.m3u8
-#EXTINF:-1,Sky Sports 1 (SD)
+#EXTINF:-1,UK: Sky Sport 1
 http://89.163.148.31:8000/live/aytac/aytac/2768.m3u8
 
 #EXTINF:0, Sport Time TV2
