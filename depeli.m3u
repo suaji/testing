@@ -10,11 +10,23 @@ https://www.youtube.com/watch?v=x6NtpkIqOeA
 #EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="http://blog.ezyinsights.com/wp-content/uploads/2014/09/link.png" ,•NOT FOR SALE!!!•
 https://www.youtube.com/watch?v=x6NtpkIqOeA
 
+
 #EXTINF:-1 tvg-logo="http://bit.ly/URLDePeliIPTV" group-title="Event", *LIVE Event 1
-rtmp://$OPT:rtmp-raw=rtmpe://162.253.131.34:1935/app/skysports1lsh pageUrl=http://cdn.lshstream.com/hpgdisco  token=SECURET0KEN#yw%.?()@W
+rtmp://$OPT:rtmp-raw=rtmpe://134.19.185.140:1935/app/jytjytjytjytjytjyjtyjty15 pageUrl=http://cdn.lshstream.com/hpgdisco  token=SECURET0KEN#yw%.?()@W
 
 #EXTINF:-1 tvg-logo="http://bit.ly/URLDePeliIPTV" group-title="Event", *LIVE Event 2
-rtmp://$OPT:rtmp-raw=rtmpe://134.19.185.189:1935/app/vch1lsh pageUrl=http://cdn.lshstream.com/hpgdisco  token=SECURET0KEN#yw%.?()@W
+rtmp://$OPT:rtmp-raw=rtmpe://134.19.185.156:1935/app/bein1frlsh58 pageUrl=http://cdn.lshstream.com/hpgdisco  token=SECURET0KEN#yw%.?()@W
+
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/URLDePeliIPTV" group-title="Event", *LIVE Event 3
+https://manifest.googlevideo.com/api/manifest/hls_variant/keepalive/yes/fexp/9416126%2C9420017%2C9420452%2C9422596%2C9423661%2C9423662%2C9423863%2C9425518%2C9426905%2C9427760%2C9427977%2C9428471%2C9428734%2C9428757/maudio/1/key/yt6/ip/115.134.132.229/sver/3/hfr/1/source/yt_live_broadcast/ratebypass/yes/id/nn5shdzrhyY.4/itag/0/pmbypass/yes/expire/1455389875/ipbits/0/playlist_type/DVR/sparams/gcr%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cpmbypass%2Cratebypass%2Csource%2Cexpire/gcr/my/upn/yeJndWQ5Dg4/signature/6DEDC69B50798DA075AD9596EA9FFCA7EEAF9FBF.0507C198E57F8A7E6DBB8768FA1F283CB26A68D0/file/index.m3u8?cpn=Dok7yG6TyxapCdl7&ibw=10960000&ptk=youtube_none&pltype=contentugclive&c=WEB&cver=html5
+
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/URLDePeliIPTV" group-title="Event", *LIVE Event 4
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/XWDptK6kjO8.2/itag/0/gcr/my/pmbypass/yes/signature/4610E476594C52F3D379920C5AB5BF5DB73CF6F3.7224B4C3437593497BE8F64EF63A2BD7A7D0B848/expire/1455390356/sver/3/fexp/9416126%2C9420017%2C9420452%2C9422596%2C9423661%2C9423662%2C9423863%2C9425518%2C9426905%2C9427760%2C9427977%2C9428471%2C9428734%2C9428757/playlist_type/DVR/maudio/1/upn/eROjronmcvQ/hfr/1/ip/115.134.132.229/key/yt6/ipbits/0/ratebypass/yes/keepalive/yes/source/yt_live_broadcast/sparams/gcr%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cpmbypass%2Cratebypass%2Csource%2Cexpire/file/index.m3u8?cpn=4xCc69wSCrY1V0pO&ibw=5500000&ptk=youtube_none&pltype=contentugclive&c=WEB&cver=html5
+
 
 
 #EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="http://1.bp.blogspot.com/-GPIwrae2jdg/VVsbIQ7nkbI/AAAAAAAAHus/jK5QMaNg_H8/s1600/TV1.png" group-title="Malaysia",TV1
@@ -544,10 +556,6 @@ http://wms.shared.streamshow.it/numberonetv/numberonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://t1.ftcdn.net/jpg/00/31/16/46/500_F_31164619_DcToVrQxCDK2PxJ3As3O4k4Mj5pXrTLu.jpg", •R A D I O•
 https://www.youtube.com/watch?v=x6NtpkIqOeA
  
-
-
-
-
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/MPqEbnx4ZM79zRJMhkhzpV_KVwTggS8aUMLDOMTqYHigl91E6J30m0c42Ql6-OFseA=w300" group-title="Radio", This Habbo Radio
 http://sc.thishabbo.com:8080/;stream.nsv 
 
