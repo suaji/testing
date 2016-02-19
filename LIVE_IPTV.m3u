@@ -31,7 +31,7 @@ http://www.layarku.tv/media/warna6v.m3u8
 http://www.layarku.tv/media/tmp2ria.m3u8
 
 #EXTINF:-1, Astro Oasis
-http://www.layarku.tv/media/oasis6v.m3u8
+http://www.layarku.tv/media/oasweb6.m3u8
 
 #EXTINF:-1, Astro AEC
 http://go.layarku.tv/aec.m3u8
@@ -40,16 +40,10 @@ http://go.layarku.tv/aec.m3u8
 rtmp://118.97.183.196/jhos//kbs
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-j5Tr0sN7fKA/TxvEP-FLDdI/AAAAAAAAB-c/P0ZOUElTTuM/s1600/astro+logo.jpg" group-title="Malaysia", Astro Arena
-http://go.layarku.tv/arena_temp2.m3u8
-
-#EXTINF:0, Astro Arena (backup)
-http://www.layarku.tv/media/2arena.m3u8
+http://www.layarku.tv/media/areweb6.m3u8
 
 #EXTINF:0, Bernama TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
-
-#EXTINF:0, Bernama (backup)
-http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w1145460817_b878000_sleng.m3u8
 
 #EXTINF:-1, 1NEWS SD
 http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/chunklist_b965536.m3u8
@@ -186,13 +180,13 @@ http://89.163.148.31:8000/live/aytac/aytac/2830.m3u8
 http://89.163.148.31:8000/live/aytac/aytac/2829.m3u8
 
 #EXTINF:0, Astro SuperSport
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
+http://goo.gl/7njwDf
 
 #EXTINF:0, Astro SuperSport 2
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
+http://goo.gl/uD3jfm
 
 #EXTINF:0, Astro SuperSport 3
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
+http://goo.gl/vGCUFj
 
 #EXTINF:-1,Sky Sports F1
 http://89.163.148.31:8000/live/aytac/aytac/2762.m3u8
