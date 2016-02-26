@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1, TV1 SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/chunklist_b965536.m3u8
-
 #EXTINF:-1, TV1
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/playlist.m3u8
 
-#EXTINF:-1, TV2 SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/chunklist_b965536.m3u8
+#EXTINF:-1, TV1 SD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/chunklist_b965536.m3u8
 
 #EXTINF:-1, TV2
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
+
+#EXTINF:-1, TV2 SD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/chunklist_b965536.m3u8
 
 #EXTINF:-1, TV3
 http://www.layarku.tv/media/2tv3.m3u8
@@ -19,16 +19,16 @@ http://www.layarku.tv/media/2tv3.m3u8
 http://www.layarku.tv/media/2tv9.m3u8
 
 #EXTINF:-1, TVi
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/chunklist_b965536.m3u8
-
-#EXTINF:-1, TVi HD
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/playlist.m3u8
 
-#EXTINF:-1, MUZIK AKTIF SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/chunklist_b965536.m3u8
+#EXTINF:-1, TVi SD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/chunklist_b965536.m3u8
 
 #EXTINF:-1, MUZIK AKTIF
 http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/playlist.m3u8
+
+#EXTINF:-1, MUZIK AKTIF SD
+http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/chunklist_b965536.m3u8
 
 #EXTINF:-1, AL HIJRAH
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
@@ -283,3 +283,30 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:-1,Al Jazeera
+http://62.65.140.154:80/session/9b746b34-dbe7-11e5-9eb8-005056bc1a52/nvnv5a/2/4013/2290000/index.m3u8?token=b86c133e8792fffcfcaf1049f978e150_1455180021_1455180021&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,BBC1 HD
+http://62.65.140.217:80/session/9d9b2268-dbe7-11e5-b7a6-005056bc06d1/nvnv5a/2/4017/4240000/index.m3u8?token=c91c60b9b26118913e53c3295ccc88d9_1455180024_1455180024&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,BBC2 HD
+http://62.65.140.218:80/session/9e24c4c8-dbe7-11e5-996e-005056bc49ac/nvnv5a/2/4012/4240000/index.m3u8?token=05f366eaa133c37f630916831ab8f387_1455180025_1455180025&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,BBC3 HD
+http://62.65.140.216:80/session/9ebd12aa-dbe7-11e5-a43c-005056bc1a52/nvnv5a/2/4008/2290000/index.m3u8?token=3a0a7255f63c2f28299c40b2587b8987_1455180026_1455180026&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,BBC World News
+http://62.65.140.153:80/session/9f57c20a-dbe7-11e5-879d-005056bc49ac/nvnv5a/2/4003/2290000/index.m3u8?token=25f14f13087ab4986c1dad674d728c09_1455180026_1455180026&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,Channel 4 HD
+http://62.65.140.149:80/session/a1b32ae4-dbe7-11e5-a5c9-005056bc1a52/nvnv5a/2/4022/4240000/index.m3u8?token=0ab22ea3a65158f1c9fc07fbf0660eb0_1455180031_1455180031&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,CNBC
+http://62.65.140.151:80/session/a33a0ae0-dbe7-11e5-bd4d-005056bc49ac/nvnv5a/2/4001/2290000/index.m3u8?token=0369a75d8b4d95e82bf71d8de295716d_1455180033_1455180033&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,CNN
+http://62.65.140.218:80/session/a3cb54fa-dbe7-11e5-a5c9-005056bc1a52/nvnv5a/2/4002/2290000/index.m3u8?token=2569eae7766a9b87577e57619e30ecde_1455180033_1455180033&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,EuroNews English
+http://62.65.140.153:80/session/a6185622-dbe7-11e5-9ef6-005056bc06d1/nvnv5a/1/104903/2290000/index.m3u8?token=f30713a590fe803b481e77d0815c1d0f_1455180037_1455180037&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,Film4
+http://62.65.140.148:80/session/a8860bb6-dbe7-11e5-b333-005056bc06d1/nvnv5a/2/4023/2290000/index.m3u8?token=1889101d4b248952d8c850902918e867_1455180042_1455180042&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,ITV1 HD
+http://62.65.140.215:80/session/acc8ddfc-dbe7-11e5-996e-005056bc49ac/nvnv5a/2/4018/4240000/index.m3u8?token=2284f1089182c673c6bb8689a4f177d1_1455180048_1455180048&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,ITV2 HD
+http://62.65.140.219:80/session/ad4ccbd0-dbe7-11e5-9eb8-005056bc1a52/nvnv5a/2/4005/2290000/index.m3u8?token=592d2e98cf47c3cad25e29bc79603ef2_1455180049_1455180049&p=127|X-Forwarded-For=85.2.221.130
+#EXTINF:-1,ITV3 HD
+http://62.65.140.150:80/session/addf0252-dbe7-11e5-9eb8-005056bc1a52/nvnv5a/2/4025/2290000/index.m3u8?token=b4c9214619e1cb8
