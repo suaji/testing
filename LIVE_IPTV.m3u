@@ -178,21 +178,6 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 #EXTINF:0, Sport Time TV5
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
 
-#EXTINF:0, beINSPORT01_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/1731.m3u8
-
-#EXTINF:0, beINSPORT02_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/34.m3u8
-
-#EXTINF:0, beINSPORT03_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/35.m3u8
-
-#EXTINF:0, beINSPORT04_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/36.m3u8
-
-#EXTINF:0, beINSPORT05_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/37.m3u8
-
 #EXTINF:0, [COLOR gold][B](::: RADIO :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
@@ -246,26 +231,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0,beINSPORT06_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/38.m3u8
-#EXTINF:0,beINSPORT07_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/39.m3u8
-#EXTINF:0,beINSPORT08_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/40.m3u8
-#EXTINF:0,beINSPORT09_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/41.m3u8
-#EXTINF:0,beINSPORT10_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/42.m3u8
-#EXTINF:0,beINSPORT11_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/43.m3u8
-#EXTINF:0,beINSPORT12_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/44.m3u8
-#EXTINF:0,beINSPORT13_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/45.m3u8
-#EXTINF:0,beINSPORT14_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/46.m3u8
-#EXTINF:0,beINSPORT15_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/47.m3u8
-#EXTINF:0,beINSPORT16_HD
-http://redbled.no-ip.org:8000/live/ZUkiSACZ/BVSE1SPr/48.m3u8
