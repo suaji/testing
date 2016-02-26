@@ -231,3 +231,15 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, ASSP1
+http://23be4sf0ep.servep2p.com/plus/assp1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE2IDM6NTM6MjYgQU0maGFzaF92YWx1ZT1qL3lNb0g1STUvajUrbzh3cWpNU1BnPT0mdmFsaWRtaW51dGVzPTU=
+
+#EXTINF:0, ASSP2
+http://23be4sf0ep.servep2p.com/plus/assp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE2IDM6NTc6MTcgQU0maGFzaF92YWx1ZT0wck1EWmtueUFEUlowY3pZcWlRb2NBPT0mdmFsaWRtaW51dGVzPTU=
+
+#EXTINF:0, ASSP3
+http://23be4sf0ep.servep2p.com/plus/assp3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE2IDM6NTg6MTIgQU0maGFzaF92YWx1ZT1JbVh0aDQrRGlaSUdObkxDdndkY0ZnPT0mdmFsaWRtaW51dGVzPTU=
+
+#EXTINF:0, FOX Sports
+http://23be4sf0ep.servep2p.com/plus/fox/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE2IDM6NTk6MDYgQU0maGFzaF92YWx1ZT0vSzdGazJZZ3FoWWFjTjMrTlRWMGFBPT0mdmFsaWRtaW51dGVzPTU=
