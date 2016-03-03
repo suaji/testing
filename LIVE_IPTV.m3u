@@ -69,12 +69,6 @@ http://stream.beritasatu.com:8134/world.m3u8
 #EXTINF:0, METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:0, LBS K-Drama
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/ldrama2_all/playlist.m3u8
-
-#EXTINF:0, LBS IN-Drama
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_all/playlist.m3u8
-
 #EXTINF:0, MIVO TV
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_all/playlist.m3u8
 
@@ -110,6 +104,11 @@ http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 
 #EXTINF:0, [COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
 http://50.7.96.210:8285
+
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://cp.dmbshare.net:8000/live/burgess/burgess/2793.m3u8
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC WILD
+http://cp.dmbshare.net:8000/live/burgess/burgess/2792.m3u8
 
 #EXTINF:-1,ITV1 HD
 http://62.65.140.215:80/session/acc8ddfc-dbe7-11e5-996e-005056bc49ac/nvnv5a/2/4018/4240000/index.m3u8?token=2284f1089182c673c6bb8689a4f177d1_1455180048_1455180048&p=127|X-Forwarded-For=85.2.221.130
@@ -148,7 +147,7 @@ http://rtmp.one.by:1300
 #EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, [COLOR yellow][B]UPDATED : 26/02/2016[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 03/03/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -168,6 +167,16 @@ http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
 
 #EXTINF:0, SUPERSPORT 3
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
+
+#EXTINF:-1,SPORT : DIGI SPORT 1
+http://62.210.162.88:80/live/SPORT118/175029022016/2054.m3u8
+#EXTINF:-1,SPORT : DIGI SPORT 2
+http://62.210.162.88:80/live/SPORT118/175029022016/2055.m3u8
+#EXTINF:-1,SPORT : DIGI SPORT 3
+http://62.210.162.88:80/live/SPORT118/175029022016/2056.m3u8
+
+#EXTINF:-1,UK: Premiere Sport
+http://cp.dmbshare.net:8000/live/burgess/burgess/2790.m3u8
 
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
