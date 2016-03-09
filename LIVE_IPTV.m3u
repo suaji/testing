@@ -1,29 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1, TV1
-http://rtm-live.glueapi.io/smil:rtm-ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ1NzQ4NzA3MH0.sFOi35zOI7YACv31RtZahQGy_fs_axUL4uKQ6QKNe6eE4B8TxJ7zTl3_H29L7B4t8jlB4BEqJ6lCPqI65egkIA
-
-
-#EXTINF:-1, TV1 SD
-http://rtm-live.glueapi.io/smil:rtm-ch001.smil/chunklist_w2051163648_b2040000_sleng.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch001.smil/playlist.m3u8
 
 #EXTINF:-1, TV2
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
-
-#EXTINF:-1, TV2 SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/chunklist_b965536.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch002.smil/playlist.m3u8
 
 #EXTINF:-1, TVi
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/playlist.m3u8
-
-#EXTINF:-1, TVi SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/chunklist_b965536.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch003/playlist.m3u8
 
 #EXTINF:-1, MUZIK AKTIF
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/playlist.m3u8
-
-#EXTINF:-1, MUZIK AKTIF SD
-http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/chunklist_b965536.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch004.smil/playlist.m3u8
 
 #EXTINF:-1, AL HIJRAH
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
@@ -44,7 +31,7 @@ http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w11
 http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/playlist.m3u8
 
 #EXTINF:-1, 1NEWS SD
-http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/chunklist_b965536.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch006.smil/playlist.m3u8
 
 #EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
 http://50.7.96.210:8285
