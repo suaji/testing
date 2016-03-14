@@ -13,6 +13,131 @@
 </item>
 
 <item>
+<title>Darah Panas HD (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hyr7yda25g4c-640x360.html</link>
+<thumbnail>http://www.tontononline.net/wp-content/uploads/2015/11/Darah-Panas-2015-Download-Online-Full-Movie.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/neJgRwJRlBE/maxresdefault.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-hyr7yda25g4c-640x360.html</page>
+<referer>http://streamin.to/hyr7yda25g4c</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-hyr7yda25g4c-640x360.html</page>
+<referer>http://streamin.to/hyr7yda25g4c</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-hyr7yda25g4c-640x360.html</page>
+<referer>http://streamin.to/hyr7yda25g4c</referer>
+</regex>
+</item>
+
+<item>
+<title>Chowrasta HD (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ipm68wxhv7dx-640x360.html</link>
+<thumbnail>http://vplaytv.me/wp-content/uploads/2016/01/chowrasta.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/48aqBYRy9jo/maxresdefault.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ipm68wxhv7dx-640x360.html</page>
+<referer>http://streamin.to/ipm68wxhv7dx</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ipm68wxhv7dx-640x360.html</page>
+<referer>http://streamin.to/ipm68wxhv7dx</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ipm68wxhv7dx-640x360.html</page>
+<referer>http://streamin.to/ipm68wxhv7dx</referer>
+</regex>
+</item>
+
+<item>
+<title>Badi HD (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hu2focridml7-640x360.html</link>
+<thumbnail>http://www.tontononline.net/wp-content/uploads/2015/11/Badi-2015-Tonton-Online-Free-Full-Movie.jpg</thumbnail>
+<fanart>http://s1.dmcdn.net/MujDB/1280x720-yFu.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-hu2focridml7-640x360.html</page>
+<referer>http://streamin.to/hu2focridml7</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-hu2focridml7-640x360.html</page>
+<referer>http://streamin.to/hu2focridml7</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-hu2focridml7-640x360.html</page>
+<referer>http://streamin.to/hu2focridml7</referer>
+</regex>
+</item>
+
+<item>
+<title>Girlfriend Kontrak (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jjubrqkru8pj-640x360.html</link>
+<thumbnail>http://assets.veedo.my/wp-content/uploads/2015/09/25100755/featured_girlfriend_kontrak.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-EhfCugf58js/Vee_d8HpQaI/AAAAAAAADDI/obdtsrKcupQ/s640/girlfriend%2Bkontrak.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-jjubrqkru8pj-640x360.html</page>
+<referer>http://streamin.to/jjubrqkru8pj</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-jjubrqkru8pj-640x360.html</page>
+<referer>http://streamin.to/jjubrqkru8pj</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-jjubrqkru8pj-640x360.html</page>
+<referer>http://streamin.to/jjubrqkru8pj</referer>
+</regex>
+</item>
+
+<item>
+<title>Apartment HD (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ikka93hjsxcq-640x360.html</link>
+<thumbnail>http://vplaytv.me/wp-content/uploads/2016/01/Apartment.jpg</thumbnail>
+<fanart>http://www.cinema.com.my/images/news/2015/7f_sebabperlutontonapartment00.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ikka93hjsxcq-640x360.html</page>
+<referer>http://streamin.to/ikka93hjsxcq</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ikka93hjsxcq-640x360.html</page>
+<referer>http://streamin.to/ikka93hjsxcq</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ikka93hjsxcq-640x360.html</page>
+<referer>http://streamin.to/ikka93hjsxcq</referer>
+</regex>
+</item>
+
+<item>
 <title> Ada Apa Dekat Bus Stop (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-pp872b7zmwc6-640x360.html</link>
 <thumbnail>http://www.tontononline.net/wp-content/uploads/2015/10/Ada-Apa-Dekat-Bus-Stop-2015-Tonton-Online-Full-Movie.jpg</thumbnail>
