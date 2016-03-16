@@ -132,7 +132,7 @@ http://rtmp.one.by:1300
 #EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, [COLOR yellow][B]UPDATED : 03/03/2016[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 16/03/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -144,6 +144,18 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]http://bit.ly/1S9ZsEY[/B]
 http://ow.ly/XzGG7
 
+#EXTINF:0, BT Sport 1
+rtmp://185.63.255.60:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438  token=%Zrey(nKa@#Z
+
+#EXTINF:0, BT Sport 2
+http://iptv-supplier.com:8000/live/houssem1/houssem1/281.m3u8
+
+#EXTINF:0, FOX SPORT 1 US HD
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+
+#EXTINF:0, FOX SPORT 2 US
+rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+
 #EXTINF:0, SUPERSPORT 1
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
 
@@ -152,6 +164,17 @@ http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
 
 #EXTINF:0, SUPERSPORT 3
 http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
+
+#EXTINF:-1,Sky Sports 1
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
+#EXTINF:-1,Sky Sports 2
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
+#EXTINF:-1,Sky Sports 3
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
+#EXTINF:-1,Sky Sports 4
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
+#EXTINF:-1,Sky Sports 5
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
 
 #EXTINF:-1,SPORT : DIGI SPORT 1
 http://62.210.162.88:80/live/SPORT118/175029022016/2054.m3u8
@@ -225,15 +248,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0, ASSP1
-http://23be4sf0ep.servep2p.com/plus/assp1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE2IDM6NTM6MjYgQU0maGFzaF92YWx1ZT1qL3lNb0g1STUvajUrbzh3cWpNU1BnPT0mdmFsaWRtaW51dGVzPTU=
-
-#EXTINF:0, ASSP2
-http://23be4sf0ep.servep2p.com/plus/assp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE2IDM6NTc6MTcgQU0maGFzaF92YWx1ZT0wck1EWmtueUFEUlowY3pZcWlRb2NBPT0mdmFsaWRtaW51dGVzPTU=
-
-#EXTINF:0, ASSP3
-http://23be4sf0ep.servep2p.com/plus/assp3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE2IDM6NTg6MTIgQU0maGFzaF92YWx1ZT1JbVh0aDQrRGlaSUdObkxDdndkY0ZnPT0mdmFsaWRtaW51dGVzPTU=
-
-#EXTINF:0, FOX Sports
-http://23be4sf0ep.servep2p.com/plus/fox/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDE2IDM6NTk6MDYgQU0maGFzaF92YWx1ZT0vSzdGazJZZ3FoWWFjTjMrTlRWMGFBPT0mdmFsaWRtaW51dGVzPTU=
