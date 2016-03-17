@@ -13,6 +13,31 @@
 </item>
 
 <item>
+<title>Pelepas Saka (2016)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-e0dfiey9y7q8-640x360.html</link>
+<thumbnail>http://kitepunye.com/wp-content/uploads/2016/02/poster.jpg</thumbnail>
+<fanart>http://kitepunye.com/wp-content/uploads/2016/02/DSC4626.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-e0dfiey9y7q8-640x360.html</page>
+<referer>http://streamin.to/e0dfiey9y7q8</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-e0dfiey9y7q8-640x360.html</page>
+<referer>http://streamin.to/e0dfiey9y7q8</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-e0dfiey9y7q8-640x360.html</page>
+<referer>http://streamin.to/e0dfiey9y7q8</referer>
+</regex>
+</item>
+
+<item>
 <title>Mat Moto HD (2016)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-d0ua7ecmy5zu-640x360.html</link>
 <thumbnail>http://www.tontononline.net/wp-content/uploads/2016/01/Mat-Moto-2016.jpg</thumbnail>
