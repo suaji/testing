@@ -38,7 +38,7 @@
 </item>
 
 <item>
-<title>Mat Moto HD (2016)</title>
+<title>Mat Moto (2016) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-d0ua7ecmy5zu-640x360.html</link>
 <thumbnail>http://www.tontononline.net/wp-content/uploads/2016/01/Mat-Moto-2016.jpg</thumbnail>
 <fanart>https://farm6.staticflickr.com/5693/23302122350_71a88e255e_c.jpg</fanart>
@@ -63,7 +63,7 @@
 </item>
 
 <item>
-<title>Langit Cinta HD (2015)</title>
+<title>Langit Cinta (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3rbbqte99nmi-640x360.html</link>
 <thumbnail>https://pbs.twimg.com/media/CQoSpYcVEAA1Jse.jpg</thumbnail>
 <fanart>http://m.utusan.com.my/polopoly_fs/1.174457.1451447184!/image/image.jpg_gen/derivatives/landscape_650/image.jpg</fanart>
@@ -88,7 +88,7 @@
 </item>
 
 <item>
-<title>Darah Panas HD (2015)</title>
+<title>Darah Panas (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hyr7yda25g4c-640x360.html</link>
 <thumbnail>http://www.tontononline.net/wp-content/uploads/2015/11/Darah-Panas-2015-Download-Online-Full-Movie.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/neJgRwJRlBE/maxresdefault.jpg</fanart>
@@ -113,7 +113,7 @@
 </item>
 
 <item>
-<title>Chowrasta HD (2015)</title>
+<title>Chowrasta (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ipm68wxhv7dx-640x360.html</link>
 <thumbnail>http://vplaytv.me/wp-content/uploads/2016/01/chowrasta.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/48aqBYRy9jo/maxresdefault.jpg</fanart>
@@ -138,7 +138,7 @@
 </item>
 
 <item>
-<title>Badi HD (2015)</title>
+<title>Badi (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hu2focridml7-640x360.html</link>
 <thumbnail>http://www.tontononline.net/wp-content/uploads/2015/11/Badi-2015-Tonton-Online-Free-Full-Movie.jpg</thumbnail>
 <fanart>http://s1.dmcdn.net/MujDB/1280x720-yFu.jpg</fanart>
@@ -188,7 +188,7 @@
 </item>
 
 <item>
-<title>Apartment HD (2015)</title>
+<title>Apartment (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ikka93hjsxcq-640x360.html</link>
 <thumbnail>http://vplaytv.me/wp-content/uploads/2016/01/Apartment.jpg</thumbnail>
 <fanart>http://www.cinema.com.my/images/news/2015/7f_sebabperlutontonapartment00.jpg</fanart>
@@ -238,7 +238,7 @@
 </item>
 
 <item>
-<title> Sinaran HD (2015)</title>
+<title> Sinaran (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-38v352omyvba-640x360.html</link>
 <thumbnail>http://www.tontononline.net/wp-content/uploads/2015/10/Sinaran-2015-Tonton-Online-Full-Movie.jpg</thumbnail>
 <fanart>http://i.insing.com.sg/cms/29/ff/7c/22/152472/d160d0d030.jpg</fanart>
@@ -263,7 +263,7 @@
 </item>
 
 <item>
-<title>Rembat Just Duit HD (2015)</title>
+<title>Rembat Just Duit (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2lm8dw6qam1n-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/12/7rembat00_450.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-UUcrLPWFhAY/Vf1LUViHD6I/AAAAAAAALiE/kvHidOav71o/s400/Filem-Rembat.jpg</fanart>
@@ -288,7 +288,7 @@
 </item>
 
 <item>
-<title>Banglo Berkunci HD (2015)</title>
+<title>Banglo Berkunci (2015) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wd40kmrtrtaf-640x360.html</link>
 <thumbnail>http://i1068.photobucket.com/albums/u441/mig_online/Artikel/2015/Artikel%20September%202015/Banglo%20Berkunci%20FA%20Poster/FA%20Poster%20Banglo%20Berkunci_zpsxluxglsx.jpg</thumbnail>
 <fanart>http://kitepunye.com/wp-content/uploads/2015/12/P1580269.jpg</fanart>
@@ -488,27 +488,27 @@
 </item>
 
 <item>
-<title>Jwanita (2015) SD</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1avzq022jzsi-640x360.html</link>
+<title>Jwanita (2015) HD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-40znjbsfwvn9-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7jwanita00_450.jpg</thumbnail>
 <fanart>http://www.tv14.my/wp-content/uploads/2015/09/Jwanita9.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-1avzq022jzsi-640x360.html</page>
-<referer>http://streamin.to/1avzq022jzsi</referer>
+<page>http://streamin.to/embed-40znjbsfwvn9-640x360.html</page>
+<referer>http://streamin.to/40znjbsfwvn9</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-1avzq022jzsi-640x360.html</page>
-<referer>http://streamin.to/1avzq022jzsi</referer>
+<page>http://streamin.to/embed-40znjbsfwvn9-640x360.html</page>
+<referer>http://streamin.to/40znjbsfwvn9</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-1avzq022jzsi-640x360.html</page>
-<referer>http://streamin.to/1avzq022jzsi</referer>
+<page>http://streamin.to/embed-40znjbsfwvn9-640x360.html</page>
+<referer>http://streamin.to/40znjbsfwvn9</referer>
 </regex>
 </item>
 
@@ -974,26 +974,26 @@
 
 <item>
 <title>Abang Lejen (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-is82iux03xrp-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eo584ikff73h-640x360.html</link>
 <thumbnail>http://www.thesoftbay.com/wp-content/uploads/2015/05/Abang-Lejen-2015-DVDRip.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/8-uv2db_QCk/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-is82iux03xrp-640x360.html</page>
-<referer>http://streamin.to/is82iux03xrp</referer>
+<page>http://streamin.to/embed-eo584ikff73h-640x360.html</page>
+<referer>http://streamin.to/eo584ikff73h</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-is82iux03xrp-640x360.html</page>
-<referer>http://streamin.to/is82iux03xrp</referer>
+<page>http://streamin.to/embed-eo584ikff73h-640x360.html</page>
+<referer>http://streamin.to/eo584ikff73h</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-is82iux03xrp-640x360.html</page>
-<referer>http://streamin.to/is82iux03xrp</referer>
+<page>http://streamin.to/embed-eo584ikff73h-640x360.html</page>
+<referer>http://streamin.to/eo584ikff73h</referer>
 </regex>
 </item>
 
