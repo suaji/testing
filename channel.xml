@@ -1991,26 +1991,26 @@
 
 <item>
 <title>Penunggu Istana (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jqzldf87n00u-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-v2x4qptz5oqb-640x360.html</link>
 <thumbnail>http://1.bp.blogspot.com/-OWvjywonYvQ/TkLz1d0EBLI/AAAAAAAAADs/l9bZkANoA9k/s1600/penunggu+istana+-+ohfilem.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-9A_Oa3r1qcQ/TfsErilGHhI/AAAAAAAAFUY/5n02F14XiNI/s1600/pi01.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-jqzldf87n00u-640x360.html</page>
-<referer>http://streamin.to/jqzldf87n00u</referer>
+<page>http://streamin.to/embed-v2x4qptz5oqb-640x360.html</page>
+<referer>http://streamin.to/v2x4qptz5oqb</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-jqzldf87n00u-640x360.html</page>
-<referer>http://streamin.to/jqzldf87n00u</referer>
+<page>http://streamin.to/embed-v2x4qptz5oqb-640x360.html</page>
+<referer>http://streamin.to/v2x4qptz5oqb</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-jqzldf87n00u-640x360.html</page>
-<referer>http://streamin.to/jqzldf87n00u</referer>
+<page>http://streamin.to/embed-v2x4qptz5oqb-640x360.html</page>
+<referer>http://streamin.to/v2x4qptz5oqb</referer>
 </regex>
 </item>
 
