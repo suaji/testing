@@ -132,7 +132,7 @@ http://rtmp.one.by:1300
 #EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, [COLOR yellow][B]UPDATED : 16/03/2016[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 20/03/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -148,7 +148,10 @@ http://ow.ly/XzGG7
 rtmp://185.63.255.60:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438  token=%Zrey(nKa@#Z
 
 #EXTINF:0, BT Sport 2
-http://iptv-supplier.com:8000/live/houssem1/houssem1/281.m3u8
+rtmp://185.63.255.18:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=688&vh=387 token=%Zrey(nKa@#Z
+
+#EXTINF:0, SKY SPORTS 1
+rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z
 
 #EXTINF:0, FOX SPORT 1 US HD
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
