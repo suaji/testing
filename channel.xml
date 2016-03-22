@@ -264,26 +264,26 @@
 
 <item>
 <title>Rembat Just Duit (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-2lm8dw6qam1n-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-l4fneyv75d9x-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/12/7rembat00_450.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-UUcrLPWFhAY/Vf1LUViHD6I/AAAAAAAALiE/kvHidOav71o/s400/Filem-Rembat.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-2lm8dw6qam1n-640x360.html</page>
-<referer>http://streamin.to/2lm8dw6qam1n</referer>
+<page>http://streamin.to/embed-l4fneyv75d9x-640x360.html</page>
+<referer>http://streamin.to/l4fneyv75d9x</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-2lm8dw6qam1n-640x360.html</page>
-<referer>http://streamin.to/2lm8dw6qam1n</referer>
+<page>http://streamin.to/embed-l4fneyv75d9x-640x360.html</page>
+<referer>http://streamin.to/l4fneyv75d9x</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-2lm8dw6qam1n-640x360.html</page>
-<referer>http://streamin.to/2lm8dw6qam1n</referer>
+<page>http://streamin.to/embed-l4fneyv75d9x-640x360.html</page>
+<referer>http://streamin.to/l4fneyv75d9x</referer>
 </regex>
 </item>
 
