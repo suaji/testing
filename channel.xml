@@ -13,6 +13,31 @@
 </item>
 
 <item>
+<title>Ola Bola (2016) HD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5tq2r4ex7glc-640x360.html</link>
+<thumbnail>http://1.bp.blogspot.com/-ishazC7tLlI/VqnQNuahIMI/AAAAAAAAc_A/lUO7aZXOi4U/s1600/Ola%2BBola%2BMovie%2BReview%2B2016%2B%25284%2529.jpg</thumbnail>
+<fanart>http://www.cinema.com.my/images/news/2016/7n_olabolabakalditayangkaneng00.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-5tq2r4ex7glc-640x360.html</page>
+<referer>http://streamin.to/5tq2r4ex7glc</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-5tq2r4ex7glc-640x360.html</page>
+<referer>http://streamin.to/5tq2r4ex7glc</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-5tq2r4ex7glc-640x360.html</page>
+<referer>http://streamin.to/5tq2r4ex7glc</referer>
+</regex>
+</item>
+
+<item>
 <title>Pelepas Saka (2016)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-e0dfiey9y7q8-640x360.html</link>
 <thumbnail>http://kitepunye.com/wp-content/uploads/2016/02/poster.jpg</thumbnail>
@@ -2121,12 +2146,12 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 09.44 31-12-2015 , suaji86@gmail.com[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 11.44 25-03-2016 , suaji86@gmail.com[/COLOR]</title>
 <link>https://copy.com/Bg3yctJnCuBD10rU/%5BPENCURIMOVIE.PW%20%5D%20Jwanita.2015.720P.PPVRiP.AC3.PFT.mkv?revision=9&download=1</link>
 </item>
 
 <item>
-<title>kredit PencuriMovie.pw</title>
+<title>kredit PencuriMovie.se</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
