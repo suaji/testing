@@ -251,3 +251,35 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, True Sport 2
+rtmp://216.185.103.158/live2// playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
+
+#EXTINF:0, True Sport2
+rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
+
+#EXTINF:0, True Sport 2 Sport
+rtmp://216.185.103.158/live2// playpath=chthaipremier31 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3374/true-sport-2-sport
+
+#EXTINF:0, ITV 4
+http://live-1165.gv2.edge.filmon.com/live/101.low.stream/playlist.m3u8
+
+#EXTINF:0, SCTV 15
+http://112.197.2.135:1935/colive/C042_SD_3/playlist.m3u8
+
+#EXTINF:0, SCTV 16
+http://112.197.2.135:1935/colive/C042_SD_4/playlist.m3u8
+
+#EXTINF:0, SCTV 18 HD
+http://112.197.2.135:1935/colive/C008_HD_4/playlist.m3u8
+
+#EXTINF:0, Korean Drama (ENG)
+rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
+
+#EXTINF:0, Korea Hits
+rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/1293/korea-hits
+
+#EXTINF:0, GOMTV
+rtmp://edge1.everyon.tv/etv1sb/ playpath=phd44 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/2125/gomtv
+
+#EXTINF:0, Arirang TV HD
