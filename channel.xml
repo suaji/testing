@@ -1866,26 +1866,26 @@
 
 <item>
 <title>Istanbul Aku Datang (2012)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nxgm0ximk9a9-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bhvtndjj6c7u-640x360.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/b/b6/Istanbul_Aku_Datang.jpeg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-TfL9P-5RhOM/UKeeVkQwkKI/AAAAAAAAAvA/pqRPeDrb2aM/s640/22.JPG</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-nxgm0ximk9a9-640x360.html</page>
-<referer>http://streamin.to/nxgm0ximk9a9</referer>
+<page>http://streamin.to/embed-bhvtndjj6c7u-640x360.html</page>
+<referer>http://streamin.to/bhvtndjj6c7u</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-nxgm0ximk9a9-640x360.html</page>
-<referer>http://streamin.to/nxgm0ximk9a9</referer>
+<page>http://streamin.to/embed-bhvtndjj6c7u-640x360.html</page>
+<referer>http://streamin.to/bhvtndjj6c7u</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-nxgm0ximk9a9-640x360.html</page>
-<referer>http://streamin.to/nxgm0ximk9a9</referer>
+<page>http://streamin.to/embed-bhvtndjj6c7u-640x360.html</page>
+<referer>http://streamin.to/bhvtndjj6c7u</referer>
 </regex>
 </item>
 
