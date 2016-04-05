@@ -247,3 +247,15 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, NTV7_1
+http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m?hdnea=st=1459848833~exp=1459848923~acl=/z/ntv7flash_sp@392290/*~hmac=a94b2d6ec75af943ea5f3ce6b8e8e7392b89163d34fd088133dea1e8ab97d05d&hdcore=2.10.3&g=DCVTBLHZWMOW
+
+#EXTINF:0, NTV7_2
+http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m
+
+#EXTINF:0, NTV7_3
+http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/playlist.m3u8
+
+#EXTINF:0, NTV7_4
+http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/master.m3u8
