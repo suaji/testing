@@ -36,13 +36,13 @@ http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF:0, Korean Drama (ENG)
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 
-#EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
+#EXTINF:-0, [COLOR deepskyblue][B].....INDONESIA.....)[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-0, [COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]
+#EXTINF:-0, [COLOR slateblue][B].....NEWS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
@@ -60,7 +60,7 @@ http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:0, [COLOR fuchsia][B](::: KIDS :::)[/B][/COLOR]
+#EXTINF:0, [COLOR fuchsia][B].....KIDS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, KIDS PLAY
@@ -72,10 +72,19 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/p
 #EXTINF:0, JEI ENGLISH TV
 http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 
-#EXTINF:0, [COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
+#EXTINF:0, [COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, [COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]
+#EXTINF:-1,DISCOVERY
+http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/187.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/188.m3u8
+#EXTINF:-1,NAT.GEOG
+http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/189.m3u8
+#EXTINF:-1,HISTORY
+http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/190.m3u8
+
+#EXTINF:0, [COLOR springgreen][B].....FAMILY.....[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MAX"  group-title="ENGLISH",MBC MAX
@@ -87,7 +96,7 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:0, PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 
-#EXTINF:0, [COLOR cyan][B](::: MUSIC :::)[/B][/COLOR]
+#EXTINF:0, [COLOR cyan][B].....MUSIC.....[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, VEVO 1 HD
@@ -105,7 +114,7 @@ http://rtmp.one.by:1300
 #EXTINF:0, Korea Hits
 rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/1293/korea-hits
 
-#EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR]
+#EXTINF:0, [COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, [COLOR yellow][B]UPDATED : 07/04/2016[/B][/COLOR]
@@ -146,7 +155,7 @@ rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.or
 #EXTINF:0, Sport Time TV5
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
 
-#EXTINF:0, [COLOR gold][B](::: RADIO :::)[/B][/COLOR]
+#EXTINF:0, [COLOR gold][B].....RADIO.....[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
@@ -206,8 +215,12 @@ https://oqt1ph.oloadcdn.net/dl/l/clBLYTS-mGA/mw-jmpPxYfA/%5BPENCURIMOVIE.SE%5D+P
 #EXTINF:0, [COLOR yellow][B]Jgn Emel marah link MATI ^_^[/B][/COLOR]
 http://bit.ly/1q8i63V
 
-#EXTINF:-1 tvg-id="455" tvg-name="BT Sport 1" tvg-logo="http://shqipal.altervista.org/storage/tv/btsport1.png" group-title="Sport",BT Sport 1 - BT Sport 1
-http://xmedia.bossna-caffe.com:80/live?channelId=455&uid=2490&deviceUser=hamdija&devicePass=hamdija
+#EXTINF:-1,NICKELODEON
+http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/385.m3u8
 
-#EXTINF:-1 tvg-id="456" tvg-name="BT Sport 2" tvg-logo="http://sport.bt.com/images/bt-sport-2-logo-136381974821911201-130801120415.jpg" group-title="Sport",BT Sport 2 - BT Sport 2
-http://xmedia.bossna-caffe.com:80/live?channelId=456&uid=2490&deviceUser=hamdija&devicePass=hamdija
+#EXTINF:-1,SUPER SPORT 1 (ALB)
+http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/264.m3u8
+#EXTINF:-1,SUPER SPORT 2 (ALB)
+http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/265.m3u8
+#EXTINF:-1,SUPER SPORT 3 (ALB)
+http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/266.m3u8
