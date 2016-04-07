@@ -36,7 +36,7 @@ http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF:0, Korean Drama (ENG)
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 
-#EXTINF:-0, [COLOR deepskyblue][B].....INDONESIA.....)[/B][/COLOR]
+#EXTINF:-0, [COLOR deepskyblue][B].....INDONESIA.....[/B][/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, METRO TV
@@ -96,7 +96,7 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:0, PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 
-#EXTINF:0, [COLOR yellow][B].....V.O.D (Malay).....[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B].....VOD Malay.....[/B][/COLOR]
 http://pencurimovie.se/
 
 #EXTINF:0, Ola Bola (2016) HD
