@@ -96,6 +96,18 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:0, PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 
+#EXTINF:0, [COLOR yellow][B].....V.O.D (Malay).....[/B][/COLOR]
+http://pencurimovie.se/
+
+#EXTINF:0, Ola Bola (2016) HD
+http://bit.ly/1qvwFiH
+
+#EXTINF:0, Pelepas Saka (2016)
+http://bit.ly/1MU07sv
+
+#EXTINF:0, Mat Moto (2016) HD
+http://bit.ly/1XiIqDi
+
 #EXTINF:0, [COLOR cyan][B].....MUSIC.....[/B][/COLOR]
 http://50.7.96.210:8285
 
@@ -208,19 +220,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0, [COLOR yellow][B]Kasi free je.. Jgn DERMA[/B][/COLOR]
-https://oqt1ph.oloadcdn.net/dl/l/clBLYTS-mGA/mw-jmpPxYfA/%5BPENCURIMOVIE.SE%5D+Pelepas.Saka.2016.DVDRIP.576P.AAC.x264.PFT.mkv.mp4
-
-#EXTINF:0, [COLOR yellow][B]Jgn Emel marah link MATI ^_^[/B][/COLOR]
-http://bit.ly/1q8i63V
-
-#EXTINF:-1,NICKELODEON
-http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/385.m3u8
-
-#EXTINF:-1,SUPER SPORT 1 (ALB)
-http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/264.m3u8
-#EXTINF:-1,SUPER SPORT 2 (ALB)
-http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/265.m3u8
-#EXTINF:-1,SUPER SPORT 3 (ALB)
-http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/266.m3u8
