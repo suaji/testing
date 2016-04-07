@@ -39,14 +39,8 @@ rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf
 #EXTINF:-0, [COLOR deepskyblue][B](::: INDONESIA :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, BERITA SATU
-http://stream.beritasatu.com:8134/world.m3u8
-
 #EXTINF:0, METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:0, MIVO TV
-http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_all/playlist.m3u8
 
 #EXTINF:-0, [COLOR slateblue][B](::: NEWS :::)[/B][/COLOR]
 http://50.7.96.210:8285
@@ -81,18 +75,6 @@ http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 #EXTINF:0, [COLOR aquamarine][B](::: DOCUMENTARY :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
-http://cp.dmbshare.net:8000/live/burgess/burgess/2793.m3u8
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC WILD
-http://cp.dmbshare.net:8000/live/burgess/burgess/2792.m3u8
-
-#EXTINF:-1,ITV1 HD
-http://62.65.140.215:80/session/acc8ddfc-dbe7-11e5-996e-005056bc49ac/nvnv5a/2/4018/4240000/index.m3u8?token=2284f1089182c673c6bb8689a4f177d1_1455180048_1455180048&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,ITV2 HD
-http://62.65.140.219:80/session/ad4ccbd0-dbe7-11e5-9eb8-005056bc1a52/nvnv5a/2/4005/2290000/index.m3u8?token=592d2e98cf47c3cad25e29bc79603ef2_1455180049_1455180049&p=127|X-Forwarded-For=85.2.221.130
-#EXTINF:-1,ITV3 HD
-http://62.65.140.150:80/session/addf0252-dbe7-11e5-9eb8-005056bc1a52/nvnv5a/2/4025/2290000/index.m3u8?token=b4c9214619e1cb8
-
 #EXTINF:0, [COLOR springgreen][B](::: FAMILY :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
@@ -126,7 +108,7 @@ rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwp
 #EXTINF:0, [COLOR crimson][B](::: SPORTS :::)[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, [COLOR yellow][B]UPDATED : 25/03/2016[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 07/04/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -137,15 +119,6 @@ http://50.7.96.210:8285
 
 #EXTINF:0, [B]http://bit.ly/1pAYEMX[/B]
 http://ow.ly/XzGG7
-
-#EXTINF:0, SUPERSPORT 1
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp1/playlist.m3u8
-
-#EXTINF:0, SUPERSPORT 2
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp2/playlist.m3u8
-
-#EXTINF:0, SUPERSPORT 3
-http://erol74y7la.servep2p.com/mHyifxGiDv/assp3/playlist.m3u8
 
 #EXTINF:-1,Sky Sports 1
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
@@ -158,14 +131,8 @@ rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
 #EXTINF:-1,Sky Sports 5
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
 
-#EXTINF:0, BT Sport 1
-rtmp://185.63.255.60:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438  token=%Zrey(nKa@#Z
-
 #EXTINF:0, BT Sport 2
 rtmp://185.63.255.18:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=688&vh=387 token=%Zrey(nKa@#Z
-
-#EXTINF:0, SKY SPORTS 1
-rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=688&vh=387 token=%Zrey(nKa@#Z
 
 #EXTINF:0, FOX SPORT 1 US HD
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
@@ -173,23 +140,8 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 #EXTINF:0, FOX SPORT 2 US
 rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
 
-#EXTINF:-1,UK: Premiere Sport
-http://cp.dmbshare.net:8000/live/burgess/burgess/2790.m3u8
-
 #EXTINF:0, True Sport 2
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
-
-#EXTINF:0, SCTV 15
-http://112.197.2.135:1935/colive/C042_SD_3/playlist.m3u8
-
-#EXTINF:0, SCTV 16
-http://112.197.2.135:1935/colive/C042_SD_4/playlist.m3u8
-
-#EXTINF:0, SCTV 18 HD
-http://112.197.2.135:1935/colive/C008_HD_4/playlist.m3u8
-
-#EXTINF:0, Sport Time TV3
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_1200.mp4.m3u8
 
 #EXTINF:0, Sport Time TV5
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
@@ -248,8 +200,5 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
-#EXTINF:0, NTV7_3
-https://openload.co/f/k85_MWgPi1E/Ola.Bola.2016.WEB-DL.1080P.AAC.X264.PFT.mkv.mp4
-
-#EXTINF:0, NTV7_4
-https://openload.co/f/mw-jmpPxYfA/%5BPENCURIMOVIE.SE%5D_Pelepas.Saka.2016.DVDRIP.576P.AAC.x264.PFT.mkv.mp4
+#EXTINF:0, [COLOR yellow][B]Free je. Jgn Derma[/B][/COLOR]
+https://oqt1ph.oloadcdn.net/dl/l/clBLYTS-mGA/mw-jmpPxYfA/%5BPENCURIMOVIE.SE%5D+Pelepas.Saka.2016.DVDRIP.576P.AAC.x264.PFT.mkv.mp4
