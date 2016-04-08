@@ -229,3 +229,12 @@ http://1sn.ns1.name:18800/live/gino/gino/2640.m3u8
 http://1sn.ns1.name:18800/live/gino/gino/2635.m3u8
 #EXTINF:-1,USA: Fox Sports 1
 http://1sn.ns1.name:18800/live/gino/gino/2639.m3u8
+
+#EXTINF:-1,USA: Astro SUPERSPORT 4
+http://1sn.ns1.name:18800/live/gino/gino/2630.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 3
+http://1sn.ns1.name:18800/live/gino/gino/2629.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 2
+http://1sn.ns1.name:18800/live/gino/gino/2628.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 1
+http://1sn.ns1.name:18800/live/gino/gino/2627.ts
