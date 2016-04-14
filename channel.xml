@@ -1499,26 +1499,26 @@
 
 <item>
 <title>Kaki Kitai (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5z7iv30n05ap-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ycow2j4xwn71-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2014/12/kitai.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/qCS9rH5DWfQ/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-5z7iv30n05ap-640x360.html</page>
-<referer>http://streamin.to/5z7iv30n05ap</referer>
+<page>http://streamin.to/embed-ycow2j4xwn71-640x360.html</page>
+<referer>http://streamin.to/ycow2j4xwn71</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-5z7iv30n05ap-640x360.html</page>
-<referer>http://streamin.to/5z7iv30n05ap</referer>
+<page>http://streamin.to/embed-ycow2j4xwn71-640x360.html</page>
+<referer>http://streamin.to/ycow2j4xwn71</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-5z7iv30n05ap-640x360.html</page>
-<referer>http://streamin.to/5z7iv30n05ap</referer>
+<page>http://streamin.to/embed-ycow2j4xwn71-640x360.html</page>
+<referer>http://streamin.to/ycow2j4xwn71</referer>
 </regex>
 </item>
 
@@ -1741,26 +1741,26 @@
 
 <item>
 <title>Cara Mengundang Hantu (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-xobw9px56ez8-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-niy6p9ica98w-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/--9ze3veQq4/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-xobw9px56ez8-640x360.html</page>
-<referer>http://streamin.to/xobw9px56ez8</referer>
+<page>http://streamin.to/embed-niy6p9ica98w-640x360.html</page>
+<referer>http://streamin.to/niy6p9ica98w</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-xobw9px56ez8-640x360.html</page>
-<referer>http://streamin.to/xobw9px56ez8</referer>
+<page>http://streamin.to/embed-niy6p9ica98w-640x360.html</page>
+<referer>http://streamin.to/niy6p9ica98w</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-xobw9px56ez8-640x360.html</page>
-<referer>http://streamin.to/xobw9px56ez8</referer>
+<page>http://streamin.to/embed-niy6p9ica98w-640x360.html</page>
+<referer>http://streamin.to/niy6p9ica98w</referer>
 </regex>
 </item>
 
@@ -1816,26 +1816,26 @@
 
 <item>
 <title>Panik (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-oedez1c9fujz-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-a5vt6ivdulrn-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</thumbnail>
 <fanart>http://pencurimovie.pw/wp-content/uploads/2014/04/Panik.2014.SDTVRip.XviD_.AC3-LTTi.PFT-KakiSharing.com_.avi.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-oedez1c9fujz-640x360.html</page>
-<referer>http://streamin.to/oedez1c9fujz</referer>
+<page>http://streamin.to/embed-a5vt6ivdulrn-640x360.html</page>
+<referer>http://streamin.to/a5vt6ivdulrn</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-oedez1c9fujz-640x360.html</page>
-<referer>http://streamin.to/oedez1c9fujz</referer>
+<page>http://streamin.to/embed-a5vt6ivdulrn-640x360.html</page>
+<referer>http://streamin.to/a5vt6ivdulrn</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-oedez1c9fujz-640x360.html</page>
-<referer>http://streamin.to/oedez1c9fujz</referer>
+<page>http://streamin.to/embed-a5vt6ivdulrn-640x360.html</page>
+<referer>http://streamin.to/a5vt6ivdulrn</referer>
 </regex>
 </item>
 
@@ -1991,26 +1991,26 @@
 
 <item>
 <title>Senjakala (2011)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-lm94gtjst4o5-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8f31tp6zwj9n-640x360.html</link>
 <thumbnail>http://filemwayang.com/wp-content/uploads/2011/03/Poster-Senjakala.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-0-iTSzS4yU8/Taav4r30z8I/AAAAAAAAAlA/3fjdRN6_ibY/s1600/ERY_0570.JPG</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-lm94gtjst4o5-640x360.html</page>
-<referer>http://streamin.to/lm94gtjst4o5</referer>
+<page>http://streamin.to/embed-8f31tp6zwj9n-640x360.html</page>
+<referer>http://streamin.to/8f31tp6zwj9n</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-lm94gtjst4o5-640x360.html</page>
-<referer>http://streamin.to/lm94gtjst4o5</referer>
+<page>http://streamin.to/embed-8f31tp6zwj9n-640x360.html</page>
+<referer>http://streamin.to/8f31tp6zwj9n</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-lm94gtjst4o5-640x360.html</page>
-<referer>http://streamin.to/lm94gtjst4o5</referer>
+<page>http://streamin.to/embed-8f31tp6zwj9n-640x360.html</page>
+<referer>http://streamin.to/8f31tp6zwj9n</referer>
 </regex>
 </item>
 
@@ -2146,7 +2146,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 11.44 25-03-2016 , suaji86@gmail.com[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 09.22 14-04-2016 , suaji86@gmail.com[/COLOR]</title>
 <link>https://copy.com/Bg3yctJnCuBD10rU/%5BPENCURIMOVIE.PW%20%5D%20Jwanita.2015.720P.PPVRiP.AC3.PFT.mkv?revision=9&download=1</link>
 </item>
 
