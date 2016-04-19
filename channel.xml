@@ -539,26 +539,26 @@
 
 <item>
 <title>Jwanita (2015) HD</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-40znjbsfwvn9-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ie31n5xxwv8b-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7jwanita00_450.jpg</thumbnail>
 <fanart>http://www.tv14.my/wp-content/uploads/2015/09/Jwanita9.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-40znjbsfwvn9-640x360.html</page>
-<referer>http://streamin.to/40znjbsfwvn9</referer>
+<page>http://streamin.to/embed-ie31n5xxwv8b-640x360.html</page>
+<referer>http://streamin.to/ie31n5xxwv8b</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-40znjbsfwvn9-640x360.html</page>
-<referer>http://streamin.to/40znjbsfwvn9</referer>
+<page>http://streamin.to/embed-ie31n5xxwv8b-640x360.html</page>
+<referer>http://streamin.to/ie31n5xxwv8b</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-40znjbsfwvn9-640x360.html</page>
-<referer>http://streamin.to/40znjbsfwvn9</referer>
+<page>http://streamin.to/embed-ie31n5xxwv8b-640x360.html</page>
+<referer>http://streamin.to/ie31n5xxwv8b</referer>
 </regex>
 </item>
 
