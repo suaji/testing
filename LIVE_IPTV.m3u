@@ -129,7 +129,7 @@ rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwp
 #EXTINF:0, [COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, [COLOR yellow][B]UPDATED : 15/04/2016[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 20/04/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -140,20 +140,6 @@ http://50.7.96.210:8285
 
 #EXTINF:0, [B]http://bit.ly/1pAYEMX[/B]
 http://ow.ly/XzGG7
-
-#EXTINF:-1,USA: Astro SUPERSPORT 1
-http://1sn.ns1.name:18800/live/gino/gino/2627.m3u8
-#EXTINF:-1,USA: Astro SUPERSPORT 2
-http://1sn.ns1.name:18800/live/gino/gino/2628.m3u8
-#EXTINF:-1,USA: Astro SUPERSPORT 3
-http://1sn.ns1.name:18800/live/gino/gino/2629.m3u8
-#EXTINF:-1,USA: Astro SUPERSPORT 4
-http://1sn.ns1.name:18800/live/gino/gino/2630.m3u8
-
-#EXTINF:-1,USA: Fox Sports 1 Malaysia
-http://1sn.ns1.name:18800/live/gino/gino/2635.ts
-#EXTINF:-1,USA: Fox Sports 2 Malaysia
-http://1sn.ns1.name:18800/live/gino/gino/2636.ts
 
 #EXTINF:-1,Sky Sports 1
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
@@ -174,6 +160,9 @@ rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jw
 
 #EXTINF:-1,USA: Fox Sports 2
 http://1sn.ns1.name:18800/live/gino/gino/2640.m3u8
+
+#EXTINF:-1,USA: Fox Sports 2 Malaysia
+http://1sn.ns1.name:18800/live/gino/gino/2636.ts
 
 #EXTINF:0, True Sport 2
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
@@ -234,27 +223,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:-1,UK: BT Sport 1
-http://www.x-media.tv:58080/live/cool/satlover.com/9.ts
-#EXTINF:-1,UK: BT Sport 2
-http://www.x-media.tv:58080/live/cool/satlover.com/10.ts
-
-#EXTINF:-1,UK: BT Sport 1a
-http://www.x-media.tv:58080/live/cool/satlover.com/9.m3u8
-#EXTINF:-1,UK: BT Sport 2a
-http://www.x-media.tv:58080/live/cool/satlover.com/10.m3u8
-
-#EXTINF:-1,UK: BT Sport 1 HD
-http://www.x-media.tv:58080/live/cool/satlover.com/29.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://www.x-media.tv:58080/live/cool/satlover.com/30.ts
-#EXTINF:-1,UK: BT Sport europe HD
-http://www.x-media.tv:58080/live/cool/satlover.com/31.ts
-
-#EXTINF:-1,UK: BT Sport 1 HDa
-http://www.x-media.tv:58080/live/cool/satlover.com/29.m3u8
-#EXTINF:-1,UK: BT Sport 2 HDa
-http://www.x-media.tv:58080/live/cool/satlover.com/30.m3u8
-#EXTINF:-1,UK: BT Sport europe HDa
-http://www.x-media.tv:58080/live/cool/satlover.com/31.m3u8
