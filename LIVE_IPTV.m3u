@@ -204,3 +204,39 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, World Travel Channel
+http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
+
+#EXTINF:0, World Travel Channel_1
+http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w323408409.m3u8
+
+#EXTINF:0, Arirang TV World
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld1.m3u8
+
+#EXTINF:0, CBeeBies
+http://live-1183.gv2.edge.filmon.com/live/103.low.stream/playlist.m3u8
+
+#EXTINF:0, FoxSport1
+http://109.236.92.136:1935/live/foxsports1.stream/playlist.m3u8
+
+#EXTINF:0, FOX Action Movies
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+
+#EXTINF:0, FOX Movies
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+
+#EXTINF:0, Nickelodeon_1
+http://167.114.102.27/live/ZzUUhkw3zniW3OjEvhsn3A/1461152056/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8
+
+#EXTINF:0, Nickelodeon
+http://167.114.102.27/hls/b11cc9ad84502b27a63fa7a8d813ef6a-2952.ts
+
+#EXTINF:0, Nickelodeon_2
+http://167.114.102.27/hls/b11cc9ad84502b27a63fa7a8d813ef6a-2952.m3u8
+
+#EXTINF:0, Animal Planet
+http://167.114.102.27/live/6vZA5zbJaN_8l3IPXsuGSw/1461152511/52d1df7fff7b1ba3ac317b98ef2fdb80.m3u8
+
+#EXTINF:0, Animal Planet_1
+http://167.114.102.27/hls/52d1df7fff7b1ba3ac317b98ef2fdb80-1901.ts
