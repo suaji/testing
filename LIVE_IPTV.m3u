@@ -18,11 +18,8 @@ http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 #EXTINF:-1, AWANI
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
-#EXTINF:0, BERNAMA TV
+#EXTINF:0, BERNAMA
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
-
-#EXTINF:0, Bernama (backup)
-http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w1145460817_b878000_sleng.m3u8
 
 #EXTINF:-1, 1NEWS
 http://rtm-live.glueapi.io/smil:rtm-ch006.smil/playlist.m3u8
@@ -77,10 +74,6 @@ http://50.7.96.210:8285
 
 #EXTINF:-1,DISCOVERY
 http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/187.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/188.m3u8
-#EXTINF:-1,NAT.GEOG
-http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/189.m3u8
 #EXTINF:-1,HISTORY
 http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/190.m3u8
 
@@ -95,18 +88,6 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
 #EXTINF:0, PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
-
-#EXTINF:0, [COLOR yellow][B].....VOD Malay.....[/B][/COLOR]
-http://pencurimovie.se/
-
-#EXTINF:0, Ola Bola (2016) HD
-http://bit.ly/1qvwFiH
-
-#EXTINF:0, Pelepas Saka (2016)
-http://bit.ly/1MU07sv
-
-#EXTINF:0, Mat Moto (2016) HD
-http://bit.ly/1XiIqDi
 
 #EXTINF:0, [COLOR cyan][B].....MUSIC.....[/B][/COLOR]
 http://50.7.96.210:8285
