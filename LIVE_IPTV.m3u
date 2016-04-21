@@ -255,3 +255,15 @@ http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
 
 #EXTINF:0, SKY SPORTS 5 UK
 http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, NTV7
+http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m?hdnea=st=1461226674~exp=1461226764~acl=/z/ntv7flash_sp@392290/*~hmac=0c5666b4e5e6cd57363844ad72cce228b71e8b6a394426362172c311a40c0c73&hdcore=2.10.3&g=HILZSWOOYODL
+
+#EXTINF:0, NTV7_a
+http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m
+
+#EXTINF:0, NTV7_b
+http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.m3u8
+
+#EXTINF:0, NTV7_c
+http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/master.m3u8
