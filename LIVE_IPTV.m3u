@@ -27,7 +27,10 @@ http://rtm-live.glueapi.io/smil:rtm-ch006.smil/playlist.m3u8
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
 
-#EXTINF:0, Arirang TV HD
+#EXTINF:0, Arirang TV World
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld1.m3u8
+
+#EXTINF:0, Arirang TV World HD
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 
 #EXTINF:0, Korean Drama (ENG)
@@ -72,10 +75,8 @@ http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 #EXTINF:0, [COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:-1,DISCOVERY
-http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/187.m3u8
-#EXTINF:-1,HISTORY
-http://superiptvlista.dyndns.tv:80/live/55branko/55branko1/190.m3u8
+#EXTINF:0, World Travel Channel
+http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
 
 #EXTINF:0, [COLOR springgreen][B].....FAMILY.....[/B][/COLOR]
 http://50.7.96.210:8285
@@ -88,6 +89,12 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
 #EXTINF:0, PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
+
+#EXTINF:0, FOX Action Movies
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+
+#EXTINF:0, FOX Movies
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
 
 #EXTINF:0, [COLOR cyan][B].....MUSIC.....[/B][/COLOR]
 http://50.7.96.210:8285
@@ -110,7 +117,7 @@ rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwp
 #EXTINF:0, [COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, [COLOR yellow][B]UPDATED : 20/04/2016[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 21/04/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -144,6 +151,21 @@ http://1sn.ns1.name:18800/live/gino/gino/2640.m3u8
 
 #EXTINF:-1,USA: Fox Sports 2 Malaysia
 http://1sn.ns1.name:18800/live/gino/gino/2636.ts
+
+#EXTINF:0, SKY SPORTS 1 UK
+http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, SKY SPORTS 2 UK
+http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, SKY SPORTS 3 UK
+http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, SKY SPORTS 4 UK
+http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, SKY SPORTS 5 UK
+http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
 
 #EXTINF:0, True Sport 2
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
@@ -204,66 +226,3 @@ http://dl.nfilm.org/DL/film/Collection-Film/
 
 #EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0, World Travel Channel
-http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
-
-#EXTINF:0, World Travel Channel_1
-http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w323408409.m3u8
-
-#EXTINF:0, Arirang TV World
-http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld1.m3u8
-
-#EXTINF:0, CBeeBies
-http://live-1183.gv2.edge.filmon.com/live/103.low.stream/playlist.m3u8
-
-#EXTINF:0, FoxSport1
-http://109.236.92.136:1935/live/foxsports1.stream/playlist.m3u8
-
-#EXTINF:0, FOX Action Movies
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-
-#EXTINF:0, FOX Movies
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-
-#EXTINF:0, Nickelodeon_1
-http://167.114.102.27/live/ZzUUhkw3zniW3OjEvhsn3A/1461152056/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8
-
-#EXTINF:0, Nickelodeon
-http://167.114.102.27/hls/b11cc9ad84502b27a63fa7a8d813ef6a-2952.ts
-
-#EXTINF:0, Nickelodeon_2
-http://167.114.102.27/hls/b11cc9ad84502b27a63fa7a8d813ef6a-2952.m3u8
-
-#EXTINF:0, Animal Planet
-http://167.114.102.27/live/6vZA5zbJaN_8l3IPXsuGSw/1461152511/52d1df7fff7b1ba3ac317b98ef2fdb80.m3u8
-
-#EXTINF:0, Animal Planet_1
-http://167.114.102.27/hls/52d1df7fff7b1ba3ac317b98ef2fdb80-1901.ts
-
-#EXTINF:0, SKY SPORTS 1 UK
-http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, SKY SPORTS 2 UK
-http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, SKY SPORTS 3 UK
-http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, SKY SPORTS 4 UK
-http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, SKY SPORTS 5 UK
-http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, NTV7
-http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m?hdnea=st=1461226674~exp=1461226764~acl=/z/ntv7flash_sp@392290/*~hmac=0c5666b4e5e6cd57363844ad72cce228b71e8b6a394426362172c311a40c0c73&hdcore=2.10.3&g=HILZSWOOYODL
-
-#EXTINF:0, NTV7_a
-http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m
-
-#EXTINF:0, NTV7_b
-http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.m3u8
-
-#EXTINF:0, NTV7_c
-http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/master.m3u8
