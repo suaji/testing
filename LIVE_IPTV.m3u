@@ -240,3 +240,18 @@ http://167.114.102.27/live/6vZA5zbJaN_8l3IPXsuGSw/1461152511/52d1df7fff7b1ba3ac3
 
 #EXTINF:0, Animal Planet_1
 http://167.114.102.27/hls/52d1df7fff7b1ba3ac317b98ef2fdb80-1901.ts
+
+#EXTINF:0, SKY SPORTS 1 UK
+http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, SKY SPORTS 2 UK
+http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, SKY SPORTS 3 UK
+http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, SKY SPORTS 4 UK
+http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, SKY SPORTS 5 UK
+http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
