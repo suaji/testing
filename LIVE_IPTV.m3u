@@ -1,16 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1, TV1
-http://rtm-live.glueapi.io/smil:rtm-ch001.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8
+
+#EXTINF:-1, TV1_b
+http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2MzEyODg2Nn0.rbbRNoYxia5WfkjuYEUZZ3rUr81pHrvUhlQhbrHt30gQvnwRrJq4h8uySV2qC3HJfWzdtxogxopmaStS5rtgQg
+
+#EXTINF:-1, TV1_c
+http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b2640000_sleng.m3u8
+
+#EXTINF:-1, TV1_d
+http://rtm-live.glueapi.io/smil:ch001.smil/media-u1o2uqgy9_b974000_sleng_319065.ts
 
 #EXTINF:-1, TV2
-http://rtm-live.glueapi.io/smil:rtm-ch002.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8
 
 #EXTINF:-1, TVi
-http://rtm-live.glueapi.io/smil:rtm-ch003/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8
 
 #EXTINF:-1, MUZIK AKTIF
-http://rtm-live.glueapi.io/smil:rtm-ch004.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8
 
 #EXTINF:-1, AL HIJRAH
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
@@ -22,7 +31,7 @@ http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
 
 #EXTINF:-1, 1NEWS
-http://rtm-live.glueapi.io/smil:rtm-ch006.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8
 
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
@@ -246,3 +255,26 @@ acestream://b23a988ab9138f4280772f1175bdaa3aefc61092
 
 #EXTINF:0, BT Sport 2
 acestream://849981660225c0821bf311759fa0cb3523e4ae62
+
+#EXTINF:-1,AL: SuperSport 4HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/436.ts
+#EXTINF:-1,AL: SuperSport 3HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/437.ts
+#EXTINF:-1,AL: SuperSport 2HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/438.ts
+#EXTINF:-1,AL: SuperSport 1HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/439.ts
+
+#EXTINF:-1,SuperSport 4HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/436.m3u8
+#EXTINF:-1,SuperSport 3HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/437.m3u8
+#EXTINF:-1,SuperSport 2HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/438.m3u8
+#EXTINF:-1,SuperSport 1HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/439.m3u8
+
+#EXTINF:-1,UK: BT Sports2
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/432.m3u8
+#EXTINF:-1,UK: BT Sports1 HD
+http://worldtv.noip.me:8000/live/Ozkan/Erdem/174.m3u8
