@@ -13,6 +13,31 @@
 </item>
 
 <item>
+<title>Angin Cinta (2016) HD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-51j9x8oume5f-640x360.html</link>
+<thumbnail>http://pencurimovie.se/wp-content/uploads/2016/05/Angin-Cinta.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/07swItPmDOI/maxresdefault.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-51j9x8oume5f-640x360.html</page>
+<referer>http://streamin.to/51j9x8oume5f</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-51j9x8oume5f-640x360.html</page>
+<referer>http://streamin.to/51j9x8oume5f</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-51j9x8oume5f-640x360.html</page>
+<referer>http://streamin.to/51j9x8oume5f</referer>
+</regex>
+</item>
+
+<item>
 <title>Munafik (2016) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1giij7wh5vac-640x360.html</link>
 <thumbnail>http://www.tontononline.net/wp-content/uploads/2016/01/Munafik-2016.jpg</thumbnail>
