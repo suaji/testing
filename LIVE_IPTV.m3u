@@ -57,14 +57,10 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0, [COLOR fuchsia][B].....KIDS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, KIDS PLAY
-http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
-
-#EXTINF:0, Cartoon Network Asia
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:0, JEI ENGLISH TV
-http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
+#EXTINF:-1,UK: Nicktoons
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8
+#EXTINF:-1,UK: Nickelodeon
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8
 
 #EXTINF:0, [COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]
 http://50.7.96.210:8285
@@ -123,8 +119,8 @@ http://50.7.96.210:8285
 #EXTINF:0, [B]http://bit.ly/1pAYEMX[/B]
 http://ow.ly/XzGG7
 
-#EXTINF:-1,UK: BT Sports1 HD
-http://worldtv.noip.me:8000/live/Ozkan/Erdem/174.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/223.m3u8
 #EXTINF:-1,UK: BT Sports2
 http://worldtv.noip.me:8000/live/Ozkan/Erdem/432.m3u8
 
