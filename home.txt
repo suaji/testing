@@ -214,26 +214,26 @@
 
 <item>
 <title>Badi (2015) HD</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hu2focridml7-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1ms6jlws98zl-640x360.html</link>
 <thumbnail>http://www.tontononline.net/wp-content/uploads/2015/11/Badi-2015-Tonton-Online-Free-Full-Movie.jpg</thumbnail>
 <fanart>http://s1.dmcdn.net/MujDB/1280x720-yFu.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-hu2focridml7-640x360.html</page>
-<referer>http://streamin.to/hu2focridml7</referer>
+<page>http://streamin.to/embed-1ms6jlws98zl-640x360.html</page>
+<referer>http://streamin.to/1ms6jlws98zl</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-hu2focridml7-640x360.html</page>
-<referer>http://streamin.to/hu2focridml7</referer>
+<page>http://streamin.to/embed-1ms6jlws98zl-640x360.html</page>
+<referer>http://streamin.to/1ms6jlws98zl</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-hu2focridml7-640x360.html</page>
-<referer>http://streamin.to/hu2focridml7</referer>
+<page>http://streamin.to/embed-1ms6jlws98zl-640x360.html</page>
+<referer>http://streamin.to/1ms6jlws98zl</referer>
 </regex>
 </item>
 
@@ -639,26 +639,26 @@
 
 <item>
 <title>BRAVO 5 HD (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-v3965kx2qxnn-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-iu2az0nxtur5-640x360.html</link>
 <thumbnail>http://www.layanjer.com/wp-content/uploads/2015/09/Bravo-5-Malaysia.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/r7VIT-yhBP8/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
 <page>http://streamin.to/embed-v3965kx2qxnn-640x360.html</page>
-<referer>http://streamin.to/v3965kx2qxnn</referer>
+<referer>http://streamin.to/iu2az0nxtur5</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-v3965kx2qxnn-640x360.html</page>
-<referer>http://streamin.to/v3965kx2qxnn</referer>
+<page>http://streamin.to/embed-iu2az0nxtur5-640x360.html</page>
+<referer>http://streamin.to/iu2az0nxtur5</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-v3965kx2qxnn-640x360.html</page>
-<referer>http://streamin.to/v3965kx2qxnn</referer>
+<page>http://streamin.to/embed-iu2az0nxtur5-640x360.html</page>
+<referer>http://streamin.to/iu2az0nxtur5</referer>
 </regex>
 </item>
 
@@ -1574,26 +1574,26 @@
 
 <item>
 <title>Kelibat (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3m1o8ys2wuag-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-44mvxy8szz6c-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2014/11/kelibat-dvd.jpg</thumbnail>
 <fanart>http://m.utusan.com.my/polopoly_fs/1.23447.1415687844!/image/image.jpg_gen/derivatives/landscape_650/image.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-3m1o8ys2wuag-640x360.html</page>
-<referer>http://streamin.to/3m1o8ys2wuag</referer>
+<page>http://streamin.to/embed-44mvxy8szz6c-640x360.html</page>
+<referer>http://streamin.to/44mvxy8szz6c</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-3m1o8ys2wuag-640x360.html</page>
-<referer>http://streamin.to/3m1o8ys2wuag</referer>
+<page>http://streamin.to/embed-44mvxy8szz6c-640x360.html</page>
+<referer>http://streamin.to/44mvxy8szz6c</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-3m1o8ys2wuag-640x360.html</page>
-<referer>http://streamin.to/3m1o8ys2wuag</referer>
+<page>http://streamin.to/embed-44mvxy8szz6c-640x360.html</page>
+<referer>http://streamin.to/44mvxy8szz6c</referer>
 </regex>
 </item>
 
@@ -1891,26 +1891,26 @@
 
 <item>
 <title>Paku Pontianak (2013)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-yguwr0fvcxtv-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ltl23zjcu722-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-QWKihKpHI1g/UiqhygyDf_I/AAAAAAAAATo/Bm2aPQqxeVA/s1600/1239820_612215095484782_1882814147_n.jpg</thumbnail>
 <fanart>http://www.broframestone.com/wp-content/uploads/2013/08/Paku-Pontianak-Uqasha-Senrose-Jadi-Pontianak.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-yguwr0fvcxtv-640x360.html</page>
-<referer>http://streamin.to/yguwr0fvcxtv</referer>
+<page>http://streamin.to/embed-ltl23zjcu722-640x360.html</page>
+<referer>http://streamin.to/ltl23zjcu722</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-yguwr0fvcxtv-640x360.html</page>
-<referer>http://streamin.to/yguwr0fvcxtv</referer>
+<page>http://streamin.to/embed-ltl23zjcu722-640x360.html</page>
+<referer>http://streamin.to/ltl23zjcu722</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-yguwr0fvcxtv-640x360.html</page>
-<referer>http://streamin.to/yguwr0fvcxtv</referer>
+<page>http://streamin.to/embed-ltl23zjcu722-640x360.html</page>
+<referer>http://streamin.to/ltl23zjcu722</referer>
 </regex>
 </item>
 
@@ -2196,7 +2196,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 09.22 14-05-2016 , suaji86@gmail.com[/COLOR]</title>
+<title>[COLOR=FFBEBEBE]UPDATED = 09.22 19-05-2016 , suaji86@gmail.com[/COLOR]</title>
 <link>https://copy.com/Bg3yctJnCuBD10rU/%5BPENCURIMOVIE.PW%20%5D%20Jwanita.2015.720P.PPVRiP.AC3.PFT.mkv?revision=9&download=1</link>
 </item>
 
