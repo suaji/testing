@@ -1,30 +1,30 @@
 <item>
 <title>TV1</title>
-<link>http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug</link>
+<link>http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>TVi</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2MzM2NTA5OX0.QCguZcsE7-CealvjYrhbUoJwxSvACq0iW7DzMXHl2ketAjIyCp0acsJo-u-HKv6HGUP96bXD6Vtmntnsv8640A</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Galaksi Muzik</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2MzM2NTEzM30.H7VcAV24RVdhCnqHij0XO4mCG-p_h7qojJ3uVD2Aoer2QRdPlhUDjyggw1SH79rA1f96mQg0abxgNxOTcirTRQ</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>1News</title>
-<link></link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
