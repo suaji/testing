@@ -64,7 +64,7 @@
 </channel>
 
 <channel>
-<name>AL-QURAN (jom hafal sambil baca Al-Quran)</name>
+<name>AL-QURAN</name>
 <thumbnail></thumbnail>
 <externallink>https://goo.gl/UhptNh</externallink>
 </channel>
