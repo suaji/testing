@@ -51,3 +51,9 @@
 <link>rtmp://118.97.183.196/jhos//kbs</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
 </item>
+
+<item>
+<title>Mau’izati - Keadaan Roh Selepas Roh Dicabut -Ustaz Ahmad Dusuki Abd.Rani</title>
+<link>http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/aocuazzlymwc.m3u8</link>
+<thumbnail></thumbnail>
+</item>
