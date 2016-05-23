@@ -6,61 +6,67 @@
 <channel>
 <name>MALAYSIA</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/W4Xy31</externallink>
 </channel>
 
 <channel>
 <name>ASIA</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/mQzOFy</externallink>
 </channel>
 
 <channel>
 <name>BERITA</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/E34gNs</externallink>
 </channel>
 
 <channel>
 <name>KANAK-KANAK</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/nv0qBR</externallink>
 </channel>
 
 <channel>
 <name>KELUARGA</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/AkKzDU</externallink>
+</channel>
+
+<channel>
+<name>HIBURAN</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/TkYsCo</externallink>
 </channel>
 
 <channel>
 <name>MUZIK</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/lYvhCu</externallink>
 </channel>
 
 <channel>
 <name>SUKAN</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/2GX0gk</externallink>
 </channel>
 
 <channel>
 <name>RADIO MALAYSIA</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/j4K5lV</externallink>
 </channel>
 
 <channel>
 <name>TV IkimFM</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/mNgnC4</externallink>
 </channel>
 
 <channel>
 <name>AL-QURAN (jom hafal sambil baca Al-Quran)</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/UhptNh</externallink>
 </channel>
 
 </channels>
