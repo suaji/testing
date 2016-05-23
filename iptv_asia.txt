@@ -1,0 +1,17 @@
+<item>
+<title>kemaskini (23-05-16)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>KBS World</title>
+<link>rtmp://118.97.183.196/jhos//kbs</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
+</item>
+
+<item>
+<title>METRO TV</title>
+<link>http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>

@@ -1,0 +1,11 @@
+<item>
+<title>kemaskini (23-05-16)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>World Travel Channel</title>
+<link>http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8</link>
+<thumbnail></thumbnail>
+</item>

@@ -1,59 +1,66 @@
-<item>
-<title>TV1</title>
-<link>http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
-</item>
+<layouttype>thumbnail</layouttype>
 
-<item>
-<title>TV2</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
-</item>
 
-<item>
-<title>TVi</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
-</item>
+<channels>
 
-<item>
-<title>Galaksi Muzik</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>
-</item>
-
-<item>
-<title>1News</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>
-</item>
-
-<item>
-<title>Awani</title>
-<link>http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png</thumbnail>
-</item>
-
-<item>
-<title>Bernama TV</title>
-<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8</link>
+<channel>
+<name>MALAYSIA</name>
 <thumbnail></thumbnail>
-</item>
+<externallink></externallink>
+</channel>
 
-<item>
-<title>Al-Hijrah TV</title>
-<link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv_alhijrah.png</thumbnail>
-</item>
-
-<item>
-<title>KBS World</title>
-<link>rtmp://118.97.183.196/jhos//kbs</link>
-<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
-</item>
-
-<item>
-<title>Mau’izati - Keadaan Roh Selepas Roh Dicabut -Ustaz Ahmad Dusuki Abd.Rani</title>
-<link>http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/aocuazzlymwc.m3u8</link>
+<channel>
+<name>ASIA</name>
 <thumbnail></thumbnail>
-</item>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>BERITA</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>KANAK-KANAK</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>KELUARGA</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>MUZIK</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>SUKAN</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>RADIO MALAYSIA</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>TV IkimFM</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>AL-QURAN (jom hafal sambil baca Al-Quran)</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+</channel>
+
+</channels>

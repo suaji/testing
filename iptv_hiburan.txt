@@ -1,0 +1,23 @@
+<item>
+<title>kemaskini (23-05-16)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MBC MAX</title>
+<link>http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DUBAI ONE</title>
+<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Playy West</title>
+<link>http://123.108.164.71/etv2sb/phd743/lihattv.m3u8</link>
+<thumbnail></thumbnail>
+</item>

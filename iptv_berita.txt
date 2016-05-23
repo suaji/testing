@@ -1,0 +1,47 @@
+<item>
+<title>AWANI</title>
+<link>http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BERNAMA</title>
+<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>1NEWS</title>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2MzM2NTE2M30.9qBB5nbibOWzvKHxIU57lJiH4FF2iM_FgG_Pcel5OeDq7zX0sUauqEwpS8h-u4vLtjfxgHOzwpMDnEPCdbmvMg</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>AL-JAZEERA</title>
+<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ABC NEWS</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BLOOMBERG</title>
+<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NHK WORLD</title>
+<link>http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NASA TV</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>

@@ -1,0 +1,17 @@
+<item>
+<title>kemaskini (23-05-16)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NICKTOONS</title>
+<link>http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NICKELODEON</title>
+<link>http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8</link>
+<thumbnail></thumbnail>
+</item>

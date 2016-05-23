@@ -1,0 +1,83 @@
+<item>
+<title>kemaskini (23-05-16)</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>IKIM FM</title>
+<link>http://50.7.96.210:8285/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ERA FM</title>
+<link>http://astro2.rastream.com/era?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HOT FM</title>
+<link>http://2343.live.streamtheworld.com/HOTFMAAC</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SURIA FM</title>
+<link>http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>THR GEGAR</title>
+<link>http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SINAR FM</title>
+<link>http://astro2.rastream.com/sinar?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>X-FRESH FM</title>
+<link>http://audri.rastream.com/amp-xfm_audri?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BAPAKKU FM</title>
+<link>http://radio.bapakku.fm:8000</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HITZ FM</title>
+<link>http://astro1.rastream.com/hitz?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MIX FM</title>
+<link>http://astro2.rastream.com/mix?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FLY FM</title>
+<link>http://2283.live.streamtheworld.com/FLYFM_SC</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RED FM</title>
+<link>http://starrfm.rastream.com/starrfm-redfm?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>LITE FM</title>
+<link>http://astro1.rastream.com/lite?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
