@@ -6,13 +6,28 @@
 
 <item>
 <title>Mauizati - Keadaan Roh Selepas Roh Dicabut -Ustaz Ahmad Dusuki Abd.Rani</title>
-<link>http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/aocuazzlymwc.m3u8</link>
+<link>$doregex[final-url]</link>
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"source".*.{5}[",'](http[^"]*)[",'].*?auto</expres>
+<page>http://www.tvikim.my/2016/01/26/mauizati-keadaan-roh-selepas-roh-dicabut-ustaz-ahmad-dusuki-abd-rani/</page>
+<referer>http://www.tvikim.my/</referer></regex>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Mauizati - Dahsyatnya Kematian -Ustaz Ahmad Dusuki Abd.Rani</title>
+<link>http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/a5g8o6phuawo.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
