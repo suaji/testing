@@ -41,6 +41,18 @@
 </item>
 
 <item>
+<title>CBSN</title>
+<link>http://cbsnewshd-lh.akamaihd.net/z/CBSNHD_7@199302/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBSN HD</title>
+<link>http://cbsnewshd-lh.akamaihd.net/z/CBSNHD_7@199302/manifest.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>CNBC</title>
 <link>$doregex[url]|Referer=http://web.tv/embed/live/45968&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</link>
 <regex>
