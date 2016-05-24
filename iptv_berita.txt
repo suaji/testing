@@ -41,6 +41,26 @@
 </item>
 
 <item>
+<title>CNBC</title>
+<link>$doregex[url]|Referer=http://web.tv/embed/live/45968&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>src":"(.*m3u8[^\"]+)"</expres>
+<page>http://web.tv/embed/live/45968</page>
+<ignorecache></ignorecache>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<connection>keep-alive</connection>
+</regex>
+<thumbnail>http://thumbs.origins.web.tv/hi/zh/hizhapvqycq_140x79.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>NHK WORLD</title>
 <link>http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8</link>
 <thumbnail></thumbnail>
