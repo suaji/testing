@@ -1,4 +1,10 @@
 <item>
+<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<link>.</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
 <title>AWANI</title>
 <link>http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8</link>
 <thumbnail></thumbnail>

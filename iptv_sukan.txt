@@ -1,7 +1,7 @@
 <item>
-<title>kemaskini (23-05-16)</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<link>.</link>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>

@@ -1,4 +1,10 @@
 <item>
+<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<link>.</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
 <title>JOM DENGAR SAMBIL BACA AL-QURAN ^_^v</title>
 <link></link>
 <thumbnail></thumbnail>
