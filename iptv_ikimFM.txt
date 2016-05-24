@@ -1,11 +1,11 @@
 <item>
-<title>kemaskini (23-05-16)</title>
+<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
-<title>( Mauizati - Ustaz Ahmad Dusuki Abd. Rani )</title>
+<title>[COLOR green]( Mauizati - Ustaz Ahmad Dusuki Abd. Rani )[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
