@@ -40,6 +40,12 @@
 </channel>
 
 <channel>
+<name>FILEM MELAYU</name>
+<thumbnail></thumbnail>
+<externallink>http://goo.gl/yCsj9B</externallink>
+</channel>
+
+<channel>
 <name>MUZIK</name>
 <thumbnail></thumbnail>
 <externallink>https://goo.gl/lYvhCu</externallink>

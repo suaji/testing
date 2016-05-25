@@ -1574,26 +1574,26 @@
 
 <item>
 <title>Kelibat (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-44mvxy8szz6c-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-uk2j4c6xfch3-640x360.html</link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2014/11/kelibat-dvd.jpg</thumbnail>
 <fanart>http://m.utusan.com.my/polopoly_fs/1.23447.1415687844!/image/image.jpg_gen/derivatives/landscape_650/image.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-44mvxy8szz6c-640x360.html</page>
-<referer>http://streamin.to/44mvxy8szz6c</referer>
+<page>http://streamin.to/embed-uk2j4c6xfch3-640x360.html</page>
+<referer>http://streamin.to/uk2j4c6xfch3</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-44mvxy8szz6c-640x360.html</page>
-<referer>http://streamin.to/44mvxy8szz6c</referer>
+<page>http://streamin.to/embed-uk2j4c6xfch3-640x360.html</page>
+<referer>http://streamin.to/uk2j4c6xfch3</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-44mvxy8szz6c-640x360.html</page>
-<referer>http://streamin.to/44mvxy8szz6c</referer>
+<page>http://streamin.to/embed-uk2j4c6xfch3-640x360.html</page>
+<referer>http://streamin.to/uk2j4c6xfch3</referer>
 </regex>
 </item>
 
