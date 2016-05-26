@@ -1,54 +1,8 @@
 <item>
-<title>[COLOR red]kemaskini (24-05-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (26-05-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
-
-<item>
-<title>Dubai Sports Tv</title>
-<link>$doregex[url]|Referer=http://web.tv/embed/live/139490&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres>src":"(.*m3u8[^\"]+)"</expres>
-<page>http://web.tv/embed/live/139490</page>
-<ignorecache></ignorecache>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-<connection>keep-alive</connection>
-</regex>
-<thumbnail>http://thumbs.origins.web.tv/pg/oy/pgoyloxyghq_140x79.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Abu Dhabi Sports Tv</title>
-<link>$doregex[url]|Referer=http://web.tv/embed/live/139495&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres>src":"(.*m3u8[^\"]+)"</expres>
-<page>http://web.tv/embed/live/139495</page>
-<ignorecache></ignorecache>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-<connection>keep-alive</connection>
-</regex>
-<thumbnail>http://thumbs.origins.web.tv/tp/sf/tpsfcnjklwo_140x79.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>AWANI</title>
-<link>rtmp://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_2@74937 swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.layanmovie.com/2013/05/11/astro-awani-live-streaming/ conn=Z: swfVfy=true live=true timeout=15</link>
-<thumbnail>http://imageshack.com/a/img843/3456/ispb.jpg</thumbnail>
-</item> 
 
 <item>
 <title>BT Sport 1</title>
@@ -57,7 +11,7 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Sky Sports</title>
+<link>http://92.222.205.40:8085/lighd</link>
 <thumbnail></thumbnail>
 </item>

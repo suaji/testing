@@ -5,7 +5,7 @@
 </item>
 
 <item>
-<title>JOM DENGAR SAMBIL BACA AL-QURAN ^_^v</title>
+<title>JOM HAFAL, DENGAR SAMBIL BACA AL-QURAN ^_^v</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
@@ -83,7 +83,7 @@
 </item>
 
 <item>
-<title>13. AR-RAD</title>
+<title>13. AR-RA'D</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ar_rad.mp3</link>
 <thumbnail></thumbnail>
 </item>
@@ -107,13 +107,13 @@
 </item>
 
 <item>
-<title>17. AL-ISRA</title>
+<title>17. AL-ISRAA'</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_isra.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>18. AL-KAHF</title>
+<title>18. AL-KAHFI</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_kahf.mp3</link>
 <thumbnail></thumbnail>
 </item>
@@ -131,7 +131,7 @@
 </item>
 
 <item>
-<title>21. AL-ANBIYA</title>
+<title>21. AL-ANBIYAA'</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_anbiya.mp3</link>
 <thumbnail></thumbnail>
 </item>
@@ -143,25 +143,25 @@
 </item>
 
 <item>
-<title>23. MUMINUM</title>
+<title>23. AL-MU'MINUUM</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_muminun.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>24. AN-NUR</title>
+<title>24. AN-NUUR</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_an_nur.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>25. AL-FURQAN</title>
+<title>25. AL-FURQAAN</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_furqan.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>26. ASH-SHUARA</title>
+<title>26. ASY-SYU'ARAA'</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ash_shuara.mp3</link>
 <thumbnail></thumbnail>
 </item>
@@ -179,13 +179,13 @@
 </item>
 
 <item>
-<title>29. AL-ANKABUT</title>
+<title>29. AL-'ANKABUT</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_ankabut.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>30. AR-RUM</title>
+<title>30. AR-RUUM</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ar_rum.mp3</link>
 <thumbnail></thumbnail>
 </item>
@@ -203,25 +203,25 @@
 </item>
 
 <item>
-<title>33. AL-AHZAB</title>
+<title>33. AL-AHZAAB</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_ahzab.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>34. SABA</title>
+<title>34. SABA'</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_saba.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>35. FATIR</title>
+<title>35. FAATIR</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_fatir.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>36. YASIIN</title>
+<title>36. YAA SIIN</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ya_sin.mp3</link>
 <thumbnail></thumbnail>
 </item>
@@ -251,361 +251,361 @@
 </item>
 
 <item>
-<title>41. Fussilat</title>
+<title>41. FUSSILAT</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_fussilat.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>42. Ash-Shura</title>
+<title>42. ASY-SYUURA</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ash_shura.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>43. Az-Zukhruf</title>
+<title>43. AZ-ZUKHRUF</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_az_zukhruf.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>44. Ad-Dukhaan</title>
+<title>44. AD-DUKHAAN</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ad_dukhan.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>45. Al-Jaathiyah</title>
+<title>45. AL-JAATHIYAH</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_jathiyah.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>46. Al- Ahqaaf</title>
+<title>46. AL-AHQAAF</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_ahqaf.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>47. Muhammad</title>
+<title>47. MUHAMMAD</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_muhammad.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>48. Al-Fath</title>
+<title>48. AL-FAT-H</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_fath.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>49. Al-Hujuraat</title>
+<title>49. AL-HUJURAAT</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_hujurat.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>50. Qaaf</title>
+<title>50. QAAF</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_qaf.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>51. Adz-Dzaariyaat</title>
+<title>51. ADZ-DZAARIYAAT</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_adh_dhariyat.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>52. At-Tuur</title>
+<title>52. AT-TUUR</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_at_tur.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>53. An-Najm</title>
+<title>53. AN-NAJM</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_an_najm.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>54. Al-Qamar</title>
+<title>54. AL-QAMAR</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_qamar.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>55. Ar-Rahmaan</title>
+<title>55. AR-RAHMAAN</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ar_rahman.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>56. Al-Waaqiah</title>
+<title>56. AL-WAAQI'AH</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_waqiah.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>57. Al-Hadiid</title>
+<title>57. AL-HADIID</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_hadid.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>58. Al-Mujaadalah</title>
+<title>58. AL-MUJAADALAH</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_mujadilah.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>59. Al-Hasyr</title>
+<title>59. AL-HASY-R</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_hashr.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>60. Al-Mumtahanah</title>
+<title>60. AL-MUMTAHANAH</title>
 <link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_mumtahanah.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>61. AS-SAFF</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_as_saff.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>62. AL-JUMU'AH</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_jumuah.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>63. AL-MUNAAFIQUUN</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_munafiqun.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>64. AT-TAGHAABUN</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_at_taghabun.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>65. AT-TALAAQ</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_at_talaq.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>66. AT-TAHRIIM</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_at_tahrim.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>67. AL-MULK</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_mulk.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>68. AL-QALAM</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_qalam.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>69. AL-HAAQQAH</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_haqqah.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>70. AL-MA'AARIJ</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_maarij.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>71. NUH</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_nuh.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>72. AL-JIN</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_jinn.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>73. AL-MUZZAMMIL</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_muzzammil.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>74. AL-MUDDATHTHIR</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_muddaththir.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>75. AL-QIAAMAH</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_qiyamah.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>76. AL-INSAAN</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_insan.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>77. AL-MURSALAAT</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_mursalat.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>78. AN-NABA'</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_an_naba.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>79. AN-NAAZI'AAT</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_an_naziat.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>80. 'ABASA</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_abasa.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>81. AT-TAKWIIR</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>82. AL-INFITAAR</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>83. AL-MUTAFFIFIIN</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>84. AL-INSYIQAAQ</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>85. AL-BURUUJ</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>86. AT-TAARIQ</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>87. AL-A'LAA</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>88. AL-GHAASYIYAH</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>89. AL-FAJR</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>90. AL-BALAD</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>91. ASY-SYAMS</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>92. AL-LAIL</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>93. ADH-DHUHA</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>94. ASH-SYAR-H</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>95. AT-TIIN</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>96. AL-'ALAQ</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>97. AL-QADR</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>98. AL-BAYYINAH</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>99. AZ-ZALZALAH</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
+<title>100. AL-'AADIYAAT</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
