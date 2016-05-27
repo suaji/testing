@@ -6,7 +6,7 @@
 
 <item>
 <title>JOM HAFAL, DENGAR SAMBIL BACA AL-QURAN ^_^v</title>
-<link></link>
+<link>.</link>
 <thumbnail></thumbnail>
 </item>
 
