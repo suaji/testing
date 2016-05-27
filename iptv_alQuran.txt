@@ -492,61 +492,61 @@
 
 <item>
 <title>81. AT-TAKWIIR</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_at_takwir.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>82. AL-INFITAAR</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_infitar.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>83. AL-MUTAFFIFIIN</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_mutaffifin.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>84. AL-INSYIQAAQ</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_inshiqaq.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>85. AL-BURUUJ</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_buruj.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>86. AT-TAARIQ</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_at_tariq.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>87. AL-A'LAA</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_ala.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>88. AL-GHAASYIYAH</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_ghashiyah.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>89. AL-FAJR</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_fajr.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>90. AL-BALAD</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_balad.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
