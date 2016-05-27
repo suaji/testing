@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1, TV1
-http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug
+http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDMzNjEzNn0.VIXcy73NyJCp8fnrL7IdTt5gDfTF2oWlr2Q0RDDJ141XOLS_BiI2V4Wf41EEkYb_1byN8e78Zno0SM3ODMaBaA
 
 #EXTINF:-1, TV2
-http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw
+http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDMzNjIyMX0.cHb_jT6UzL-LitTPFI3fTJalZfA7fKvIrZ8WD7Uyc8fzgmR-Cc9lpqvgJVnTomH-sZ9M1otAKKNt6Tq_zUX4cA
 
 #EXTINF:-1, TVi
-http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2MzM2NTA5OX0.QCguZcsE7-CealvjYrhbUoJwxSvACq0iW7DzMXHl2ketAjIyCp0acsJo-u-HKv6HGUP96bXD6Vtmntnsv8640A
+http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDMzNjIyMX0.Dj-BWq_RzMKZ5JnL4fWoKkjiB1L52q5fRyRBPMbnrpoWMfyj9Q8KQo8CS-JXcWwMv711HrK1j7eTsqOGsX7sFw
 
 #EXTINF:-1, MUZIK AKTIF
-http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2MzM2NTEzM30.H7VcAV24RVdhCnqHij0XO4mCG-p_h7qojJ3uVD2Aoer2QRdPlhUDjyggw1SH79rA1f96mQg0abxgNxOTcirTRQ
+http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDMzNjIyM30.i2vUBOdywwAB7a05xJpXt4ctYgYFueWIoHIWmpAGHAGjxWysZI8YRbynRGqRxEM5KwqgKKJUKsLjJF5gF3sGKg
 
 #EXTINF:-1, AL HIJRAH
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
@@ -22,7 +22,7 @@ http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
 
 #EXTINF:-1, 1NEWS
-http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2MzM2NTE2M30.9qBB5nbibOWzvKHxIU57lJiH4FF2iM_FgG_Pcel5OeDq7zX0sUauqEwpS8h-u4vLtjfxgHOzwpMDnEPCdbmvMg
+http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDMzNjIyNX0.qpAx8wS8hi8Y7mJYzR5QBXrsEKqWovVrV9KYUu62AxRaVWra-yhs9p0Uv24A6-spkjeGcyjrZBYZJVvgGf4TBQ
 
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
@@ -107,7 +107,7 @@ rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwp
 #EXTINF:0, [COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, [COLOR yellow][B]UPDATED : 17/05/2016[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 27/05/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
