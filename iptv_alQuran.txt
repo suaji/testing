@@ -552,378 +552,144 @@
 
 <item>
 <title>91. ASY-SYAMS</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ash_shams.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>92. AL-LAIL</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_layl.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>93. ADH-DHUHA</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ad_duha.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>94. ASH-SYAR-H</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_ash_sharh.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>95. AT-TIIN</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_at_tin.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>96. AL-'ALAQ</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_alaq.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>97. AL-QADR</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_qadr.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>98. AL-BAYYINAH</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_bayyinah.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>99. AZ-ZALZALAH</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_az_zalzalah.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>100. AL-'AADIYAAT</title>
-<link></link>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_adiyat.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>101. AL-QAARI'AH</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_qariah.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>102. AT-TAKAATHUR</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_at_takathur.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>103. AL-'ASR</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_asr.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>104. AL-HUMAZAH</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_humazah.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>105. AL-FIIL</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_fil.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>106. QUSAIRY</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_quraysh.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>107. AL-MAA'UUN</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_maun.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>108. AL-KAUTHAR</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_kawthar.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>109. AL-KAAFIRUUN</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_kafirun.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>110. AN-NASR</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_an_nasr.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>111. AL-MASAD</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_masad.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>112. AL-IKHLAAS</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_ikhlas.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>113. AL-FALAQ</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_falaq.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
+<title>114. AN-NAAS</title>
+<link>http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_an_nas.mp3</link>
 <thumbnail></thumbnail>
 </item>
