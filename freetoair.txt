@@ -64,8 +64,8 @@
 </channel>
 
 <channel>
-<name>TV IkimFM</name>
-<thumbnail></thumbnail>
+<name>TV IKIM FM</name>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/tvIKIM.jpg</thumbnail>
 <externallink>https://goo.gl/mNgnC4</externallink>
 </channel>
 
