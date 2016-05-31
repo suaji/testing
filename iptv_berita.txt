@@ -18,7 +18,7 @@
 
 <item>
 <title>1NEWS</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDY3NTg4M30.5zTUyOMvyPz1j-5VB8Alt16RNMvVegiBeTo2l7fEVNC9nW6uLLhYP4rXsgJGKmKQOKU6rWxZdLsG9Yih8wMvag</link>
 <thumbnail></thumbnail>
 </item>
 

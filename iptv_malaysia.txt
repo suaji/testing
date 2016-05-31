@@ -6,31 +6,31 @@
 
 <item>
 <title>TV1</title>
-<link>http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDY3NTg3N30.1-9EvsWkBnel72YCgu5KN89KTy97j2VsvwkjM0YX562MFlISNk9ZjZJqH0Q6-brgVwD5SsBcqlnAlIprn_qUxQ</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDY3NTg1Nn0.QyGYpiwDutG8p1FGry8WgJM2vBKuchd5vBhaouw4G-XYwT9insDXsaLU47iGGGZoPR2E5Dx0TGuyOXEmrgOgAQ</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
 </item>
 
 <item>
 <title>TVi</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDY3NTg4MH0.3SSh5amcqbRutNuSsIjaHWeBcoXUC4pK5ALISH5PR-pA9UYBam4U_khos_5CKnayycRpALLKeS48-4u_QbcZ3g</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
 </item>
 
 <item>
 <title>Galaksi Muzik</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDY3NTg4Mn0.Xqw-FkaLhuTMzTngdFTatsfrMIiw0gGAHkUS_0of0LEAMmdOFrabNTgEofvREMXsByZdKiPN4hqL1k5ug7cMfw</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>
 </item>
 
 <item>
 <title>1News</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDY3NTg4M30.5zTUyOMvyPz1j-5VB8Alt16RNMvVegiBeTo2l7fEVNC9nW6uLLhYP4rXsgJGKmKQOKU6rWxZdLsG9Yih8wMvag</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>
 </item>
 
