@@ -5,73 +5,73 @@
 
 <channel>
 <name>MALAYSIA</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia_1.png</thumbnail>
 <externallink>https://goo.gl/W4Xy31</externallink>
 </channel>
 
 <channel>
 <name>ASIA</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/asia.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/asian_1.png</thumbnail>
 <externallink>https://goo.gl/mQzOFy</externallink>
 </channel>
 
 <channel>
 <name>BERITA</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png</thumbnail>
 <externallink>https://goo.gl/E34gNs</externallink>
 </channel>
 
 <channel>
 <name>KANAK-KANAK</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png</thumbnail>
 <externallink>https://goo.gl/nv0qBR</externallink>
 </channel>
 
 <channel>
 <name>KELUARGA</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png</thumbnail>
 <externallink>https://goo.gl/AkKzDU</externallink>
 </channel>
 
 <channel>
 <name>HIBURAN</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/hiburan.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/hiburan_1.png</thumbnail>
 <externallink>https://goo.gl/TkYsCo</externallink>
 </channel>
 
 <channel>
 <name>FILEM MELAYU</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png</thumbnail>
 <externallink>http://goo.gl/yCsj9B</externallink>
 </channel>
 
 <channel>
 <name>MUZIK</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/muzik.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/muzik_1.png</thumbnail>
 <externallink>https://goo.gl/lYvhCu</externallink>
 </channel>
 
 <channel>
 <name>SUKAN</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png</thumbnail>
 <externallink>https://goo.gl/2GX0gk</externallink>
 </channel>
 
 <channel>
 <name>RADIO MALAYSIA</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png</thumbnail>
 <externallink>https://goo.gl/j4K5lV</externallink>
 </channel>
 
 <channel>
 <name>TV IKIM FM</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/tvikimfm_1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/tvikim_1.png</thumbnail>
 <externallink>https://goo.gl/mNgnC4</externallink>
 </channel>
 
 <channel>
 <name>AL-QURAN</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/quran.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/quran_1.png</thumbnail>
 <externallink>https://goo.gl/UhptNh</externallink>
 </channel>
 

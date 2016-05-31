@@ -931,26 +931,26 @@
 
 <item>
 <title>Jendela (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-du2daeywzauf-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jyg4r3zjif52-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-8DP2k5rDYg0/VXk4mRNVuyI/AAAAAAAABH0/0Orz1alzS6I/s1600/Jendela.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/516lb2Y4yfE/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-du2daeywzauf-640x360.html</page>
-<referer>http://streamin.to/du2daeywzauf</referer>
+<page>http://streamin.to/embed-jyg4r3zjif52-640x360.html</page>
+<referer>http://streamin.to/jyg4r3zjif52</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-du2daeywzauf-640x360.html</page>
-<referer>http://streamin.to/du2daeywzauf</referer>
+<page>http://streamin.to/embed-jyg4r3zjif52-640x360.html</page>
+<referer>http://streamin.to/jyg4r3zjif52</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-du2daeywzauf-640x360.html</page>
-<referer>http://streamin.to/du2daeywzauf</referer>
+<page>http://streamin.to/embed-jyg4r3zjif52-640x360.html</page>
+<referer>http://streamin.to/jyg4r3zjif52</referer>
 </regex>
 </item>
 
@@ -1374,26 +1374,26 @@
 
 <item>
 <title>Hantu Bukit Cina (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-nlffhx5h9658-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-u7mnrri254tt-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/08/hantu-bukit-cina-sdtvrip-dvdrip-download-pencuri-movie.jpg</thumbnail>
 <fanart>http://i.insing.com.sg/cms/45/ea/36/24/114109/97d4c78045_600x450_fdfe2c4e00.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-nlffhx5h9658-640x360.html</page>
-<referer>http://streamin.to/nlffhx5h9658</referer>
+<page>http://streamin.to/embed-u7mnrri254tt-640x360.html</page>
+<referer>http://streamin.to/u7mnrri254tt</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-nlffhx5h9658-640x360.html</page>
-<referer>http://streamin.to/nlffhx5h9658</referer>
+<page>http://streamin.to/embed-u7mnrri254tt-640x360.html</page>
+<referer>http://streamin.to/u7mnrri254tt</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-nlffhx5h9658-640x360.html</page>
-<referer>http://streamin.to/nlffhx5h9658</referer>
+<page>http://streamin.to/embed-u7mnrri254tt-640x360.html</page>
+<referer>http://streamin.to/u7mnrri254tt</referer>
 </regex>
 </item>
 
@@ -1866,26 +1866,26 @@
 
 <item>
 <title>Panik (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-a5vt6ivdulrn-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3s6me8fiv3tc-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-ji628hFud-8/U1LfHVKuk3I/AAAAAAAAjRY/y9_D0LjsxME/s1600/Panik+2014.jpg</thumbnail>
 <fanart>http://pencurimovie.pw/wp-content/uploads/2014/04/Panik.2014.SDTVRip.XviD_.AC3-LTTi.PFT-KakiSharing.com_.avi.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-a5vt6ivdulrn-640x360.html</page>
-<referer>http://streamin.to/a5vt6ivdulrn</referer>
+<page>http://streamin.to/embed-3s6me8fiv3tc-640x360.html</page>
+<referer>http://streamin.to/3s6me8fiv3tc</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-a5vt6ivdulrn-640x360.html</page>
-<referer>http://streamin.to/a5vt6ivdulrn</referer>
+<page>http://streamin.to/embed-3s6me8fiv3tc-640x360.html</page>
+<referer>http://streamin.to/3s6me8fiv3tc</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-a5vt6ivdulrn-640x360.html</page>
-<referer>http://streamin.to/a5vt6ivdulrn</referer>
+<page>http://streamin.to/embed-3s6me8fiv3tc-640x360.html</page>
+<referer>http://streamin.to/3s6me8fiv3tc</referer>
 </regex>
 </item>
 
@@ -2196,8 +2196,8 @@
 </item>
 
 <item>
-<title>[COLOR=FFBEBEBE]UPDATED = 09.22 19-05-2016 , suaji86@gmail.com[/COLOR]</title>
-<link>https://copy.com/Bg3yctJnCuBD10rU/%5BPENCURIMOVIE.PW%20%5D%20Jwanita.2015.720P.PPVRiP.AC3.PFT.mkv?revision=9&download=1</link>
+<title>[COLOR=FFBEBEBE]UPDATED = 09.22 31-05-2016 , suaji[/COLOR]</title>
+<link>suaji86 @ gmail dot com</link>
 </item>
 
 <item>
