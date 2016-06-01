@@ -107,7 +107,7 @@ rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwp
 #EXTINF:0, [COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, [COLOR yellow][B]UPDATED : 27/05/2016[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]UPDATED : 01/06/2016[/B][/COLOR]
 http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, [B]*BACKUP BPL LIVE[/B]
@@ -121,17 +121,6 @@ http://ow.ly/XzGG7
 
 #EXTINF:-1,UK: BT Sport 1 HD
 http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/223.m3u8
-#EXTINF:-1,UK: BT Sports2
-http://worldtv.noip.me:8000/live/Ozkan/Erdem/432.m3u8
-
-#EXTINF:-1,SuperSport 1HD
-http://worldtv.noip.me:8000/live/Ozkan/Erdem/439.m3u8
-#EXTINF:-1,SuperSport 2HD
-http://worldtv.noip.me:8000/live/Ozkan/Erdem/438.m3u8
-#EXTINF:-1,SuperSport 3HD
-http://worldtv.noip.me:8000/live/Ozkan/Erdem/437.m3u8
-#EXTINF:-1,SuperSport 4HD
-http://worldtv.noip.me:8000/live/Ozkan/Erdem/436.m3u8
 
 #EXTINF:-1,Sky Sports 1
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
@@ -151,11 +140,21 @@ http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
 #EXTINF:0, SKY SPORTS 5 UK
 http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
 
+#EXTINF:-1,GR: CTH Stadium X HD
+http://ipsatpro.com:8000/live/10002/100021/839.m3u8
+#EXTINF:-1,GR: CTH Stadium 1 HD
+http://ipsatpro.com:8000/live/10002/100021/841.m3u8
+#EXTINF:-1,GR: CTH Stadium 2 HD
+http://ipsatpro.com:8000/live/10002/100021/840.m3u8
+#EXTINF:-1,GR: CTH Stadium 3 HD
+http://ipsatpro.com:8000/live/10002/100021/870.m3u8
+#EXTINF:-1,GR: CTH Stadium 4 HD
+http://ipsatpro.com:8000/live/10002/100021/868.m3u8
+#EXTINF:-1,GR: CTH Stadium 5 HD
+http://ipsatpro.com:8000/live/10002/100021/869.m3u8
+
 #EXTINF:0, True Sport 2
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
-
-#EXTINF:0, Sport Time TV5
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
 
 #EXTINF:0, [COLOR gold][B].....RADIO.....[/B][/COLOR]
 http://50.7.96.210:8285
@@ -206,56 +205,4 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 http://astro1.rastream.com/lite?type=.flv
 
 #EXTINF:0, [COLOR yellow][B]____________________________[/B][/COLOR]
-http://dl.nfilm.org/DL/film/Collection-Film/
-
-#EXTINF:0, [COLOR yellow][B]suaji[/B][/COLOR]
 suaji86 @ gmail dot com
-
-#EXTINF:0,#EXTINF:-1,SPORT TV 1 HD
-http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/174.m3u8
-#EXTINF:0,#EXTINF:-1,SPORT TV 1 HD (LOW)
-http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/219.m3u8
-#EXTINF:0,#EXTINF:-1,SPORT TV 2 HD
-http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/173.m3u8
-#EXTINF:0,#EXTINF:-1,SPORT TV 2 HD (LOW)
-http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/276.m3u8
-#EXTINF:0,#EXTINF:-1,SPORT TV 3 HD
-http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/172.m3u8
-#EXTINF:0,#EXTINF:-1,SPORT TV 4 HD
-http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/171.m3u8
-#EXTINF:0,#EXTINF:-1,SPORT TV 5 HD
-http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/170.m3u8
-
-#EXTINF:0,#EXTINF:-1,ARENA SPORT 1
-http://149.202.85.84:8080/arenaSp1-2050/local/index.m3u8
-#EXTINF:0,#EXTINF:-1,ARENA SPORT 2
-http://149.202.85.84:8080/arenaSp2-2050/local/index.m3u8
-#EXTINF:0,#EXTINF:-1,ARENA SPORT 3
-http://149.202.85.84:8080/arenaSp3-2050/local/index.m3u8
-#EXTINF:0,#EXTINF:-1,ARENA SPORT 4
-http://149.202.85.84:8080/arenaSp4-2050/local/index.m3u8
-#EXTINF:0,#EXTINF:-1,ARENA SPORT 5
-http://149.202.85.84:8080/arenaSp5-2050/local/index.m3u8
-
-#EXTINF:-1,GR: Astra Supersport 1
-http://ipsatpro.com:8000/live/10002/100021/845.m3u8
-#EXTINF:-1,GR: Astra Supersport 2
-http://ipsatpro.com:8000/live/10002/100021/844.m3u8
-#EXTINF:-1,GR: Astra Supersport 3
-http://ipsatpro.com:8000/live/10002/100021/843.m3u8
-#EXTINF:-1,GR: Astra Supersport 4
-http://ipsatpro.com:8000/live/10002/100021/842.m3u8
-#EXTINF:-1,GR: CTH Stadium X HD
-http://ipsatpro.com:8000/live/10002/100021/839.m3u8
-#EXTINF:-1,GR: CTH Stadium 1 HD
-http://ipsatpro.com:8000/live/10002/100021/841.m3u8
-#EXTINF:-1,GR: CTH Stadium 2 HD
-http://ipsatpro.com:8000/live/10002/100021/840.m3u8
-#EXTINF:-1,GR: CTH Stadium 3 HD
-http://ipsatpro.com:8000/live/10002/100021/870.m3u8
-#EXTINF:-1,GR: CTH Stadium 4 HD
-http://ipsatpro.com:8000/live/10002/100021/868.m3u8
-#EXTINF:-1,GR: CTH Stadium 5 HD
-http://ipsatpro.com:8000/live/10002/100021/869.m3u8
-#EXTINF:-1,GR: CTH Stadium 6 HD
-http://ipsatpro.com:8000/live/10002/100021/867.m3u8
