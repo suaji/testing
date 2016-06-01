@@ -17,9 +17,17 @@
 </item>
 
 <item>
-<title>1NEWS</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDY3NTg4M30.5zTUyOMvyPz1j-5VB8Alt16RNMvVegiBeTo2l7fEVNC9nW6uLLhYP4rXsgJGKmKQOKU6rWxZdLsG9Yih8wMvag</link>
-<thumbnail></thumbnail>
+  <title>1NEWS</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10153</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10153</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10153</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
 </item>
 
 <item>

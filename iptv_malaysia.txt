@@ -77,11 +77,74 @@
 </item>
 
 <item>
-<title>1News</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4OH0.9MoWFKWTtQtXsOdNB2hEa6yBhk9jo1UQ3xFjqHOY0SmzicNR4c9R8x_W-jchyEyCGvl9v9RpSfiuYpDvDALgZA</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>
+  <title>TV1</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10149</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10149</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10149</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
 </item>
 
+<item>
+  <title>TV2</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10148</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10148</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10148</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>TVi</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10150</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10150</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10150</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>GALAKSI MUZIK</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10151</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10151</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10151</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>1News</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10153</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://cdn-rtm-player.gluempsapp.com/105/10153</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/105/10153</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
 <item>
 <title>Awani</title>
 <link>http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8</link>
