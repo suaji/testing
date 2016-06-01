@@ -12,24 +12,35 @@
 
 <item>
 <title>TV1 SD</title>
-<link>http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b2640000_sleng.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>RTM TV (regex test)</title>
-<link>$doregex[f-url]|User-agent=iPhone&amp;Referer=http://myklik.rtm.gov.my/live/10153/</link>
+<link>$doregex[makelist]</link>
 <regex>
-<name>f-url</name>
-<expres>$pyFunction:'$doregex[url]'.replace('\/','/')</expres>
-<page></page>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+      <title>[makelist.param3]</title>
+      <link>$doregex[finalURL]|User-Agent=iPhone&amp;Referer=$doregex[gpage]</link>
+      <thumbnail>[makelist.param2]</thumbnail>
+  ]]></listrepeat>
+  <expres><![CDATA[a href="([^\"]+).+?img src="([^\"]+).+?title">([^\<]+)]]></expres>
+  <page>http://myklik.rtm.gov.my/live</page>
+  <referer>http://myklik.rtm.gov.my/live</referer>
+  <ignorecache/>
 </regex>
 <regex>
-<name>url</name>
-<expres>"src":"([^"]+)</expres>
-<page>http://myklik.rtm.gov.my/</page>
-<agent>iPhone</agent>
-<cookieJar><cookieJar>
+    <name>finalURL</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>$doregex[gpage]</page>
+    <agent>Mozilla/5.0</agent>
+    <referer>http://myklik.rtm.gov.my/</referer>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+</regex>
+<regex>
+    <name>gpage</name>
+    <expres>div id="[^\"]+"[\D]*?src="([^\"]+)"</expres>
+    <page>http://myklik.rtm.gov.my[makelist.param1]</page>
+    <referer>http://myklik.rtm.gov.my/</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
 </regex>
 </item>
 
