@@ -17,6 +17,23 @@
 </item>
 
 <item>
+<title>RTM TV (regex test)</title>
+<link>$doregex[f-url]|User-agent=iPhone&amp;Referer=http://myklik.rtm.gov.my/live/10153/</link>
+<regex>
+<name>f-url</name>
+<expres>$pyFunction:'$doregex[url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>url</name>
+<expres>"src":"([^"]+)</expres>
+<page>http://myklik.rtm.gov.my/</page>
+<agent>iPhone</agent>
+<cookieJar><cookieJar>
+</regex>
+</item>
+
+<item>
 <title>TV2</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
