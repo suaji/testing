@@ -1,79 +1,7 @@
 <item>
-<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (01-06-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>TV1</title>
-<link>http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
-</item>
-
-<item>
-<title>MAKELIST TV1</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-      <title>[makelist.param3]</title>
-      <link>$doregex[finalURL]|User-Agent=iPhone&amp;Referer=$doregex[gpage]</link>
-      <thumbnail>[makelist.param2]</thumbnail>
-  ]]></listrepeat>
-  <expres><![CDATA[a href="([^\"]+).+?img src="([^\"]+).+?title">([^\<]+)]]></expres>
-  <page>http://myklik.rtm.gov.my/live/10153</page>
-  <referer>http://myklik.rtm.gov.my/live/10153</referer>
-  <ignorecache/>
-</regex>
-<regex>
-    <name>finalURL</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>$doregex[gpage]</page>
-    <agent>Mozilla/5.0</agent>
-    <referer>http://myklik.rtm.gov.my/live/10153</referer>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-</regex>
-<regex>
-    <name>gpage</name>
-    <expres>div id="[^\"]+"[\D]*?src="([^\"]+)"</expres>
-    <page>http://myklik.rtm.gov.my/live/10153[makelist.param1]</page>
-    <referer>http://myklik.rtm.gov.my/live/10153</referer>
-    <agent>Mozilla/5.0</agent>
-    <accept>*/*</accept>
-</regex>
-</item>
-
-<item>
-  <title>TEST TV1</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10153</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10153</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10153</referer>
-    <agent>Mozilla/5.0</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-</item>
-
-<item>
-<title>TV2</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
-</item>
-
-<item>
-<title>TVi</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4Nn0.pqTaZWAnZakA2RkLSgfAk63eXbU0Tdz5ayoUzpkkt2RTF8PoDlWARY6PhzZopWiM_qJsA0LEppBHBqhs0ivoeg</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
-</item>
-
-<item>
-<title>Galaksi Muzik</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4N30.ro-QIyNGm1WGKnhd0gri7rJExai4M233NUujCBhcEH3EadH1dah1q6xGxQREPeF7Zg2jxYPrFiqU1-w_Kt8fSQ</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>
 </item>
 
 <item>
@@ -88,6 +16,7 @@
     <accept>*/*</accept>
     <cookieJar></cookieJar>
   </regex>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
 </item>
 
 <item>
@@ -102,6 +31,7 @@
     <accept>*/*</accept>
     <cookieJar></cookieJar>
   </regex>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
 </item>
 
 <item>
@@ -116,6 +46,7 @@
     <accept>*/*</accept>
     <cookieJar></cookieJar>
   </regex>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
 </item>
 
 <item>
@@ -130,6 +61,7 @@
     <accept>*/*</accept>
     <cookieJar></cookieJar>
   </regex>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>  
 </item>
 
 <item>
@@ -144,7 +76,9 @@
     <accept>*/*</accept>
     <cookieJar></cookieJar>
   </regex>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>  
 </item>
+
 <item>
 <title>Awani</title>
 <link>http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8</link>
@@ -154,7 +88,7 @@
 <item>
 <title>Bernama TV</title>
 <link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png</thumbnail>
 </item>
 
 <item>
