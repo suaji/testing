@@ -78,7 +78,7 @@
 <channel>
 <name>Test ExternalLink</name>
 <thumbnail>.</thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/njBW21</externallink>
 </channel>
 
 </channels>
