@@ -11,9 +11,49 @@
 </item>
 
 <item>
+<title>Usia Dunia Semakin Singkat</title>
+<link>http://cdnvideo.webvideocore.net/enc4_vvu2ntmjuchp8p39qljc3hfutk8an9nftfoucpjmit9hf1jn1qjq7lov67lsmks6m13rah2i90rs1suenfrse1rr0ceftllmfn78mm3qe94qohrldtm7fmhtr2ea0naol3fc0pilhdcm4mqq4bl7imji7e4/index.m3u8</link>
+<thumbnail>http://i1.wp.com/www.tvikim.my/wp-content/uploads/2016/03/mauizati.png</thumbnail>
+</item>
+
+<item>
+<title>TEST REGEX - Usia Dunia Semakin Singkat</title>
+<link>http://www.tvikim.my/2016/05/24/mauizati-usia-dunia-semakin-singkat/</link>
+<thumbnail>http://i1.wp.com/www.tvikim.my/wp-content/uploads/2016/03/mauizati.png</thumbnail>
+</item>
+
+<item>
 <title>Tanda Besar Akan Berlaku Qiamat</title>
 <link>http://cdnvideo.webvideocore.net/enc4_vqjcv5spba3p9213n4c3gu6kf52gnm6pn56d6p6uah1jk35r4ebnifj47p4eb8rheh5655thrfbo0bf8nme9n1fmmo24oi3p1g208rvh8fonp6pj4mikt550621bu2ug1e99pcjh3jfh1u1p9a7t17ulnpo/index.m3u8</link>
+<link>http://cdnvideo.webvideocore.net/enc4_vsrm7t1si60qp2pm0biaduj849dfsjbli0o32du8dvqb7rhgjovmj0bl93t4obe6f6pba824qefjturdli9ck9jrb4eacimmgm52oq6hqs4b5orobuajdudl54t1vgl1odjborbqulfvlebc6oakuqqrri8/index.m3u8</link>
 <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
+
+<item>
+    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
 </item>
 
 <item>
@@ -62,16 +102,4 @@
 <title>Keadaan Roh Selepas Roh Dicabut</title>
 <link>http://cdnvideo.webvideocore.net/enc4_v0s2hb3ajd7r4kmk0nptj4lrc7r44er4jors15rrlbial1vjvt138fj0ojmm04udmotc0qukvm11ls62408orjl5ctf5lqntgnsthsg95erqkfdj4lq8371b8ui92cibte3qebri1p06m6dh04u9jk17rt8/index.m3u8</link>
 <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
 </item>
