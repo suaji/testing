@@ -75,4 +75,10 @@
 <externallink>https://goo.gl/UhptNh</externallink>
 </channel>
 
+<channel>
+<name>Test ExternalLink</name>
+<thumbnail>.</thumbnail>
+<externallink></externallink>
+</channel>
+
 </channels>
