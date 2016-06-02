@@ -77,7 +77,7 @@
 
 <channel>
 <name>Test ExternalLink</name>
-<thumbnail>.</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/tvikim_1.png</thumbnail>
 <externallink>https://goo.gl/njBW21</externallink>
 </channel>
 
