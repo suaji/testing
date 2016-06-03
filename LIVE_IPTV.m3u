@@ -209,3 +209,6 @@ suaji86 @ gmail dot com
 
 #EXTINF:-1, TV1 Backup
 http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8
+
+#EXTINF:-1, TV2 Backup
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
