@@ -204,5 +204,8 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, [COLOR yellow][B]____________________________[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
 suaji86 @ gmail dot com
+
+#EXTINF:-1, TV1 Backup
+http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8
