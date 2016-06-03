@@ -13,6 +13,56 @@
 </item>
 
 <item>
+<title>Perjanjian Syaitan (2016)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-webhm596zmad-640x360.html</link>
+<thumbnail>http://www.finas.gov.my/wp-content/uploads/2016/04/Poster-perjanjian-syaitan-2-1.jpg</thumbnail>
+<fanart>http://cdn2.thevocket.com/content/uploads/2016/02/perjanjian-syaitan-2016.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-webhm596zmad-640x360.html</page>
+<referer>http://streamin.to/webhm596zmad</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-webhm596zmad-640x360.html</page>
+<referer>http://streamin.to/webhm596zmad</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-webhm596zmad-640x360.html</page>
+<referer>http://streamin.to/webhm596zmad</referer>
+</regex>
+</item>
+
+<item>
+<title>Hey Orang Kita (2016) HD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ditpnhn3jd8v-640x360.html</link>
+<thumbnail>https://2.bp.blogspot.com/-F5OdGOecyFc/V0jwmpeSmuI/AAAAAAAADwc/UR8qvl1T6U8OwsLR2RxLodSSVlkn2CbPACLcB/s1600/Hei%2BOrang%2BKita%2B-%2BMytontontube.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/ciVw0loGEOA/maxresdefault.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-ditpnhn3jd8v-640x360.html</page>
+<referer>http://streamin.to/ditpnhn3jd8v</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-ditpnhn3jd8v-640x360.html</page>
+<referer>http://streamin.to/ditpnhn3jd8v</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-ditpnhn3jd8v-640x360.html</page>
+<referer>http://streamin.to/ditpnhn3jd8v</referer>
+</regex>
+</item>
+
+<item>
 <title>Angin Cinta (2016) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-51j9x8oume5f-640x360.html</link>
 <thumbnail>http://pencurimovie.se/wp-content/uploads/2016/05/Angin-Cinta.jpg</thumbnail>
