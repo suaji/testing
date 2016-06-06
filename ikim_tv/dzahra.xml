@@ -5,7 +5,7 @@
 </item>
 
 <item>
-    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
+    <title>Pertahanan Keluarga</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -15,8 +15,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/23/pesona-dzahra-pertahanan-keluarga/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/23/pesona-dzahra-pertahanan-keluarga/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -24,15 +24,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
+    <page>http://www.tvikim.my/2016/05/23/pesona-dzahra-pertahanan-keluarga/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail></thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-Pzahra.jpg</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
+    <title>Jangan Bawa Ke Esok</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -42,8 +42,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/21/pesona-dzahra-jangan-bawa-ke-esok/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/04/21/pesona-dzahra-jangan-bawa-ke-esok/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -51,15 +51,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
+    <page>http://www.tvikim.my/2016/04/21/pesona-dzahra-jangan-bawa-ke-esok/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail></thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-Pzahra.jpg</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
+    <title>Tuah dan Azam Baru</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -69,8 +69,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/23/tuah-azam-baru-ustaz-muhammad-abdullah-al-amin/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/03/23/tuah-azam-baru-ustaz-muhammad-abdullah-al-amin/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -78,15 +78,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
+    <page>http://www.tvikim.my/2016/03/23/tuah-azam-baru-ustaz-muhammad-abdullah-al-amin/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail></thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-Pzahra.jpg</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
+    <title>Bercakap Dengan Hati</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -96,8 +96,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/01/26/pesona-dzahra-bercakap-dengan-hati-ustaz-muhamad-abdullah-al-amin/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/01/26/pesona-dzahra-bercakap-dengan-hati-ustaz-muhamad-abdullah-al-amin/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -105,144 +105,9 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
+    <page>http://www.tvikim.my/2016/01/26/pesona-dzahra-bercakap-dengan-hati-ustaz-muhamad-abdullah-al-amin/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</item>
-
-<item>
-    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
-    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
-  <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
-    <page></page>
-  </regex>
-  <regex>
-    <name>getm3u8</name>
-    <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-    <regex>
-    <name>ClipID</name>
-    <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
-    <cookieJar></cookieJar>
-  </regex>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</item>
-
-<item>
-    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
-    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
-  <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
-    <page></page>
-  </regex>
-  <regex>
-    <name>getm3u8</name>
-    <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-    <regex>
-    <name>ClipID</name>
-    <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
-    <cookieJar></cookieJar>
-  </regex>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</item>
-
-<item>
-    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
-    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
-  <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
-    <page></page>
-  </regex>
-  <regex>
-    <name>getm3u8</name>
-    <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-    <regex>
-    <name>ClipID</name>
-    <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
-    <cookieJar></cookieJar>
-  </regex>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</item>
-
-<item>
-    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
-    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
-  <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
-    <page></page>
-  </regex>
-  <regex>
-    <name>getm3u8</name>
-    <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-    <regex>
-    <name>ClipID</name>
-    <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
-    <cookieJar></cookieJar>
-  </regex>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</item>
-
-<item>
-    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
-    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
-  <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
-    <page></page>
-  </regex>
-  <regex>
-    <name>getm3u8</name>
-    <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-    <regex>
-    <name>ClipID</name>
-    <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
-    <cookieJar></cookieJar>
-  </regex>
-   <thumbnail></thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-Pzahra.jpg</thumbnail>
    <fanart></fanart>
 </item>
