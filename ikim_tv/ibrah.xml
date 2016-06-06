@@ -1,11 +1,11 @@
 <item>
 <title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
-<link>http://www.tvikim.my/category/senarai-rancangan/kimfm/pesona-dzahra/</link>
+<link>http://www.tvikim.my/category/senarai-rancangan/kimfm/ibrah/</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
-    <title>Pertahanan Keluarga</title>
+    <title>Agar Hidup Sentiasa Bermotivasi</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -15,8 +15,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/23/pesona-dzahra-pertahanan-keluarga/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/23/pesona-dzahra-pertahanan-keluarga/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/23/agar-hidup-sentiasa-bermotivasi-ustaz-syaari-abdul-rahman//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/23/agar-hidup-sentiasa-bermotivasi-ustaz-syaari-abdul-rahman/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -24,15 +24,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/23/pesona-dzahra-pertahanan-keluarga/</page>
+    <page>http://www.tvikim.my/2016/05/23/agar-hidup-sentiasa-bermotivasi-ustaz-syaari-abdul-rahman/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-Pzahra.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-ibrah.jpg</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Jangan Bawa Ke Esok</title>
+    <title>Kisah Ibrah Ahli Syurga</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -42,8 +42,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/21/pesona-dzahra-jangan-bawa-ke-esok/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/04/21/pesona-dzahra-jangan-bawa-ke-esok/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/21/kisah-ibrah-ahli-syurga-ustaz-syyari-abdul-rahman//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/04/21/kisah-ibrah-ahli-syurga-ustaz-syyari-abdul-rahman/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -51,15 +51,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/04/21/pesona-dzahra-jangan-bawa-ke-esok/</page>
+    <page>http://www.tvikim.my/2016/04/21/kisah-ibrah-ahli-syurga-ustaz-syyari-abdul-rahman/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-Pzahra.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-ibrah.jpg</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Tuah dan Azam Baru</title>
+    <title>Doa Di Pintu Gerbang Syurga</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -69,8 +69,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/23/tuah-azam-baru-ustaz-muhammad-abdullah-al-amin/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/03/23/tuah-azam-baru-ustaz-muhammad-abdullah-al-amin/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/24/doa-di-pintu-gerbang-syurga-ustaz-syaari-abdul-rahman//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/03/24/doa-di-pintu-gerbang-syurga-ustaz-syaari-abdul-rahman/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -78,15 +78,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/03/23/tuah-azam-baru-ustaz-muhammad-abdullah-al-amin/</page>
+    <page>http://www.tvikim.my/2016/03/24/doa-di-pintu-gerbang-syurga-ustaz-syaari-abdul-rahman/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-Pzahra.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-ibrah.jpg</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Bercakap Dengan Hati</title>
+    <title>Kisah Nabi Hud A.S</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -96,8 +96,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/01/26/pesona-dzahra-bercakap-dengan-hati-ustaz-muhamad-abdullah-al-amin/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/01/26/pesona-dzahra-bercakap-dengan-hati-ustaz-muhamad-abdullah-al-amin/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/01/27/ibrah-ustaz-syaari-abdul-rahman//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/01/27/ibrah-ustaz-syaari-abdul-rahman/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -105,9 +105,9 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/01/26/pesona-dzahra-bercakap-dengan-hati-ustaz-muhamad-abdullah-al-amin/</page>
+    <page>http://www.tvikim.my/2016/01/27/ibrah-ustaz-syaari-abdul-rahman/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-Pzahra.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-ibrah.jpg</thumbnail>
    <fanart></fanart>
 </item>

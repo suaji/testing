@@ -1,11 +1,11 @@
 <item>
-<title>[COLOR red]kemaskini (24-05-16)[/COLOR]</title>
-<link>http://www.tvikim.my/category/senarai-rancangan/kimfm/mauizati/</link>
+<title>[COLOR red]kemaskini (01-06-16)[/COLOR]</title>
+<link>http://www.tvikim.my/category/senarai-rancangan/kimfm/islam-itu-indah/</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
-    <title>Usia Dunia Semakin Singkat</title>
+    <title>Puasa Yang Berkesan</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -15,8 +15,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/24/mauizati-usia-dunia-semakin-singkat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/24/mauizati-usia-dunia-semakin-singkat/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/01/islam-itu-indah-puasa-yang-berkesan//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/01/islam-itu-indah-puasa-yang-berkesan/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -24,15 +24,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/24/mauizati-usia-dunia-semakin-singkat/</page>
+    <page>http://www.tvikim.my/2016/06/01/islam-itu-indah-puasa-yang-berkesan/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Tanda Besar Akan Berlaku Qiamat</title>
+    <title>Ciri-Ciri Seorang Hamba</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -42,8 +42,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/23/ciri-ciri-seorang-hamba-ustaz-mohd-meeftah-hj-anuar//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/23/ciri-ciri-seorang-hamba-ustaz-mohd-meeftah-hj-anuar/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -51,15 +51,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
+    <page>http://www.tvikim.my/2016/05/23/ciri-ciri-seorang-hamba-ustaz-mohd-meeftah-hj-anuar/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Kasihanilah Kita dan Dia</title>
+    <title>Tarbiyah Hati Di Rejab Ini</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -69,8 +69,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/25/kasihanilah-kita-dan-dia-ustaz-ahmad-dusuki-abd-rani/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/04/25/kasihanilah-kita-dan-dia-ustaz-ahmad-dusuki-abd-rani/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/23/tarbiyah-hati-di-rejab-ini-ustaz-pahrol-mohd-juoi//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/23/tarbiyah-hati-di-rejab-ini-ustaz-pahrol-mohd-juoi/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -78,15 +78,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/04/25/kasihanilah-kita-dan-dia-ustaz-ahmad-dusuki-abd-rani/</page>
+    <page>http://www.tvikim.my/2016/05/23/tarbiyah-hati-di-rejab-ini-ustaz-pahrol-mohd-juoi/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Melalui Siang dan Malam di Alam Barzakh</title>
+    <title>Nasihat-Nasihat Insan Soleh - Ustaz Miftah Anwar</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -96,8 +96,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/21/melalui-siang-dan-malam-di-alam-barzakh-ustaz-ahmad-dusuki-abd-rani/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/04/21/melalui-siang-dan-malam-di-alam-barzakh-ustaz-ahmad-dusuki-abd-rani/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/nasihat-nasihat-insan-soleh-ustaz-miftah-anwar//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/10/nasihat-nasihat-insan-soleh-ustaz-miftah-anwar/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -105,15 +105,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/04/21/melalui-siang-dan-malam-di-alam-barzakh-ustaz-ahmad-dusuki-abd-rani/</page>
+    <page>http://www.tvikim.my/2016/05/10/nasihat-nasihat-insan-soleh-ustaz-miftah-anwar/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://zingki.com/uploads/medium/2016/04/30/60d4eb071c8c991e588c62d178800017.jpeg</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Malam Pertama Di Alam Barzakh</title>
+    <title>Hikmah Bersangka Baik</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -123,8 +123,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/24/malam-pertama-di-alam-barzakh-ustaz-ahmad-dusuki-abd-rani-2/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/03/24/malam-pertama-di-alam-barzakh-ustaz-ahmad-dusuki-abd-rani-2/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/25/hikmah-bersangka-baik-ustaz-pahrol-mohd-juoi//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/04/25/hikmah-bersangka-baik-ustaz-pahrol-mohd-juoi/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -132,15 +132,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/03/24/malam-pertama-di-alam-barzakh-ustaz-ahmad-dusuki-abd-rani-2/</page>
+    <page>http://www.tvikim.my/2016/04/25/hikmah-bersangka-baik-ustaz-pahrol-mohd-juoi/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Pertanyaan Dua Malaikat</title>
+    <title>Bagaimana Hendak Jadi Baik (Akhir)</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -150,8 +150,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/24/pertanyaan-dua-malaikat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/03/24/pertanyaan-dua-malaikat/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/21/bagaimana-hendak-jadi-baik-siri-akhir-ustaz-pahrol-mohd-juoi//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/04/21/bagaimana-hendak-jadi-baik-siri-akhir-ustaz-pahrol-mohd-juoi/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -159,15 +159,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/03/24/pertanyaan-dua-malaikat/</page>
+    <page>http://www.tvikim.my/2016/04/21/bagaimana-hendak-jadi-baik-siri-akhir-ustaz-pahrol-mohd-juoi/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Husnul khatimah</title>
+    <title>Bagaimana Hendak Jadi Baik (Bhgn 2)</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -177,8 +177,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/01/26/mauizati-ustaz-ahmad-dusuki-abd-rani/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/01/26/mauizati-ustaz-ahmad-dusuki-abd-rani/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/14/bagaimana-hendak-jadi-baik-bhg-3-ustaz-pahrol-mohd-juoi-2//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/04/14/bagaimana-hendak-jadi-baik-bhg-3-ustaz-pahrol-mohd-juoi-2/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -186,15 +186,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/01/26/mauizati-ustaz-ahmad-dusuki-abd-rani/</page>
+    <page>http://www.tvikim.my/2016/04/14/bagaimana-hendak-jadi-baik-bhg-3-ustaz-pahrol-mohd-juoi-2/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Sifat Malaikat Maut</title>
+    <title>Bagaimana Hendak Jadi Baik (Bhgn 1)</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -204,8 +204,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/01/26/mauizati-sifat-malaikat-maut-ustaz-ahmad-dusuki-abd-rani/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/01/26/mauizati-sifat-malaikat-maut-ustaz-ahmad-dusuki-abd-rani/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/24/bagaimana-hendak-jadi-baik//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/03/24/bagaimana-hendak-jadi-baik/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -213,15 +213,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/01/26/mauizati-sifat-malaikat-maut-ustaz-ahmad-dusuki-abd-rani/</page>
+    <page>http://www.tvikim.my/2016/03/24/bagaimana-hendak-jadi-baik/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Dahsyatnya Kematian</title>
+    <title>Berani Menghadapi Takut</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -231,8 +231,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/01/26/mauizati-mauizati-dahsyatnya-kematian-ustaz-ahmad-dusuki-abd-rani/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/01/26/mauizati-mauizati-dahsyatnya-kematian-ustaz-ahmad-dusuki-abd-rani/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/01/27/islam-itu-indah-berani-menghadapi-takut-ustaz-pahrol-mohamad-juoi//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/01/27/islam-itu-indah-berani-menghadapi-takut-ustaz-pahrol-mohamad-juoi/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -240,15 +240,15 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/01/26/mauizati-mauizati-dahsyatnya-kematian-ustaz-ahmad-dusuki-abd-rani/</page>
+    <page>http://www.tvikim.my/2016/01/27/islam-itu-indah-berani-menghadapi-takut-ustaz-pahrol-mohamad-juoi/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-    <title>Keadaan Roh Selepas Roh Dicabut</title>
+    <title>ALLAH Ada</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -258,8 +258,8 @@
   <regex>
     <name>getm3u8</name>
     <expres>(http.*m3u8.*?)</expres>
-    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/01/26/mauizati-keadaan-roh-selepas-roh-dicabut-ustaz-ahmad-dusuki-abd-rani/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
-    <referer>http://www.tvikim.my/2016/01/26/mauizati-keadaan-roh-selepas-roh-dicabut-ustaz-ahmad-dusuki-abd-rani/</referer>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2015/08/10/motivasi-pagi//&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2015/08/10/motivasi-pagi/</referer>
     <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -267,9 +267,9 @@
     <regex>
     <name>ClipID</name>
     <expres>id="svp_player([^"]+)"</expres>
-    <page>http://www.tvikim.my/2016/01/26/mauizati-keadaan-roh-selepas-roh-dicabut-ustaz-ahmad-dusuki-abd-rani/</page>
+    <page>http://www.tvikim.my/2015/08/10/motivasi-pagi/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
    <fanart></fanart>
 </item>

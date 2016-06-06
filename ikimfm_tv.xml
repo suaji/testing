@@ -19,6 +19,12 @@
 </channel>
 
 <channel>
+<name>TOPIK JUMAAT</name>
+<thumbnail>.</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
 <name>Mau'izati - Ustaz Ahmad Dusuki Abd. Rani</name>
 <thumbnail>http://niaga.tvikim.my/wp-content/uploads/2016/02/mauizati-depan.png</thumbnail>
 <externallink>https://goo.gl/mNgnC4</externallink>
@@ -28,6 +34,48 @@
 <name>Pesona D'Zahra - Ustaz Muhammad Abdullah Al-Amin</name>
 <thumbnail>http://niaga.tvikim.my/wp-content/uploads/2014/12/PesonaDzahra1-MukaDepan-edisi-digital.png</thumbnail>
 <externallink>https://goo.gl/UhptNh</externallink>
+</channel>
+
+<channel>
+<name>Ibrah - Ustaz Syaari Abdul Rahman</name>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-ibrah.jpg</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
+<name>Islam Itu Indah - Ustaz Pahrol Mohamad Juoi</name>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/islam-itu-indah.png</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
+<name>Tarbiah - Ustaz Engku Ahmad Fadzil</name>
+<thumbnail>.</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
+<name>Tahsinul Ibadah - Ustaz Fadzli Al Yamani </name>
+<thumbnail>.</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
+<name>Suluh Budi - Prof Datuk Dr Sidek Baba</name>
+<thumbnail>.</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
+<name>Islam dan Perundangan - Prof. Madya Dr Shamrahayu A. Aziz</name>
+<thumbnail>.</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
+<name>Usrah Nurani - Ustaz Syed Abdul Kadir Al-Joofre</name>
+<thumbnail>.</thumbnail>
+<externallink>.</externallink>
 </channel>
 
 </channels>
