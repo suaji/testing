@@ -63,19 +63,13 @@
 <channel>
 <name>TV IKIM FM</name>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/tvikim_1.png</thumbnail>
-<externallink>https://goo.gl/mNgnC4</externallink>
+<externallink>https://goo.gl/njBW21</externallink>
 </channel>
 
 <channel>
 <name>AL-QURAN</name>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/quran_1.png</thumbnail>
 <externallink>https://goo.gl/UhptNh</externallink>
-</channel>
-
-<channel>
-<name>Test ExternalLink</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/tvikim_1.png</thumbnail>
-<externallink>https://goo.gl/njBW21</externallink>
 </channel>
 
 </channels>
