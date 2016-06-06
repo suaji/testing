@@ -1,6 +1,3 @@
-<layouttype>thumbnail</layouttype>
-
-
 <channels>
 
 <channel>

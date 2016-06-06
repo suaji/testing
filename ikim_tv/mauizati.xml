@@ -1,0 +1,105 @@
+<item>
+<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<link>.</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]( Mauizati - Ustaz Ahmad Dusuki Abd. Rani )[/COLOR]</title>
+<link>.</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>Usia Dunia Semakin Singkat</title>
+<link>http://cdnvideo.webvideocore.net/enc4_vvu2ntmjuchp8p39qljc3hfutk8an9nftfoucpjmit9hf1jn1qjq7lov67lsmks6m13rah2i90rs1suenfrse1rr0ceftllmfn78mm3qe94qohrldtm7fmhtr2ea0naol3fc0pilhdcm4mqq4bl7imji7e4/index.m3u8</link>
+<thumbnail>http://i1.wp.com/www.tvikim.my/wp-content/uploads/2016/03/mauizati.png</thumbnail>
+</item>
+
+<item>
+<title>TEST REGEX - Usia Dunia Semakin Singkat</title>
+<link>http://www.tvikim.my/2016/05/24/mauizati-usia-dunia-semakin-singkat/</link>
+<thumbnail>http://i1.wp.com/www.tvikim.my/wp-content/uploads/2016/03/mauizati.png</thumbnail>
+</item>
+
+<item>
+<title>Tanda Besar Akan Berlaku Qiamat</title>
+<link>http://cdnvideo.webvideocore.net/enc4_vqjcv5spba3p9213n4c3gu6kf52gnm6pn56d6p6uah1jk35r4ebnifj47p4eb8rheh5655thrfbo0bf8nme9n1fmmo24oi3p1g208rvh8fonp6pj4mikt550621bu2ug1e99pcjh3jfh1u1p9a7t17ulnpo/index.m3u8</link>
+<link>http://cdnvideo.webvideocore.net/enc4_vsrm7t1si60qp2pm0biaduj849dfsjbli0o32du8dvqb7rhgjovmj0bl93t4obe6f6pba824qefjturdli9ck9jrb4eacimmgm52oq6hqs4b5orobuajdudl54t1vgl1odjborbqulfvlebc6oakuqqrri8/index.m3u8</link>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
+
+<item>
+    <title>TEST F4M Tanda Besar Akan Berlaku Qiamat</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/05/10/mauizati-tanda-besar-akan-berlaku-qiamat/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+<title>Kasihanilah Kita dan Dia</title>
+<link>http://cdnvideo.webvideocore.net/enc4_vq1m6kpb2fucaf0v58sq9nvqnfmnmqoi3akt65e2k6gdfghnhcvil8b0uib007ftabnrmiqdkf1mmd87pokej9sk51mhco4mk7ob8o3ih95dolt1miojd7t960r764110c0grd9efougka0c9pbne5ig1bo/index.m3u8</link>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Melalui Siang dan Malam di Alam Barzakh</title>
+<link>http://cdnvideo.webvideocore.net/enc4_vhhndkl7t78lc2tgs1g21gna0cc04val8i360ltlrmh11r28fprotrips36igf24gqbcbdmsql8jbgv8rr4q88h4graue80vhk6kku8m5cac043332h1h2inj5vodlrhmajt04fjf94g1908f8vgfpsc96g/index.m3u8</link>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Malam Pertama Di Alam Barzakh</title>
+<link>http://cdnvideo.webvideocore.net/enc4_vdf2b71pf45gjmoj2dfpk0pshfd6lgfdn6g9g782k58c1ee19cub7cpvejml0hkhbjjtrao6bsckhrc3tpmm2b102jsq8t3rntr2u9v58c3glcc4d019umousvlpu3ukeb2hheekjj248ru6i32ig9nu1l4/index.m3u8</link>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pertanyaan Dua Malaikat</title>
+<link>http://cdnvideo.webvideocore.net/enc4_vnv457a69qemd0uqsc0e46s08b486k7kjg9ooh7l8hg80ubdactmju5s6mbgq3r6mmg9bmlfbahc6kl3gniqgvif97thhvkhd57ha4mfe7ltdaok1tbjndq1srqm7kdqq0oghcs39njd2n3d4au0tdqilt0/index.m3u8</link>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Husnul Khatimah</title>
+<link>http://cdnvideo.webvideocore.net/enc4_v2lequonagq17arjj6cgroseqi850i9u7dvec11435kbc7odp6098p804si8gj8p48i7c3sr0us8jvfra6tgamki2s7rg3la6o1dtj7ns5eefse44q0gq2do6vac0j9a3p93l9kdv7n7e6vbimd50p8028o/index.m3u8</link>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sifat Malaikat Maut</title>
+<link>http://cdnvideo.webvideocore.net/enc4_v6mc1beab6hh7oef33btrurk6tgh8ecne3njb5uhh3qh0uh3e92n8h8el00bb222fohb6dbd32ok0fg3n9b996ialtt6qrscc5dtdvfank61q6qjdj7efg8ai0vg7se9k1c51e5ju8dkehucffip2ae7b7o/index.m3u8</link>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dahsyatnya Kematian</title>
+<link>http://cdnvideo.webvideocore.net/enc4_vitp56oqjno69h210bhmn1lcsahrj5l730kj8pua5ag44cuhkmhlc8s15hm1hsm98upnqqf6k3gpditnn61gard4dhn9c41lr9sli9pp8rg7dp36m6kr9u4ugn28jkq8cd8124csc6be9idignski6sauu8/index.m3u8</link>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Keadaan Roh Selepas Roh Dicabut</title>
+<link>http://cdnvideo.webvideocore.net/enc4_v0s2hb3ajd7r4kmk0nptj4lrc7r44er4jors15rrlbial1vjvt138fj0ojmm04udmotc0qukvm11ls62408orjl5ctf5lqntgnsthsg95erqkfdj4lq8371b8ui92cibte3qebri1p06m6dh04u9jk17rt8/index.m3u8</link>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/01/thumb-mauizati-01.jpg</thumbnail>
+</item>
