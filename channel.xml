@@ -1,15 +1,32 @@
 <item>
 <title>[COLOR red]MALAYSIA LIVE TV[/COLOR]</title>
-<link>http://streamer1.playlist.m3u8</link>
-<thumbnail>http://s26.postimg.org/psk64mftl/screenshot015.png</thumbnail>
-<fanart>http://s26.postimg.org/qgt0nkejd/screenshot016.png</fanart>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY</link>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]Tutorial http://alturl.com/5kevp[/COLOR]</title>
-<link>http://goo.gl/0KAuq9</link>
-<thumbnail>http://s26.postimg.org/qgt0nkejd/screenshot016.png</thumbnail>
-<fanart>http://s26.postimg.org/psk64mftl/screenshot015.png</fanart>
+<title>Lu Mafia Gua Gangster (2016) HD</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-23jeyz7jigrm-640x360.html</link>
+<thumbnail>http://pencurimovie.se/wp-content/uploads/2016/06/lu-mafia-gua-gangster.jpg</thumbnail>
+<fanart>http://babab.net/img/lu-mafia-gua-gangster-menampilkan-kumpulan-zero-sebagai-hero.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-23jeyz7jigrm-640x360.html</page>
+<referer>http://streamin.to/23jeyz7jigrm</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-23jeyz7jigrm-640x360.html</page>
+<referer>http://streamin.to/23jeyz7jigrm</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-23jeyz7jigrm-640x360.html</page>
+<referer>http://streamin.to/23jeyz7jigrm</referer>
+</regex>
 </item>
 
 <item>
@@ -35,13 +52,6 @@
 <page>http://streamin.to/embed-webhm596zmad-640x360.html</page>
 <referer>http://streamin.to/webhm596zmad</referer>
 </regex>
-</item>
-
-<item>
-<title>Perjanjian Syaitan (2016) HD</title>
-<link>http://streamin.to/embed-webhm596zmad-640x360.html</link>
-<thumbnail>http://www.finas.gov.my/wp-content/uploads/2016/04/Poster-perjanjian-syaitan-2-1.jpg</thumbnail>
-<fanart>http://cdn2.thevocket.com/content/uploads/2016/02/perjanjian-syaitan-2016.jpg</fanart>
 </item>
 
 <item>
@@ -1256,26 +1266,26 @@
 
 <item>
 <title>Gudang Kubur (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kl752xdtrgd5-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-23wbus700u37-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/gudang-kubur.jpg</thumbnail>
 <fanart>http://kitepunye.com/wp-content/uploads/2015/02/P1070763.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-kl752xdtrgd5-640x360.html</page>
-<referer>http://streamin.to/kl752xdtrgd5</referer>
+<page>http://streamin.to/embed-23wbus700u37-640x360.html</page>
+<referer>http://streamin.to/23wbus700u37</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-kl752xdtrgd5-640x360.html</page>
-<referer>http://streamin.to/kl752xdtrgd5</referer>
+<page>http://streamin.to/embed-23wbus700u37-640x360.html</page>
+<referer>http://streamin.to/23wbus700u37</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-kl752xdtrgd5-640x360.html</page>
-<referer>http://streamin.to/kl752xdtrgd5</referer>
+<page>http://streamin.to/embed-23wbus700u37-640x360.html</page>
+<referer>http://streamin.to/23wbus700u37</referer>
 </regex>
 </item>
 
@@ -1381,26 +1391,26 @@
 
 <item>
 <title>Rumah Pusaka Di Simpang Jalan (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gnxcivzg9e9v-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-punpfxz6vhvn-640x360.html</link>
 <thumbnail>http://2.bp.blogspot.com/-PSUPFivVMVE/VI0eg6MQ-rI/AAAAAAAAH18/h_QRLwMLRYk/s1600/Rumah%2BPusaka%2BDi%2BSimpang%2BJalan.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/x1o6oSoWPQA/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-gnxcivzg9e9v-640x360.html</page>
-<referer>http://streamin.to/gnxcivzg9e9v</referer>
+<page>http://streamin.to/embed-punpfxz6vhvn-640x360.html</page>
+<referer>http://streamin.to/punpfxz6vhvn</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-gnxcivzg9e9v-640x360.html</page>
-<referer>http://streamin.to/gnxcivzg9e9v</referer>
+<page>http://streamin.to/embed-punpfxz6vhvn-640x360.html</page>
+<referer>http://streamin.to/punpfxz6vhvn</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-gnxcivzg9e9v-640x360.html</page>
-<referer>http://streamin.to/gnxcivzg9e9v</referer>
+<page>http://streamin.to/embed-punpfxz6vhvn-640x360.html</page>
+<referer>http://streamin.to/punpfxz6vhvn</referer>
 </regex>
 </item>
 
@@ -1848,26 +1858,26 @@
 
 <item>
 <title>Cara Mengundang Hantu (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-niy6p9ica98w-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-c0eiqcc105y8-640x360.html</link>
 <thumbnail>http://4.bp.blogspot.com/-NUAxMnN2BAs/U4rjr183HtI/AAAAAAAAA8g/KjemonHL3HE/s1600/cmh.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/--9ze3veQq4/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-niy6p9ica98w-640x360.html</page>
-<referer>http://streamin.to/niy6p9ica98w</referer>
+<page>http://streamin.to/embed-c0eiqcc105y8-640x360.html</page>
+<referer>http://streamin.to/c0eiqcc105y8</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-niy6p9ica98w-640x360.html</page>
-<referer>http://streamin.to/niy6p9ica98w</referer>
+<page>http://streamin.to/embed-c0eiqcc105y8-640x360.html</page>
+<referer>http://streamin.to/c0eiqcc105y8</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-niy6p9ica98w-640x360.html</page>
-<referer>http://streamin.to/niy6p9ica98w</referer>
+<page>http://streamin.to/embed-c0eiqcc105y8-640x360.html</page>
+<referer>http://streamin.to/c0eiqcc105y8</referer>
 </regex>
 </item>
 
