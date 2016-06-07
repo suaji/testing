@@ -20,7 +20,7 @@
 
 <channel>
 <name>TOPIK JUMAAT</name>
-<thumbnail>.</thumbnail>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/04/topik-jumaat.png</thumbnail>
 <externallink>.</externallink>
 </channel>
 
@@ -50,13 +50,13 @@
 
 <channel>
 <name>Tarbiah - Ustaz Engku Ahmad Fadzil</name>
-<thumbnail>.</thumbnail>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Tarbiyah-3.png</thumbnail>
 <externallink>.</externallink>
 </channel>
 
 <channel>
 <name>Tahsinul Ibadah - Ustaz Fadzli Al Yamani </name>
-<thumbnail>.</thumbnail>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/tahsinul-ibadah.png</thumbnail>
 <externallink>.</externallink>
 </channel>
 
@@ -74,6 +74,12 @@
 
 <channel>
 <name>Usrah Nurani - Ustaz Syed Abdul Kadir Al-Joofre</name>
+<thumbnail>.</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
+<name>(*dpt kebenaran dr MOHAMAD ZAINAL BIN MOHD GHANI Pegawai Teknologi Maklumat IKIM)</name>
 <thumbnail>.</thumbnail>
 <externallink>.</externallink>
 </channel>
