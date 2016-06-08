@@ -9,7 +9,7 @@
 <channel>
 <name>MADRASAH RAMADHAN</name>
 <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/suaji/testing/master/ikim_tv/madrasahramadan.xml</externallink>
 </channel>
 
 <channel>
@@ -57,19 +57,19 @@
 <channel>
 <name>Suluh Budi - Dr. Mohd Farid Mohd Shahran</name>
 <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Suluh-budi.png</thumbnail>
-<externallink>.</externallink>
+<externallink>https://raw.githubusercontent.com/suaji/testing/master/ikim_tv/suluhbudi.xml</externallink>
 </channel>
 
 <channel>
 <name>Islam dan Perundangan - Prof. Madya Dr Shamrahayu A. Aziz</name>
 <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Islam-dan-Perundangan-2.png</thumbnail>
-<externallink>.</externallink>
+<externallink>https://raw.githubusercontent.com/suaji/testing/master/ikim_tv/islamperundangan.xml</externallink>
 </channel>
 
 <channel>
 <name>Usrah Nurani - Ustaz Zulramli</name>
 <thumbnail>http://www.tvikim.my/wp-content/uploads/2015/08/usrahnurani.jpg</thumbnail>
-<externallink>.</externallink>
+<externallink>https://raw.githubusercontent.com/suaji/testing/master/ikim_tv/usrahnurani.xml</externallink>
 </channel>
 
 <channel>
