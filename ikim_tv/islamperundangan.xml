@@ -1,0 +1,167 @@
+<item>
+<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<link>http://www.tvikim.my/category/senarai-rancangan/kimfm/islam-perundangan/</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+    <title>Perkahwinan Sejenis : Benarkah Ia Suatu Hak</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/23/perkahwinan-sejenis-benarkah-ia-suatu-hak/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/23/perkahwinan-sejenis-benarkah-ia-suatu-hak/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/05/23/perkahwinan-sejenis-benarkah-ia-suatu-hak/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Islam-dan-Perundangan-2.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Perlembagaan Persekutuan dan Maqasid Syariah</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/perlembagaan-persekutuan-maqasid-syariah/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/10/perlembagaan-persekutuan-maqasid-syariah/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/05/10/perlembagaan-persekutuan-maqasid-syariah/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Islam-dan-Perundangan-2.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Undang-Undang Amanah: Pengenalan dan Pemakaiannya di Malaysia (Bhg.2)</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/21/undang-undang-amanah-pengenalan-pemakaiannya-di-malaysia-bhg-2/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/04/21/undang-undang-amanah-pengenalan-pemakaiannya-di-malaysia-bhg-2/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/04/21/undang-undang-amanah-pengenalan-pemakaiannya-di-malaysia-bhg-2/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Islam-dan-Perundangan-2.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Undang-Undang Amanah: Pengenalan dan Pemakaiannya di Malaysia</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/25/undang-undang-amanah-pengenalan-pemakaiannya-di-malaysia-2/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/03/25/undang-undang-amanah-pengenalan-pemakaiannya-di-malaysia-2/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/03/25/undang-undang-amanah-pengenalan-pemakaiannya-di-malaysia-2/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Islam-dan-Perundangan-2.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Kuasa dan Bidang Kuasa Dewan Undangan Negeri Mengenai Kesalahan-Kesalahan Syariah</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/23/kuasa-bidang-kuasa-dewan-undangan-negeri-mengenai-kesalahan-kesalahan-syariah/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/03/23/kuasa-bidang-kuasa-dewan-undangan-negeri-mengenai-kesalahan-kesalahan-syariah/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/03/23/kuasa-bidang-kuasa-dewan-undangan-negeri-mengenai-kesalahan-kesalahan-syariah/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Islam-dan-Perundangan-2.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Pemerkasaan Lelaki dan Kepentingannya Dalam Pembangunan Negara (1)</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/23/pemerkasaan-lelaki-kepentingannya-dalam-pembangunan-negara-1-prof-madya-dr-shamrahayu-aziz/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/03/23/pemerkasaan-lelaki-kepentingannya-dalam-pembangunan-negara-1-prof-madya-dr-shamrahayu-aziz/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/03/23/pemerkasaan-lelaki-kepentingannya-dalam-pembangunan-negara-1-prof-madya-dr-shamrahayu-aziz/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Islam-dan-Perundangan-2.png</thumbnail>
+   <fanart></fanart>
+</item>

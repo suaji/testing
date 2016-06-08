@@ -1,0 +1,167 @@
+<item>
+<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<link>.</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+    <title>Perkongsian Mutiara Ilmu - Prof Datuk Dr Sidek Baba</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/23/perkongsian-mutiara-ilmu-prof-datuk-dr-sidek-baba/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/23/perkongsian-mutiara-ilmu-prof-datuk-dr-sidek-baba/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/05/23/perkongsian-mutiara-ilmu-prof-datuk-dr-sidek-baba/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Suluh-budi.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Memperkasa Pendidikan Islam Di Malaysia – Ustaz Omar Salleh</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/05/10/memperkasa-pendidikan-islam-di-malaysia-ustaz-omar-salleh/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/05/10/memperkasa-pendidikan-islam-di-malaysia-ustaz-omar-salleh/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/05/10/memperkasa-pendidikan-islam-di-malaysia-ustaz-omar-salleh/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Suluh-budi.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Pelajari Adab Berbeza Pandangan (Bhg. 2) - Dr. Mohd Farid Mohd Shahran</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/21/pelajari-adab-berbeza-pandangan-bhg-2-dr-mohd-farid-mohd-shahran/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/04/21/pelajari-adab-berbeza-pandangan-bhg-2-dr-mohd-farid-mohd-shahran/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/04/21/pelajari-adab-berbeza-pandangan-bhg-2-dr-mohd-farid-mohd-shahran/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Suluh-budi.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Pelajari Adab Berbeza Pandangan - Dr. Mohd Farid Mohd Shahran</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/04/14/pelajari-adab-berbeza-pandangan-dr-mohd-farid-mohd-shahran-2/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/04/14/pelajari-adab-berbeza-pandangan-dr-mohd-farid-mohd-shahran-2/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/04/14/pelajari-adab-berbeza-pandangan-dr-mohd-farid-mohd-shahran-2/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Suluh-budi.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Asas-Asas Akidah Islam - Dr. Mohd Farid Mohd Shahran</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/23/asas-asas-akidah-islam-dr-mohd-farid-mohd-shahran/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/03/23/asas-asas-akidah-islam-dr-mohd-farid-mohd-shahran/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/03/23/asas-asas-akidah-islam-dr-mohd-farid-mohd-shahran/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Suluh-budi.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>Agama Penyuluh Budi - Dr. Farid Mohd Shahran</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/03/23/agama-penyuluh-budi-dr-farid-mohd-shahran/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/03/23/agama-penyuluh-budi-dr-farid-mohd-shahran/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/03/23/agama-penyuluh-budi-dr-farid-mohd-shahran/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Suluh-budi.png</thumbnail>
+   <fanart></fanart>
+</item>

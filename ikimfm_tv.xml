@@ -7,6 +7,12 @@
 </channel>
 
 <channel>
+<name>MADRASAH RAMADHAN</name>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+<externallink></externallink>
+</channel>
+
+<channel>
 <name>TOPIK JUMAAT</name>
 <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/04/topik-jumaat.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/suaji/testing/master/ikim_tv/jumaat.xml</externallink>
@@ -49,25 +55,31 @@
 </channel>
 
 <channel>
-<name>Suluh Budi - Prof Datuk Dr Sidek Baba</name>
-<thumbnail>.</thumbnail>
+<name>Suluh Budi - Dr. Mohd Farid Mohd Shahran</name>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Suluh-budi.png</thumbnail>
 <externallink>.</externallink>
 </channel>
 
 <channel>
 <name>Islam dan Perundangan - Prof. Madya Dr Shamrahayu A. Aziz</name>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2016/03/Islam-dan-Perundangan-2.png</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
+<name>Usrah Nurani - Ustaz Zulramli</name>
+<thumbnail>http://www.tvikim.my/wp-content/uploads/2015/08/usrahnurani.jpg</thumbnail>
+<externallink>.</externallink>
+</channel>
+
+<channel>
+<name>(manual install Plugin f4mTester)</name>
 <thumbnail>.</thumbnail>
 <externallink>.</externallink>
 </channel>
 
 <channel>
-<name>Usrah Nurani - Ustaz Syed Abdul Kadir Al-Joofre</name>
-<thumbnail>.</thumbnail>
-<externallink>.</externallink>
-</channel>
-
-<channel>
-<name>(*Kebenaran dari MOHAMAD ZAINAL BIN MOHD GHANI Pegawai Teknologi Maklumat IKIM)</name>
+<name>(download www.bit.ly/1r98Yw4)</name>
 <thumbnail>.</thumbnail>
 <externallink>.</externallink>
 </channel>
