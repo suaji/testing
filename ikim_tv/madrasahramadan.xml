@@ -1,7 +1,115 @@
 <item>
-<title>[COLOR red]kemaskini (06-06-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (10-06-16)[/COLOR]</title>
 <link>http://www.tvikim.my/category/senarai-rancangan/laporan-khas/madrasah-ramadan/</link>
 <thumbnail>.</thumbnail>
+</item>
+
+<item>
+    <title>(Episode 5) 3 Kisah : Kisah Manusia</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/10/madrasah-ramadan-episode-5/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/10/madrasah-ramadan-episode-5/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/06/10/madrasah-ramadan-episode-5/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>(Episod 4) Ramadan Bulan Fitrah</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/09/madrasah-ramadan-episod-4/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/09/madrasah-ramadan-episod-4/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/06/09/madrasah-ramadan-episod-4/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>(Episod 3) Bagaimana Rasulullah, Sahabat dan Para Salaful Soleh Sambut Ramadan</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/09/madrasah-ramadan-episod-3bagaimana-rasulullah-sahabat-para-salaful-soleh-sambut-ramadan/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/09/madrasah-ramadan-episod-3bagaimana-rasulullah-sahabat-para-salaful-soleh-sambut-ramadan/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/06/09/madrasah-ramadan-episod-3bagaimana-rasulullah-sahabat-para-salaful-soleh-sambut-ramadan/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>(Episod 2) Puasa dan Akal</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/08/madrasah-ramadan-episode-2-puasa-dan-akal/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/08/madrasah-ramadan-episode-2-puasa-dan-akal/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/06/08/madrasah-ramadan-episode-2-puasa-dan-akal/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+   <fanart></fanart>
 </item>
 
 <item>
