@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, MAKKAH LIVE HD
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ArVmnth5jB4
+
 #EXTINF:-1, TV1
 http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8
 
@@ -15,6 +18,9 @@ http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8
 #EXTINF:-1, AL HIJRAH
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
+#EXTINF:-1, AL HIJRAH 2
+http://media.mynexa.my/p/101/sp/10100/playManifest/entryId/0_nj05jit9/format/applehttp/protocol/http/uiConfId/23448188/a.m3u8
+
 #EXTINF:-1, AWANI
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
@@ -26,6 +32,9 @@ http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8
 
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
+
+#EXTINF:-1, KBS WORLD HD (UK SmartDNS)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWEFYfmwSeo
 
 #EXTINF:0, Korean Drama (ENG)
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama

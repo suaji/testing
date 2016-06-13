@@ -1,6 +1,12 @@
 <item>
-<title>[COLOR red]kemaskini (01-06-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (13-06-16)[/COLOR]</title>
 <link>.</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]MAKKAH LIVE HD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ArVmnth5jB4</link>
 <thumbnail>.</thumbnail>
 </item>
 

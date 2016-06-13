@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>KBS World HD (UK SmartDNS)</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWEFYfmwSeo</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
 <title>METRO TV</title>
 <link>http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8</link>
 <thumbnail></thumbnail>
