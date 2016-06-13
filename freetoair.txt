@@ -62,7 +62,7 @@
 
 <channel>
 <name>TV IKIM FM</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/tvikim_1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/tvikim_3.png</thumbnail>
 <externallink>https://goo.gl/njBW21</externallink>
 </channel>
 
