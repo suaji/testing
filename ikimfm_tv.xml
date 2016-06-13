@@ -6,6 +6,18 @@
 <externallink>www.niaga.tvikim.my</externallink>
 </channel>
 
+<plugin>
+<name>[COLOR red](Bahagian ini memerlukan f4mTester plugin)[/COLOR]</name>
+<link>plugin://plugin.video.f4mTester/?</link>
+<thumbnail>.</thumbnail>
+</plugin> 
+
+<plugin>
+<name>[COLOR red](klik untuk auto-download f4mTester)[/COLOR]</name>
+<link>plugin://plugin.video.f4mTester/?</link>
+<thumbnail>.</thumbnail>
+</plugin> 
+
 <channel>
 <name>MADRASAH RAMADHAN</name>
 <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
