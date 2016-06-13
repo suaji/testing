@@ -1,143 +1,101 @@
 <item>
-<title>[COLOR red]kemaskini (01-06-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (13-06-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
+<title>Auto-Install Phoenix Plugin 1</title>
+<link>plugin://plugin.video.phstreams/?</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<plugin>
+<name>Auto-Install Phoenix Plugin backup</name>
+<link>plugin://plugin.video.phstreams/?</link>
+<thumbnail>.</thumbnail>
+</plugin> 
+
+<item>
 <title>UK: BT Sport 1</title>
 <link>http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/223.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 1</title>
 <link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 2</title>
 <link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 3</title>
 <link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 4</title>
 <link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 5</title>
 <link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>BT Sport 1</title>
 <link>rtmp://185.63.252.221:1935/liveedge/ playpath=ibrodtv26_fwfns7fs swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer_roja.php?width=640&height=480&id=ibrodtv26&autoplay=true</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium X HD</title>
-<link>http://ipsatpro.com:8000/live/10002/100021/839.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 1 HD</title>
-<link>http://ipsatpro.com:8000/live/10002/100021/841.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 2 HD</title>
-<link>http://ipsatpro.com:8000/live/10002/100021/840.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 3 HD</title>
-<link>http://ipsatpro.com:8000/live/10002/100021/870.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 4 HD</title>
-<link>http://ipsatpro.com:8000/live/10002/100021/868.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CTH Stadium 5 HD</title>
-<link>http://ipsatpro.com:8000/live/10002/100021/869.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>0</title>
 <link>http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/174.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>1</title>
 <link>http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/219.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>2</title>
 <link>http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/173.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>3</title>
 <link>http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/276.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>4</title>
 <link>http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/172.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>5</title>
 <link>http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/171.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>6</title>
 <link>http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/170.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<thumbnail>.</thumbnail>
 </item>
