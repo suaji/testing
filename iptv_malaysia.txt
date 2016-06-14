@@ -131,4 +131,9 @@
 <title>NTV7_test5</title>
 <link>http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.m3u8?hdnea=st=1465876906~exp=1465876996~acl=/z/ntv7flash_sp@392290/*~hmac=c6ae794dfdf612df868ccacf97649d3971556fa7f7318fc95c8af66287cd8514&hdcore=2.10.3&g=WKRIMDZMMHZC</link>
 <thumbnail>.</thumbnail>
+
+<item>
+<title>NTV7_test6</title>
+<link>http://s15.copiapop.com/video?e=hczAm_ZOXIeWzsWfAYJbN-Fx2UVEq_ibHjC8x8-19U4CQXg_ZG8xYZs5KmyqvZlE4Cvw-1PqVanfb4hqm1KSYvDxnNanu3jelnSykyRttIw</link>
+<thumbnail>.</thumbnail>
 </item>
