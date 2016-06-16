@@ -5,7 +5,7 @@
 </item>
 
 <item>
-    <title>(Episode 9) 3 Kisah : Kisah Syaitan</title>
+    <title>(Episod 9) 3 Kisah : Kisah Syaitan</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -32,7 +32,7 @@
 </item>
 
 <item>
-    <title>(Episode 8) Falsafah dan Hikmah Berpuasa</title>
+    <title>(Episod 8) Falsafah dan Hikmah Berpuasa</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -59,7 +59,7 @@
 </item>
 
 <item>
-    <title>(Episode 7) Fisiologi Badan Semasa Berpuasa</title>
+    <title>(Episod 7) Fisiologi Badan Semasa Berpuasa</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -86,7 +86,7 @@
 </item>
 
 <item>
-    <title>(Episode 6) Rahsia di Sebalik Perkataan “Ramadan”</title>
+    <title>(Episod 6) Rahsia di Sebalik Perkataan “Ramadan”</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -113,7 +113,7 @@
 </item>
 
 <item>
-    <title>(Episode 5) 3 Kisah : Kisah Manusia</title>
+    <title>(Episod 5) 3 Kisah : Kisah Manusia</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
@@ -221,7 +221,7 @@
 </item>
 
 <item>
-    <title>(Episode 1) Ramadan Menghindarkan Diri Dari Sifat Mazmumah</title>
+    <title>(Episod 1) Ramadan Menghindarkan Diri Dari Sifat Mazmumah</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>
