@@ -42,8 +42,29 @@ http://50.7.96.210:8285
 #EXTINF:0, METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
+#EXTINF:0,iNews TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
+
+#EXTINF:0, SCTV
+http://www.widih.com/idtv/sctv2.m3u8
+
 #EXTINF:0, RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+
+#EXTINF:0, INDOSIAR
+http://www.widih.com/idtv/indosiar2.m3u8
+
+#EXTINF:0, MNC TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
+
+#EXTINF:0, TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:0, RTV
+rtmp://203.153.97.35/live/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.tvonline.id/playerrtv.html
+
+#EXTINF:0, KOMPAS TV (LIVE Copa America)
+rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.tvonline.id/playerkompastv.html
 
 #EXTINF:-0, [COLOR slateblue][B].....NEWS.....[/B][/COLOR]
 http://50.7.96.210:8285
