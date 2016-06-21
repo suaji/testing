@@ -221,5 +221,8 @@ http://astro1.rastream.com/lite?type=.flv
 #EXTINF:0, [COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
 suaji86 @ gmail dot com
 
-#EXTINF:-1, Auto-Download Phoenix Plugin
+#EXTINF:-1, *jika gagal dpt channel terbaru,
+plugin://plugin.video.phstreams/?
+
+#EXTINF:-1, CLEAR DATA (TV Settings - General)
 plugin://plugin.video.phstreams/?
