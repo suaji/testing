@@ -13,65 +13,53 @@
 <item>
 <title>KBS World HD (UK SmartDNS)</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWEFYfmwSeo</link>
-<thumbnail>.</thumbnail>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
 </item>
 
 <item>
 <title>METRO TV</title>
 <link>http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>RCTI</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>INDOSIAR</title>
-<link>http://www.widih.com/idtv/indosiar2.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SCTV</title>
-<link>http://www.widih.com/idtv/sctv2.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png</thumbnail>
 </item>
 
 <item>
 <title>iNews TV</title>
 <link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/i_news_tv_id.png</thumbnail>
+</item>
+
+<item>
+<title>RCTI</title>
+<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rcti_id.png</thumbnail>
 </item>
 
 <item>
 <title>MNC TV</title>
 <link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.tvonlineindonesia.net/images/logo/mnctv.jpg</thumbnail>
 </item>
 
 <item>
 <title>RTV</title>
 <link>rtmp://203.153.97.35/live/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.tvonline.id/playerrtv.html</link>
-<thumbnail></thumbnail>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/RTVIndonesiasince3May2014.jpg</thumbnail>
 </item>
 
 <item>
 <title>TVRI</title>
 <link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvri_id.png</thumbnail>
 </item>
 
 <item>
 <title>KOMPAS TV (LIVE Copa America 2016)</title>
 <link>rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.tvonline.id/playerkompastv.html</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png</thumbnail>
 </item>
 
 <item>
 <title>NET TV (HD)</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XPy5jvhxSic</link>
-<thumbnail>.</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/net_tv_id.png</thumbnail>
 </item>

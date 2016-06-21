@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BACKUP ADDONS IPTV MALAYSIA"  group-title="Group N/A",BACKUP ADDONS IPTV MALAYSIA
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
@@ -233,3 +233,4 @@ plugin://plugin.video.phstreams/?
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CLEAR DATA (TV Settings - General)"  group-title="Group N/A",CLEAR DATA (TV Settings - General)
 plugin://plugin.video.phstreams/?
+
