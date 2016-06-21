@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (21-06-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -19,5 +19,23 @@
 <item>
 <title>Playy West</title>
 <link>http://123.108.164.71/etv2sb/phd743/lihattv.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>OSN-Movies-AMC-HD</title>
+<link>http://xiptv.xcamhd.me:2112/live/mokhtar/mokhtar/4635.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>OSN-Movies-2-HD</title>
+<link>http://xiptv.xcamhd.me:2112/live/mokhtar/mokhtar/4633.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>OSN-First-HBO-HD</title>
+<link>http://xiptv.xcamhd.me:2112/live/mokhtar/mokhtar/4637.m3u8</link>
 <thumbnail></thumbnail>
 </item>
