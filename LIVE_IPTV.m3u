@@ -132,6 +132,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ONE 1 HD"  group-title="MUSIC",ONE 1 HD
 http://rtmp.one.by:1300
 
+#EXTINF:0, KITA TV
+http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Korea Hits"  group-title="KOREA",Korea Hits
 rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/1293/korea-hits
 
