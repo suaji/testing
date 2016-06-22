@@ -1,7 +1,142 @@
 <item>
-<title>[COLOR red]kemaskini (17-06-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (22-06-16)[/COLOR]</title>
 <link>http://www.tvikim.my/category/senarai-rancangan/laporan-khas/madrasah-ramadan/</link>
 <thumbnail>.</thumbnail>
+</item>
+
+<item>
+    <title>(Episod 16) Kemuliaan Bulan Ramadan</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/21/madrasah-ramadan-episode-16-kemuliaan-bulan-ramadan/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/21/madrasah-ramadan-episode-16-kemuliaan-bulan-ramadan/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/06/21/madrasah-ramadan-episode-16-kemuliaan-bulan-ramadan/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>(Episod 15) Tingkatan Orang Berpuasa</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/20/madrasah-ramadan-episode-15-tingkatan-orang-berpuasa/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/20/madrasah-ramadan-episode-15-tingkatan-orang-berpuasa/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/06/20/madrasah-ramadan-episode-15-tingkatan-orang-berpuasa/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>(Episod 14) Tarawikh: 20 atau 8?</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/17/madrasah-ramadan-episode-14-tarawikh-20-8/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/17/madrasah-ramadan-episode-14-tarawikh-20-8/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/06/17/madrasah-ramadan-episode-14-tarawikh-20-8/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>(Episod 13) Tip Sahur</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/17/madrasah-ramadan-episode-13-tip-sahur/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/17/madrasah-ramadan-episode-13-tip-sahur/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/06/17/madrasah-ramadan-episode-13-tip-sahur/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+    <title>(Episod 12) Kemuliaan dan Keagungan Bulan Ramadan</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+  <regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[getm3u8]')</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>getm3u8</name>
+    <expres>(http.*m3u8.*?)</expres>
+    <page><![CDATA[http://player.webvideocore.net/index.php?page_url=http://www.tvikim.my/2016/06/17/madrasah-ramadan-episode-12-kemuliaan-keagungan-bulan-ramadan/&compiled=&a=xmlClipPath&rid=&preview=0&clip_id=$doregex[ClipID]&l=info&version=4]]></page>
+    <referer>http://www.tvikim.my/2016/06/17/madrasah-ramadan-episode-12-kemuliaan-keagungan-bulan-ramadan/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+    <regex>
+    <name>ClipID</name>
+    <expres>id="svp_player([^"]+)"</expres>
+    <page>http://www.tvikim.my/2016/06/17/madrasah-ramadan-episode-12-kemuliaan-keagungan-bulan-ramadan/</page>
+    <cookieJar></cookieJar>
+  </regex>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
+   <fanart></fanart>
 </item>
 
 <item>
@@ -27,7 +162,7 @@
     <page>http://www.tvikim.my/2016/06/16/1039/</page>
     <cookieJar></cookieJar>
   </regex>
-   <thumbnail></thumbnail>
+   <thumbnail>http://www.tvikim.my/wp-content/uploads/2016/06/madrasah-ramadan.png</thumbnail>
    <fanart></fanart>
 </item>
 
