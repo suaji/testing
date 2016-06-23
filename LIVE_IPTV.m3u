@@ -141,7 +141,7 @@ rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwp
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B].....SPORTS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 21/06/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 21/06/2016[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 23/06/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 23/06/2016[/B][/COLOR]
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
@@ -176,6 +176,17 @@ http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 5 UK"  group-title="SPORTS",SKY SPORTS 5 UK
 http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:-1,USA: FOX SPORT 1 HD
+http://IPTV-VOLKAN.NET:8000/live/edine/edine/1072.m3u8
+#EXTINF:-1,USA: FOX SPORT 2 HD
+http://IPTV-VOLKAN.NET:8000/live/edine/edine/1071.m3u8
+#EXTINF:-1,USA: NBC Sport
+http://IPTV-VOLKAN.NET:8000/live/edine/edine/1068.m3u8
+#EXTINF:-1,USA: AFN Sport
+http://IPTV-VOLKAN.NET:8000/live/edine/edine/1069.m3u8
+#EXTINF:-1,USA: BEIN SPORT USA
+http://IPTV-VOLKAN.NET:8000/live/edine/edine/1062.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="True Sport 2"  group-title="SPORTS",True Sport 2
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2

@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (21-06-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (23-06-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -43,5 +43,17 @@
 <item>
 <title>Sky Sports 3</title>
 <link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>USA: FOX SPORT 1 HD</title>
+<link>http://IPTV-VOLKAN.NET:8000/live/edine/edine/1072.m3u8</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>USA: FOX SPORT 2 HD</title>
+<link>http://IPTV-VOLKAN.NET:8000/live/edine/edine/1071.m3u8</link>
 <thumbnail>.</thumbnail>
 </item>
