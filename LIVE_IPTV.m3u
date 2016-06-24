@@ -188,6 +188,87 @@ http://IPTV-VOLKAN.NET:8000/live/edine/edine/1069.m3u8
 #EXTINF:-1,USA: BEIN SPORT USA
 http://IPTV-VOLKAN.NET:8000/live/edine/edine/1062.m3u8
 
+#EXTINF:-1,beIN SPORTS Max 1
+http://topiptv.net:5890/live/habib/habib/1797.m3u8
+#EXTINF:-1,beIN SPORTS Max 2
+http://topiptv.net:5890/live/habib/habib/1796.m3u8
+#EXTINF:-1,beIN SPORTS News HD
+http://topiptv.net:5890/live/habib/habib/918.m3u8
+#EXTINF:-1,beIN SPORTS HD
+http://topiptv.net:5890/live/habib/habib/1603.m3u8
+#EXTINF:-1,beinHD Sports HD1
+http://topiptv.net:5890/live/habib/habib/1.m3u8
+#EXTINF:-1,beIN SPORTS 1HD
+http://topiptv.net:5890/live/habib/habib/1400.m3u8
+#EXTINF:-1,Bein Sport 1HD
+http://topiptv.net:5890/live/habib/habib/1390.m3u8
+#EXTINF:-1,BeinHD Sports HD2
+http://topiptv.net:5890/live/habib/habib/3.m3u8
+#EXTINF:-1,beIN SPORTS 2HD
+http://topiptv.net:5890/live/habib/habib/1401.m3u8
+#EXTINF:-1,Bein Sport 2HD
+http://topiptv.net:5890/live/habib/habib/1391.m3u8
+#EXTINF:-1,beinHD Sports HD3
+http://topiptv.net:5890/live/habib/habib/5.m3u8
+#EXTINF:-1,beIN SPORTS 3HD
+http://topiptv.net:5890/live/habib/habib/1402.m3u8
+#EXTINF:-1,Bein Sport 3HD
+http://topiptv.net:5890/live/habib/habib/1392.m3u8
+#EXTINF:-1,beinHD Sports HD4
+http://topiptv.net:5890/live/habib/habib/7.m3u8
+#EXTINF:-1,beIN SPORTS 4HD
+http://topiptv.net:5890/live/habib/habib/1403.m3u8
+#EXTINF:-1,Bein Sport 4HD
+http://topiptv.net:5890/live/habib/habib/1393.m3u8
+#EXTINF:-1,beinHD Sports HD5
+http://topiptv.net:5890/live/habib/habib/9.m3u8
+#EXTINF:-1,beIN SPORTS 5HD
+http://topiptv.net:5890/live/habib/habib/1404.m3u8
+#EXTINF:-1,Bein Sport 5HD
+http://topiptv.net:5890/live/habib/habib/1394.m3u8
+#EXTINF:-1,beinHD Sports HD6
+http://topiptv.net:5890/live/habib/habib/11.m3u8
+#EXTINF:-1,beIN SPORTS 6HD
+http://topiptv.net:5890/live/habib/habib/1405.m3u8
+#EXTINF:-1,Bein Sport 6HD
+http://topiptv.net:5890/live/habib/habib/1395.m3u8
+#EXTINF:-1,beinHD Sports HD7
+http://topiptv.net:5890/live/habib/habib/13.m3u8
+#EXTINF:-1,beIN SPORTS 7HD
+http://topiptv.net:5890/live/habib/habib/1406.m3u8
+#EXTINF:-1,Bein Sport 7HD
+http://topiptv.net:5890/live/habib/habib/1396.m3u8
+#EXTINF:-1,beinHD Sports HD8
+http://topiptv.net:5890/live/habib/habib/15.m3u8
+#EXTINF:-1,beIN SPORTS 8HD
+http://topiptv.net:5890/live/habib/habib/1407.m3u8
+#EXTINF:-1,Bein Sport 8HD
+http://topiptv.net:5890/live/habib/habib/1397.m3u8
+#EXTINF:-1,beinHD Sports HD9
+http://topiptv.net:5890/live/habib/habib/17.m3u8
+#EXTINF:-1,beIN SPORTS 9HD
+http://topiptv.net:5890/live/habib/habib/1408.m3u8
+#EXTINF:-1,Bein Sport 9HD
+http://topiptv.net:5890/live/habib/habib/1398.m3u8
+#EXTINF:-1,beinHD Sports HD10
+http://topiptv.net:5890/live/habib/habib/19.m3u8
+#EXTINF:-1,beIN SPORTS 10HD
+http://topiptv.net:5890/live/habib/habib/1409.m3u8
+#EXTINF:-1,Bein Sport 10HD
+http://topiptv.net:5890/live/habib/habib/1399.m3u8
+#EXTINF:-1,beinHD Sports HD11
+http://topiptv.net:5890/live/habib/habib/864.m3u8
+#EXTINF:-1,beinHD Sports HD12
+http://topiptv.net:5890/live/habib/habib/865.m3u8
+#EXTINF:-1,beinHD Sports HD13
+http://topiptv.net:5890/live/habib/habib/1156.m3u8
+#EXTINF:-1,beinHD Sports HD14
+http://topiptv.net:5890/live/habib/habib/1157.m3u8
+#EXTINF:-1,beinHD Sports HD15
+http://topiptv.net:5890/live/habib/habib/1158.m3u8
+#EXTINF:-1,beinHD Sports HD16
+http://topiptv.net:5890/live/habib/habib/1159.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="True Sport 2"  group-title="SPORTS",True Sport 2
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
 
