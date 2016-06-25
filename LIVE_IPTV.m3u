@@ -141,7 +141,7 @@ rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwp
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B].....SPORTS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 23/06/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 23/06/2016[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 25/06/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 25/06/2016[/B][/COLOR]
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
@@ -328,3 +328,18 @@ plugin://plugin.video.phstreams/?
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CLEAR DATA (TV Settings - General)"  group-title="Group N/A",CLEAR DATA (TV Settings - General)
 plugin://plugin.video.phstreams/?
+
+#EXTINF:0, RTM TV1 -1080p-
+http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b2640000_sleng.m3u8
+
+#EXTINF:0, RTM TV1 -720p-
+http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0, RTM TV1 -540p-
+http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b644000_sleng.m3u8
+
+#EXTINF:0, RTM TV1 -360p-
+http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b329000_sleng.m3u8
+
+#EXTINF:0, RTM TV1 -234p-
+http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b974000_sleng.m3u8
