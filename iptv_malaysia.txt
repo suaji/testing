@@ -87,12 +87,6 @@
 
 <item>
 <title>Awani</title>
-<link>http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png</thumbnail>
-</item>
-
-<item>
-<title>Awani 2</title>
 <link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png</thumbnail>
 </item>
@@ -107,4 +101,34 @@
 <title>Al-Hijrah TV</title>
 <link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv_alhijrah.png</thumbnail>
+</item>
+
+<item>
+<title>TV1 SD</title>
+<link>http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b644000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b974000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
+</item>
+
+<item>
+<title>TVi SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/chunklist_b974000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
+</item>
+
+<item>
+<title>GALAKSI MUZIK SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch004/chunklist_b974000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>
+</item>
+
+<item>
+<title>1NEWS</title>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch006/chunklist_b974000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>
 </item>
