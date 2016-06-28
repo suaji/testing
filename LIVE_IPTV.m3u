@@ -386,3 +386,10 @@ plugin://plugin.video.phstreams/?
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CLEAR DATA (TV Settings - General)"  group-title="Group N/A",CLEAR DATA (TV Settings - General)
 plugin://plugin.video.phstreams/?
+
+#EXTINF:0, beIN sports 1 HD
+http://bit.do/b8VKk
+#EXTINF:0, beIN sports 2 HD
+http://tinyurl.com/hdstcwz
+#EXTINF:0, beIN sports 3 HD
+http://bit.ly/1prjlv4
