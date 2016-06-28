@@ -63,3 +63,15 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XPy5jvhxSic</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/net_tv_id.png</thumbnail>
 </item>
+
+<item>
+<title>SURIA</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+<name>m3u8</name>
+<expres>Suria.*\n.*url": "(.*?)",</expres>
+<page>http://app.recordtv.com/v4/channels.json</page>
+<referer>http://app.recordtv.com/v4/channels.json</referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
