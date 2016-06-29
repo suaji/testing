@@ -241,13 +241,7 @@ http://50.7.96.210:8285/;stream.mp3
 http://astro2.rastream.com/era?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/Hot_FM.png" tvg-name="HOT FM"  group-title="Malaysia",HOT FM
-http://2343.live.streamtheworld.com/HOTFMAAC
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/Hot_FM.png" tvg-name="HOT FM KELATE"  group-title="Malaysia",HOT FM KELATE
-http://2633.live.streamtheworld.com/HOTFMKELATEAAC
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/Hot_FM.png" tvg-name="HOT FM T'Ganu"  group-title="Malaysia",HOT FM T'Ganu
-http://2173.live.streamtheworld.com/HOTFMTGANUAAC
+http://9453.live.streamtheworld.com:3690/HOTFMAAC?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.suriafm.com.my/logo.png" tvg-name="SURIA FM"  group-title="Malaysia",SURIA FM
 http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
@@ -271,13 +265,25 @@ http://astro1.rastream.com/hitz?type=.flv
 http://astro2.rastream.com/mix?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1280px-Logo_Fly_FM.svg.png" tvg-name="FLY FM"  group-title="Malaysia",FLY FM
-http://2283.live.streamtheworld.com/FLYFM_SC
+http://13373.live.streamtheworld.com/FLYFMAAC?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.red.fm/logo.png" tvg-name="RED FM"  group-title="Malaysia",RED FM
 http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/My-FM.jpg" tvg-name="MY FM CHINESE"  group-title="Malaysia",MY FM CHINESE
+http://astro1.rastream.com/myfm?type=.flv&_=0.3403705791570246
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/09/India-Beat.jpg" tvg-name="INDIA BEAT"  group-title="Malaysia",INDIA BEAT
+http://astro4.rastream.com/india?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/sabah-fm.jpg" tvg-name="SABAH FM"  group-title="Malaysia",SABAH FM
+http://50.7.154.26:8295/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.img.co/radio/11/40/44011_290.png" tvg-name="SARAWAK FM"  group-title="Malaysia",SARAWAK FM
+http://124.82.221.149:8000/;stream.mp3
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
 http://50.7.96.210:8285
