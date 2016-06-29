@@ -75,6 +75,27 @@ rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://p.jwpcdn.com/
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NET. (Kodi)"  group-title="Group N/A",NET. (Kodi)
 http://id.stream.netmedia.co.id/live/nettv_hi/index.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][B].....CHINA/TAIWAN.....[/B][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][B].....CHINA/TAIWAN.....[/B][/COLOR]
+http://50.7.96.210:8285
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="EASTERN NEWS"  group-title="TAIWAN",EASTERN NEWS
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/da_ai_tv2.png" tvg-name="DA AI"  group-title="TAIWAN",DA AI
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="CTS"  group-title="TAIWAN",CTS
+http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_4.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="EASTERN SAT"  group-title="TAIWAN",EASTERN SAT
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="EASTERN YOYO"  group-title="TAIWAN",EASTERN YOYO
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="GOOD TV"  group-title="TAIWAN",GOOD TV
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][B].....NEWS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR slateblue][B].....NEWS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
