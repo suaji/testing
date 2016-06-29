@@ -72,7 +72,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png" tvg-name="KOMPAS TV"  group-title="INDONESIA",KOMPAS TV
 rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.tvonline.id/playerkompastv.html
 
-#EXTINF:-1, NET.
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NET."  group-title="Group N/A",NET.
 http://id.stream.netmedia.co.id/live/nettv_hi/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][B].....NEWS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR slateblue][B].....NEWS.....[/B][/COLOR]
@@ -160,7 +160,7 @@ http://50.7.96.210:8285
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
-http://50.7.96.210:8285
+http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=COLOR
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*Link Download Phoenix[/B]"  group-title="Group N/A",[B]*Link Download Phoenix[/B]
 http://50.7.96.210:8285
@@ -171,11 +171,13 @@ http://ow.ly/XzGG7
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: BT Sport 1 HD"  group-title="SPORTS",UK: BT Sport 1 HD
 http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/223.m3u8
 
-#EXTINF:0, BEIN SPORTS 1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="Group N/A",BEIN SPORTS 1
 http://bit.do/b8VKk
-#EXTINF:0, BEIN SPORTS 2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 2"  group-title="Group N/A",BEIN SPORTS 2
 http://tinyurl.com/hdstcwz
-#EXTINF:0, BEIN SPORTS 3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="Group N/A",BEIN SPORTS 3
 http://bit.ly/1prjlv4
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT Sport 1"  group-title="SPORTS",BT Sport 1
@@ -205,22 +207,28 @@ http://IPTV-VOLKAN.NET:8000/live/edine/edine/1062.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="True Sport 2"  group-title="SPORTS",True Sport 2
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
 
-#EXTINF:-1,USA: Fox 1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: Fox 1"  group-title="Group N/A",USA: Fox 1
 http://cp.dmbshare.net:8000/live/horn/horn/4607.m3u8
-#EXTINF:-1,USA: Fox Sports 1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: Fox Sports 1"  group-title="Group N/A",USA: Fox Sports 1
 http://cp.dmbshare.net:8000/live/horn/horn/4584.m3u8
-#EXTINF:-1,USA: Fox Sports 2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: Fox Sports 2"  group-title="Group N/A",USA: Fox Sports 2
 http://cp.dmbshare.net:8000/live/horn/horn/4585.m3u8
 
-#EXTINF:-1,USA: Fight Network
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: Fight Network"  group-title="Group N/A",USA: Fight Network
 http://cp.dmbshare.net:8000/live/horn/horn/4580.m3u8
-#EXTINF:-1,USA: ESPN Usa
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: ESPN Usa"  group-title="Group N/A",USA: ESPN Usa
 http://cp.dmbshare.net:8000/live/horn/horn/4604.m3u8
-#EXTINF:-1,USA: ESPN U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: ESPN U"  group-title="Group N/A",USA: ESPN U
 http://cp.dmbshare.net:8000/live/horn/horn/4574.m3u8
-#EXTINF:-1,USA: ESPN News
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: ESPN News"  group-title="Group N/A",USA: ESPN News
 http://cp.dmbshare.net:8000/live/horn/horn/4612.m3u8
-#EXTINF:-1,USA: ESPN 2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: ESPN 2"  group-title="Group N/A",USA: ESPN 2
 http://cp.dmbshare.net:8000/live/horn/horn/4583.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][B].....RADIO.....[/B][/COLOR]"  group-title="Group N/A",[COLOR gold][B].....RADIO.....[/B][/COLOR]
@@ -271,235 +279,349 @@ http://starrfm.rastream.com/starrfm-redfm?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:0, AL-QURAN (JOM BACA sambil DENGAR)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL-QURAN (JOM BACA sambil DENGAR)"  group-title="AL-QURAN",AL-QURAN (JOM BACA sambil DENGAR)
 http://jomdengardanhafal/alquran.m3u8
-#EXTINF:0, 1. ALFAATIHAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1. ALFAATIHAH"  group-title="AL-QURAN",1. ALFAATIHAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_fatihah.mp3
-#EXTINF:0, 2. ALBAQARAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="2. ALBAQARAH"  group-title="AL-QURAN",2. ALBAQARAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_baqarah.mp3
-#EXTINF:0, 3. ALLI'IMRAAN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3. ALLI'IMRAAN"  group-title="AL-QURAN",3. ALLI'IMRAAN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_imran.mp3
-#EXTINF:0, 4. ANNISAA'
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="4. ANNISAA'"  group-title="AL-QURAN",4. ANNISAA'
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_an_nisa.mp3
-#EXTINF:0, 5. ALMAAIDAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5. ALMAAIDAH"  group-title="AL-QURAN",5. ALMAAIDAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_maidah.mp3
-#EXTINF:0, 6. ALAN'AAM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="6. ALAN'AAM"  group-title="AL-QURAN",6. ALAN'AAM
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_anam.mp3
-#EXTINF:0, 7. ALA'RAAF
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="7. ALA'RAAF"  group-title="AL-QURAN",7. ALA'RAAF
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_araf.mp3
-#EXTINF:0, 8. ALANFAAL
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="8. ALANFAAL"  group-title="AL-QURAN",8. ALANFAAL
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_anfal.mp3
-#EXTINF:0, 9. ATTAUBAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="9. ATTAUBAH"  group-title="AL-QURAN",9. ATTAUBAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_at_tawbah.mp3
-#EXTINF:0, 10. YUNUS
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="10. YUNUS"  group-title="AL-QURAN",10. YUNUS
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_yunus.mp3
-#EXTINF:0, 11. HUD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="11. HUD"  group-title="AL-QURAN",11. HUD
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_hud.mp3
-#EXTINF:0, 12. YUSUF
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="12. YUSUF"  group-title="AL-QURAN",12. YUSUF
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_yusuf.mp3
-#EXTINF:0, 13. ARRA'D
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13. ARRA'D"  group-title="AL-QURAN",13. ARRA'D
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ar_rad.mp3
-#EXTINF:0, 14. IBRAHIM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="14. IBRAHIM"  group-title="AL-QURAN",14. IBRAHIM
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ibrahim.mp3
-#EXTINF:0, 15. ALHIJR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="15. ALHIJR"  group-title="AL-QURAN",15. ALHIJR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_hijr.mp3
-#EXTINF:0, 16. ANNAHL
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="16. ANNAHL"  group-title="AL-QURAN",16. ANNAHL
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_an_nahl.mp3
-#EXTINF:0, 17. ALISRAA'
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="17. ALISRAA'"  group-title="AL-QURAN",17. ALISRAA'
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_isra.mp3
-#EXTINF:0, 18. ALKAHFI
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="18. ALKAHFI"  group-title="AL-QURAN",18. ALKAHFI
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_kahf.mp3
-#EXTINF:0, 19. MARYAM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="19. MARYAM"  group-title="AL-QURAN",19. MARYAM
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_maryam.mp3
-#EXTINF:0, 20. TAHA
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="20. TAHA"  group-title="AL-QURAN",20. TAHA
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ta_ha.mp3
-#EXTINF:0, 21. ALANBIYAA'
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="21. ALANBIYAA'"  group-title="AL-QURAN",21. ALANBIYAA'
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_anbiya.mp3
-#EXTINF:0, 22. ALHAJJ
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="22. ALHAJJ"  group-title="AL-QURAN",22. ALHAJJ
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_hajj.mp3
-#EXTINF:0, 23. ALMU'MINUUM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="23. ALMU'MINUUM"  group-title="AL-QURAN",23. ALMU'MINUUM
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_muminun.mp3
-#EXTINF:0, 24. ANNUUR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24. ANNUUR"  group-title="AL-QURAN",24. ANNUUR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_an_nur.mp3
-#EXTINF:0, 25. ALFURQAAN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="25. ALFURQAAN"  group-title="AL-QURAN",25. ALFURQAAN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_furqan.mp3
-#EXTINF:0, 26. ASYSYU'ARAA'
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="26. ASYSYU'ARAA'"  group-title="AL-QURAN",26. ASYSYU'ARAA'
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ash_shuara.mp3
-#EXTINF:0, 27. ANNAML
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="27. ANNAML"  group-title="AL-QURAN",27. ANNAML
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_an_naml.mp3
-#EXTINF:0, 28. ALQASAS
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="28. ALQASAS"  group-title="AL-QURAN",28. ALQASAS
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_qasas.mp3
-#EXTINF:0, 29. AL'ANKABUT
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="29. AL'ANKABUT"  group-title="AL-QURAN",29. AL'ANKABUT
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_ankabut.mp3
-#EXTINF:0, 30. ARRUUM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="30. ARRUUM"  group-title="AL-QURAN",30. ARRUUM
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ar_rum.mp3
-#EXTINF:0, 31. LUQMAN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="31. LUQMAN"  group-title="AL-QURAN",31. LUQMAN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_luqman.mp3
-#EXTINF:0, 32. ASSAJDAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="32. ASSAJDAH"  group-title="AL-QURAN",32. ASSAJDAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_as_sajdah.mp3
-#EXTINF:0, 33. ALAHZAAB
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="33. ALAHZAAB"  group-title="AL-QURAN",33. ALAHZAAB
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_ahzab.mp3
-#EXTINF:0, 34. SABA'
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="34. SABA'"  group-title="AL-QURAN",34. SABA'
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_saba.mp3
-#EXTINF:0, 35. FAATIR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="35. FAATIR"  group-title="AL-QURAN",35. FAATIR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_fatir.mp3
-#EXTINF:0, 36. YAA SIIN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="36. YAA SIIN"  group-title="AL-QURAN",36. YAA SIIN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ya_sin.mp3
-#EXTINF:0, 37. ASSAAFAAT
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="37. ASSAAFAAT"  group-title="AL-QURAN",37. ASSAAFAAT
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_as_safat.mp3
-#EXTINF:0, 38. SAAD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="38. SAAD"  group-title="AL-QURAN",38. SAAD
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_sad.mp3
-#EXTINF:0, 39. AZZUMAR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="39. AZZUMAR"  group-title="AL-QURAN",39. AZZUMAR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_az_zumar.mp3
-#EXTINF:0, 40. GHAAFIR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="40. GHAAFIR"  group-title="AL-QURAN",40. GHAAFIR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ghafir.mp3
-#EXTINF:0, 41. FUSSILAT
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="41. FUSSILAT"  group-title="AL-QURAN",41. FUSSILAT
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_fussilat.mp3
-#EXTINF:0, 42. ASYSYUURA
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="42. ASYSYUURA"  group-title="AL-QURAN",42. ASYSYUURA
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ash_shura.mp3
-#EXTINF:0, 43. AZZUKHRUF
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="43. AZZUKHRUF"  group-title="AL-QURAN",43. AZZUKHRUF
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_az_zukhruf.mp3
-#EXTINF:0, 44. ADDUKHAAN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="44. ADDUKHAAN"  group-title="AL-QURAN",44. ADDUKHAAN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ad_dukhan.mp3
-#EXTINF:0, 45. ALJAATHIYAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="45. ALJAATHIYAH"  group-title="AL-QURAN",45. ALJAATHIYAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_jathiyah.mp3
-#EXTINF:0, 46. ALAHQAAF
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="46. ALAHQAAF"  group-title="AL-QURAN",46. ALAHQAAF
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_ahqaf.mp3
-#EXTINF:0, 47. MUHAMMAD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="47. MUHAMMAD"  group-title="AL-QURAN",47. MUHAMMAD
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_muhammad.mp3
-#EXTINF:0, 48. ALFATH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="48. ALFATH"  group-title="AL-QURAN",48. ALFATH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_fath.mp3
-#EXTINF:0, 49. ALHUJURAAT
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="49. ALHUJURAAT"  group-title="AL-QURAN",49. ALHUJURAAT
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_hujurat.mp3
-#EXTINF:0, 50. QAAF
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="50. QAAF"  group-title="AL-QURAN",50. QAAF
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_qaf.mp3
-#EXTINF:0, 51. ADZDZAARIYAAT
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="51. ADZDZAARIYAAT"  group-title="AL-QURAN",51. ADZDZAARIYAAT
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_adh_dhariyat.mp3
-#EXTINF:0, 52. ATTUUR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="52. ATTUUR"  group-title="AL-QURAN",52. ATTUUR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_at_tur.mp3
-#EXTINF:0, 53. ANNAJM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="53. ANNAJM"  group-title="AL-QURAN",53. ANNAJM
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_an_najm.mp3
-#EXTINF:0, 54. ALQAMAR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="54. ALQAMAR"  group-title="AL-QURAN",54. ALQAMAR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_qamar.mp3
-#EXTINF:0, 55. ARRAHMAAN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="55. ARRAHMAAN"  group-title="AL-QURAN",55. ARRAHMAAN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ar_rahman.mp3
-#EXTINF:0, 56. ALWAAQI'AH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="56. ALWAAQI'AH"  group-title="AL-QURAN",56. ALWAAQI'AH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_waqiah.mp3
-#EXTINF:0, 57. ALHADIID
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="57. ALHADIID"  group-title="AL-QURAN",57. ALHADIID
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_hadid.mp3
-#EXTINF:0, 58. ALMUJAADALAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="58. ALMUJAADALAH"  group-title="AL-QURAN",58. ALMUJAADALAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_mujadilah.mp3
-#EXTINF:0, 59. ALHASYR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="59. ALHASYR"  group-title="AL-QURAN",59. ALHASYR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_hashr.mp3
-#EXTINF:0, 60. ALMUMTAHANAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="60. ALMUMTAHANAH"  group-title="AL-QURAN",60. ALMUMTAHANAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_mumtahanah.mp3
-#EXTINF:0, 61. ASSAFF
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="61. ASSAFF"  group-title="AL-QURAN",61. ASSAFF
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_as_saff.mp3
-#EXTINF:0, 62. ALJUMU'AH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="62. ALJUMU'AH"  group-title="AL-QURAN",62. ALJUMU'AH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_jumuah.mp3
-#EXTINF:0, 63. ALMUNAAFIQUUN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="63. ALMUNAAFIQUUN"  group-title="AL-QURAN",63. ALMUNAAFIQUUN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_munafiqun.mp3
-#EXTINF:0, 64. ATTAGHAABUN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="64. ATTAGHAABUN"  group-title="AL-QURAN",64. ATTAGHAABUN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_at_taghabun.mp3
-#EXTINF:0, 65. ATTALAAQ
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="65. ATTALAAQ"  group-title="AL-QURAN",65. ATTALAAQ
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_at_talaq.mp3
-#EXTINF:0, 66. ATTAHRIIM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="66. ATTAHRIIM"  group-title="AL-QURAN",66. ATTAHRIIM
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_at_tahrim.mp3
-#EXTINF:0, 67. ALMULK
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="67. ALMULK"  group-title="AL-QURAN",67. ALMULK
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_mulk.mp3
-#EXTINF:0, 68. ALQALAM
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="68. ALQALAM"  group-title="AL-QURAN",68. ALQALAM
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_qalam.mp3
-#EXTINF:0, 69. ALHAAQQAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="69. ALHAAQQAH"  group-title="AL-QURAN",69. ALHAAQQAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_haqqah.mp3
-#EXTINF:0, 70. ALMA'AARIJ
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="70. ALMA'AARIJ"  group-title="AL-QURAN",70. ALMA'AARIJ
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_maarij.mp3
-#EXTINF:0, 71. NUH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="71. NUH"  group-title="AL-QURAN",71. NUH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_nuh.mp3
-#EXTINF:0, 72. ALJIN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="72. ALJIN"  group-title="AL-QURAN",72. ALJIN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_jinn.mp3
-#EXTINF:0, 73. ALMUZZAMMIL
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="73. ALMUZZAMMIL"  group-title="AL-QURAN",73. ALMUZZAMMIL
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_muzzammil.mp3
-#EXTINF:0, 74. ALMUDDATHTHIR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="74. ALMUDDATHTHIR"  group-title="AL-QURAN",74. ALMUDDATHTHIR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_muddaththir.mp3
-#EXTINF:0, 75. ALQIAAMAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="75. ALQIAAMAH"  group-title="AL-QURAN",75. ALQIAAMAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_qiyamah.mp3
-#EXTINF:0, 76. ALINSAAN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="76. ALINSAAN"  group-title="AL-QURAN",76. ALINSAAN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_insan.mp3
-#EXTINF:0, 77. ALMURSALAAT
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="77. ALMURSALAAT"  group-title="AL-QURAN",77. ALMURSALAAT
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_mursalat.mp3
-#EXTINF:0, 78. ANNABA'
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="78. ANNABA'"  group-title="AL-QURAN",78. ANNABA'
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_an_naba.mp3
-#EXTINF:0, 79. ANNAAZI'AAT
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="79. ANNAAZI'AAT"  group-title="AL-QURAN",79. ANNAAZI'AAT
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_an_naziat.mp3
-#EXTINF:0, 80. 'ABASA
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="80. 'ABASA"  group-title="AL-QURAN",80. 'ABASA
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_abasa.mp3
-#EXTINF:0, 81. ATTAKWIIR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="81. ATTAKWIIR"  group-title="AL-QURAN",81. ATTAKWIIR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_at_takwir.mp3
-#EXTINF:0, 82. ALINFITAAR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="82. ALINFITAAR"  group-title="AL-QURAN",82. ALINFITAAR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_infitar.mp3
-#EXTINF:0, 83. ALMUTAFFIFIIN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="83. ALMUTAFFIFIIN"  group-title="AL-QURAN",83. ALMUTAFFIFIIN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_mutaffifin.mp3
-#EXTINF:0, 84. ALINSYIQAAQ
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="84. ALINSYIQAAQ"  group-title="AL-QURAN",84. ALINSYIQAAQ
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_inshiqaq.mp3
-#EXTINF:0, 85. ALBURUUJ
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="85. ALBURUUJ"  group-title="AL-QURAN",85. ALBURUUJ
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_buruj.mp3
-#EXTINF:0, 86. ATTAARIQ
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="86. ATTAARIQ"  group-title="AL-QURAN",86. ATTAARIQ
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_at_tariq.mp3
-#EXTINF:0, 87. ALA'LAA
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="87. ALA'LAA"  group-title="AL-QURAN",87. ALA'LAA
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_ala.mp3
-#EXTINF:0, 88. ALGHAASYIYAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="88. ALGHAASYIYAH"  group-title="AL-QURAN",88. ALGHAASYIYAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_ghashiyah.mp3
-#EXTINF:0, 89. ALFAJR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="89. ALFAJR"  group-title="AL-QURAN",89. ALFAJR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_fajr.mp3
-#EXTINF:0, 90. ALBALAD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="90. ALBALAD"  group-title="AL-QURAN",90. ALBALAD
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_balad.mp3
-#EXTINF:0, 91. ASYSYAMS
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="91. ASYSYAMS"  group-title="AL-QURAN",91. ASYSYAMS
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ash_shams.mp3
-#EXTINF:0, 92. ALLAIL
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="92. ALLAIL"  group-title="AL-QURAN",92. ALLAIL
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_layl.mp3
-#EXTINF:0, 93. ADHDHUHA
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="93. ADHDHUHA"  group-title="AL-QURAN",93. ADHDHUHA
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ad_duha.mp3
-#EXTINF:0, 94. ASHSYARH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="94. ASHSYARH"  group-title="AL-QURAN",94. ASHSYARH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_ash_sharh.mp3
-#EXTINF:0, 95. ATTIIN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="95. ATTIIN"  group-title="AL-QURAN",95. ATTIIN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_at_tin.mp3
-#EXTINF:0, 96. AL'ALAQ
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="96. AL'ALAQ"  group-title="AL-QURAN",96. AL'ALAQ
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_alaq.mp3
-#EXTINF:0, 97. ALQADR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="97. ALQADR"  group-title="AL-QURAN",97. ALQADR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_qadr.mp3
-#EXTINF:0, 98. ALBAYYINAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="98. ALBAYYINAH"  group-title="AL-QURAN",98. ALBAYYINAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_bayyinah.mp3
-#EXTINF:0, 99. AZZALZALAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="99. AZZALZALAH"  group-title="AL-QURAN",99. AZZALZALAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_az_zalzalah.mp3
-#EXTINF:0, 100. AL'AADIYAAT
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="100. AL'AADIYAAT"  group-title="AL-QURAN",100. AL'AADIYAAT
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_adiyat.mp3
-#EXTINF:0, 101. ALQAARI'AH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="101. ALQAARI'AH"  group-title="AL-QURAN",101. ALQAARI'AH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_qariah.mp3
-#EXTINF:0, 102. ATTAKAATHUR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="102. ATTAKAATHUR"  group-title="AL-QURAN",102. ATTAKAATHUR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_at_takathur.mp3
-#EXTINF:0, 103. AL'ASR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="103. AL'ASR"  group-title="AL-QURAN",103. AL'ASR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_asr.mp3
-#EXTINF:0, 104. ALHUMAZAH
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="104. ALHUMAZAH"  group-title="AL-QURAN",104. ALHUMAZAH
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_humazah.mp3
-#EXTINF:0, 105. ALFIIL
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="105. ALFIIL"  group-title="AL-QURAN",105. ALFIIL
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_fil.mp3
-#EXTINF:0, 106. QUSAIRY
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="106. QUSAIRY"  group-title="AL-QURAN",106. QUSAIRY
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_quraysh.mp3
-#EXTINF:0, 107. ALMAA'UUN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="107. ALMAA'UUN"  group-title="AL-QURAN",107. ALMAA'UUN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_maun.mp3
-#EXTINF:0, 108. ALKAUTHAR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="108. ALKAUTHAR"  group-title="AL-QURAN",108. ALKAUTHAR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_kawthar.mp3
-#EXTINF:0, 109. ALKAAFIRUUN
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="109. ALKAAFIRUUN"  group-title="AL-QURAN",109. ALKAAFIRUUN
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_kafirun.mp3
-#EXTINF:0, 110. ANNASR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="110. ANNASR"  group-title="AL-QURAN",110. ANNASR
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_an_nasr.mp3
-#EXTINF:0, 111. ALMASAD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="111. ALMASAD"  group-title="AL-QURAN",111. ALMASAD
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_masad.mp3
-#EXTINF:0, 112. ALIKHLAAS
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="112. ALIKHLAAS"  group-title="AL-QURAN",112. ALIKHLAAS
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_ikhlas.mp3
-#EXTINF:0, 113. ALFALAQ
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="113. ALFALAQ"  group-title="AL-QURAN",113. ALFALAQ
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_al_falaq.mp3
-#EXTINF:0, 114. ANNAAS
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="114. ANNAAS"  group-title="AL-QURAN",114. ANNAAS
 http://www.audioislam.com/audio/quran/recitation/alafaasee/surah_an_nas.mp3
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
