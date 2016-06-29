@@ -33,7 +33,7 @@ rtmp://118.97.183.196/jhos//kbs
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (UK SmartDNS)"  group-title="KOREA",KBS WORLD HD (UK SmartDNS)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWEFYfmwSeo
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/set_one.png" tvg-name="Korean Drama (ENG)"  group-title="KOREA",Korean Drama (ENG)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/set_one.png" tvg-name="Korean Drama (Kodi)"  group-title="KOREA",Korean Drama (Kodi)
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1 SD"  group-title="Group N/A",TV1 SD
@@ -69,10 +69,10 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png" tvg-name="KOMPAS TV"  group-title="INDONESIA",KOMPAS TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png" tvg-name="KOMPAS TV (Kodi)"  group-title="INDONESIA",KOMPAS TV (Kodi)
 rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.tvonline.id/playerkompastv.html
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NET."  group-title="Group N/A",NET.
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NET. (Kodi)"  group-title="Group N/A",NET. (Kodi)
 http://id.stream.netmedia.co.id/live/nettv_hi/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][B].....NEWS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR slateblue][B].....NEWS.....[/B][/COLOR]
@@ -108,9 +108,6 @@ http://50.7.96.210:8285
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="World Travel Channel"  group-title="FAMILY",World Travel Channel
 http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NL-Animal_Planet"  group-title="FAMILY",NL-Animal_Planet
-http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1451.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][B].....FAMILY.....[/B][/COLOR]"  group-title="Group N/A",[COLOR springgreen][B].....FAMILY.....[/B][/COLOR]
 http://50.7.96.210:8285
 
@@ -122,15 +119,6 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLAYY WEST"  group-title="KOREA",PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN-Movies-AMC-HD"  group-title="Group N/A",OSN-Movies-AMC-HD
-http://xiptv.xcamhd.me:2112/live/mokhtar/mokhtar/4635.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN-Movies-2-HD"  group-title="Group N/A",OSN-Movies-2-HD
-http://xiptv.xcamhd.me:2112/live/mokhtar/mokhtar/4633.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN-First-HBO-HD"  group-title="Group N/A",OSN-First-HBO-HD
-http://xiptv.xcamhd.me:2112/live/mokhtar/mokhtar/4637.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR cyan][B].....MUSIC.....[/B][/COLOR]"  group-title="Group N/A",[COLOR cyan][B].....MUSIC.....[/B][/COLOR]
 http://50.7.96.210:8285
@@ -144,19 +132,19 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/VEVO_logo_red_RGB.png" tvg-name="VEVO 3 HD"  group-title="MUSIC",VEVO 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ONE 1 HD"  group-title="MUSIC",ONE 1 HD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ONE 1 HD (Kodi)"  group-title="MUSIC",ONE 1 HD (Kodi)
 http://rtmp.one.by:1300
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KITA TV"  group-title="Group N/A",KITA TV
 http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Korea Hits"  group-title="KOREA",Korea Hits
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Korea Hits (Kodi)"  group-title="KOREA",Korea Hits (Kodi)
 rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/1293/korea-hits
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B].....SPORTS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 28/06/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 28/06/2016[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 29/06/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 29/06/2016[/B][/COLOR]
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
@@ -168,7 +156,16 @@ http://50.7.96.210:8285
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]http://bit.ly/1OkyJVx[/B]"  group-title="Group N/A",[B]http://bit.ly/1OkyJVx[/B]
 http://ow.ly/XzGG7
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: BT Sport 1 HD"  group-title="SPORTS",UK: BT Sport 1 HD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 3"  group-title="SPORTS",SKY SPORTS 3
+http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 4"  group-title="SPORTS",SKY SPORTS 4
+http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 5"  group-title="SPORTS",SKY SPORTS 5
+http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: BT Sport 1 HD (Kodi)"  group-title="SPORTS",UK: BT Sport 1 HD (Kodi)
 http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/223.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="Group N/A",BEIN SPORTS 1
@@ -180,56 +177,20 @@ http://tinyurl.com/hdstcwz
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="Group N/A",BEIN SPORTS 3
 http://bit.ly/1prjlv4
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT Sport 1"  group-title="SPORTS",BT Sport 1
-rtmp://185.63.252.221:1935/liveedge/ playpath=ibrodtv26_fwfns7fs swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer_roja.php?width=640&height=480&id=ibrodtv26&autoplay=true
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 3"  group-title="SPORTS",SKY SPORTS 3
-http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 4"  group-title="SPORTS",SKY SPORTS 4
-http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 5"  group-title="SPORTS",SKY SPORTS 5
-http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORT 1"  group-title="Group N/A",FOX SPORT 1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORT 1 (Kodi)"  group-title="Group N/A",FOX SPORT 1 (Kodi)
 http://IPTV-VOLKAN.NET:8000/live/edine/edine/1072.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORT 2"  group-title="Group N/A",FOX SPORT 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORT 2 (Kodi)"  group-title="Group N/A",FOX SPORT 2 (Kodi)
 http://IPTV-VOLKAN.NET:8000/live/edine/edine/1071.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AFN Sport"  group-title="Group N/A",AFN Sport
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AFN Sport (Kodi)"  group-title="Group N/A",AFN Sport (Kodi)
 http://IPTV-VOLKAN.NET:8000/live/edine/edine/1069.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORT USA"  group-title="Group N/A",BEIN SPORT USA
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORT USA (Kodi)"  group-title="Group N/A",BEIN SPORT USA (Kodi)
 http://IPTV-VOLKAN.NET:8000/live/edine/edine/1062.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="True Sport 2"  group-title="SPORTS",True Sport 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="True Sport 2 (Kodi)"  group-title="SPORTS",True Sport 2 (Kodi)
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: Fox 1"  group-title="Group N/A",USA: Fox 1
-http://cp.dmbshare.net:8000/live/horn/horn/4607.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: Fox Sports 1"  group-title="Group N/A",USA: Fox Sports 1
-http://cp.dmbshare.net:8000/live/horn/horn/4584.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: Fox Sports 2"  group-title="Group N/A",USA: Fox Sports 2
-http://cp.dmbshare.net:8000/live/horn/horn/4585.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: Fight Network"  group-title="Group N/A",USA: Fight Network
-http://cp.dmbshare.net:8000/live/horn/horn/4580.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: ESPN Usa"  group-title="Group N/A",USA: ESPN Usa
-http://cp.dmbshare.net:8000/live/horn/horn/4604.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: ESPN U"  group-title="Group N/A",USA: ESPN U
-http://cp.dmbshare.net:8000/live/horn/horn/4574.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: ESPN News"  group-title="Group N/A",USA: ESPN News
-http://cp.dmbshare.net:8000/live/horn/horn/4612.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA: ESPN 2"  group-title="Group N/A",USA: ESPN 2
-http://cp.dmbshare.net:8000/live/horn/horn/4583.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][B].....RADIO.....[/B][/COLOR]"  group-title="Group N/A",[COLOR gold][B].....RADIO.....[/B][/COLOR]
 http://50.7.96.210:8285
