@@ -147,6 +147,12 @@ http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Nickelodeon"  group-title="KIDS",UK: Nickelodeon
 http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8
 
+#EXTINF:0, EASTERN YOYO
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+
+#EXTINF:0, GEM JUNIOR
+http://63.237.48.3/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]"  group-title="Group N/A",[COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]
 http://50.7.96.210:8285
 
