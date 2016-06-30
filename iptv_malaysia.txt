@@ -1,23 +1,30 @@
 <item>
-<title>[COLOR red]kemaskini (13-06-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (30-06-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>[COLOR green]MAKKAH LIVE HD[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ArVmnth5jB4</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=D8YHp37-tp0</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
+<title>[COLOR green]MADINAH LIVE HD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SQVBiSHydEg</link>
+<thumbnail>.</thumbnail>
+</item>
+
+
+<item>
   <title>TV1</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10149</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/v8/</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10149</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10149</referer>
+    <page>http://cdn-rtm-player.gluempsapp.com/v8/</page>
+    <referer>http://cdn-rtm-player.gluempsapp.com/v8/</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -27,12 +34,12 @@
 
 <item>
   <title>TV2</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10148</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10148</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10148</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10148</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10148</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10148</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -42,12 +49,12 @@
 
 <item>
   <title>TVi</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10150</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10150</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10150</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10150</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10150</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10150</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -57,12 +64,12 @@
 
 <item>
   <title>GALAKSI MUZIK</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10151</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10151</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10151</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10151</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10151</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10151</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -72,12 +79,12 @@
 
 <item>
   <title>1News</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10153</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10153</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10153</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10153</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10153</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10153</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
