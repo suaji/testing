@@ -1,13 +1,7 @@
 <item>
-<title>[COLOR red]kemaskini (16-06-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (30-06-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>NICKTOONS</title>
-<link>http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8</link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -17,13 +11,7 @@
 </item>
 
 <item>
-<title>NL-Nickelodeon</title>
-<link>http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1434.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NL-Disney_Channel</title>
-<link>http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1447.m3u8</link>
+<title>NICKTOONS</title>
+<link>http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8</link>
 <thumbnail></thumbnail>
 </item>

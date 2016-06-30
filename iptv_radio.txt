@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (30-06-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -7,77 +7,101 @@
 <item>
 <title>IKIM FM</title>
 <link>http://50.7.96.210:8285/;stream.mp3</link>
-<thumbnail></thumbnail>
+<thumbnail>http://ikimfm.my/wp-content/uploads/2014/03/logo-ikimfm.png</thumbnail>
 </item>
 
 <item>
 <title>ERA FM</title>
 <link>http://astro2.rastream.com/era?type=.flv</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/era_astro.png</thumbnail>
 </item>
 
 <item>
 <title>HOT FM</title>
-<link>http://2343.live.streamtheworld.com/HOTFMAAC</link>
-<thumbnail></thumbnail>
+<link>http://9453.live.streamtheworld.com:3690/HOTFMAAC?type=.flv</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_radio/Hot_FM.png</thumbnail>
 </item>
 
 <item>
 <title>SURIA FM</title>
 <link>http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.suriafm.com.my/logo.png</thumbnail>
 </item>
 
 <item>
 <title>THR GEGAR</title>
 <link>http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/thr_gegar_my.png</thumbnail>
 </item>
 
 <item>
 <title>SINAR FM</title>
 <link>http://astro2.rastream.com/sinar?type=.flv</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sinar_fm_my.png</thumbnail>
 </item>
 
 <item>
 <title>X-FRESH FM</title>
 <link>http://audri.rastream.com/amp-xfm_audri?type=.flv</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/radio/xx/xfm_astro.png</thumbnail>
 </item>
 
 <item>
 <title>BAPAKKU FM</title>
 <link>http://radio.bapakku.fm:8000</link>
-<thumbnail></thumbnail>
+<thumbnail>http://static.radio.net/images/broadcasts/f4/0a/22164/c175.png</thumbnail>
 </item>
 
 <item>
 <title>HITZ FM</title>
 <link>http://astro1.rastream.com/hitz?type=.flv</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hitz_fm.png</thumbnail>
 </item>
 
 <item>
 <title>MIX FM</title>
 <link>http://astro2.rastream.com/mix?type=.flv</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mix_astro.png</thumbnail>
 </item>
 
 <item>
 <title>FLY FM</title>
-<link>http://2283.live.streamtheworld.com/FLYFM_SC</link>
-<thumbnail></thumbnail>
+<link>http://13373.live.streamtheworld.com/FLYFMAAC?type=.flv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1280px-Logo_Fly_FM.svg.png</thumbnail>
 </item>
 
 <item>
 <title>RED FM</title>
 <link>http://starrfm.rastream.com/starrfm-redfm?type=.flv</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.red.fm/logo.png</thumbnail>
 </item>
 
 <item>
 <title>LITE FM</title>
 <link>http://astro1.rastream.com/lite?type=.flv</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png</thumbnail>
+</item>
+
+<item>
+<title>MY FM CHINESE</title>
+<link>http://astro1.rastream.com/myfm?type=.flv&_=0.3403705791570246</link>
+<thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2011/06/My-FM.jpg</thumbnail>
+</item>
+
+<item>
+<title>INDIA BEAT</title>
+<link>http://astro4.rastream.com/india?type=.flv</link>
+<thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2014/09/India-Beat.jpg</thumbnail>
+</item>
+
+<item>
+<title>SABAH FM</title>
+<link>http://50.7.154.26:8295/;stream.mp3</link>
+<thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2011/06/sabah-fm.jpg</thumbnail>
+</item>
+
+<item>
+<title>SARAWAK FM</title>
+<link>http://124.82.221.149:8000/;stream.mp3</link>
+<thumbnail>http://i.img.co/radio/11/40/44011_290.png</thumbnail>
 </item>
