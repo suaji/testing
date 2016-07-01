@@ -1,7 +1,13 @@
 <item>
-<title>[COLOR red]kemaskini (30-06-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (01-07-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>KBS World 24 - KRN</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YBoL4_WimT8</link>
+<thumbnail>http://www.itver.cc/wp-content/uploads/2015/01/KBS-World-24-Logo.png</thumbnail>
 </item>
 
 <item>

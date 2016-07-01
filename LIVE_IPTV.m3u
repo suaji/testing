@@ -99,6 +99,9 @@ http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="GOOD TV"  group-title="TAIWAN",GOOD TV
 http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
 
+#EXTINF:0, CCTV 1
+http://cctv1-lh.akamaihd.net/z/cctv1_1@337542/master.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="CCTV 1 (Kodi)"  group-title="CHINA",CCTV 1 (Kodi)
 rtmp://202.117.80.19/live/ playpath=live4 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/4656/cctv-1
 
@@ -152,6 +155,9 @@ http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
 
 #EXTINF:0, GEM JUNIOR
 http://63.237.48.3/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
+
+#EXTINF:0, TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]"  group-title="Group N/A",[COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]
 http://50.7.96.210:8285

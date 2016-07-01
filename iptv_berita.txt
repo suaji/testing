@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (23-05-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (01-07-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -18,12 +18,12 @@
 
 <item>
   <title>1NEWS</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10153</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10153</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://cdn-rtm-player.gluempsapp.com/105/10153</page>
-    <referer>http://cdn-rtm-player.gluempsapp.com/105/10153</referer>
+    <page>http://rtm-player.gluempsapp.com/v8/10153</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10153</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -78,6 +78,24 @@
 </regex>
 <thumbnail>http://thumbs.origins.web.tv/hi/zh/hizhapvqycq_140x79.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>EURONEWS</title>
+<link>http://euronews-live-p6-cdn.hexaglobe.net/1b736066dd67c52c4ec807f32652f7fc/5775c2d6/euronews/ewnslivebkp_eng.smil/playlist.m3u8</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>SKY NEWS</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y60wDzZt8yg</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>CBN NEWS</title>
+<link>http://bcliveuniv-lh.akamaihd.net/z/news_1@194050/master.m3u8</link>
+<thumbnail>.</thumbnail>
 </item>
 
 <item>
