@@ -142,3 +142,56 @@ http://ksportiptv.com:1557/live/top/live/1797.m3u8
 http://ksportiptv.com:1557/live/top/live/1828.m3u8
 #EXTINF:-1,UK:Sky Sports 5
 http://ksportiptv.com:1557/live/top/live/1827.m3u8
+
+#EXTINF:-1,UK: Sky News HD
+http://ipsatpro.com:8000/live/170216/170216/550.m3u8
+#EXTINF:-1,UK: Sky Sports News HD
+http://ipsatpro.com:8000/live/170216/170216/549.m3u8
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://ipsatpro.com:8000/live/170216/170216/548.m3u8
+#EXTINF:-1,UK: Sky Sport 1 SD
+http://ipsatpro.com:8000/live/170216/170216/533.m3u8
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://ipsatpro.com:8000/live/170216/170216/547.m3u8
+#EXTINF:-1,UK: Sky Sport 2 SD
+http://ipsatpro.com:8000/live/170216/170216/532.m3u8
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://ipsatpro.com:8000/live/170216/170216/546.m3u8
+#EXTINF:-1,UK: Sky Sport 3 SD
+http://ipsatpro.com:8000/live/170216/170216/531.m3u8
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://ipsatpro.com:8000/live/170216/170216/545.m3u8
+#EXTINF:-1,UK: Sky Sport 4 SD
+http://ipsatpro.com:8000/live/170216/170216/530.m3u8
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://ipsatpro.com:8000/live/170216/170216/544.m3u8
+#EXTINF:-1,UK: Sky Sport 5 SD
+http://ipsatpro.com:8000/live/170216/170216/529.m3u8
+#EXTINF:-1,UK: Sky Sports F1
+http://ipsatpro.com:8000/live/170216/170216/539.m3u8
+#EXTINF:-1,UK: Sky Premier Sports HD
+http://ipsatpro.com:8000/live/170216/170216/513.m3u8
+#EXTINF:-1,UK: Sky Setanta Sports
+http://ipsatpro.com:8000/live/170216/170216/484.m3u8
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://ipsatpro.com:8000/live/170216/170216/541.m3u8
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://ipsatpro.com:8000/live/170216/170216/540.m3u8
+#EXTINF:-1,UK: Sky BT Sport 1
+http://ipsatpro.com:8000/live/170216/170216/543.m3u8
+#EXTINF:-1,UK: Sky BT Sport 2
+http://ipsatpro.com:8000/live/170216/170216/542.m3u8
+#EXTINF:-1,UK: Sky BT Sport 1 HD
+http://ipsatpro.com:8000/live/170216/170216/528.m3u8
+#EXTINF:-1,UK: Sky BT Sport 2 HD
+http://ipsatpro.com:8000/live/170216/170216/527.m3u8
+#EXTINF:-1,UK: Sky BT Sport Europe
+http://ipsatpro.com:8000/live/170216/170216/453.m3u8
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://ipsatpro.com:8000/live/170216/170216/536.m3u8
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://ipsatpro.com:8000/live/170216/170216/537.m3u8
+#EXTINF:-1,UK: Sky MUTV
+http://ipsatpro.com:8000/live/170216/170216/535.m3u8
+#EXTINF:-1,Uk: Sky LFC TV
+http://ipsatpro.com:8000/live/170216/170216/461.m3u8

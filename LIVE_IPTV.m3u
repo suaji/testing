@@ -306,35 +306,41 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
-#EXTINF:-1,FR : Bein Sport 1 HD
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/109.m3u8
-#EXTINF:-1,FR : Bein Sport 2 HD
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/110.m3u8
-#EXTINF:-1,FR : Bein Sport 3 HD
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/111.m3u8
-#EXTINF:-1,Bein News HD
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/198.m3u8
-#EXTINF:-1,Bein Sport max 1  HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/107.m3u8
-#EXTINF:-1,Bein sport max 2 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/108.m3u8
-#EXTINF:-1,Bein Sport 1 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/185.m3u8
-#EXTINF:-1,Bein Sport 2 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/186.m3u8
-#EXTINF:-1,Bein Sport 3 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/187.m3u8
-#EXTINF:-1,Bein Sport 4 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/188.m3u8
-#EXTINF:-1,Bein Sport 5 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/189.m3u8
-#EXTINF:-1,Bein Sport 6 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/114.m3u8
-#EXTINF:-1,Bein Sport 7 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/115.m3u8
-#EXTINF:-1,Bein Sport 8 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/116.m3u8
-#EXTINF:-1,Bein Sport 9 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/117.m3u8
-#EXTINF:-1,Bein Sport 10 HD local
-http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/118.m3u8
+#EXTINF:-1,AR: Bein Sport Max 1 HD
+http://ipsatpro.com:8000/live/170216/170216/1168.m3u8
+#EXTINF:-1,AR: Bein Sport Max 2 HD
+http://ipsatpro.com:8000/live/170216/170216/1167.m3u8
+#EXTINF:-1,AR: Bein Movies 1
+http://ipsatpro.com:8000/live/170216/170216/1224.m3u8
+#EXTINF:-1,AR: Bein Movies 2
+http://ipsatpro.com:8000/live/170216/170216/1225.m3u8
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://ipsatpro.com:8000/live/170216/170216/169.m3u8
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://ipsatpro.com:8000/live/170216/170216/168.m3u8
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://ipsatpro.com:8000/live/170216/170216/167.m3u8
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://ipsatpro.com:8000/live/170216/170216/166.m3u8
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://ipsatpro.com:8000/live/170216/170216/165.m3u8
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://ipsatpro.com:8000/live/170216/170216/164.m3u8
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://ipsatpro.com:8000/live/170216/170216/163.m3u8
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://ipsatpro.com:8000/live/170216/170216/162.m3u8
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://ipsatpro.com:8000/live/170216/170216/161.m3u8
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://ipsatpro.com:8000/live/170216/170216/160.m3u8
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ipsatpro.com:8000/live/170216/170216/159.m3u8
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ipsatpro.com:8000/live/170216/170216/1262.m3u8
+#EXTINF:-1,AR: Bein Sport 13 HD
+http://ipsatpro.com:8000/live/170216/170216/1263.m3u8
+#EXTINF:-1,AR: Bein Sport 14 HD
+http://ipsatpro.com:8000/live/170216/170216/1264.m3u8
+#EXTINF:-1,AR: Bein Sport 15 HD
+http://ipsatpro.com:8000/live/170216/170216/1265.m3u8
