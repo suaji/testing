@@ -305,3 +305,36 @@ http://124.82.221.149:8000/;stream.mp3
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
+
+#EXTINF:-1,FR : Bein Sport 1 HD
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/109.m3u8
+#EXTINF:-1,FR : Bein Sport 2 HD
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/110.m3u8
+#EXTINF:-1,FR : Bein Sport 3 HD
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/111.m3u8
+#EXTINF:-1,Bein News HD
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/198.m3u8
+#EXTINF:-1,Bein Sport max 1  HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/107.m3u8
+#EXTINF:-1,Bein sport max 2 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/108.m3u8
+#EXTINF:-1,Bein Sport 1 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/185.m3u8
+#EXTINF:-1,Bein Sport 2 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/186.m3u8
+#EXTINF:-1,Bein Sport 3 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/187.m3u8
+#EXTINF:-1,Bein Sport 4 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/188.m3u8
+#EXTINF:-1,Bein Sport 5 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/189.m3u8
+#EXTINF:-1,Bein Sport 6 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/114.m3u8
+#EXTINF:-1,Bein Sport 7 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/115.m3u8
+#EXTINF:-1,Bein Sport 8 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/116.m3u8
+#EXTINF:-1,Bein Sport 9 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/117.m3u8
+#EXTINF:-1,Bein Sport 10 HD local
+http://www.egyiptv.co.uk:8080/live/sTar7Arab/Streamalldaz/118.m3u8
