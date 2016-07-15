@@ -156,6 +156,12 @@ http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: Nickelodeon"  group-title="KIDS",UK: Nickelodeon
 http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8
 
+#EXTINF:0, DISNEY CHANNEL
+http://31.204.152.6:8081/live/disney/playlist.m3u8
+
+#EXTINF:0, DISCOVERY KIDS
+http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
+
 #EXTINF:0, EASTERN YOYO
 http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
 
@@ -171,8 +177,17 @@ http://50.7.96.210:8285
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="World Travel Channel"  group-title="FAMILY",World Travel Channel
 http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
 
+#EXTINF:0, NATIONAL GEOGRAPHIC CHANNEL
+http://167.114.102.27/live/d0t37upoiQA3Yd7rdyA3Ow/1468580854/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
+
+#EXTINF:0, ANIMAL PLANET
+http://167.114.102.27/live/ImRFKqWpUdNg-WgmIIjJBw/1468581456/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][B].....FAMILY.....[/B][/COLOR]"  group-title="Group N/A",[COLOR springgreen][B].....FAMILY.....[/B][/COLOR]
 http://50.7.96.210:8285
+
+#EXTINF:0, FOX MOVIE PREMIUM (MALAY)
+http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 
 #EXTINF:0, AMC
 http://167.114.102.27/live/HhRNt2ugcAWmeo7ujeAzLw/1468563629/b06316b29b6c788ecf95287567cb2a3a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
@@ -188,6 +203,9 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
 #EXTINF:0, AC4 - HOLLYWOOD FILM
 http://103.40.138.89:1935/live/ac4/playlist.m3u8
+
+#EXTINF:0, STAR GOLD - BOLLYWOOD
+http://130.185.144.63:8081/iptv/stargoldind/chunks.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLAYY WEST"  group-title="KOREA",PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
