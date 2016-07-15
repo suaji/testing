@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (01-07-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (15-07-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -62,6 +62,18 @@
 <title>KOMPAS TV - IDN</title>
 <link>rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.tvonline.id/playerkompastv.html</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png</thumbnail>
+</item>
+
+<item>
+<title>TRANS 7 - IDN</title>
+<link>http://tv.vidiostream.com/i/trans7_1@137582/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png</thumbnail>
+</item>
+
+<item>
+<title>TRANS TV - IDN</title>
+<link>http://tv.vidiostream.com/i/transtv_1@137582/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png</thumbnail>
 </item>
 
 <item>

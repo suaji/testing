@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (30-06-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (15-07-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -11,8 +11,20 @@
 </item>
 
 <item>
+<title>MBC 2</title>
+<link>http://63.237.48.9/ios/MBC2/MBC2.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>DUBAI ONE HD</title>
 <link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>AC4 - HOLLYWOOD FILM</title>
+<link>http://103.40.138.89:1935/live/ac4/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 

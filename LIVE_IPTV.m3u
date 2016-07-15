@@ -25,7 +25,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
-http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
 http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8
@@ -62,6 +62,12 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ii/i_news_tv_id.png" tvg-name="iNews TV"  group-title="INDONESIA",iNews TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
+
+#EXTINF:0, TRANS 7
+http://tv.vidiostream.com/i/trans7_1@137582/master.m3u8
+
+#EXTINF:0, TRANS TV
+http://tv.vidiostream.com/i/transtv_1@137582/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rcti_id.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
@@ -168,11 +174,20 @@ http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][B].....FAMILY.....[/B][/COLOR]"  group-title="Group N/A",[COLOR springgreen][B].....FAMILY.....[/B][/COLOR]
 http://50.7.96.210:8285
 
+#EXTINF:0, AMC
+http://167.114.102.27/live/HhRNt2ugcAWmeo7ujeAzLw/1468563629/b06316b29b6c788ecf95287567cb2a3a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MAX"  group-title="MOVIES",MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
+http://63.237.48.9/ios/MBC2/MBC2.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI ONE"  group-title="MOVIES",DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+
+#EXTINF:0, AC4 - HOLLYWOOD FILM
+http://103.40.138.89:1935/live/ac4/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLAYY WEST"  group-title="KOREA",PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
