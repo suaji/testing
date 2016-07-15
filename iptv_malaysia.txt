@@ -108,3 +108,39 @@
 <link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv_alhijrah.png</thumbnail>
 </item>
+
+<item>
+<title>TV1 SD</title>
+<link>http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
+</item>
+
+<item>
+<title>TVi SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
+</item>
+
+<item>
+<title>GALAKSI MUZIK SD</title>
+<link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch005.smil/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>
+</item>
+
+<item>
+<title>MUZIK AKTIF SD</title>
+<link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch004/playlist.m3u8</link>
+<thumbnail>http://www.imn.com.my/images/clients/muzikaktif.jpg</thumbnail>
+</item>
+
+<item>
+<title>1NEWS SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>
+</item>
