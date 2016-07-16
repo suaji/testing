@@ -108,9 +108,6 @@ http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
 #EXTINF:0, CCTV 1
 http://cctv1-lh.akamaihd.net/z/cctv1_1@337542/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="CCTV 1 (Kodi)"  group-title="CHINA",CCTV 1 (Kodi)
-rtmp://202.117.80.19/live/ playpath=live4 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/4656/cctv-1
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="CCTV 2"  group-title="CHINA",CCTV 2
 http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/cctv2/as/live/cctv2_4.m3u8
 
@@ -189,9 +186,6 @@ http://50.7.96.210:8285
 #EXTINF:0, FOX MOVIE PREMIUM (MALAY)
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 
-#EXTINF:0, AMC
-http://167.114.102.27/live/HhRNt2ugcAWmeo7ujeAzLw/1468563629/b06316b29b6c788ecf95287567cb2a3a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MAX"  group-title="MOVIES",MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
@@ -234,7 +228,7 @@ rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwp
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B].....SPORTS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 29/06/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 29/06/2016[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 16/07/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 16/07/2016[/B][/COLOR]
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
@@ -246,18 +240,6 @@ http://50.7.96.210:8285
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]http://bit.ly/2aeT64J[/B]"  group-title="Group N/A",[B]http://bit.ly/1OkyJVx[/B]
 http://ow.ly/XzGG7
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 3"  group-title="SPORTS",SKY SPORTS 3
-http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 4"  group-title="SPORTS",SKY SPORTS 4
-http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS 5"  group-title="SPORTS",SKY SPORTS 5
-http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UK: BT Sport 1 HD (Kodi)"  group-title="SPORTS",UK: BT Sport 1 HD (Kodi)
-http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/223.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="Group N/A",BEIN SPORTS 1
 http://bit.do/b8VKk
 
@@ -267,20 +249,62 @@ http://tinyurl.com/hdstcwz
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="Group N/A",BEIN SPORTS 3
 http://bit.ly/1prjlv4
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORT 1 (Kodi)"  group-title="Group N/A",FOX SPORT 1 (Kodi)
-http://IPTV-VOLKAN.NET:8000/live/edine/edine/1072.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORT 2 (Kodi)"  group-title="Group N/A",FOX SPORT 2 (Kodi)
-http://IPTV-VOLKAN.NET:8000/live/edine/edine/1071.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AFN Sport (Kodi)"  group-title="Group N/A",AFN Sport (Kodi)
-http://IPTV-VOLKAN.NET:8000/live/edine/edine/1069.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORT USA (Kodi)"  group-title="Group N/A",BEIN SPORT USA (Kodi)
-http://IPTV-VOLKAN.NET:8000/live/edine/edine/1062.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="True Sport 2 (Kodi)"  group-title="SPORTS",True Sport 2 (Kodi)
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
+
+#EXTINF:-1,BeinSport-HD1 FR
+http://iptv.am000.tv:8000/live/00003/00003/1.m3u8
+#EXTINF:-1,BeinSport-HD2 FR
+http://iptv.am000.tv:8000/live/00003/00003/2.m3u8
+#EXTINF:-1,BeinSport-HD3 FR
+http://iptv.am000.tv:8000/live/00003/00003/3.m3u8
+#EXTINF:-1,BeinSport-HD4 FR
+http://iptv.am000.tv:8000/live/00003/00003/4.m3u8
+#EXTINF:-1,BeinSport-HD5 FR
+http://iptv.am000.tv:8000/live/00003/00003/5.m3u8
+#EXTINF:-1,BeinSport-HD6 FR
+http://iptv.am000.tv:8000/live/00003/00003/6.m3u8
+#EXTINF:-1,BeinSport-HD7 FR
+http://iptv.am000.tv:8000/live/00003/00003/7.m3u8
+#EXTINF:-1,BeinSport-HD8 FR
+http://iptv.am000.tv:8000/live/00003/00003/8.m3u8
+#EXTINF:-1,BeinSport-HD9 FR
+http://iptv.am000.tv:8000/live/00003/00003/9.m3u8
+#EXTINF:-1,BeinSport-HD10 FR
+http://iptv.am000.tv:8000/live/00003/00003/10.m3u8
+
+#EXTINF:-1,BEINSPORT-1HD
+http://tv2iptv.com:8000/live/hamada/hamada/29.m3u8
+#EXTINF:-1,BEINSPORT-2HD
+http://tv2iptv.com:8000/live/hamada/hamada/30.m3u8
+#EXTINF:-1,BEINSPORT-3HD
+http://tv2iptv.com:8000/live/hamada/hamada/31.m3u8
+#EXTINF:-1,BEINSPORT-4HD
+http://tv2iptv.com:8000/live/hamada/hamada/32.m3u8
+#EXTINF:-1,BEINSPORT-5HD
+http://tv2iptv.com:8000/live/hamada/hamada/33.m3u8
+#EXTINF:-1,BEINSPORT-6HD
+http://tv2iptv.com:8000/live/hamada/hamada/34.m3u8
+#EXTINF:-1,BEINSPORT-7HD
+http://tv2iptv.com:8000/live/hamada/hamada/35.m3u8
+#EXTINF:-1,BEINSPORT-8HD
+http://tv2iptv.com:8000/live/hamada/hamada/36.m3u8
+#EXTINF:-1,BEINSPORT-9HD
+http://tv2iptv.com:8000/live/hamada/hamada/37.m3u8
+#EXTINF:-1,BEINSPORT-10HD
+http://tv2iptv.com:8000/live/hamada/hamada/38.m3u8
+#EXTINF:-1,BEINSPORT-11HD
+http://tv2iptv.com:8000/live/hamada/hamada/1033.m3u8
+#EXTINF:-1,BEINSPORT-12HD
+http://tv2iptv.com:8000/live/hamada/hamada/1034.m3u8
+#EXTINF:-1,BEINSPORT-13HD
+http://tv2iptv.com:8000/live/hamada/hamada/1035.m3u8
+#EXTINF:-1,BEINSPORT-14HD
+http://tv2iptv.com:8000/live/hamada/hamada/1036.m3u8
+#EXTINF:-1,BEINSPORT-15HD
+http://tv2iptv.com:8000/live/hamada/hamada/1037.m3u8
+#EXTINF:-1,BEINSPORT-16HD
+http://tv2iptv.com:8000/live/hamada/hamada/1038.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][B].....RADIO.....[/B][/COLOR]"  group-title="Group N/A",[COLOR gold][B].....RADIO.....[/B][/COLOR]
 http://50.7.96.210:8285
@@ -338,51 +362,3 @@ http://124.82.221.149:8000/;stream.mp3
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
-
-#EXTINF:-1,AR: Bein Sport Max 1 HD
-http://ipsatpro.com:8000/live/170216/170216/1168.m3u8
-#EXTINF:-1,AR: Bein Sport Max 2 HD
-http://ipsatpro.com:8000/live/170216/170216/1167.m3u8
-#EXTINF:-1,AR: Bein Movies 1
-http://ipsatpro.com:8000/live/170216/170216/1224.m3u8
-#EXTINF:-1,AR: Bein Movies 2
-http://ipsatpro.com:8000/live/170216/170216/1225.m3u8
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://ipsatpro.com:8000/live/170216/170216/169.m3u8
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://ipsatpro.com:8000/live/170216/170216/168.m3u8
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://ipsatpro.com:8000/live/170216/170216/167.m3u8
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://ipsatpro.com:8000/live/170216/170216/166.m3u8
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://ipsatpro.com:8000/live/170216/170216/165.m3u8
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://ipsatpro.com:8000/live/170216/170216/164.m3u8
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://ipsatpro.com:8000/live/170216/170216/163.m3u8
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://ipsatpro.com:8000/live/170216/170216/162.m3u8
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://ipsatpro.com:8000/live/170216/170216/161.m3u8
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://ipsatpro.com:8000/live/170216/170216/160.m3u8
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://ipsatpro.com:8000/live/170216/170216/159.m3u8
-#EXTINF:-1,AR: Bein Sport 12 HD
-http://ipsatpro.com:8000/live/170216/170216/1262.m3u8
-#EXTINF:-1,AR: Bein Sport 13 HD
-http://ipsatpro.com:8000/live/170216/170216/1263.m3u8
-#EXTINF:-1,AR: Bein Sport 14 HD
-http://ipsatpro.com:8000/live/170216/170216/1264.m3u8
-#EXTINF:-1,AR: Bein Sport 15 HD
-http://ipsatpro.com:8000/live/170216/170216/1265.m3u8
-
-#EXTINF:0,FilmOn Kids
-http://live-1112.la2.edge.filmon.com/live/7.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d32885490eb25c7aa4a152f8dd032a036d9a04772177cf6341aa0d6494340b9261cc2cfffd357ccb05dc8f57f13fa6edb9fcf9df0b399908178f8c9eec85cdcb72795128ae16aad66565baa026b67f0e908d0ffb0d018edf5b094f056f5136b06d1e1122806080b888dc5e448ab975a1c5168ed9144d172f57
-#EXTINF:0,FilmOn Sports
-http://live-1124.la2.edge.filmon.com/live/9.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d32885490eb25c7aa4a152f8dd032a036d9a04772177cf6341aa0d6494340b9261cc2cfffd357ccb05dc8f57f13fa6edb9fcf9df0b399908178f8c9eec85cdcb72795128ae16aad66565baa026b67f0e908d0ffb0d018edf5b094f056f5136b06d1e1122806080b888dc5e448ab975a1c5168ed9144d172f57
-#EXTINF:0,ITV
-http://live-1273.fra.edge.filmon.com/live/11.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d32885490eb25c7aa4a152f8dd032a036d9a04772177cf6341aa0d6494340b9261cc2cfffd357ccb05dc8f57f13fa6edb9fcf9df0b399908178f8c9eec85cdcb72795128ae16aad66565baa026b67f0e908d0ffb0d018edf5b094f056f5136b06d1e1122806080b888dc5e448ab975a1c5168ed9144d172f57
-#EXTINF:0,Film4
-http://live-823.gv2.edge.filmon.com/live/13.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d32885490eb25c7aa4a152f8dd032a036d9a04772177cf6341aa0d6494340b9261cc2cfffd357ccb05dc8f57f13fa6edb9fcf9df0b399908178f8c9eec85cdcb72795128ae16aad66565baa026b67f0e908d0ffb0d018edf5b094f056f5136b06d1e1122806080b888dc5e448ab975a1c5168ed9144d172f57
