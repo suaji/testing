@@ -349,5 +349,14 @@ http://31.47.9.48:25654/ipvt_008
 #EXTINF:-1,Arenasport 4
 http://31.47.9.48:25654/ipvt_009
 
+#EXTINF:-1,superSport 4HD
+http://iptv.re:80/live/victor/victor/3134.ts
+#EXTINF:-1,SuperSport 3HD
+http://iptv.re:80/live/victor/victor/3133.ts
+#EXTINF:-1,SuperSport 2HD
+http://iptv.re:80/live/victor/victor/3132.ts
+#EXTINF:-1,SuperSport 1HD
+http://iptv.re:80/live/victor/victor/3131.ts
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
