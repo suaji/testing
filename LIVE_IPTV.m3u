@@ -225,111 +225,6 @@ http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Korea Hits (Kodi)"  group-title="KOREA",Korea Hits (Kodi)
 rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/1293/korea-hits
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B].....SPORTS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR crimson][B].....SPORTS.....[/B][/COLOR]
-http://50.7.96.210:8285
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 16/07/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 16/07/2016[/B][/COLOR]
-http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
-http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=COLOR
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*Link Download Phoenix[/B]"  group-title="Group N/A",[B]*Link Download Phoenix[/B]
-http://50.7.96.210:8285
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]http://bit.ly/1OkyJVx[/B]"  group-title="Group N/A",[B]http://bit.ly/1OkyJVx[/B]
-http://ow.ly/XzGG7
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="Group N/A",BEIN SPORTS 1
-http://bit.do/b8VKk
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 2"  group-title="Group N/A",BEIN SPORTS 2
-http://tinyurl.com/hdstcwz
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="Group N/A",BEIN SPORTS 3
-http://bit.ly/1prjlv4
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="True Sport 2 (Kodi)"  group-title="SPORTS",True Sport 2 (Kodi)
-rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD1 FR"  group-title="Group N/A",BeinSport-HD1 FR
-http://iptv.am000.tv:8000/live/00003/00003/1.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD2 FR"  group-title="Group N/A",BeinSport-HD2 FR
-http://iptv.am000.tv:8000/live/00003/00003/2.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD3 FR"  group-title="Group N/A",BeinSport-HD3 FR
-http://iptv.am000.tv:8000/live/00003/00003/3.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD4 FR"  group-title="Group N/A",BeinSport-HD4 FR
-http://iptv.am000.tv:8000/live/00003/00003/4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD5 FR"  group-title="Group N/A",BeinSport-HD5 FR
-http://iptv.am000.tv:8000/live/00003/00003/5.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD6 FR"  group-title="Group N/A",BeinSport-HD6 FR
-http://iptv.am000.tv:8000/live/00003/00003/6.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD7 FR"  group-title="Group N/A",BeinSport-HD7 FR
-http://iptv.am000.tv:8000/live/00003/00003/7.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD8 FR"  group-title="Group N/A",BeinSport-HD8 FR
-http://iptv.am000.tv:8000/live/00003/00003/8.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD9 FR"  group-title="Group N/A",BeinSport-HD9 FR
-http://iptv.am000.tv:8000/live/00003/00003/9.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD10 FR"  group-title="Group N/A",BeinSport-HD10 FR
-http://iptv.am000.tv:8000/live/00003/00003/10.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-1HD"  group-title="Group N/A",BEINSPORT-1HD
-http://tv2iptv.com:8000/live/hamada/hamada/29.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-2HD"  group-title="Group N/A",BEINSPORT-2HD
-http://tv2iptv.com:8000/live/hamada/hamada/30.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-3HD"  group-title="Group N/A",BEINSPORT-3HD
-http://tv2iptv.com:8000/live/hamada/hamada/31.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-4HD"  group-title="Group N/A",BEINSPORT-4HD
-http://tv2iptv.com:8000/live/hamada/hamada/32.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-5HD"  group-title="Group N/A",BEINSPORT-5HD
-http://tv2iptv.com:8000/live/hamada/hamada/33.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-6HD"  group-title="Group N/A",BEINSPORT-6HD
-http://tv2iptv.com:8000/live/hamada/hamada/34.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-7HD"  group-title="Group N/A",BEINSPORT-7HD
-http://tv2iptv.com:8000/live/hamada/hamada/35.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-8HD"  group-title="Group N/A",BEINSPORT-8HD
-http://tv2iptv.com:8000/live/hamada/hamada/36.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-9HD"  group-title="Group N/A",BEINSPORT-9HD
-http://tv2iptv.com:8000/live/hamada/hamada/37.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-10HD"  group-title="Group N/A",BEINSPORT-10HD
-http://tv2iptv.com:8000/live/hamada/hamada/38.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-11HD"  group-title="Group N/A",BEINSPORT-11HD
-http://tv2iptv.com:8000/live/hamada/hamada/1033.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-12HD"  group-title="Group N/A",BEINSPORT-12HD
-http://tv2iptv.com:8000/live/hamada/hamada/1034.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-13HD"  group-title="Group N/A",BEINSPORT-13HD
-http://tv2iptv.com:8000/live/hamada/hamada/1035.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-14HD"  group-title="Group N/A",BEINSPORT-14HD
-http://tv2iptv.com:8000/live/hamada/hamada/1036.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-15HD"  group-title="Group N/A",BEINSPORT-15HD
-http://tv2iptv.com:8000/live/hamada/hamada/1037.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT-16HD"  group-title="Group N/A",BEINSPORT-16HD
-http://tv2iptv.com:8000/live/hamada/hamada/1038.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][B].....RADIO.....[/B][/COLOR]"  group-title="Group N/A",[COLOR gold][B].....RADIO.....[/B][/COLOR]
 http://50.7.96.210:8285
 
@@ -383,6 +278,76 @@ http://50.7.154.26:8295/;stream.mp3
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.img.co/radio/11/40/44011_290.png" tvg-name="SARAWAK FM"  group-title="Malaysia",SARAWAK FM
 http://124.82.221.149:8000/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B].....SPORTS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR crimson][B].....SPORTS.....[/B][/COLOR]
+http://50.7.96.210:8285
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 21/07/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 21/07/2016[/B][/COLOR]
+http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
+http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=COLOR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*Link Download Phoenix[/B]"  group-title="Group N/A",[B]*Link Download Phoenix[/B]
+http://50.7.96.210:8285
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]http://bit.ly/1OkyJVx[/B]"  group-title="Group N/A",[B]http://bit.ly/1OkyJVx[/B]
+http://ow.ly/XzGG7
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="Group N/A",BEIN SPORTS 1
+http://bit.do/b8VKk
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 2"  group-title="Group N/A",BEIN SPORTS 2
+http://tinyurl.com/hdstcwz
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="Group N/A",BEIN SPORTS 3
+http://bit.ly/1prjlv4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="True Sport 2 (Kodi)"  group-title="SPORTS",True Sport 2 (Kodi)
+rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD1 FR"  group-title="Group N/A",BeinSport-HD1 FR
+http://iptv.am000.tv:8000/live/00003/00003/1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD2 FR"  group-title="Group N/A",BeinSport-HD2 FR
+http://iptv.am000.tv:8000/live/00003/00003/2.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD3 FR"  group-title="Group N/A",BeinSport-HD3 FR
+http://iptv.am000.tv:8000/live/00003/00003/3.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD4 FR"  group-title="Group N/A",BeinSport-HD4 FR
+http://iptv.am000.tv:8000/live/00003/00003/4.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD5 FR"  group-title="Group N/A",BeinSport-HD5 FR
+http://iptv.am000.tv:8000/live/00003/00003/5.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD6 FR"  group-title="Group N/A",BeinSport-HD6 FR
+http://iptv.am000.tv:8000/live/00003/00003/6.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD7 FR"  group-title="Group N/A",BeinSport-HD7 FR
+http://iptv.am000.tv:8000/live/00003/00003/7.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD8 FR"  group-title="Group N/A",BeinSport-HD8 FR
+http://iptv.am000.tv:8000/live/00003/00003/8.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD9 FR"  group-title="Group N/A",BeinSport-HD9 FR
+http://iptv.am000.tv:8000/live/00003/00003/9.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD10 FR"  group-title="Group N/A",BeinSport-HD10 FR
+http://iptv.am000.tv:8000/live/00003/00003/10.m3u8
+
+#EXTINF:-1,Arenasport 1
+http://31.47.9.48:25654/ipvt_006
+#EXTINF:-1,Fight Network
+http://31.47.9.48:25654/ipvt_010
+#EXTINF:-1,Kanal A
+http://31.47.9.48:25654/ipvt_005
+#EXTINF:-1,Arenasport 2
+http://31.47.9.48:25654/ipvt_007
+#EXTINF:-1,Arenasport 3
+http://31.47.9.48:25654/ipvt_008
+#EXTINF:-1,Arenasport 4
+http://31.47.9.48:25654/ipvt_009
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
