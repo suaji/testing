@@ -282,7 +282,7 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B].....SPORTS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 21/07/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 21/07/2016[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 25/07/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 25/07/2016[/B][/COLOR]
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
@@ -335,19 +335,6 @@ http://iptv.am000.tv:8000/live/00003/00003/9.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD10 FR"  group-title="Group N/A",BeinSport-HD10 FR
 http://iptv.am000.tv:8000/live/00003/00003/10.m3u8
-
-#EXTINF:-1,Arenasport 1
-http://31.47.9.48:25654/ipvt_006
-#EXTINF:-1,Fight Network
-http://31.47.9.48:25654/ipvt_010
-#EXTINF:-1,Kanal A
-http://31.47.9.48:25654/ipvt_005
-#EXTINF:-1,Arenasport 2
-http://31.47.9.48:25654/ipvt_007
-#EXTINF:-1,Arenasport 3
-http://31.47.9.48:25654/ipvt_008
-#EXTINF:-1,Arenasport 4
-http://31.47.9.48:25654/ipvt_009
 
 #EXTINF:-1,superSport 4HD
 http://iptv.re:80/live/victor/victor/3134.ts
