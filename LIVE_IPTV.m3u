@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 27-07-2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 27-07-2016[/B][/COLOR]
+http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BACKUP ADDONS IPTV MALAYSIA"  group-title="Group N/A",BACKUP ADDONS IPTV MALAYSIA
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
 
@@ -168,6 +171,11 @@ http://63.237.48.3/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT COCUK"  group-title="Group N/A",TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
+#EXTINF:0,Kids Zone
+http://live-1112.la2.edge.filmon.com/live/3794.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f6464e60f58ee165666d548bfa6c131b4245c1465827dd4b391e00609258a3fb56af4d3a75f2245fee042043a1e58b46fcb1454947be9b18069fedfd6366abfa05c7f36a4709f149f73899654442315345027dec16f1c6067fb6c016cd53e57d72e423766a341fd6d83c3b87e7fb58e7760a28c43b522d40
+#EXTINF:0,FilmOn Kids
+http://live-1112.la2.edge.filmon.com/live/7.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f6464e60f58ee165666d548bfa6c131b4245c1465827dd4b391e00609258a3fb56af4d3a75f2245fee042043a1e58b46fcb1454947be9b18069fedfd6366abfa05c7f36a4709f149f73899654442315345027dec16f1c6067fb6c016cd53e57d72e423766a341fd6d83c3b87e7fb58e7760a28c43b522d40
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]"  group-title="Group N/A",[COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]
 http://50.7.96.210:8285
 
@@ -282,7 +290,7 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][B].....SPORTS.....[/B][/COLOR]"  group-title="Group N/A",[COLOR crimson][B].....SPORTS.....[/B][/COLOR]
 http://50.7.96.210:8285
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 25/07/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 25/07/2016[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]UPDATED : 27/07/2016[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]UPDATED : 27/07/2016[/B][/COLOR]
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
@@ -303,71 +311,25 @@ http://tinyurl.com/hdstcwz
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="Group N/A",BEIN SPORTS 3
 http://bit.ly/1prjlv4
 
+#EXTINF:-1,Sky Sport 24 HD
+http://212.129.54.196:8000/live/giulio/giulio/24.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://212.129.54.196:8000/live/giulio/giulio/26.m3u8
+#EXTINF:-1,Sky Sport 3 HD
+http://212.129.54.196:8000/live/giulio/giulio/27.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://212.129.54.196:8000/live/giulio/giulio/32.m3u8
+#EXTINF:-1,Sky Moto GP HD
+http://212.129.54.196:8000/live/giulio/giulio/33.m3u8
+#EXTINF:-1,Sky Fox Sport HD
+http://212.129.54.196:8000/live/giulio/giulio/53.m3u8
+#EXTINF:-1,WWE Wrestling
+http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="True Sport 2 (Kodi)"  group-title="SPORTS",True Sport 2 (Kodi)
 rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD1 FR"  group-title="Group N/A",BeinSport-HD1 FR
-http://iptv.am000.tv:8000/live/00003/00003/1.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD2 FR"  group-title="Group N/A",BeinSport-HD2 FR
-http://iptv.am000.tv:8000/live/00003/00003/2.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD3 FR"  group-title="Group N/A",BeinSport-HD3 FR
-http://iptv.am000.tv:8000/live/00003/00003/3.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD4 FR"  group-title="Group N/A",BeinSport-HD4 FR
-http://iptv.am000.tv:8000/live/00003/00003/4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD5 FR"  group-title="Group N/A",BeinSport-HD5 FR
-http://iptv.am000.tv:8000/live/00003/00003/5.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD6 FR"  group-title="Group N/A",BeinSport-HD6 FR
-http://iptv.am000.tv:8000/live/00003/00003/6.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD7 FR"  group-title="Group N/A",BeinSport-HD7 FR
-http://iptv.am000.tv:8000/live/00003/00003/7.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD8 FR"  group-title="Group N/A",BeinSport-HD8 FR
-http://iptv.am000.tv:8000/live/00003/00003/8.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD9 FR"  group-title="Group N/A",BeinSport-HD9 FR
-http://iptv.am000.tv:8000/live/00003/00003/9.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport-HD10 FR"  group-title="Group N/A",BeinSport-HD10 FR
-http://iptv.am000.tv:8000/live/00003/00003/10.m3u8
-
-#EXTINF:-1,superSport 4HD
-http://iptv.re:80/live/victor/victor/3134.ts
-#EXTINF:-1,SuperSport 3HD
-http://iptv.re:80/live/victor/victor/3133.ts
-#EXTINF:-1,SuperSport 2HD
-http://iptv.re:80/live/victor/victor/3132.ts
-#EXTINF:-1,SuperSport 1HD
-http://iptv.re:80/live/victor/victor/3131.ts
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]"  group-title="Group N/A",[COLOR yellow][B]suaji86 @ gmail dot com[/B][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
-
-#EXTINF:0,Travel Channel+1
-http://live-823.gv2.edge.filmon.com/live/842.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f6464e60f58ee165666d548bfa6c131b4245c1465827dd4b391e00609258a3fb56af4d3a75f2245fee042043a1e58b46fcb1454947be9b18069fedfd6366abfa05c7f36a4709f149f73899654442315345027dec16f1c6067fb6c016cd53e57d72e423766a341fd6d83c3b87e7fb58e7760a28c43b522d40
-
-#EXTINF:0,CBS Drama
-http://live-1180.gv2.edge.filmon.com/live/1805.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f6464e60f58ee165666d548bfa6c131b4245c1465827dd4b391e00609258a3fb56af4d3a75f2245fee042043a1e58b46fcb1454947be9b18069fedfd6366abfa05c7f36a4709f149f73899654442315345027dec16f1c6067fb6c016cd53e57d72e423766a341fd6d83c3b87e7fb58e7760a28c43b522d40
-#EXTINF:0,CBS Reality
-http://live-1180.gv2.edge.filmon.com/live/1808.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f6464e60f58ee165666d548bfa6c131b4245c1465827dd4b391e00609258a3fb56af4d3a75f2245fee042043a1e58b46fcb1454947be9b18069fedfd6366abfa05c7f36a4709f149f73899654442315345027dec16f1c6067fb6c016cd53e57d72e423766a341fd6d83c3b87e7fb58e7760a28c43b522d40
-#EXTINF:0,CBS Reality+1
-http://live-1180.gv2.edge.filmon.com/live/1811.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f6464e60f58ee165666d548bfa6c131b4245c1465827dd4b391e00609258a3fb56af4d3a75f2245fee042043a1e58b46fcb1454947be9b18069fedfd6366abfa05c7f36a4709f149f73899654442315345027dec16f1c6067fb6c016cd53e57d72e423766a341fd6d83c3b87e7fb58e7760a28c43b522d40
-
-#EXTINF:0,Kids Zone
-http://live-1112.la2.edge.filmon.com/live/3794.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f6464e60f58ee165666d548bfa6c131b4245c1465827dd4b391e00609258a3fb56af4d3a75f2245fee042043a1e58b46fcb1454947be9b18069fedfd6366abfa05c7f36a4709f149f73899654442315345027dec16f1c6067fb6c016cd53e57d72e423766a341fd6d83c3b87e7fb58e7760a28c43b522d40
-#EXTINF:0,FilmOn Kids
-http://live-1112.la2.edge.filmon.com/live/7.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f6464e60f58ee165666d548bfa6c131b4245c1465827dd4b391e00609258a3fb56af4d3a75f2245fee042043a1e58b46fcb1454947be9b18069fedfd6366abfa05c7f36a4709f149f73899654442315345027dec16f1c6067fb6c016cd53e57d72e423766a341fd6d83c3b87e7fb58e7760a28c43b522d40
-
-#EXTINF:-1,UK=Nicktoons
-http://globalstream.noip.us:8000/live/martins/martins/736.m3u8
-#EXTINF:-1,UK=Nickelodeon
-http://globalstream.noip.us:8000/live/martins/martins/737.m3u8
-#EXTINF:-1,UK=DisneyJunior
-http://globalstream.noip.us:8000/live/martins/martins/739.m3u8
-#EXTINF:-1,UK=DisneyChannel
-http://globalstream.noip.us:8000/live/martins/martins/738.m3u8
