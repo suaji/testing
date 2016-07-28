@@ -1,8 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow]UPDATED : 28-07-2016[/COLOR]"  group-title="Group N/A",[COLOR yellow]UPDATED : 28-07-2016[/COLOR]
-http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BACKUP ADDONS IPTV MALAYSIA"  group-title="Group N/A",BACKUP ADDONS IPTV MALAYSIA
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
 
@@ -360,8 +357,8 @@ http://tinyurl.com/hdstcwz
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="Group N/A",BEIN SPORTS 3
 http://bit.ly/1prjlv4
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow]suaji86 @ gmail dot com[/COLOR]"  group-title="Group N/A",[COLOR yellow]suaji86 @ gmail dot com[/COLOR]
-http://50.7.96.230/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow]UPDATED : 28-07-2016[/COLOR]"  group-title="Group N/A",[COLOR yellow]UPDATED : 28-07-2016[/COLOR]
+http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/suaji-repo/blob/master/repository.malaysia.suaji/icon.png" tvg-name="suaji86 @ gmail dot com"  group-title="Group N/A",suaji86 @ gmail dot com
 http://50.7.96.231/master.m3u8
