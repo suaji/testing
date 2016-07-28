@@ -54,7 +54,7 @@ http://rtm-live.glueapi.io/smil:rtm-ch004/chunklist_b974000_sleng.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS SD"  group-title="Group N/A",1NEWS SD
 http://rtm-live.glueapi.io/smil:rtm-ch006/chunklist_b974000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue].....INDONESIA.....[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][B].....INDONESIA.....[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue].....INDONESIA.....[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue].....INDONESIA.....[/COLOR]
 http://50.7.96.210:8285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
@@ -84,7 +84,7 @@ rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://www.widih.com
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/net_tv_id.png" tvg-name="NET. (Kodi)"  group-title="Group N/A",NET. (Kodi)
 http://id.stream.netmedia.co.id/live/nettv_hi/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue].....CHINA/TAIWAN.....[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][B].....CHINA/TAIWAN.....[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue].....CHINA/TAIWAN.....[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue].....CHINA/TAIWAN.....[/COLOR]
 http://50.7.96.211/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="EASTERN NEWS"  group-title="TAIWAN",EASTERN NEWS
@@ -117,7 +117,7 @@ http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/cctv4/as/live/cctv4_4.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv09_chinese.png" tvg-name="CCTV 9"  group-title="CHINA",CCTV 9
 http://ktv011.cdnak.ds.kylintv.net/nlds/kylin/cctvdoc/as/live/cctvdoc_4.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="" tvg-name="CCTV 10"  group-title="CHINA",CCTV 10
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV 10"  group-title="CHINA",CCTV 10
 http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/cctv10/as/live/cctv10_4.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv11.png" tvg-name="CCTV 11"  group-title="CHINA",CCTV 11
@@ -126,7 +126,7 @@ http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/cctvopera/as/live/cctvopera_4.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv13_news_chinese.png" tvg-name="CCTV 13"  group-title="CHINA",CCTV 13
 http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv13/as/live/cctv13_4.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue].....NEWS.....[/COLOR]"  group-title="Group N/A",[COLOR slateblue][B].....NEWS.....[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue].....NEWS.....[/COLOR]"  group-title="Group N/A",[COLOR slateblue].....NEWS.....[/COLOR]
 http://50.7.96.212/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/aa/al_jazeera_english_hd.png" tvg-name="AL JAZEERA ENGLISH"  group-title="NEWS",AL JAZEERA ENGLISH
@@ -144,13 +144,13 @@ http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png" tvg-name="NASA TV"  group-title="NEWS",NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR fuchsia].....KIDS.....[/COLOR]"  group-title="Group N/A",[COLOR fuchsia][B].....KIDS.....[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR fuchsia].....KIDS.....[/COLOR]"  group-title="Group N/A",[COLOR fuchsia].....KIDS.....[/COLOR]
 http://50.7.96.213/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_channel_global.png" tvg-name="DISNEY CHANNEL"  group-title="Group N/A",DISNEY CHANNEL
 http://31.204.152.6:8081/live/disney/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY KIDS"  group-title="Group N/A",DISCOVERY KIDS
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_junior_us.png" tvg-name="DISCOVERY KIDS"  group-title="Group N/A",DISCOVERY KIDS
 http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EASTERN YOYO"  group-title="Group N/A",EASTERN YOYO
@@ -162,25 +162,28 @@ http://63.237.48.3/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT COCUK"  group-title="Group N/A",TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
-#EXTINF:-1, DISNEY CHANNEL SD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_channel_global.png" tvg-name="DISNEY CHANNEL SD"  group-title="Group N/A",DISNEY CHANNEL SD
 http://149.202.201.221:8000/live/fr443500/75019pa/286.m3u8
-#EXTINF:-1, DISNEY XD SD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_xd_us.png" tvg-name="DISNEY XD SD"  group-title="Group N/A",DISNEY XD SD
 http://149.202.201.221:8000/live/fr443500/75019pa/950.m3u8
-#EXTINF:-1, RTE JR
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTE JR"  group-title="Group N/A",RTE JR
 http://149.202.201.221:8000/live/fr443500/75019pa/322.m3u8
-#EXTINF:-1, RTE 1 HD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTE 1 HD"  group-title="Group N/A",RTE 1 HD
 http://149.202.201.221:8000/live/fr443500/75019pa/323.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]"  group-title="Group N/A",[COLOR aquamarine][B].....DOCUMENTARY.....[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]"  group-title="Group N/A",[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]
 http://50.7.96.214/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/24/World_Travel_Channel.png" tvg-name="World Travel Channel"  group-title="FAMILY",World Travel Channel
 http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
 
-#EXTINF:-1, DISCOVERY SD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY SD"  group-title="Group N/A",DISCOVERY SD
 http://149.202.201.221:8000/live/fr443500/75019pa/313.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen].....FAMILY.....[/COLOR]"  group-title="Group N/A",[COLOR springgreen][B].....FAMILY.....[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen].....FAMILY.....[/COLOR]"  group-title="Group N/A",[COLOR springgreen].....FAMILY.....[/COLOR]
 http://50.7.96.215/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_premium_asia.png" tvg-name="FOX MOVIE PREMIUM (MALAY)"  group-title="Group N/A",FOX MOVIE PREMIUM (MALAY)
@@ -201,19 +204,19 @@ http://103.40.138.89:1935/live/ac4/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLAYY WEST"  group-title="KOREA",PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 
-#EXTINF:-1, SKY ONE
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY ONE"  group-title="Group N/A",SKY ONE
 http://149.202.201.221:8000/live/fr443500/75019pa/289.m3u8
 
-#EXTINF:-1, SKY MOVIES FAMILY
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY MOVIES FAMILY"  group-title="Group N/A",SKY MOVIES FAMILY
 http://149.202.201.221:8000/live/fr443500/75019pa/309.m3u8
 
-#EXTINF:-1, TRUE MOVIE 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUE MOVIE 2"  group-title="Group N/A",TRUE MOVIE 2
 http://149.202.201.221:8000/live/fr443500/75019pa/1399.m3u8
 
-#EXTINF:-1, CBS DRAMA
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/cc/cbs_drama.png" tvg-name="CBS DRAMA"  group-title="Group N/A",CBS DRAMA
 http://149.202.201.221:8000/live/fr443500/75019pa/1398.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR cyan].....MUSIC.....[/COLOR]"  group-title="Group N/A",[COLOR cyan][B].....MUSIC.....[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR cyan][B].....MUSIC.....[/B][/COLOR]"  group-title="Group N/A",[COLOR cyan][B].....MUSIC.....[/B][/COLOR]
 http://50.7.96.216/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/VEVO_logo_red_RGB.png" tvg-name="VEVO 1 HD"  group-title="MUSIC",VEVO 1 HD
@@ -228,7 +231,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/kita_tv_id.png" tvg-name="KITA TV"  group-title="Group N/A",KITA TV
 http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold].....RADIO.....[/COLOR]"  group-title="Group N/A",[COLOR gold][B].....RADIO.....[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold].....RADIO.....[/COLOR]"  group-title="Group N/A",[COLOR gold].....RADIO.....[/COLOR]
 http://50.7.96.217/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://ikimfm.my/wp-content/uploads/2014/03/logo-ikimfm.png" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
@@ -282,56 +285,71 @@ http://50.7.154.26:8295/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.img.co/radio/11/40/44011_290.png" tvg-name="SARAWAK FM"  group-title="Malaysia",SARAWAK FM
 http://124.82.221.149:8000/;stream.mp3
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="Group N/A",[COLOR crimson][B].....SPORTS.....[/B][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="Group N/A",[COLOR crimson].....SPORTS.....[/COLOR]
 http://50.7.96.218/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow]UPDATED : 28/07/2016[/COLOR]"  group-title="Group N/A",[COLOR yellow]UPDATED : 28/07/2016[/COLOR]
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*BACKUP BOLA LIVE[/B]"  group-title="Group N/A",[B]*BACKUP BOLA LIVE[/B]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="Group N/A",*BACKUP BOLA LIVE
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=COLOR
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*KODI (Phoenix)[/B]"  group-title="Group N/A",[B]*KODI (Phoenix)[/B]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*KODI (Phoenix)"  group-title="Group N/A",*KODI (Phoenix)
 http://50.7.96.219/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]http://bit.ly/1OkyJVx[/B]"  group-title="Group N/A",[B]http://bit.ly/1OkyJVx[/B]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/1OkyJVx"  group-title="Group N/A",http://bit.ly/1OkyJVx
 http://ow.ly/XzGG7
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]*KODI (UK TURK)[/B]"  group-title="Group N/A",[B]*KODI (UK TURK)[/B]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*KODI (UK TURK)"  group-title="Group N/A",*KODI (UK TURK)
 http://50.7.96.220/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[B]http://bit.ly/2atxJz1[/B]"  group-title="Group N/A",[B]http://bit.ly/2atxJz1[/B]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/2atxJz1"  group-title="Group N/A",http://bit.ly/2atxJz1
 http://bit.ly/2atxJz1
 
-#EXTINF:-1, BT Sport 1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png" tvg-name="BT Sport 1"  group-title="Group N/A",BT Sport 1
 http://149.202.85.84:8080/TRGbeETy-1/counter2/index.m3u8
 
-#EXTINF:-1, BT Sport 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png" tvg-name="BT Sport 2"  group-title="Group N/A",BT Sport 2
 http://149.202.85.84:8080/TRGbeETy-2/counter2/index.m3u8
 
-#EXTINF:-1, BT Sport 1 SD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT Sport 1 SD"  group-title="Group N/A",BT Sport 1 SD
 http://149.202.201.221:8000/live/fr443500/75019pa/281.m3u8
 
-#EXTINF:-1, BT Sport 2 SD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT Sport 2 SD"  group-title="Group N/A",BT Sport 2 SD
 http://149.202.201.221:8000/live/fr443500/75019pa/282.m3u8
 
-#EXTINF:-1, Fox Sports 1 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="Fox Sports 1"  group-title="Group N/A",Fox Sports 1
 http://11e6.vp9.tv/chn/fox1/v.m3u8
 
-#EXTINF:-1, SKY SPORTS NEWS
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png" tvg-name="SKY SPORTS NEWS"  group-title="Group N/A",SKY SPORTS NEWS
 http://149.202.201.221:8000/live/fr443500/75019pa/271.m3u8
-#EXTINF:-1, SKY SPORTS F1 HD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png" tvg-name="SKY SPORTS F1"  group-title="Group N/A",SKY SPORTS F1
 http://149.202.201.221:8000/live/fr443500/75019pa/272.m3u8
-#EXTINF:-1, SKY SPORTS 1 HD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png" tvg-name="SKY SPORTS 1"  group-title="Group N/A",SKY SPORTS 1
 http://149.202.201.221:8000/live/fr443500/75019pa/275.m3u8
-#EXTINF:-1, SKY SPORTS 2 HD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png" tvg-name="SKY SPORTS 2"  group-title="Group N/A",SKY SPORTS 2
 http://149.202.201.221:8000/live/fr443500/75019pa/274.m3u8
-#EXTINF:-1, SKY SPORTS 3 HD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png" tvg-name="SKY SPORTS 3"  group-title="Group N/A",SKY SPORTS 3
 http://149.202.201.221:8000/live/fr443500/75019pa/273.m3u8
-#EXTINF:-1, SKY SPORTS 4HD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png" tvg-name="SKY SPORTS 4"  group-title="Group N/A",SKY SPORTS 4
 http://149.202.201.221:8000/live/fr443500/75019pa/776.m3u8
-#EXTINF:-1, SKY SPORTS 5 HD
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png" tvg-name="SKY SPORTS 5"  group-title="Group N/A",SKY SPORTS 5
 http://149.202.201.221:8000/live/fr443500/75019pa/777.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lega-pro.com/sito/images/stories/comunicaz/skysport_logo.jpg" tvg-name="Sky Sport 24 HD"  group-title="Group N/A",Sky Sport 24 HD
+http://212.129.54.196:8000/live/giulio/giulio/24.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports.png" tvg-name="Sky Sport HD"  group-title="Group N/A",Sky Sport HD
+http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WWE Wrestling"  group-title="Group N/A",WWE Wrestling
+http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="Group N/A",BEIN SPORTS 1
 http://bit.do/b8VKk
@@ -341,13 +359,6 @@ http://tinyurl.com/hdstcwz
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="Group N/A",BEIN SPORTS 3
 http://bit.ly/1prjlv4
-
-#EXTINF:-1,Sky Sport 24 HD
-http://212.129.54.196:8000/live/giulio/giulio/24.m3u8
-#EXTINF:-1,Sky Sport HD
-http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
-#EXTINF:-1,WWE Wrestling
-http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow]suaji86 @ gmail dot com[/COLOR]"  group-title="Group N/A",[COLOR yellow]suaji86 @ gmail dot com[/COLOR]
 http://50.7.96.230/master.m3u8
