@@ -345,7 +345,7 @@ http://212.129.54.196:8000/live/giulio/giulio/24.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports.png" tvg-name="Sky Sport HD"  group-title="Group N/A",Sky Sport HD
 http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WWE Wrestling"  group-title="Group N/A",WWE Wrestling
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.wrestlemadness.myewebsite.com/img/mid/1/wwe-logo-wrestling-symbol.jpg" tvg-name="WWE Wrestling"  group-title="Group N/A",WWE Wrestling
 http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="Group N/A",BEIN SPORTS 1
@@ -357,7 +357,7 @@ http://tinyurl.com/hdstcwz
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="Group N/A",BEIN SPORTS 3
 http://bit.ly/1prjlv4
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow]UPDATED : 28-07-2016[/COLOR]"  group-title="Group N/A",[COLOR yellow]UPDATED : 28-07-2016[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UPDATED : 28-07-2016"  group-title="Group N/A",UPDATED : 28-07-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/suaji-repo/blob/master/repository.malaysia.suaji/icon.png" tvg-name="suaji86 @ gmail dot com"  group-title="Group N/A",suaji86 @ gmail dot com
