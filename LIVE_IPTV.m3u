@@ -362,3 +362,6 @@ http://bit.ly/1prjlv4
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR yellow]suaji86 @ gmail dot com[/COLOR]"  group-title="Group N/A",[COLOR yellow]suaji86 @ gmail dot com[/COLOR]
 http://50.7.96.230/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/suaji-repo/blob/master/repository.malaysia.suaji/icon.png" tvg-name="suaji86 @ gmail dot com"  group-title="Group N/A",suaji86 @ gmail dot com
+http://50.7.96.231/master.m3u8
