@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (15-07-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (29-07-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -19,6 +19,12 @@
 <item>
 <title>KBS World HD (UK SmartDNS) - KRN</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PUl4hiEOXSo</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
+</item>
+
+<item>
+<title>ARIRANG GLOBAL - KRN</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YyiwBOOGvj0</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
 </item>
 

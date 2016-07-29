@@ -433,7 +433,5 @@ http://94.242.228.162:8081/live/btsport2-hq/chunks.m3u8
 #EXTINF:-1, Arirang Test
 http://ams-ucdn02.ustream.tv/sjc-uhs29/streams/uumf/ustreamVideo/14067349/1469700187636/streams/live_1_1469713493_8aff21c539.flv
 
-
-
-
-
+#EXTINF:-1, ARIRANG GLOBAL (KODI)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=YyiwBOOGvj0
