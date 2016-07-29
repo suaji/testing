@@ -380,3 +380,9 @@ http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/635.m3u8
 http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/636.m3u8
 #EXTINF:-1,MBC_ACTION_HD
 http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/637.m3u8
+
+#EXTINF:-1, BBC One TestA
+http://live-1192.gv2.edge.filmon.com/live/3166.low.stream/playlist.m3u8
+
+#EXTINF:-1, BBC One TestB
+http://live-1192.gv2.edge.filmon.com/live/3166.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe89d7b0bb9e26aed93e5c8454d1c6324d7e10a03785ad8b1f51972fabe0da582a70bb62956c9810bb60196f0bbf79d54af46f990d9ebd5bf48c1d9acb38a54e5c464f5c562e6938ae6b19ccc1aba0b3bc0f19318ebe1a4c96fc180aa540a9e5816d73ff96dd80b1fabc2cd61c53fb81a359ab2f927f3cab588708f78783c2f2602f978664289cf4aa3feadc567884a121
