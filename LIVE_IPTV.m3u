@@ -27,13 +27,13 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
 http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD (mlm shj)"  group-title="KOREA",KBS WORLD (mlm shj)
-rtmp://118.97.183.196/jhos//kbs
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD"  group-title="KOREA",KBS WORLD
+rtmp://118.97.183.196/jhos/
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (mlm shj) (UK SmartDNS)"  group-title="KOREA",KBS WORLD HD (mlm shj) (UK SmartDNS)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (UK SmartDNS)"  group-title="KOREA",KBS WORLD HD (UK SmartDNS)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWEFYfmwSeo
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/set_one.png" tvg-name="Korean Drama (mlm shj) (Kodi)"  group-title="KOREA",Korean Drama (mlm shj) (Kodi)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/set_one.png" tvg-name="Korean Drama (Kodi)"  group-title="KOREA",Korean Drama (Kodi)
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1 SD"  group-title="Group N/A",TV1 SD
@@ -195,6 +195,21 @@ http://63.237.48.9/ios/MBC2/MBC2.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://etvix.com/wp-content/uploads/2015/12/DUBAI-ONE.png" tvg-name="DUBAI ONE"  group-title="MOVIES",DUBAI ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
+#EXTINF:0, FOX ACTION (MALAY)
+http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
+
+#EXTINF:0, FOX ACTION
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+
+#EXTINF:0, FOX MOVIES
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
+
+#EXTINF:0, FOX MOVIES 1
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
+
+#EXTINF:0, FOX MOVIES 2
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/ac4_hollywood_film_th.png" tvg-name="AC4 - HOLLYWOOD FILM"  group-title="Group N/A",AC4 - HOLLYWOOD FILM
 http://103.40.138.89:1935/live/ac4/playlist.m3u8
 
@@ -354,7 +369,7 @@ http://tinyurl.com/hdstcwz
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="SPORTS",BEIN SPORTS 3
 http://bit.ly/1prjlv4
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 28-07-2016"  group-title="UPDATED",UPDATED : 28-07-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 30-07-2016"  group-title="UPDATED",UPDATED : 30-07-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
@@ -381,8 +396,36 @@ http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/636.m3u8
 #EXTINF:-1,MBC_ACTION_HD
 http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/637.m3u8
 
-#EXTINF:-1, BBC One TestA
-http://live-1192.gv2.edge.filmon.com/live/3166.low.stream/playlist.m3u8
+#EXTINF:-1,AR_BEIN_MOVIES_1HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/463.m3u8
+#EXTINF:-1,AR_BEIN_MOVIES_2HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/464.m3u8
+#EXTINF:-1,AR_BEIN_MOVIES_3HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/465.m3u8
 
-#EXTINF:-1, BBC One TestB
+#EXTINF:-1, BBC One Test
 http://live-1192.gv2.edge.filmon.com/live/3166.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe89d7b0bb9e26aed93e5c8454d1c6324d7e10a03785ad8b1f51972fabe0da582a70bb62956c9810bb60196f0bbf79d54af46f990d9ebd5bf48c1d9acb38a54e5c464f5c562e6938ae6b19ccc1aba0b3bc0f19318ebe1a4c96fc180aa540a9e5816d73ff96dd80b1fabc2cd61c53fb81a359ab2f927f3cab588708f78783c2f2602f978664289cf4aa3feadc567884a121
+
+#EXTINF:-1, BT SPORT 1 test 1
+http://94.242.228.162:8081/live/btsport1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDQ6MDU6NDggQU0maGFzaF92YWx1ZT1rVmtRdnpubmloaVFUVVZPWlFHanNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjYuMTU0JnN0cm1fbGVuPTE2
+
+#EXTINF:-1, BT SPORT 1 test 2
+http://94.242.228.162:8081/live/btsport1-hq/chunks.m3u8?nimblesessionid=34309162&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDQ6MDU6NDggQU0maGFzaF92YWx1ZT1rVmtRdnpubmloaVFUVVZPWlFHanNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjYuMTU0JnN0cm1fbGVuPTE2
+
+#EXTINF:-1, BT SPORT 1 test 3
+http://94.242.228.162:8081/live/btsport1-hq/playlist.m3u8
+
+#EXTINF:-1, BT SPORT 1 test 4
+http://94.242.228.162:8081/live/btsport1-hq/chunks.m3u8?
+
+#EXTINF:-1, BT SPORT 2 test 1
+http://94.242.228.162:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDQ6MDk6MTMgQU0maGFzaF92YWx1ZT1yWUhNWEs4UWZVUFg5OERJU2cyYWRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjYuMTU0JnN0cm1fbGVuPTE2
+
+#EXTINF:-1, BT SPORT 2 test 2
+http://94.242.228.162:8081/live/btsport2-hq/chunks.m3u8?nimblesessionid=34309239&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDQ6MDk6MTMgQU0maGFzaF92YWx1ZT1yWUhNWEs4UWZVUFg5OERJU2cyYWRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjYuMTU0JnN0cm1fbGVuPTE2
+
+#EXTINF:-1, BT SPORT 2 test 3
+http://94.242.228.162:8081/live/btsport2-hq/playlist.m3u8
+
+#EXTINF:-1, BT SPORT 2 test 4
+http://94.242.228.162:8081/live/btsport2-hq/chunks.m3u8
