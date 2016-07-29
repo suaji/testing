@@ -18,7 +18,7 @@
 
 <item>
 <title>KBS World HD (UK SmartDNS) - KRN</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWEFYfmwSeo</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PUl4hiEOXSo</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
 </item>
 

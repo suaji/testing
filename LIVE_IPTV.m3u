@@ -31,7 +31,7 @@ http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8
 rtmp://118.97.183.196/jhos/
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (UK SmartDNS)"  group-title="KOREA",KBS WORLD HD (UK SmartDNS)
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWEFYfmwSeo
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=PUl4hiEOXSo
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/set_one.png" tvg-name="Korean Drama (Kodi)"  group-title="KOREA",Korean Drama (Kodi)
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
@@ -429,3 +429,11 @@ http://94.242.228.162:8081/live/btsport2-hq/playlist.m3u8
 
 #EXTINF:-1, BT SPORT 2 test 4
 http://94.242.228.162:8081/live/btsport2-hq/chunks.m3u8
+
+#EXTINF:-1, Arirang Test
+http://ams-ucdn02.ustream.tv/sjc-uhs29/streams/uumf/ustreamVideo/14067349/1469700187636/streams/live_1_1469713493_8aff21c539.flv
+
+
+
+
+
