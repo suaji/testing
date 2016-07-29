@@ -354,8 +354,29 @@ http://tinyurl.com/hdstcwz
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="SPORTS",BEIN SPORTS 3
 http://bit.ly/1prjlv4
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UPDATED : 28-07-2016"  group-title="UPDATED",UPDATED : 28-07-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 28-07-2016"  group-title="UPDATED",UPDATED : 28-07-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/suaji-repo/blob/master/repository.malaysia.suaji/icon.png" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
+
+#EXTINF:-1,MBC_BOLLYWOOD_HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/638.m3u8
+#EXTINF:-1,MBCMaser_HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/640.m3u8
+#EXTINF:-1,MBCMasrPlus2_HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/641.m3u8
+#EXTINF:-1,MBCDrama_HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/639.m3u8
+#EXTINF:-1,MBC1_HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/633.m3u8
+#EXTINF:-1,MBC2_HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/634.m3u8
+#EXTINF:-1,MBC3_HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/644.m3u8
+#EXTINF:-1,MBC_4HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/635.m3u8
+#EXTINF:-1,MBC_MAXHD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/636.m3u8
+#EXTINF:-1,MBC_ACTION_HD
+http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/637.m3u8
