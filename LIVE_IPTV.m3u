@@ -375,63 +375,35 @@ http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1,MBC_BOLLYWOOD_HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/638.m3u8
-#EXTINF:-1,MBCMaser_HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/640.m3u8
-#EXTINF:-1,MBCMasrPlus2_HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/641.m3u8
-#EXTINF:-1,MBCDrama_HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/639.m3u8
-#EXTINF:-1,MBC1_HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/633.m3u8
-#EXTINF:-1,MBC2_HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/634.m3u8
-#EXTINF:-1,MBC3_HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/644.m3u8
-#EXTINF:-1,MBC_4HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/635.m3u8
-#EXTINF:-1,MBC_MAXHD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/636.m3u8
-#EXTINF:-1,MBC_ACTION_HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/637.m3u8
-
-#EXTINF:-1,AR_BEIN_MOVIES_1HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/463.m3u8
-#EXTINF:-1,AR_BEIN_MOVIES_2HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/464.m3u8
-#EXTINF:-1,AR_BEIN_MOVIES_3HD
-http://shar-iptv.dynu.com:25461/live/star7arab/forfreee/465.m3u8
-
 #EXTINF:-1, BBC One Test
 http://live-1192.gv2.edge.filmon.com/live/3166.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe89d7b0bb9e26aed93e5c8454d1c6324d7e10a03785ad8b1f51972fabe0da582a70bb62956c9810bb60196f0bbf79d54af46f990d9ebd5bf48c1d9acb38a54e5c464f5c562e6938ae6b19ccc1aba0b3bc0f19318ebe1a4c96fc180aa540a9e5816d73ff96dd80b1fabc2cd61c53fb81a359ab2f927f3cab588708f78783c2f2602f978664289cf4aa3feadc567884a121
 
-#EXTINF:-1, BT SPORT 1 test 1
-http://94.242.228.162:8081/live/btsport1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDQ6MDU6NDggQU0maGFzaF92YWx1ZT1rVmtRdnpubmloaVFUVVZPWlFHanNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjYuMTU0JnN0cm1fbGVuPTE2
+#EXTINF:-1,KIDS-MOVIE1
+http://iptv.am000.tv:8000/live/naser1/naser1/627.m3u8
+#EXTINF:-1,KIDS-MOVIE2
+http://iptv.am000.tv:8000/live/naser1/naser1/639.m3u8
+#EXTINF:-1,KIDS-MOVIE3
+http://iptv.am000.tv:8000/live/naser1/naser1/640.m3u8
+#EXTINF:-1,KIDS-MOVIE4
+http://iptv.am000.tv:8000/live/naser1/naser1/641.m3u8
 
-#EXTINF:-1, BT SPORT 1 test 2
-http://94.242.228.162:8081/live/btsport1-hq/chunks.m3u8?nimblesessionid=34309162&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDQ6MDU6NDggQU0maGFzaF92YWx1ZT1rVmtRdnpubmloaVFUVVZPWlFHanNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjYuMTU0JnN0cm1fbGVuPTE2
-
-#EXTINF:-1, BT SPORT 1 test 3
-http://94.242.228.162:8081/live/btsport1-hq/playlist.m3u8
-
-#EXTINF:-1, BT SPORT 1 test 4
-http://94.242.228.162:8081/live/btsport1-hq/chunks.m3u8?
-
-#EXTINF:-1, BT SPORT 2 test 1
-http://94.242.228.162:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDQ6MDk6MTMgQU0maGFzaF92YWx1ZT1yWUhNWEs4UWZVUFg5OERJU2cyYWRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjYuMTU0JnN0cm1fbGVuPTE2
-
-#EXTINF:-1, BT SPORT 2 test 2
-http://94.242.228.162:8081/live/btsport2-hq/chunks.m3u8?nimblesessionid=34309239&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDQ6MDk6MTMgQU0maGFzaF92YWx1ZT1yWUhNWEs4UWZVUFg5OERJU2cyYWRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjYuMTU0JnN0cm1fbGVuPTE2
-
-#EXTINF:-1, BT SPORT 2 test 3
-http://94.242.228.162:8081/live/btsport2-hq/playlist.m3u8
-
-#EXTINF:-1, BT SPORT 2 test 4
-http://94.242.228.162:8081/live/btsport2-hq/chunks.m3u8
-
-#EXTINF:-1, Arirang Test
-http://ams-ucdn02.ustream.tv/sjc-uhs29/streams/uumf/ustreamVideo/14067349/1469700187636/streams/live_1_1469713493_8aff21c539.flv
-
-#EXTINF:-1, ARIRANG GLOBAL (KODI)
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=YyiwBOOGvj0
+#EXTINF:-1,BeinSport-HD1
+http://iptv.am000.tv:8000/live/asd12345/asd12345/1.m3u8
+#EXTINF:-1,BeinSport-HD2
+http://iptv.am000.tv:8000/live/asd12345/asd12345/2.m3u8
+#EXTINF:-1,BeinSport-HD3
+http://iptv.am000.tv:8000/live/asd12345/asd12345/3.m3u8
+#EXTINF:-1,BeinSport-HD4
+http://iptv.am000.tv:8000/live/asd12345/asd12345/4.m3u8
+#EXTINF:-1,BeinSport-HD5
+http://iptv.am000.tv:8000/live/asd12345/asd12345/5.m3u8
+#EXTINF:-1,BeinSport-HD6
+http://iptv.am000.tv:8000/live/asd12345/asd12345/6.m3u8
+#EXTINF:-1,BeinSport-HD7
+http://iptv.am000.tv:8000/live/asd12345/asd12345/7.m3u8
+#EXTINF:-1,BeinSport-HD8
+http://iptv.am000.tv:8000/live/asd12345/asd12345/8.m3u8
+#EXTINF:-1,BeinSport-HD9
+http://iptv.am000.tv:8000/live/asd12345/asd12345/9.m3u8
+#EXTINF:-1,BeinSport-HD10
+http://iptv.am000.tv:8000/live/asd12345/asd12345/10.m3u8
