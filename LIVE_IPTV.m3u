@@ -30,6 +30,9 @@ http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD"  group-title="KOREA",KBS WORLD
 rtmp://118.97.183.196/jhos/
 
+#EXTINF:0, KBS WORLD (backup)
+rtmp://118.97.183.196/jhos//kbs
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (UK SmartDNS)"  group-title="KOREA",KBS WORLD HD (UK SmartDNS)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=PUl4hiEOXSo
 
@@ -360,6 +363,15 @@ http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.wrestlemadness.myewebsite.com/img/mid/1/wwe-logo-wrestling-symbol.jpg" tvg-name="WWE Wrestling"  group-title="SPORTS",WWE Wrestling
 http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 
+#EXTINF:-1, Astrok SuperSport 2
+http://149.202.207.8:8080/TRGaSsrt0o-2/counter1/index.m3u8
+
+#EXTINF:-1, Astrok SuperSport 3
+http://149.202.207.8:8080/TRGaSsrt0o-4/counter1/2016/07/30/04/18/42-06629.m3u8
+
+#EXTINF:-1, Astrok SuperSport 4
+http://149.202.207.8:8080/TRGaSsrt0o-4/counter1/index.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="SPORTS",BEIN SPORTS 1
 http://bit.do/b8VKk
 
@@ -407,3 +419,15 @@ http://iptv.am000.tv:8000/live/asd12345/asd12345/8.m3u8
 http://iptv.am000.tv:8000/live/asd12345/asd12345/9.m3u8
 #EXTINF:-1,BeinSport-HD10
 http://iptv.am000.tv:8000/live/asd12345/asd12345/10.m3u8
+
+#EXTINF:-1, BT Sport 1 (backup)
+http://149.202.85.84:8080/TRGseeppel2/counter2/index.m3u8
+
+#EXTINF:-1, MLS Soccer
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, ETV Fox Sport
+http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
+
+#EXTINF:-1, EUROSPORT FRANCE
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
