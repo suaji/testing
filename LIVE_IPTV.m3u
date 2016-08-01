@@ -28,9 +28,6 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD"  group-title="KOREA",KBS WORLD
-rtmp://118.97.183.196/jhos/
-
-#EXTINF:0, KBS WORLD (backup)
 rtmp://118.97.183.196/jhos//kbs
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (UK SmartDNS)"  group-title="KOREA",KBS WORLD HD (UK SmartDNS)
@@ -173,6 +170,15 @@ http://149.202.201.221:8000/live/fr443500/75019pa/322.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTE 1 HD"  group-title="Group N/A",RTE 1 HD
 http://149.202.201.221:8000/live/fr443500/75019pa/323.m3u8
+
+#EXTINF:-1,KIDS-MOVIE1
+http://iptv.am000.tv:8000/live/naser1/naser1/627.m3u8
+#EXTINF:-1,KIDS-MOVIE2
+http://iptv.am000.tv:8000/live/naser1/naser1/639.m3u8
+#EXTINF:-1,KIDS-MOVIE3
+http://iptv.am000.tv:8000/live/naser1/naser1/640.m3u8
+#EXTINF:-1,KIDS-MOVIE4
+http://iptv.am000.tv:8000/live/naser1/naser1/641.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]"  group-title="Group N/A",[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
@@ -324,11 +330,11 @@ http://149.202.85.84:8080/TRGbeETy-1/counter2/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png" tvg-name="BT Sport 2"  group-title="SPORTS",BT Sport 2
 http://149.202.85.84:8080/TRGbeETy-2/counter2/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT Sport 1 SD"  group-title="SPORTS",BT Sport 1 SD
-http://149.202.201.221:8000/live/fr443500/75019pa/281.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT Sport 2 SD"  group-title="SPORTS",BT Sport 2 SD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT Sport 1 SD"  group-title="SPORTS",BT Sport 1 SD
 http://149.202.201.221:8000/live/fr443500/75019pa/282.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT Sport 2 SD"  group-title="SPORTS",BT Sport 2 SD
+http://149.202.201.221:8000/live/fr443500/75019pa/281.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="Fox Sports 1"  group-title="SPORTS",Fox Sports 1
 http://11e6.vp9.tv/chn/fox1/v.m3u8
@@ -363,65 +369,8 @@ http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.wrestlemadness.myewebsite.com/img/mid/1/wwe-logo-wrestling-symbol.jpg" tvg-name="WWE Wrestling"  group-title="SPORTS",WWE Wrestling
 http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 
-#EXTINF:-1, Astrok SuperSport 2
-http://149.202.207.8:8080/TRGaSsrt0o-2/counter1/index.m3u8
-
-#EXTINF:-1, Astrok SuperSport 3
-http://149.202.207.8:8080/TRGaSsrt0o-4/counter1/2016/07/30/04/18/42-06629.m3u8
-
-#EXTINF:-1, Astrok SuperSport 4
-http://149.202.207.8:8080/TRGaSsrt0o-4/counter1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="SPORTS",BEIN SPORTS 1
-http://bit.do/b8VKk
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 2"  group-title="SPORTS",BEIN SPORTS 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUPER SPORT"  group-title="SPORTS",SUPER SPORT
 http://tinyurl.com/hdstcwz
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="SPORTS",BEIN SPORTS 3
-http://bit.ly/1prjlv4
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 30-07-2016"  group-title="UPDATED",UPDATED : 30-07-2016
-http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
-http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
-
-#EXTINF:-1, BBC One Test
-http://live-1192.gv2.edge.filmon.com/live/3166.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe89d7b0bb9e26aed93e5c8454d1c6324d7e10a03785ad8b1f51972fabe0da582a70bb62956c9810bb60196f0bbf79d54af46f990d9ebd5bf48c1d9acb38a54e5c464f5c562e6938ae6b19ccc1aba0b3bc0f19318ebe1a4c96fc180aa540a9e5816d73ff96dd80b1fabc2cd61c53fb81a359ab2f927f3cab588708f78783c2f2602f978664289cf4aa3feadc567884a121
-
-#EXTINF:-1,KIDS-MOVIE1
-http://iptv.am000.tv:8000/live/naser1/naser1/627.m3u8
-#EXTINF:-1,KIDS-MOVIE2
-http://iptv.am000.tv:8000/live/naser1/naser1/639.m3u8
-#EXTINF:-1,KIDS-MOVIE3
-http://iptv.am000.tv:8000/live/naser1/naser1/640.m3u8
-#EXTINF:-1,KIDS-MOVIE4
-http://iptv.am000.tv:8000/live/naser1/naser1/641.m3u8
-
-#EXTINF:-1,BeinSport-HD1
-http://iptv.am000.tv:8000/live/asd12345/asd12345/1.m3u8
-#EXTINF:-1,BeinSport-HD2
-http://iptv.am000.tv:8000/live/asd12345/asd12345/2.m3u8
-#EXTINF:-1,BeinSport-HD3
-http://iptv.am000.tv:8000/live/asd12345/asd12345/3.m3u8
-#EXTINF:-1,BeinSport-HD4
-http://iptv.am000.tv:8000/live/asd12345/asd12345/4.m3u8
-#EXTINF:-1,BeinSport-HD5
-http://iptv.am000.tv:8000/live/asd12345/asd12345/5.m3u8
-#EXTINF:-1,BeinSport-HD6
-http://iptv.am000.tv:8000/live/asd12345/asd12345/6.m3u8
-#EXTINF:-1,BeinSport-HD7
-http://iptv.am000.tv:8000/live/asd12345/asd12345/7.m3u8
-#EXTINF:-1,BeinSport-HD8
-http://iptv.am000.tv:8000/live/asd12345/asd12345/8.m3u8
-#EXTINF:-1,BeinSport-HD9
-http://iptv.am000.tv:8000/live/asd12345/asd12345/9.m3u8
-#EXTINF:-1,BeinSport-HD10
-http://iptv.am000.tv:8000/live/asd12345/asd12345/10.m3u8
-
-#EXTINF:-1, BT Sport 1 (backup)
-http://149.202.85.84:8080/TRGseeppel2/counter2/index.m3u8
 
 #EXTINF:-1, MLS Soccer
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
@@ -432,5 +381,52 @@ http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
 #EXTINF:-1, EUROSPORT FRANCE
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
-#EXTINF:-1, FX Channel
-http://167.114.102.27/live/v8HZsYSHL7wzvg4_UkF3RA/1469864141/1cbdb8043b37c7c9ca83582f9218c8b4.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 01-08-2016"  group-title="UPDATED",UPDATED : 01-08-2016
+http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
+http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
+
+#EXTINF:-1,UK=BT-Sport-2-HD
+http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/7285.m3u8
+#EXTINF:-1,UK=BT-Sport-1-HD
+http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/7284.m3u8
+
+#EXTINF:-1,UK: BT Sports Extra 2 HD
+http://orbit-iptv.com:2500/live/343EREFDE4/343EREFDE4/2826.m3u8
+#EXTINF:-1,UK: SKY BT Sports 1 HD
+http://orbit-iptv.com:2500/live/343EREFDE4/343EREFDE4/1488.m3u8
+#EXTINF:-1,UK:  SKY BT Sports 2 HD
+http://orbit-iptv.com:2500/live/343EREFDE4/343EREFDE4/1487.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 1" tvg-logo="" group-title="UK",UK: BT Sports 1
+http://globiptv.com:8000/live/kUmCQCWAaN/8859D2907/432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 2" tvg-logo="" group-title="UK",UK: BT Sports 2
+http://globiptv.com:8000/live/kUmCQCWAaN/8859D2907/433.m3u8
+
+#EXTINF:-1,UK: BT Sport 1 HD
+http://cdn04.selling-team.net:8000/live/vipsharedemo/84859593/8896.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://cdn04.selling-team.net:8000/live/vipsharedemo/84859593/8895.m3u8
+#EXTINF:-1,UK: BT Sport Europe
+http://cdn04.selling-team.net:8000/live/vipsharedemo/84859593/8894.m3u8
+#EXTINF:-1,UK: BT Sport Extra
+http://cdn04.selling-team.net:8000/live/vipsharedemo/84859593/4821.m3u8
+
+#EXTINF:-1,UK: BT Sports 1
+http://fastandfurious.no-ip.org:8085/live/vx2KRuhXqK/io0KxuBvPc/2712.m3u8
+#EXTINF:-1,UK: BT Sports 2
+http://fastandfurious.no-ip.org:8085/live/vx2KRuhXqK/io0KxuBvPc/2711.m3u8
+
+#EXTINF:-1,NL | Fox Sports 5
+http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10342.m3u8
+#EXTINF:-1,NL | Fox Sports 4
+http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10343.m3u8
+#EXTINF:-1,NL | FOX Sports 3
+http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10344.m3u8
+#EXTINF:-1,NL | FOX Sports 2
+http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10345.m3u8
+#EXTINF:-1,NL | Fox Sports 1 HD
+http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10346.m3u8
+#EXTINF:-1,NL | FOX
+http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10347.m3u8
