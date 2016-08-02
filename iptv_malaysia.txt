@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (15-07-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (02-08-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
