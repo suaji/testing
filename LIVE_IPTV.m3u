@@ -195,9 +195,6 @@ http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_premium_asia.png" tvg-name="FOX MOVIE PREMIUM (MALAY)"  group-title="Group N/A",FOX MOVIE PREMIUM (MALAY)
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-9MFYPtap7U0/U90uGxouH0I/AAAAAAAABiU/ukA6JrUSFbM/s1600/mbc+max+live.png" tvg-name="MBC MAX"  group-title="MOVIES",MBC MAX
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
@@ -381,52 +378,37 @@ http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
 #EXTINF:-1, EUROSPORT FRANCE
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 01-08-2016"  group-title="UPDATED",UPDATED : 01-08-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 02-08-2016"  group-title="UPDATED",UPDATED : 02-08-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1,UK=BT-Sport-2-HD
-http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/7285.m3u8
-#EXTINF:-1,UK=BT-Sport-1-HD
-http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/7284.m3u8
+#EXTINF:-1,GB: BT Sports 2 HD
+http://nlxiptv.no-ip.biz:1994/live/hicham/hicham/39.m3u8
+#EXTINF:-1,GB: BT Sports 1 HD
+http://nlxiptv.no-ip.biz:1994/live/hicham/hicham/38.m3u8
+#EXTINF:-1,GB: BT Sport Europe
+http://nlxiptv.no-ip.biz:1994/live/hicham/hicham/37.m3u8
 
-#EXTINF:-1,UK: BT Sports Extra 2 HD
-http://orbit-iptv.com:2500/live/343EREFDE4/343EREFDE4/2826.m3u8
-#EXTINF:-1,UK: SKY BT Sports 1 HD
-http://orbit-iptv.com:2500/live/343EREFDE4/343EREFDE4/1488.m3u8
-#EXTINF:-1,UK:  SKY BT Sports 2 HD
-http://orbit-iptv.com:2500/live/343EREFDE4/343EREFDE4/1487.m3u8
+#EXTINF:-1,FR:BeIN_Sport1_HD
+http://greenppv-hd.dynu.com:12580/live/12345/12345/473.m3u8
+#EXTINF:-1,FR:BeIN_Sport2_HD
+http://greenppv-hd.dynu.com:12580/live/12345/12345/415.m3u8
+#EXTINF:-1,FR:BeIN_Sport3_HD
+http://greenppv-hd.dynu.com:12580/live/12345/12345/414.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 1" tvg-logo="" group-title="UK",UK: BT Sports 1
-http://globiptv.com:8000/live/kUmCQCWAaN/8859D2907/432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 2" tvg-logo="" group-title="UK",UK: BT Sports 2
-http://globiptv.com:8000/live/kUmCQCWAaN/8859D2907/433.m3u8
-
-#EXTINF:-1,UK: BT Sport 1 HD
-http://cdn04.selling-team.net:8000/live/vipsharedemo/84859593/8896.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://cdn04.selling-team.net:8000/live/vipsharedemo/84859593/8895.m3u8
-#EXTINF:-1,UK: BT Sport Europe
-http://cdn04.selling-team.net:8000/live/vipsharedemo/84859593/8894.m3u8
-#EXTINF:-1,UK: BT Sport Extra
-http://cdn04.selling-team.net:8000/live/vipsharedemo/84859593/4821.m3u8
-
-#EXTINF:-1,UK: BT Sports 1
-http://fastandfurious.no-ip.org:8085/live/vx2KRuhXqK/io0KxuBvPc/2712.m3u8
-#EXTINF:-1,UK: BT Sports 2
-http://fastandfurious.no-ip.org:8085/live/vx2KRuhXqK/io0KxuBvPc/2711.m3u8
-
-#EXTINF:-1,NL | Fox Sports 5
-http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10342.m3u8
-#EXTINF:-1,NL | Fox Sports 4
-http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10343.m3u8
-#EXTINF:-1,NL | FOX Sports 3
-http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10344.m3u8
-#EXTINF:-1,NL | FOX Sports 2
-http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10345.m3u8
-#EXTINF:-1,NL | Fox Sports 1 HD
-http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10346.m3u8
-#EXTINF:-1,NL | FOX
-http://live.softiptv.com:9900/live/y0IrraQz2N/AdQdoRAJQq/10347.m3u8
+#EXTINF:-1,SkyStarWars..
+http://163.172.209.213:8000/live/iptv1/test1/929.m3u8
+#EXTINF:-1,SkySportsF1..
+http://163.172.209.213:8000/live/iptv1/test1/1061.m3u8
+#EXTINF:-1,SkySports5..
+http://163.172.209.213:8000/live/iptv1/test1/954.m3u8
+#EXTINF:-1,SkySports4..
+http://163.172.209.213:8000/live/iptv1/test1/952.m3u8
+#EXTINF:-1,SkySports3..
+http://163.172.209.213:8000/live/iptv1/test1/946.m3u8
+#EXTINF:-1,SkySports2..
+http://163.172.209.213:8000/live/iptv1/test1/920.m3u8
+#EXTINF:-1,SkySports1..
+http://163.172.209.213:8000/live/iptv1/test1/998.m3u8

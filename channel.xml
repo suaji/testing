@@ -1491,26 +1491,26 @@
 
 <item>
 <title>Hantu Bukit Cina (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eox6wh73fjtt-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-o68wa3map17h-640x360.html</link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2014/08/hantu-bukit-cina-sdtvrip-dvdrip-download-pencuri-movie.jpg</thumbnail>
 <fanart>http://i.insing.com.sg/cms/45/ea/36/24/114109/97d4c78045_600x450_fdfe2c4e00.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-eox6wh73fjtt-640x360.html</page>
-<referer>http://streamin.to/eox6wh73fjtt</referer>
+<page>http://streamin.to/embed-o68wa3map17h-640x360.html</page>
+<referer>http://streamin.to/o68wa3map17h</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-eox6wh73fjtt-640x360.html</page>
-<referer>http://streamin.to/eox6wh73fjtt</referer>
+<page>http://streamin.to/embed-o68wa3map17h-640x360.html</page>
+<referer>http://streamin.to/o68wa3map17h</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-eox6wh73fjtt-640x360.html</page>
-<referer>http://streamin.to/eox6wh73fjtt</referer>
+<page>http://streamin.to/embed-o68wa3map17h-640x360.html</page>
+<referer>http://streamin.to/o68wa3map17h</referer>
 </regex>
 </item>
 
@@ -1766,26 +1766,26 @@
 
 <item>
 <title>Mamak Cup Cake (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9uxjovmik08c-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5gyrecyy39rq-640x360.html</link>
 <thumbnail>http://www.astrogempak.com.my/portals/72/images/meletop_filem/mamak.JPG</thumbnail>
 <fanart>http://piratetorrents.net/wp-content/uploads/2014/08/screenshot223.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-9uxjovmik08c-640x360.html</page>
-<referer>http://streamin.to/9uxjovmik08c</referer>
+<page>http://streamin.to/embed-5gyrecyy39rq-640x360.html</page>
+<referer>http://streamin.to/5gyrecyy39rq</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9uxjovmik08c-640x360.html</page>
-<referer>http://streamin.to/9uxjovmik08c</referer>
+<page>http://streamin.to/embed-5gyrecyy39rq-640x360.html</page>
+<referer>http://streamin.to/5gyrecyy39rq</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9uxjovmik08c-640x360.html</page>
-<referer>http://streamin.to/9uxjovmik08c</referer>
+<page>http://streamin.to/embed-5gyrecyy39rq-640x360.html</page>
+<referer>http://streamin.to/5gyrecyy39rq</referer>
 </regex>
 </item>
 

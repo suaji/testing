@@ -51,7 +51,7 @@
 <channel>
 <name>SUKAN</name>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png</thumbnail>
-<externallink>https://goo.gl/2GX0gk</externallink>
+<externallink>https://goo.gl/I2IBzy</externallink>
 </channel>
 
 <channel>
