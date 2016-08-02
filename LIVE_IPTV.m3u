@@ -412,3 +412,35 @@ http://163.172.209.213:8000/live/iptv1/test1/946.m3u8
 http://163.172.209.213:8000/live/iptv1/test1/920.m3u8
 #EXTINF:-1,SkySports1..
 http://163.172.209.213:8000/live/iptv1/test1/998.m3u8
+
+#EXTINF:-1, MY BT SPORT 1
+http://cdn.smotrimult.com/hls/qbGsWPOpAwDwUA8_PjSbLw/1470109855/btsport1.m3u8
+#EXTINF:-1, MY BT SPORT 2
+http://cdn.smotrimult.com/hls/xT7wZvE-fuYIlG3vccbvgQ/1470109952/btsport2.m3u8
+
+#EXTINF:-1, SUPER SPORT 1
+http://cdn.smotrimult.com/hls/tABwLaZtM8Gb0tnQBMDTFA/1470110048/supersport.m3u8
+
+#EXTINF:-1, SUPER SPORT 2
+http://cdn.smotrimult.com/hls/L5NJeyk5QyXbMW7budz3-g/1470110072/supersport2.m3u8
+
+#EXTINF:-1, SUPER SPORT 3
+http://cdn.smotrimult.com/hls/RYdag8eVfYpJfDtRxPEgSQ/1470110083/supersport3.m3u8
+
+#EXTINF:-1, SUPER SPORT 4
+http://cdn.smotrimult.com/hls/6cs-PTnAZRxz4jUFdMcWPA/1470110091/supersport4.m3u8
+
+#EXTINF:-1, ARENA 1
+http://cdn.smotrimult.com/hls/RtwiQ4jn2I4vmHcPXM7CHA/1470110189/arena1.m3u8
+
+#EXTINF:-1, ARENA 2
+http://cdn.smotrimult.com/hls/9RAZWxGrhEbXi2x6oWFe6A/1470110201/arena2.m3u8
+
+#EXTINF:-1, ARENA 3
+http://cdn.smotrimult.com/hls/2vBwbH-ww7wykyX8DqRSuQ/1470110209/arena3.m3u8
+
+#EXTINF:-1, EUROSPORT_1
+http://cdn.smotrimult.com/hls/iRCTG-jbPNmhxImlpTVnKA/1470110293/eurosport.m3u8
+
+#EXTINF:-1, EUROSPORT_2
+http://cdn.smotrimult.com/hls/nune3DHsKqlssOJTzSjrYg/1470110301/eurosport2.m3u8
