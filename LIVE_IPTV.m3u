@@ -333,9 +333,6 @@ http://149.202.201.221:8000/live/fr443500/75019pa/282.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT Sport 2 SD"  group-title="SPORTS",BT Sport 2 SD
 http://149.202.201.221:8000/live/fr443500/75019pa/281.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="Fox Sports 1"  group-title="SPORTS",Fox Sports 1
-http://11e6.vp9.tv/chn/fox1/v.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png" tvg-name="SKY SPORTS NEWS"  group-title="SPORTS",SKY SPORTS NEWS
 http://149.202.201.221:8000/live/fr443500/75019pa/271.m3u8
 
@@ -366,6 +363,9 @@ http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.wrestlemadness.myewebsite.com/img/mid/1/wwe-logo-wrestling-symbol.jpg" tvg-name="WWE Wrestling"  group-title="SPORTS",WWE Wrestling
 http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="Fox Sports 1"  group-title="SPORTS",Fox Sports 1
+http://11e6.vp9.tv/chn/fox1/v.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUPER SPORT"  group-title="SPORTS",SUPER SPORT
 http://tinyurl.com/hdstcwz
 
@@ -378,18 +378,11 @@ http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
 #EXTINF:-1, EUROSPORT FRANCE
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 02-08-2016"  group-title="UPDATED",UPDATED : 02-08-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 05-08-2016"  group-title="UPDATED",UPDATED : 05-08-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
-
-#EXTINF:-1,GB: BT Sports 2 HD
-http://nlxiptv.no-ip.biz:1994/live/hicham/hicham/39.m3u8
-#EXTINF:-1,GB: BT Sports 1 HD
-http://nlxiptv.no-ip.biz:1994/live/hicham/hicham/38.m3u8
-#EXTINF:-1,GB: BT Sport Europe
-http://nlxiptv.no-ip.biz:1994/live/hicham/hicham/37.m3u8
 
 #EXTINF:-1,FR:BeIN_Sport1_HD
 http://greenppv-hd.dynu.com:12580/live/12345/12345/473.m3u8
@@ -398,49 +391,25 @@ http://greenppv-hd.dynu.com:12580/live/12345/12345/415.m3u8
 #EXTINF:-1,FR:BeIN_Sport3_HD
 http://greenppv-hd.dynu.com:12580/live/12345/12345/414.m3u8
 
-#EXTINF:-1,SkyStarWars..
-http://163.172.209.213:8000/live/iptv1/test1/929.m3u8
-#EXTINF:-1,SkySportsF1..
-http://163.172.209.213:8000/live/iptv1/test1/1061.m3u8
-#EXTINF:-1,SkySports5..
-http://163.172.209.213:8000/live/iptv1/test1/954.m3u8
-#EXTINF:-1,SkySports4..
-http://163.172.209.213:8000/live/iptv1/test1/952.m3u8
-#EXTINF:-1,SkySports3..
-http://163.172.209.213:8000/live/iptv1/test1/946.m3u8
-#EXTINF:-1,SkySports2..
-http://163.172.209.213:8000/live/iptv1/test1/920.m3u8
-#EXTINF:-1,SkySports1..
-http://163.172.209.213:8000/live/iptv1/test1/998.m3u8
+#EXTINF:-1,UK-BTsport-europe
+http://camerta.com:8000/live/55239/55239/1468.m3u8
+#EXTINF:-1,UK-BT_Sport1
+http://camerta.com:8000/live/55239/55239/1308.m3u8
+#EXTINF:-1,UK-BT_Sport2
+http://camerta.com:8000/live/55239/55239/1309.m3u8
 
-#EXTINF:-1, MY BT SPORT 1
-http://cdn.smotrimult.com/hls/qbGsWPOpAwDwUA8_PjSbLw/1470109855/btsport1.m3u8
-#EXTINF:-1, MY BT SPORT 2
-http://cdn.smotrimult.com/hls/xT7wZvE-fuYIlG3vccbvgQ/1470109952/btsport2.m3u8
+#EXTINF:-1,MY BT Sport 1 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/279.m3u8
+#EXTINF:-1,MY BT Sport 2 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/280.m3u8
+#EXTINF:-1,MY BT Sport // ESPN
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1257.m3u8
+#EXTINF:-1,MY BT Sport EuroHD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1215.m3u8
 
-#EXTINF:-1, SUPER SPORT 1
-http://cdn.smotrimult.com/hls/tABwLaZtM8Gb0tnQBMDTFA/1470110048/supersport.m3u8
-
-#EXTINF:-1, SUPER SPORT 2
-http://cdn.smotrimult.com/hls/L5NJeyk5QyXbMW7budz3-g/1470110072/supersport2.m3u8
-
-#EXTINF:-1, SUPER SPORT 3
-http://cdn.smotrimult.com/hls/RYdag8eVfYpJfDtRxPEgSQ/1470110083/supersport3.m3u8
-
-#EXTINF:-1, SUPER SPORT 4
-http://cdn.smotrimult.com/hls/6cs-PTnAZRxz4jUFdMcWPA/1470110091/supersport4.m3u8
-
-#EXTINF:-1, ARENA 1
-http://cdn.smotrimult.com/hls/RtwiQ4jn2I4vmHcPXM7CHA/1470110189/arena1.m3u8
-
-#EXTINF:-1, ARENA 2
-http://cdn.smotrimult.com/hls/9RAZWxGrhEbXi2x6oWFe6A/1470110201/arena2.m3u8
-
-#EXTINF:-1, ARENA 3
-http://cdn.smotrimult.com/hls/2vBwbH-ww7wykyX8DqRSuQ/1470110209/arena3.m3u8
-
-#EXTINF:-1, EUROSPORT_1
-http://cdn.smotrimult.com/hls/iRCTG-jbPNmhxImlpTVnKA/1470110293/eurosport.m3u8
-
-#EXTINF:-1, EUROSPORT_2
-http://cdn.smotrimult.com/hls/nune3DHsKqlssOJTzSjrYg/1470110301/eurosport2.m3u8
+#EXTINF:-1,DISNEY XD SR
+http://zial.dyndns.tv:8000/live/italo1/italo1/5.m3u8
+#EXTINF:-1,DISNEY CHANNEL SR
+http://zial.dyndns.tv:8000/live/italo1/italo1/6.m3u8
+#EXTINF:-1,DISCOVERY KIDS SR
+http://zial.dyndns.tv:8000/live/italo1/italo1/8.m3u8
