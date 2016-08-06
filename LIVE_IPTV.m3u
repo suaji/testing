@@ -378,7 +378,7 @@ http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
 #EXTINF:-1, EUROSPORT FRANCE
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 05-08-2016"  group-title="UPDATED",UPDATED : 05-08-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 07-08-2016"  group-title="UPDATED",UPDATED : 07-08-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
@@ -430,3 +430,20 @@ http://178.33.237.109:8600/live/jessica22/jessica22/935.m3u8
 http://178.33.237.109:8600/live/jessica22/jessica22/291.m3u8
 #EXTINF:-1,IT: SKY MOTOGP HD
 http://178.33.237.109:8600/live/jessica22/jessica22/566.m3u8
+
+#EXTINF:-1,ITALY: SKY SPORT 24 HD
+http://178.33.237.109:8600/live/lexar/lexar/586.m3u8
+#EXTINF:-1,ITALY: SKY SPORT 1 HD
+http://178.33.237.109:8600/live/lexar/lexar/5.m3u8
+#EXTINF:-1,ITALY: SKY SPORT 2 HD
+http://178.33.237.109:8600/live/lexar/lexar/517.m3u8
+#EXTINF:-1,ITALY: SKY SPORT 3 HD
+http://178.33.237.109:8600/live/lexar/lexar/805.m3u8
+#EXTINF:-1,ITALY: SKY SPORT PLUS HD
+http://178.33.237.109:8600/live/lexar/lexar/1363.m3u8
+#EXTINF:-1,ITALY: SKY FOX SPORTS HD
+http://178.33.237.109:8600/live/lexar/lexar/935.m3u8
+#EXTINF:-1,ITALY: SKY SPORT F1 HD
+http://178.33.237.109:8600/live/lexar/lexar/291.m3u8
+#EXTINF:-1,ITALY: SKY MOTOGP HD
+http://178.33.237.109:8600/live/lexar/lexar/566.m3u8
