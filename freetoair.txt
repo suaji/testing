@@ -74,13 +74,13 @@
 
 <channel>
 <name>ICON TEST_1</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/quran_1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/tv_test.png</thumbnail>
 <externallink>https://goo.gl/UhptNh</externallink>
 </channel>
 
 <channel>
 <name>ICON TEST_2</name>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/quran_1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_test.png</thumbnail>
 <externallink>https://goo.gl/UhptNh</externallink>
 </channel>
 
