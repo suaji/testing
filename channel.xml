@@ -56,26 +56,26 @@
 
 <item>
 <title>Lawak Ke Der (2016) HD</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-htp7ddaoohzg-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y1elrv2qk807-640x360.html</link>
 <thumbnail>http://www.istanabudaya.gov.my/wp-content/uploads/2016/04/lawak-ke-der-front.jpg</thumbnail>
 <fanart>http://assets.nst.com.my/images/articles/soldout.transformed.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-htp7ddaoohzg-640x360.html</page>
-<referer>http://streamin.to/htp7ddaoohzg</referer>
+<page>http://streamin.to/embed-y1elrv2qk807-640x360.html</page>
+<referer>http://streamin.to/y1elrv2qk807</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-htp7ddaoohzg-640x360.html</page>
-<referer>http://streamin.to/htp7ddaoohzg</referer>
+<page>http://streamin.to/embed-y1elrv2qk807-640x360.html</page>
+<referer>http://streamin.to/y1elrv2qk807</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-htp7ddaoohzg-640x360.html</page>
-<referer>http://streamin.to/htp7ddaoohzg</referer>
+<page>http://streamin.to/embed-y1elrv2qk807-640x360.html</page>
+<referer>http://streamin.to/y1elrv2qk807</referer>
 </regex>
 </item>
 
@@ -1491,26 +1491,26 @@
 
 <item>
 <title>Misi Tawan Baby (2014)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-tu5jdwgu1pq7-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1gp4r00qgbvh-640x360.html</link>
 <thumbnail>http://galaksi-media.com/wp-content/uploads/2014/11/FA-MTB-2-01.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/9_ySrmdvvwI/maxresdefault.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-tu5jdwgu1pq7-640x360.html</page>
-<referer>http://streamin.to/tu5jdwgu1pq7</referer>
+<page>http://streamin.to/embed-1gp4r00qgbvh-640x360.html</page>
+<referer>http://streamin.to/1gp4r00qgbvh</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-tu5jdwgu1pq7-640x360.html</page>
-<referer>http://streamin.to/tu5jdwgu1pq7</referer>
+<page>http://streamin.to/embed-1gp4r00qgbvh-640x360.html</page>
+<referer>http://streamin.to/1gp4r00qgbvh</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-tu5jdwgu1pq7-640x360.html</page>
-<referer>http://streamin.to/tu5jdwgu1pq7</referer>
+<page>http://streamin.to/embed-1gp4r00qgbvh-640x360.html</page>
+<referer>http://streamin.to/1gp4r00qgbvh</referer>
 </regex>
 </item>
 
