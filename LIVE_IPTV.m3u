@@ -255,6 +255,9 @@ http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://ikimfm.my/wp-content/uploads/2014/03/logo-ikimfm.png" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
 http://50.7.96.210:8285/;stream.mp3
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/peaceyall_fm.png" tvg-name="PEACE YALL FM"  group-title="Malaysia",PEACE YALL FM
+http://stream1.mfacelive.com:1935/pyedge/peaceyallfm_240p/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ee/era_astro.png" tvg-name="ERA FM"  group-title="Malaysia",ERA FM
 http://astro2.rastream.com/era?type=.flv
 
@@ -421,21 +424,6 @@ http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2192.m3u8
 http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2193.m3u8
 #EXTINF:-1,UK:BT_Sport_Extra
 http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2236.m3u8
-
-#EXTINF:-1,CTH STADIUM X
-http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2403.m3u8
-#EXTINF:-1,CTH STADIUM 1 HD
-http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2409.m3u8
-#EXTINF:-1,CTH STADIUM 2 HD
-http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2408.m3u8
-#EXTINF:-1,CTH STADIUM 3 HD
-http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2407.m3u8
-#EXTINF:-1,CTH STADIUM 4 HD
-http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2406.m3u8
-#EXTINF:-1,CTH STADIUM 5 HD
-http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2405.m3u8
-#EXTINF:-1,CTH STADIUM 6 HD
-http://151.80.31.94:12580/live/06testADMIN3/leo25hDKYq/2404.m3u8
 
 #EXTINF:-1,MY: BT Sports 1
 http://185.73.239.40:8000/live/saib/fares/432.m3u8
