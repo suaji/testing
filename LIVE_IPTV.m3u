@@ -402,6 +402,9 @@ http://178.33.237.109:8600/live/lexar/lexar/586.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
+#EXTINF:-1, (CHANNELS TESTING)
+http://46.234.125.129:8000/live/SportsTv132/sports145214/81.ts
+
 #EXTINF:-1,MY: BT Sports 1
 http://185.73.239.40:8000/live/saib/fares/432.m3u8
 #EXTINF:-1,MY: BT Sports 2
@@ -428,9 +431,74 @@ http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4335.m3u8
 #EXTINF:-1,BT Sport SPPN (UK)
 http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4270.m3u8
 
-#EXTINF:-1,astro3
-http://46.234.125.129:8000/live/SportsTv132/sports145214/267.m3u8
-#EXTINF:-1,astro2
-http://46.234.125.129:8000/live/SportsTv132/sports145214/266.m3u8
-#EXTINF:-1,astro1
-http://46.234.125.129:8000/live/SportsTv132/sports145214/265.m3u8
+#EXTINF:-1,KOREA:Arirang
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+
+#EXTINF:-1,Animax
+http://103.13.228.157/streamlink.m3u8?channel_id=d3edb48a8bb847c78432270e23ddca73
+#EXTINF:-1,Cartoon Club
+http://103.13.228.157/streamlink.m3u8?channel_id=860605f7e16d4c6cacef72ef02ffa2c1
+#EXTINF:-1,Cartoonito HD
+http://103.13.228.157/streamlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b
+
+#EXTINF:-1,INDONESIA:Berita Satu English HD
+http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu English SD
+http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_360_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu News HD
+http://beritasatulive-lh.akamaihd.net/i/b1news_1@47648/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu News SD
+http://beritasatulive-lh.akamaihd.net/i/b1news_1@47648/index_360_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu Sport HD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu Sport SD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_360_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu World HD
+http://beritasatulive-lh.akamaihd.net/i/b1world_1@38149/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu World SD
+http://beritasatulive-lh.akamaihd.net/i/b1world_1@38149/index_360_av-p.m3u8
+
+#EXTINF:-1,JAPAN:animax
+rtsp://c.itvitv.com/animaxj.yuwnshydgtrf
+
+#EXTINF:-1,CHINA:BTV-1-HD 北京卫视高清
+rtsp://58.200.131.2/BTV-1-HD
+#EXTINF:-1,CHINA:BTV-2-HD 北京文艺高清
+rtsp://58.200.131.2/BTV-2-HD
+#EXTINF:-1,CHINA:BTV-6-HD 北京体育高清
+rtsp://58.200.131.2/BTV-6-HD
+#EXTINF:-1,CHINA:CCTV 1 HD
+rtsp://58.200.131.2/CCTV-1-HD
+#EXTINF:-1,CHINA:CCTV 5 HD
+rtsp://58.200.131.2/CCTV-5-HD
+
+#EXTINF:-1,CHINA:CCTV1综合
+rtsp://rlive.tv189.cn/live/172
+#EXTINF:-1,CHINA:CCTV1综合
+rtmp://123.65.3.8:1935/ss1live/cctv1-2
+#EXTINF:-1,CHINA:CCTV2财经
+http://58.248.254.10:8080/pms_IphoneOnlinePlay?id=6
+#EXTINF:-1,CHINA:CCTV2财经
+rtmp://116.213.200.53/tslsChannelLive/QD6LM8H/live
+#EXTINF:-1,CHINA:CCTV2财经
+rtsp://rlive.tv189.cn/live/292
+#EXTINF:-1,CHINA:CCTV3综艺
+rtsp://rlive.tv189.cn/live/452
+#EXTINF:-1,CHINA:CCTV5+体育ÈüÊÂ
+rtsp://rlive.tv189.cn/live/872
+#EXTINF:-1,CHINA:CCTV5体育
+http://api.veryhd.net/Upload/live_proxy/brtn.php?channel=CCTV5
+#EXTINF:-1,CHINA:CCTV5体育HD
+rtsp://rlive.tv189.cn/live/862
+#EXTINF:-1,CHINA:CCTV6电影
+rtsp://rlive.tv189.cn/live/392
+#EXTINF:-1,CHINA:CCTV7ŸüÊÂÅ©Òµ
+rtsp://rlive.tv189.cn/live/232
+#EXTINF:-1,CHINA:CCTV8µçÊÓŸç
+rtsp://rlive.tv189.cn/live/462
+#EXTINF:-1,CHINA:CCTV9ŒÍÂŒ
+http://api.veryhd.net/Upload/live_proxy/brtn.php?channel=CCTV9
+#EXTINF:-1,CHINA:CCTV9ŒÍÂŒ
+rtsp://rlive.tv189.cn/live/482
+#EXTINF:-1,CHINA:CCTVÐÜÃš-1ºÅ±ðÊû
+http://fms.cntv.lxdns.com/live/flv/channel97.flv
