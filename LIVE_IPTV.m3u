@@ -9,6 +9,9 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
 http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8
 
+#EXTINF:0, TV1 - test
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
 http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8
 
@@ -309,7 +312,7 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="SPORTS",[COLOR crimson].....SPORTS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 10-08-2016"  group-title="UPDATED",UPDATED : 10-08-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 11-08-2016"  group-title="UPDATED",UPDATED : 11-08-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="SPORTS",*BACKUP BOLA LIVE
