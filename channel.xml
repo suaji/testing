@@ -5,7 +5,7 @@
 </item>
 
 <item>
-<title>Zack Kapcai (2016) HD</title>
+<title>Zack Kapcai (2016) HD (re-upload)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-w2unu500798v-640x360.html</link>
 <thumbnail>http://vplaytv.me/wp-content/uploads/2016/08/zackkapcai.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-AO3RTe5dd4o/V4ycDS4uBqI/AAAAAAAANBI/kVnkUnbDzPAgqF1eDEqC-God9l6ejgnZgCLcB/s1600/Zack%2BKapcai%2Bpic.jpg</fanart>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>Ada Apa Dengan Cinta 2 (2016) HD [IND]</title>
+<title>Ada Apa Dengan Cinta 2 (2016) HD [IND](re-upload)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9zcfolbvfy2k-640x360.html</link>
 <thumbnail>http://cdn3.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2016/Ada_apa_dengan_cinta2/AADC2_v1_984x1482_500.jpg</thumbnail>
 <fanart>http://www.tosarang2.org/wp-content/uploads/2016/07/Ada-Apa-Dengan-Cinta.jpg</fanart>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>Lawak Ke Der (2016) HD</title>
+<title>Lawak Ke Der (2016) HD(re-upload)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y1elrv2qk807-640x360.html</link>
 <thumbnail>http://www.istanabudaya.gov.my/wp-content/uploads/2016/04/lawak-ke-der-front.jpg</thumbnail>
 <fanart>http://assets.nst.com.my/images/articles/soldout.transformed.jpg</fanart>
