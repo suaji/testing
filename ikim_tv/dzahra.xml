@@ -5,7 +5,7 @@
 </item>
 
 <item>
-    <title>unjuk Ajar, Cadangan, Arahan</title>
+    <title>Tunjuk Ajar, Cadangan, Arahan</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
   <regex>
     <name>encodedurl</name>

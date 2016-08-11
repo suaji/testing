@@ -1,5 +1,11 @@
 <item>
-<title>[COLOR red]MALAYSIA LIVE TV[/COLOR]</title>
+<title>[COLOR red]MALAYSIA LIVE TV_1[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SugJBcJCzrY</link>
+<thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]MALAYSIA LIVE TV_2[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -2339,7 +2345,7 @@
 
 <item>
 <title>Tutorial LIVE TV dlm KODI</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SugJBcJCzrY</link>
 <thumbnail>.</thumbnail>
 </item>
 
@@ -2351,11 +2357,5 @@
 <item>
 <title>kredit www.PencuriMovie.se</title>
 <link>.</link>
-<thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>TEST EXTERNAL</title>
-<externallink>https://goo.gl/W4Xy31</externallink>
 <thumbnail>.</thumbnail>
 </item>

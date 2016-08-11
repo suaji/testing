@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (02-08-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (11-08-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -12,8 +12,23 @@
 
 <item>
 <title>[COLOR green]MADINAH LIVE HD[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SQVBiSHydEg</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qv5siL0_usg</link>
 <thumbnail>.</thumbnail>
+</item>
+
+<item>
+  <title>TV1 test</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10149</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/10149</page>
+    <referer>http://rtm-player.glueapi.io/f/10149</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
 </item>
 
 <item>
