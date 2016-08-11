@@ -17,7 +17,7 @@
 </item>
 
 <item>
-  <title>TV1 test</title>
+  <title>TV1</title>
   <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10149</link>
   <regex>
     <name>m3u8</name>
@@ -32,28 +32,13 @@
 </item>
 
 <item>
-  <title>TV1</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10149</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10149</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10149</referer>
-    <agent>Mozilla/5.0</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
-</item>
-
-<item>
   <title>TV2</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10148</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10148</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10148</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10148</referer>
+    <page>http://rtm-player.glueapi.io/f/10148</page>
+    <referer>http://rtm-player.glueapi.io/f/10148</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -63,12 +48,12 @@
 
 <item>
   <title>TVi</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10150</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10150</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10150</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10150</referer>
+    <page>http://rtm-player.glueapi.io/f/10150</page>
+    <referer>http://rtm-player.glueapi.io/f/10150</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -78,12 +63,12 @@
 
 <item>
   <title>GALAKSI MUZIK</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10151</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10151</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10151</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10151</referer>
+    <page>http://rtm-player.glueapi.io/f/10151</page>
+    <referer>http://rtm-player.glueapi.io/f/10151</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -93,12 +78,12 @@
 
 <item>
   <title>1News</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10153</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10153</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10153</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10153</referer>
+    <page>http://rtm-player.glueapi.io/f/10153</page>
+    <referer>http://rtm-player.glueapi.io/f/10153</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -126,36 +111,36 @@
 
 <item>
 <title>TV1 SD</title>
-<link>http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b974000_sleng.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
 </item>
 
 <item>
 <title>TV2 SD</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b974000_sleng.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
 </item>
 
 <item>
 <title>TVi SD</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
 </item>
 
 <item>
 <title>GALAKSI MUZIK SD</title>
-<link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch005.smil/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch005/chunklist_b974000_sleng.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>
 </item>
 
 <item>
 <title>MUZIK AKTIF SD</title>
-<link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch004/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b974000_sleng.m3u8</link>
 <thumbnail>http://www.imn.com.my/images/clients/muzikaktif.jpg</thumbnail>
 </item>
 
 <item>
 <title>1NEWS SD</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>
 </item>
