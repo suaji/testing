@@ -225,6 +225,9 @@ http://iptv.am000.tv:8000/live/naser1/naser1/641.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]"  group-title="Group N/A",[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
+#EXTINF:-1,CHINA: LIVE CCTV iPANDA
+http://fms.cntv.lxdns.com/live/flv/channel97.flv
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/24/World_Travel_Channel.png" tvg-name="World Travel Channel"  group-title="FAMILY",World Travel Channel
 http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
 
@@ -234,32 +237,11 @@ http://149.202.201.221:8000/live/fr443500/75019pa/313.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen].....FAMILY.....[/COLOR]"  group-title="Group N/A",[COLOR springgreen].....FAMILY.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_premium_asia.png" tvg-name="FOX MOVIE PREMIUM (MALAY)"  group-title="Group N/A",FOX MOVIE PREMIUM (MALAY)
-http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://etvix.com/wp-content/uploads/2015/12/DUBAI-ONE.png" tvg-name="DUBAI ONE"  group-title="MOVIES",DUBAI ONE
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://etvix.com/wp-content/uploads/2015/12/DUBAI-ONE.png" tvg-name="DUBAI ONE HD"  group-title="MOVIES",DUBAI ONE HD
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-
-#EXTINF:0, FOX ACTION (MALAY)
-http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
-
-#EXTINF:0, FOX ACTION
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-
-#EXTINF:0, FOX MOVIES
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
-
-#EXTINF:0, FOX MOVIES 1
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
-
-#EXTINF:0, FOX MOVIES 2
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/ac4_hollywood_film_th.png" tvg-name="AC4 - HOLLYWOOD FILM"  group-title="Group N/A",AC4 - HOLLYWOOD FILM
-http://103.40.138.89:1935/live/ac4/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLAYY WEST"  group-title="KOREA",PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
@@ -351,7 +333,7 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="SPORTS",[COLOR crimson].....SPORTS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 11-08-2016"  group-title="UPDATED",UPDATED : 11-08-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 13-08-2016"  group-title="UPDATED",UPDATED : 13-08-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="SPORTS",*BACKUP BOLA LIVE
@@ -381,7 +363,7 @@ http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/279.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT Sport 2 SD"  group-title="SPORTS",BT Sport 2 SD
 http://camerta.com:8000/live/55239/55239/1309.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png" tvg-name="SKY SPORTS NEWS -offline-"  group-title="SPORTS",SKY SPORTS NEWS -offline-
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png" tvg-name="SKY SPORTS NEWS"  group-title="SPORTS",SKY SPORTS NEWS
 http://149.202.201.221:8000/live/fr443500/75019pa/271.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png" tvg-name="SKY SPORTS F1"  group-title="SPORTS",SKY SPORTS F1
@@ -402,9 +384,6 @@ http://149.202.201.221:8000/live/fr443500/75019pa/776.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png" tvg-name="SKY SPORTS 5"  group-title="SPORTS",SKY SPORTS 5
 http://149.202.201.221:8000/live/fr443500/75019pa/777.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lega-pro.com/sito/images/stories/comunicaz/skysport_logo.jpg" tvg-name="Sky Sport 24 HD"  group-title="SPORTS",Sky Sport 24 HD
-http://212.129.54.196:8000/live/giulio/giulio/24.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports.png" tvg-name="Sky Sport HD"  group-title="SPORTS",Sky Sport HD
 http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
 
@@ -423,27 +402,6 @@ http://tinyurl.com/hdstcwz
 #EXTINF:-1, MLS Soccer
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
-#EXTINF:-1, ETV Fox Sport
-http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
-
-#EXTINF:-1,IT: SKY SPORT 1 HD
-http://178.33.237.109:8600/live/jessica22/jessica22/5.m3u8
-#EXTINF:-1,IT: SKY SPORT 2 HD
-http://178.33.237.109:8600/live/jessica22/jessica22/517.m3u8
-#EXTINF:-1,IT: SKY SPORT PLUS HD
-http://178.33.237.109:8600/live/jessica22/jessica22/1363.m3u8
-#EXTINF:-1,IT: SKY SPORT F1 HD
-http://178.33.237.109:8600/live/jessica22/jessica22/291.m3u8
-
-#EXTINF:-1,ITALY: SKY SPORT 24 HD
-http://178.33.237.109:8600/live/lexar/lexar/586.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
-http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
-
-#EXTINF:-1, (CHANNELS TESTING)
-http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
-
 #EXTINF:-1,BT Sport Extra (UK)
 http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4382.m3u8
 #EXTINF:-1,Sky Sports News UK (UK)
@@ -460,6 +418,15 @@ http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4397.m3u8
 http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4335.m3u8
 #EXTINF:-1,BT Sport SPPN (UK)
 http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4270.m3u8
+
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://178.33.237.109:8600/live/jessica22/jessica22/5.m3u8
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://178.33.237.109:8600/live/jessica22/jessica22/517.m3u8
+#EXTINF:-1,IT: SKY SPORT F1 HD
+http://178.33.237.109:8600/live/jessica22/jessica22/291.m3u8
+#EXTINF:-1,ITALY: SKY SPORT 24 HD
+http://178.33.237.109:8600/live/lexar/lexar/586.m3u8
 
 #EXTINF:-1,True Movies 1 (UK)
 http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4337.m3u8
@@ -490,6 +457,12 @@ http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4367.m3u8
 #EXTINF:-1,MOVIES THRILLER (UK)
 http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4368.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
+http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
+
+#EXTINF:-1, (CHANNELS TESTING)
+http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
+
 #EXTINF:-1,MY: BT Sports 1
 http://185.73.239.40:8000/live/saib/fares/432.m3u8
 #EXTINF:-1,MY: BT Sports 2
@@ -497,5 +470,55 @@ http://185.73.239.40:8000/live/saib/fares/433.m3u8
 #EXTINF:-1,MY: BT Sport Europe
 http://185.73.239.40:8000/live/saib/fares/464.m3u8
 
-#EXTINF:-1,CHINA:CCTV PANDA
-http://fms.cntv.lxdns.com/live/flv/channel97.flv
+#EXTINF:-1,PT; Eurosport 1
+http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1251.m3u8
+#EXTINF:-1,PT; Eurosport 2
+http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1252.m3u8
+#EXTINF:-1,PT: SPORTTV 1 HD
+http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/625.m3u8
+#EXTINF:-1,PT: SPORTTV 2 HD
+http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/623.m3u8
+#EXTINF:-1,PT: SPORTTV 3 HD
+http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/621.m3u8
+#EXTINF:-1,PT: SPORTTV 4 HD
+http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/619.m3u8
+#EXTINF:-1,PT: SPORTTV 5 HD
+http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/617.m3u8
+
+#EXTINF:-1,UK Premier Sports UK
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5737.m3u8
+#EXTINF:-1,UK MUTV UK
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5742.m3u8
+#EXTINF:-1,UK Liverpool TV UK
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5747.m3u8
+
+#EXTINF:-1,UK BT Sport EXTRA UK
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5798.m3u8
+#EXTINF:-1,UK BT Sport EUROPE HD UK
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5799.m3u8
+#EXTINF:-1,UK BT Sport 2 UK
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5800.m3u8
+#EXTINF:-1,UK BT Sport 2 HD UK
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5801.m3u8
+#EXTINF:-1,UK BT Sport 1 UK
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5802.m3u8
+#EXTINF:-1,UK BT Sport 1 HD UK
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5803.m3u8
+
+#EXTINF:-1,UK : Liverpool FC
+http://91.134.217.235:1557/live/freeiptv11/0E7DIuLnxp/2614.m3u8
+#EXTINF:-1,IT : Sky Sport 1 HD
+http://91.134.217.235:1557/live/freeiptv11/0E7DIuLnxp/1107.m3u8
+#EXTINF:-1,IT : Sky Sport 2 HD
+http://91.134.217.235:1557/live/freeiptv11/0E7DIuLnxp/1111.m3u8
+
+#EXTINF:-1,IT IT - SKY Sport HD2
+http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6025.m3u8
+#EXTINF:-1,IT IT - SKY Sport HD1
+http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6026.m3u8
+#EXTINF:-1,DE: Sky Sport F1
+http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6002.m3u8
+#EXTINF:-1,DE: Sky Sport 2
+http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6001.m3u8
+#EXTINF:-1,DE: Sky Sport 1
+http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6000.m3u8
