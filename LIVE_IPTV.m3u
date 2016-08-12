@@ -369,25 +369,19 @@ http://50.7.96.220/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/2atxJz1"  group-title="SPORTS",http://bit.ly/2atxJz1
 http://bit.ly/2atxJz1
 
-#EXTINF:0, NBCSN HD
-http://54.157.210.4/server/play/nbcsnxctg/2626000/prog.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png" tvg-name="BT Sport 1"  group-title="SPORTS",BT Sport 1
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/279.m3u8
+http://camerta.com:8000/live/55239/55239/1308.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png" tvg-name="BT Sport 2"  group-title="SPORTS",BT Sport 2
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/280.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT Sport 1 SD"  group-title="SPORTS",BT Sport 1 SD
-http://camerta.com:8000/live/55239/55239/1308.m3u8
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/279.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT Sport 2 SD"  group-title="SPORTS",BT Sport 2 SD
 http://camerta.com:8000/live/55239/55239/1309.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT Sport 1 SD -backup-"  group-title="SPORTS",BT Sport 1 SD -backup-
-http://149.202.201.221:8000/live/fr443500/75019pa/282.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png" tvg-name="SKY SPORTS NEWS"  group-title="SPORTS",SKY SPORTS NEWS
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png" tvg-name="SKY SPORTS NEWS -offline-"  group-title="SPORTS",SKY SPORTS NEWS -offline-
 http://149.202.201.221:8000/live/fr443500/75019pa/271.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png" tvg-name="SKY SPORTS F1"  group-title="SPORTS",SKY SPORTS F1
@@ -496,14 +490,12 @@ http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4367.m3u8
 #EXTINF:-1,MOVIES THRILLER (UK)
 http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4368.m3u8
 
-#EXTINF:-1,CHINA:CCTV DUAS
-http://fms.cntv.lxdns.com/live/flv/channel97.flv
-
 #EXTINF:-1,MY: BT Sports 1
 http://185.73.239.40:8000/live/saib/fares/432.m3u8
 #EXTINF:-1,MY: BT Sports 2
 http://185.73.239.40:8000/live/saib/fares/433.m3u8
-#EXTINF:-1,MY: BT Sport Extra
-http://185.73.239.40:8000/live/saib/fares/2083.m3u8
 #EXTINF:-1,MY: BT Sport Europe
 http://185.73.239.40:8000/live/saib/fares/464.m3u8
+
+#EXTINF:-1,CHINA:CCTV PANDA
+http://fms.cntv.lxdns.com/live/flv/channel97.flv
