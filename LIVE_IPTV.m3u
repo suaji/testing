@@ -402,23 +402,6 @@ http://tinyurl.com/hdstcwz
 #EXTINF:-1, MLS Soccer
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
-#EXTINF:-1,BT Sport Extra (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4382.m3u8
-#EXTINF:-1,Sky Sports News UK (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4341.m3u8
-#EXTINF:-1,Sky Premier Sports (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4344.m3u8
-#EXTINF:-1,BT Sport 1 HD (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4334.m3u8
-#EXTINF:-1,BT Sport 2 HD (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4333.m3u8
-#EXTINF:-1,BT SPORTS EUROPE HD (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4397.m3u8
-#EXTINF:-1,BT Sport Europe HD (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4335.m3u8
-#EXTINF:-1,BT Sport SPPN (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4270.m3u8
-
 #EXTINF:-1,IT: SKY SPORT 1 HD
 http://178.33.237.109:8600/live/jessica22/jessica22/5.m3u8
 #EXTINF:-1,IT: SKY SPORT 2 HD
@@ -428,47 +411,18 @@ http://178.33.237.109:8600/live/jessica22/jessica22/291.m3u8
 #EXTINF:-1,ITALY: SKY SPORT 24 HD
 http://178.33.237.109:8600/live/lexar/lexar/586.m3u8
 
-#EXTINF:-1,True Movies 1 (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4337.m3u8
-#EXTINF:-1,True Movies 2 (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4336.m3u8
-#EXTINF:-1,Sky Movies Thriller (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4268.m3u8
-#EXTINF:-1,Sky Movies Select (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4267.m3u8
-#EXTINF:-1,Sky Movies Sci-Fi (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4266.m3u8
-#EXTINF:-1,Sky Movies Prem (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4265.m3u8
-#EXTINF:-1,Sky Movies MMG (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4264.m3u8
-#EXTINF:-1,Sky Movies Family HD (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4263.m3u8
-#EXTINF:-1,Sky Movies Action HD (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4269.m3u8
-#EXTINF:-1,Sky Movies Greats HD (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4280.m3u8
-#EXTINF:-1,Sky Atlantic HD (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4351.m3u8
-#EXTINF:-1,Sky Film 4 HD (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4274.m3u8
-#EXTINF:-1,Fox (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4367.m3u8
-#EXTINF:-1,MOVIES THRILLER (UK)
-http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4368.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
-http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
-
-#EXTINF:-1, (CHANNELS TESTING)
-http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
-
 #EXTINF:-1,MY: BT Sports 1
 http://185.73.239.40:8000/live/saib/fares/432.m3u8
 #EXTINF:-1,MY: BT Sports 2
 http://185.73.239.40:8000/live/saib/fares/433.m3u8
 #EXTINF:-1,MY: BT Sport Europe
 http://185.73.239.40:8000/live/saib/fares/464.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
+http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
+
+#EXTINF:-1, (CHANNELS TESTING)
+http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
 
 #EXTINF:-1,PT; Eurosport 1
 http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1251.m3u8
@@ -485,40 +439,25 @@ http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/619.m3u8
 #EXTINF:-1,PT: SPORTTV 5 HD
 http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/617.m3u8
 
-#EXTINF:-1,UK Premier Sports UK
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5737.m3u8
-#EXTINF:-1,UK MUTV UK
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5742.m3u8
-#EXTINF:-1,UK Liverpool TV UK
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5747.m3u8
-
-#EXTINF:-1,UK BT Sport EXTRA UK
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5798.m3u8
-#EXTINF:-1,UK BT Sport EUROPE HD UK
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5799.m3u8
-#EXTINF:-1,UK BT Sport 2 UK
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5800.m3u8
-#EXTINF:-1,UK BT Sport 2 HD UK
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5801.m3u8
-#EXTINF:-1,UK BT Sport 1 UK
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5802.m3u8
-#EXTINF:-1,UK BT Sport 1 HD UK
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/5803.m3u8
-
-#EXTINF:-1,UK : Liverpool FC
-http://91.134.217.235:1557/live/freeiptv11/0E7DIuLnxp/2614.m3u8
-#EXTINF:-1,IT : Sky Sport 1 HD
-http://91.134.217.235:1557/live/freeiptv11/0E7DIuLnxp/1107.m3u8
-#EXTINF:-1,IT : Sky Sport 2 HD
-http://91.134.217.235:1557/live/freeiptv11/0E7DIuLnxp/1111.m3u8
-
-#EXTINF:-1,IT IT - SKY Sport HD2
-http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6025.m3u8
-#EXTINF:-1,IT IT - SKY Sport HD1
-http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6026.m3u8
-#EXTINF:-1,DE: Sky Sport F1
-http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6002.m3u8
-#EXTINF:-1,DE: Sky Sport 2
-http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6001.m3u8
-#EXTINF:-1,DE: Sky Sport 1
-http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/6000.m3u8
+#EXTINF:-1,UK: Sky Sports F1
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6886.m3u8
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6885.m3u8
+#EXTINF:-1,UK: Sky Sports 5
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6884.m3u8
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6883.m3u8
+#EXTINF:-1,UK: Sky Sports 4
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6882.m3u8
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6881.m3u8
+#EXTINF:-1,UK: Sky Sports 3
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6880.m3u8
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6879.m3u8
+#EXTINF:-1,UK: Sky Sports 2
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6878.m3u8
+#EXTINF:-1,UK: Sky Sports 1HD
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6877.m3u8
+#EXTINF:-1,UK: Sky Sports 1
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6876.m3u8
