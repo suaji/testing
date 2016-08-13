@@ -351,6 +351,19 @@ http://50.7.96.220/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/2atxJz1"  group-title="SPORTS",http://bit.ly/2atxJz1
 http://bit.ly/2atxJz1
 
+#EXTINF:-1,MY @STROk SPORT 1
+http://topiptv.net:5890/live/adamo3/adamo3/1769.m3u8
+#EXTINF:-1,MY @STROk SPORT 2
+http://topiptv.net:5890/live/adamo3/adamo3/1770.m3u8
+#EXTINF:-1,MY @STROk SPORT 3
+http://topiptv.net:5890/live/adamo3/adamo3/1768.m3u8
+#EXTINF:-1,MY @STROk SPORT 4
+http://topiptv.net:5890/live/adamo3/adamo3/1790.m3u8
+#EXTINF:-1,MY FOX SPORT 1 HD
+http://topiptv.net:5890/live/adamo3/adamo3/1767.m3u8
+#EXTINF:-1,MY FOX SPORT 2 HD
+http://topiptv.net:5890/live/adamo3/adamo3/1766.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png" tvg-name="BT Sport 1"  group-title="SPORTS",BT Sport 1
 http://camerta.com:8000/live/55239/55239/1308.m3u8
 
@@ -387,6 +400,29 @@ http://149.202.201.221:8000/live/fr443500/75019pa/777.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports.png" tvg-name="Sky Sport HD"  group-title="SPORTS",Sky Sport HD
 http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
 
+#EXTINF:-1,UK: Sky Sports F1 -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6886.m3u8
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6885.m3u8
+#EXTINF:-1,UK: Sky Sports 5 -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6884.m3u8
+#EXTINF:-1,UK: Sky Sports 4 HD -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6883.m3u8
+#EXTINF:-1,UK: Sky Sports 4 -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6882.m3u8
+#EXTINF:-1,UK: Sky Sports 3 HD -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6881.m3u8
+#EXTINF:-1,UK: Sky Sports 3 -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6880.m3u8
+#EXTINF:-1,UK: Sky Sports 2 HD -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6879.m3u8
+#EXTINF:-1,UK: Sky Sports 2 -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6878.m3u8
+#EXTINF:-1,UK: Sky Sports 1HD -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6877.m3u8
+#EXTINF:-1,UK: Sky Sports 1 -backup-
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6876.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.wrestlemadness.myewebsite.com/img/mid/1/wwe-logo-wrestling-symbol.jpg" tvg-name="WWE Wrestling"  group-title="SPORTS",WWE Wrestling
 http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 
@@ -418,12 +454,6 @@ http://185.73.239.40:8000/live/saib/fares/433.m3u8
 #EXTINF:-1,MY: BT Sport Europe
 http://185.73.239.40:8000/live/saib/fares/464.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
-http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
-
-#EXTINF:-1, (CHANNELS TESTING)
-http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
-
 #EXTINF:-1,PT; Eurosport 1
 http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1251.m3u8
 #EXTINF:-1,PT; Eurosport 2
@@ -439,50 +469,17 @@ http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/619.m3u8
 #EXTINF:-1,PT: SPORTTV 5 HD
 http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/617.m3u8
 
-#EXTINF:-1,UK: Sky Sports F1
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6886.m3u8
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6885.m3u8
-#EXTINF:-1,UK: Sky Sports 5
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6884.m3u8
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6883.m3u8
-#EXTINF:-1,UK: Sky Sports 4
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6882.m3u8
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6881.m3u8
-#EXTINF:-1,UK: Sky Sports 3
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6880.m3u8
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6879.m3u8
-#EXTINF:-1,UK: Sky Sports 2
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6878.m3u8
-#EXTINF:-1,UK: Sky Sports 1HD
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6877.m3u8
-#EXTINF:-1,UK: Sky Sports 1
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6876.m3u8
-
 #EXTINF:-1,BT Sport 1 HD
 http://topiptv.net:5890/live/adamo3/adamo3/279.m3u8
 #EXTINF:-1,BT Sport 2 HD
 http://topiptv.net:5890/live/adamo3/adamo3/280.m3u8
-#EXTINF:-1,BT Sport // ESPN
+#EXTINF:-1,BT Sport ESPN
 http://topiptv.net:5890/live/adamo3/adamo3/1257.m3u8
 #EXTINF:-1,BT Sport EuroHD
 http://topiptv.net:5890/live/adamo3/adamo3/1215.m3u8
 
-#EXTINF:-1,MY FOX SPORT 1 HD
-http://topiptv.net:5890/live/adamo3/adamo3/1767.m3u8
-#EXTINF:-1,MY FOX SPORT 2 HD
-http://topiptv.net:5890/live/adamo3/adamo3/1766.m3u8
-#EXTINF:-1,MY ASTRO SPORT 1
-http://topiptv.net:5890/live/adamo3/adamo3/1769.m3u8
-#EXTINF:-1,MY ASTRO SPORT 2
-http://topiptv.net:5890/live/adamo3/adamo3/1770.m3u8
-#EXTINF:-1,MY ASTRO SPORT 3
-http://topiptv.net:5890/live/adamo3/adamo3/1768.m3u8
-#EXTINF:-1,MY ASTRO SPORT 4
-http://topiptv.net:5890/live/adamo3/adamo3/1790.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
+http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1,MY Fox Sports HD
-http://topiptv.net:5890/live/adamo3/adamo3/1147.m3u8
+#EXTINF:-1, (CHANNELS TESTING)
+http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
