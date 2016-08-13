@@ -461,3 +461,28 @@ http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6878.m3u8
 http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6877.m3u8
 #EXTINF:-1,UK: Sky Sports 1
 http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6876.m3u8
+
+#EXTINF:-1,BT Sport 1 HD
+http://topiptv.net:5890/live/adamo3/adamo3/279.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://topiptv.net:5890/live/adamo3/adamo3/280.m3u8
+#EXTINF:-1,BT Sport // ESPN
+http://topiptv.net:5890/live/adamo3/adamo3/1257.m3u8
+#EXTINF:-1,BT Sport EuroHD
+http://topiptv.net:5890/live/adamo3/adamo3/1215.m3u8
+
+#EXTINF:-1,MY FOX SPORT 1 HD
+http://topiptv.net:5890/live/adamo3/adamo3/1767.m3u8
+#EXTINF:-1,MY FOX SPORT 2 HD
+http://topiptv.net:5890/live/adamo3/adamo3/1766.m3u8
+#EXTINF:-1,MY ASTRO SPORT 1
+http://topiptv.net:5890/live/adamo3/adamo3/1769.m3u8
+#EXTINF:-1,MY ASTRO SPORT 2
+http://topiptv.net:5890/live/adamo3/adamo3/1770.m3u8
+#EXTINF:-1,MY ASTRO SPORT 3
+http://topiptv.net:5890/live/adamo3/adamo3/1768.m3u8
+#EXTINF:-1,MY ASTRO SPORT 4
+http://topiptv.net:5890/live/adamo3/adamo3/1790.m3u8
+
+#EXTINF:-1,MY Fox Sports HD
+http://topiptv.net:5890/live/adamo3/adamo3/1147.m3u8
