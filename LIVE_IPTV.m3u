@@ -49,7 +49,7 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD"  group-title="KOREA",KBS WORLD
-rtmp://118.97.183.196/jhos//kbs
+rtmp://118.97.183.196/jhos/
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (UK SmartDNS)"  group-title="KOREA",KBS WORLD HD (UK SmartDNS)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=PUl4hiEOXSo
@@ -333,7 +333,7 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="SPORTS",[COLOR crimson].....SPORTS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 13-08-2016"  group-title="UPDATED",UPDATED : 13-08-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 15-08-2016"  group-title="UPDATED",UPDATED : 15-08-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="SPORTS",*BACKUP BOLA LIVE
@@ -351,30 +351,20 @@ http://50.7.96.220/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/2atxJz1"  group-title="SPORTS",http://bit.ly/2atxJz1
 http://bit.ly/2atxJz1
 
-#EXTINF:-1,MY @STROk SPORT 1
-http://topiptv.net:5890/live/adamo3/adamo3/1769.m3u8
-#EXTINF:-1,MY @STROk SPORT 2
-http://topiptv.net:5890/live/adamo3/adamo3/1770.m3u8
-#EXTINF:-1,MY @STROk SPORT 3
-http://topiptv.net:5890/live/adamo3/adamo3/1768.m3u8
-#EXTINF:-1,MY @STROk SPORT 4
-http://topiptv.net:5890/live/adamo3/adamo3/1790.m3u8
-#EXTINF:-1,MY FOX SPORT 1 HD
-http://topiptv.net:5890/live/adamo3/adamo3/1767.m3u8
-#EXTINF:-1,MY FOX SPORT 2 HD
-http://topiptv.net:5890/live/adamo3/adamo3/1766.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png" tvg-name="BT Sport 1"  group-title="SPORTS",BT Sport 1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png" tvg-name="BT SPORT 1"  group-title="SPORTS",BT SPORT 1
 http://camerta.com:8000/live/55239/55239/1308.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png" tvg-name="BT Sport 2"  group-title="SPORTS",BT Sport 2
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/280.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png" tvg-name="BT SPORT 2"  group-title="SPORTS",BT SPORT 2
+http://185.73.239.40:8000/live/saib/fares/433.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT Sport 1 SD"  group-title="SPORTS",BT Sport 1 SD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/279.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT SPORT 1 SD"  group-title="SPORTS",BT SPORT 1 SD
+http://185.73.239.40:8000/live/saib/fares/432.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT Sport 2 SD"  group-title="SPORTS",BT Sport 2 SD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT SPORT 2 SD"  group-title="SPORTS",BT SPORT 2 SD
 http://camerta.com:8000/live/55239/55239/1309.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png" tvg-name="BT SPORT EUROPE"  group-title="SPORTS",BT SPORT EUROPE
+http://185.73.239.40:8000/live/saib/fares/464.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png" tvg-name="SKY SPORTS NEWS"  group-title="SPORTS",SKY SPORTS NEWS
 http://149.202.201.221:8000/live/fr443500/75019pa/271.m3u8
@@ -400,37 +390,14 @@ http://149.202.201.221:8000/live/fr443500/75019pa/777.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports.png" tvg-name="Sky Sport HD"  group-title="SPORTS",Sky Sport HD
 http://212.129.54.196:8000/live/giulio/giulio/25.m3u8
 
-#EXTINF:-1,UK: Sky Sports F1 -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6886.m3u8
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6885.m3u8
-#EXTINF:-1,UK: Sky Sports 5 -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6884.m3u8
-#EXTINF:-1,UK: Sky Sports 4 HD -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6883.m3u8
-#EXTINF:-1,UK: Sky Sports 4 -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6882.m3u8
-#EXTINF:-1,UK: Sky Sports 3 HD -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6881.m3u8
-#EXTINF:-1,UK: Sky Sports 3 -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6880.m3u8
-#EXTINF:-1,UK: Sky Sports 2 HD -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6879.m3u8
-#EXTINF:-1,UK: Sky Sports 2 -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6878.m3u8
-#EXTINF:-1,UK: Sky Sports 1HD -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6877.m3u8
-#EXTINF:-1,UK: Sky Sports 1 -backup-
-http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/6876.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="FOX SPORTS 1"  group-title="SPORTS",FOX SPORTS 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+
+#EXTINF:-1    group-title="Streams",FOX SPORTS 2 (offline)
+http://ksportiptv.com:1557/live/1234**/2cpIPBee5d/2033.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.wrestlemadness.myewebsite.com/img/mid/1/wwe-logo-wrestling-symbol.jpg" tvg-name="WWE Wrestling"  group-title="SPORTS",WWE Wrestling
 http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="Fox Sports 1"  group-title="SPORTS",Fox Sports 1
-http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
-
-#EXTINF:-1    group-title="Streams",FOX Sports 2 (offline)
-http://ksportiptv.com:1557/live/1234**/2cpIPBee5d/2033.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUPER SPORT"  group-title="SPORTS",SUPER SPORT
 http://tinyurl.com/hdstcwz
@@ -447,39 +414,52 @@ http://178.33.237.109:8600/live/jessica22/jessica22/291.m3u8
 #EXTINF:-1,ITALY: SKY SPORT 24 HD
 http://178.33.237.109:8600/live/lexar/lexar/586.m3u8
 
-#EXTINF:-1,MY: BT Sports 1
-http://185.73.239.40:8000/live/saib/fares/432.m3u8
-#EXTINF:-1,MY: BT Sports 2
-http://185.73.239.40:8000/live/saib/fares/433.m3u8
-#EXTINF:-1,MY: BT Sport Europe
-http://185.73.239.40:8000/live/saib/fares/464.m3u8
-
-#EXTINF:-1,PT; Eurosport 1
-http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1251.m3u8
-#EXTINF:-1,PT; Eurosport 2
-http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1252.m3u8
-#EXTINF:-1,PT: SPORTTV 1 HD
-http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/625.m3u8
-#EXTINF:-1,PT: SPORTTV 2 HD
-http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/623.m3u8
-#EXTINF:-1,PT: SPORTTV 3 HD
-http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/621.m3u8
-#EXTINF:-1,PT: SPORTTV 4 HD
-http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/619.m3u8
-#EXTINF:-1,PT: SPORTTV 5 HD
-http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/617.m3u8
-
-#EXTINF:-1,BT Sport 1 HD
-http://topiptv.net:5890/live/adamo3/adamo3/279.m3u8
-#EXTINF:-1,BT Sport 2 HD
-http://topiptv.net:5890/live/adamo3/adamo3/280.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://topiptv.net:5890/live/adamo3/adamo3/1257.m3u8
-#EXTINF:-1,BT Sport EuroHD
-http://topiptv.net:5890/live/adamo3/adamo3/1215.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
 #EXTINF:-1, (CHANNELS TESTING)
 http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
+
+#EXTINF:-1,UK: Sky Sport 1 HD
+http://iptvportal.online:2500/live/mana/mana/2964.m3u8
+#EXTINF:-1,UK: Sky Sport 2 HD
+http://iptvportal.online:2500/live/mana/mana/2965.m3u8
+#EXTINF:-1,UK: Sky Sport 3 HD
+http://iptvportal.online:2500/live/mana/mana/2966.m3u8
+#EXTINF:-1,UK: Sky Sport 4 HD
+http://iptvportal.online:2500/live/mana/mana/2967.m3u8
+#EXTINF:-1,UK: Sky Sport 5 HD
+http://iptvportal.online:2500/live/mana/mana/2968.m3u8
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://iptvportal.online:2500/live/mana/mana/2969.m3u8
+#EXTINF:-1,UK: Sky Sports 1
+http://iptvportal.online:2500/live/mana/mana/824.m3u8
+#EXTINF:-1,UK: Sky Sports 2
+http://iptvportal.online:2500/live/mana/mana/823.m3u8
+#EXTINF:-1,UK: Sky Sports 3
+http://iptvportal.online:2500/live/mana/mana/822.m3u8
+#EXTINF:-1,UK: Sky Sports 4
+http://iptvportal.online:2500/live/mana/mana/821.m3u8
+#EXTINF:-1,UK: Sky Sports 5
+http://iptvportal.online:2500/live/mana/mana/820.m3u8
+#EXTINF:-1,UK: Sky Sports F1
+http://iptvportal.online:2500/live/mana/mana/819.m3u8
+#EXTINF:-1,UK: BT Sports Extra 2 HD
+http://iptvportal.online:2500/live/mana/mana/2826.m3u8
+#EXTINF:-1,UK: SKY BT Sports 1 HD
+http://iptvportal.online:2500/live/mana/mana/1488.m3u8
+#EXTINF:-1,UK:  SKY BT Sports 2 HD
+http://iptvportal.online:2500/live/mana/mana/1487.m3u8
+#EXTINF:-1,UK: Sky Sports News HD
+http://iptvportal.online:2500/live/mana/mana/818.m3u8
+#EXTINF:-1,UK: Sky News
+http://iptvportal.online:2500/live/mana/mana/4219.m3u8
+
+#EXTINF:-1,US: Fox Sports  2
+http://iptvportal.online:2500/live/mana/mana/2213.m3u8
+#EXTINF:-1,US: Fox Sports  1
+http://iptvportal.online:2500/live/mana/mana/2212.m3u8
+#EXTINF:-1,US: Fox Sports 2
+http://iptvportal.online:2500/live/mana/mana/2208.m3u8
+#EXTINF:-1,US: Fox Sports 1
+http://iptvportal.online:2500/live/mana/mana/2207.m3u8

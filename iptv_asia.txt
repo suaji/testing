@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]kemaskini (29-07-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (15-08-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
@@ -12,7 +12,7 @@
 
 <item>
 <title>KBS World - KRN</title>
-<link>rtmp://118.97.183.196/jhos//kbs</link>
+<link>rtmp://118.97.183.196/jhos/</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
 </item>
 
