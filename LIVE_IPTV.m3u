@@ -40,7 +40,13 @@ http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 http://rtm-live.glueapi.io/smil:rtmch004/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+
+#EXTINF:0, Awani (test 1)
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer1.m3u8
+
+#EXTINF:0, Awani (test 2)
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
@@ -420,46 +426,22 @@ http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u
 #EXTINF:-1, (CHANNELS TESTING)
 http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
 
-#EXTINF:-1,UK: Sky Sport 1 HD
-http://iptvportal.online:2500/live/mana/mana/2964.m3u8
-#EXTINF:-1,UK: Sky Sport 2 HD
-http://iptvportal.online:2500/live/mana/mana/2965.m3u8
-#EXTINF:-1,UK: Sky Sport 3 HD
-http://iptvportal.online:2500/live/mana/mana/2966.m3u8
-#EXTINF:-1,UK: Sky Sport 4 HD
-http://iptvportal.online:2500/live/mana/mana/2967.m3u8
-#EXTINF:-1,UK: Sky Sport 5 HD
-http://iptvportal.online:2500/live/mana/mana/2968.m3u8
-#EXTINF:-1,UK: Sky Sport F1 HD
-http://iptvportal.online:2500/live/mana/mana/2969.m3u8
-#EXTINF:-1,UK: Sky Sports 1
-http://iptvportal.online:2500/live/mana/mana/824.m3u8
-#EXTINF:-1,UK: Sky Sports 2
-http://iptvportal.online:2500/live/mana/mana/823.m3u8
-#EXTINF:-1,UK: Sky Sports 3
-http://iptvportal.online:2500/live/mana/mana/822.m3u8
-#EXTINF:-1,UK: Sky Sports 4
-http://iptvportal.online:2500/live/mana/mana/821.m3u8
-#EXTINF:-1,UK: Sky Sports 5
-http://iptvportal.online:2500/live/mana/mana/820.m3u8
-#EXTINF:-1,UK: Sky Sports F1
-http://iptvportal.online:2500/live/mana/mana/819.m3u8
-#EXTINF:-1,UK: BT Sports Extra 2 HD
-http://iptvportal.online:2500/live/mana/mana/2826.m3u8
-#EXTINF:-1,UK: SKY BT Sports 1 HD
-http://iptvportal.online:2500/live/mana/mana/1488.m3u8
-#EXTINF:-1,UK:  SKY BT Sports 2 HD
-http://iptvportal.online:2500/live/mana/mana/1487.m3u8
-#EXTINF:-1,UK: Sky Sports News HD
-http://iptvportal.online:2500/live/mana/mana/818.m3u8
-#EXTINF:-1,UK: Sky News
-http://iptvportal.online:2500/live/mana/mana/4219.m3u8
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://iptvserver.noip.me:8000/live/testAS/testAS/241.m3u8
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://iptvserver.noip.me:8000/live/testAS/testAS/242.m3u8
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://iptvserver.noip.me:8000/live/testAS/testAS/243.m3u8
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://iptvserver.noip.me:8000/live/testAS/testAS/244.m3u8
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://iptvserver.noip.me:8000/live/testAS/testAS/245.m3u8
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://iptvserver.noip.me:8000/live/testAS/testAS/246.m3u8
+#EXTINF:-1,UK: Premier Sports HD
+http://iptvserver.noip.me:8000/live/testAS/testAS/364.m3u8
 
-#EXTINF:-1,US: Fox Sports  2
-http://iptvportal.online:2500/live/mana/mana/2213.m3u8
-#EXTINF:-1,US: Fox Sports  1
-http://iptvportal.online:2500/live/mana/mana/2212.m3u8
-#EXTINF:-1,US: Fox Sports 2
-http://iptvportal.online:2500/live/mana/mana/2208.m3u8
-#EXTINF:-1,US: Fox Sports 1
-http://iptvportal.online:2500/live/mana/mana/2207.m3u8
+#EXTINF:-1,IT: Cartoonito
+http://ksportiptv.com:1557/live/14freeiptv/xrWifBofqw/2029.m3u8
+#EXTINF:-1,IT: Cartoon Network
+http://ksportiptv.com:1557/live/14freeiptv/xrWifBofqw/2028.m3u8
