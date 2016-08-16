@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR red]kemaskini (15-08-16)[/COLOR]</title>
-<link>.</link>
+<link>https://aqstream.com/kbswo/KBS-World-Official-2</link>
 <thumbnail>.</thumbnail>
 </item>
 
@@ -13,6 +13,24 @@
 <item>
 <title>KBS World - KRN</title>
 <link>rtmp://118.97.183.196/jhos/</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
+</item>
+
+<item>
+<title>KBS World HD - KRN (test)</title>
+<link>rtmp://live.kbskme.gscdn.com/kbs_worldtv/_definst_/ playpath=kbs_worldtv_4.stream swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World-Official-2</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
+</item>
+
+<item>
+<title>KBS World HD - KRN (test 2)</title>
+<link>rtmp://118.97.183.196/jhos/ playpath=kbs swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World-Stream-7</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
+</item>
+
+<item>
+<title>KBS World HD - KRN (test 3)</title>
+<link>rtmp://live.kbskme.gscdn.com/kbs_worldtv/_definst_/ playpath=kbs_worldtv_4.stream?id=2101&si=8&secure=MDRkMDc1OGYyMjc5MDJjYThhNjRmYzBmMmVmZGZmZDkxMmFjODg2OTJiMTQzNzFhNjÂ swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World-Official-2</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
 </item>
 
