@@ -40,7 +40,7 @@ http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 http://rtm-live.glueapi.io/smil:rtmch004/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
 #EXTINF:0, Awani (test 1)
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer1.m3u8
@@ -426,17 +426,22 @@ http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u
 #EXTINF:-1, (CHANNELS TESTING)
 http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
 
-#EXTINF:0, KBS WORLD HD (test)
-rtmp://live.kbskme.gscdn.com/kbs_worldtv/_definst_/
+#EXTINF:-1,UK-BTsport-europe
+http://camerta.com:8000/live/m2et002/m2et002/1468.m3u8
+#EXTINF:-1,UK-BT_Sport1
+http://camerta.com:8000/live/m2et002/m2et002/1308.m3u8
+#EXTINF:-1,UK-BT_Sport2
+http://camerta.com:8000/live/m2et002/m2et002/1309.m3u8
+#EXTINF:-1,UK-BT-Espn
+http://camerta.com:8000/live/m2et002/m2et002/1594.m3u8
+#EXTINF:-1,UK-Liverpool_FC
+http://camerta.com:8000/live/m2et002/m2et002/2209.m3u8
 
-#EXTINF:0, KBS WORLD HD (test 2)
-rtmp://live.kbskme.gscdn.com/kbs_worldtv/ playpath=kbs_worldtv_4.stream swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World-Official-2
-
-#EXTINF:0, KBS WORLD HD (test 3)
-rtmp://live.kbskme.gscdn.com/kbs_worldtv/_definst_/ playpath=kbs_worldtv_4.stream swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World-Official-2
-
-#EXTINF:0, KBS WORLD SD (test)
-rtmp://118.97.183.196/jhos/ playpath=kbs swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World-Stream-7
-
-#EXTINF:0, KBS WORLD HD (test 1)
-rtmp://118.97.183.196/jhos/
+#EXTINF:-1,TH BT Sport 1 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/279.m3u8
+#EXTINF:-1,TH BT Sport 2 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.m3u8
+#EXTINF:-1,TH BT Sport // ESPN
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1257.m3u8
+#EXTINF:-1,TH BT Sport EuroHD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1215.m3u8
