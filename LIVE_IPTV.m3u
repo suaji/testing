@@ -42,22 +42,16 @@ http://rtm-live.glueapi.io/smil:rtmch004/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
-#EXTINF:0, Awani (test 1)
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer1.m3u8
-
-#EXTINF:0, Awani (test 2)
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
 http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD"  group-title="KOREA",KBS WORLD
-rtmp://118.97.183.196/jhos/
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD (Kodi)"  group-title="KOREA",KBS WORLD (Kodi)
+rtmp://118.97.183.196/jhos/ playpath=kbs swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World-Stream-7
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (UK SmartDNS)"  group-title="KOREA",KBS WORLD HD (UK SmartDNS)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (Kodi + SmartDNS)"  group-title="KOREA",KBS WORLD HD (Kodi + SmartDNS)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=PUl4hiEOXSo
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/set_one.png" tvg-name="Korean Drama (Kodi)"  group-title="KOREA",Korean Drama (Kodi)
@@ -77,6 +71,9 @@ http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b974000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS SD"  group-title="Group N/A",1NEWS SD
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI SD"  group-title="MALAYSIA",AWANI SD
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer1.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-1.jpg" tvg-name="RTM OLIMPIK 1 SD"  group-title="MALAYSIA",RTM OLIMPIK 1 SD
 http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-1/chunklist_b329000_sleng.m3u8
