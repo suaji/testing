@@ -442,3 +442,36 @@ http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.m3u8
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1257.m3u8
 #EXTINF:-1,TH BT Sport EuroHD
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1215.m3u8
+
+#EXTINF:-1,BT Sport 1 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/57.m3u8
+#EXTINF:-1,BT Sport 2 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/58.m3u8
+#EXTINF:-1,BT Sport Extra UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/1320.m3u8
+#EXTINF:-1,Sky Sport 1 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/59.m3u8
+#EXTINF:-1,Sky Sport 2 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/60.m3u8
+#EXTINF:-1,Sky Sport 3 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/61.m3u8
+#EXTINF:-1,Sky Sport 4 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/62.m3u8
+#EXTINF:-1,Sky Sport 5 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/63.m3u8
+#EXTINF:-1,Premier Sports UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/854.m3u8
+#EXTINF:-1,Setanta Ireland UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/921.m3u8
+#EXTINF:-1,Chelsea TV UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/922.m3u8
+#EXTINF:-1,Liverpool TV UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/973.m3u8
+#EXTINF:-1,Eurosport 1 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/667.m3u8
+#EXTINF:-1,Eurosport 2 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/646.m3u8
+#EXTINF:-1,Sky F1 UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/64.m3u8
+#EXTINF:-1,Sky Racing UK
+http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/65.m3u8
