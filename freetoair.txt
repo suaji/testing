@@ -3,7 +3,7 @@
 <channel>
 <name>RTM OLIMPIK</name>
 <thumbnail>http://hospenyiar.rtm.gov.my/dist/img/header_logo.jpg</thumbnail>
-<externallink>https://goo.gl/W4Xy31</externallink>
+<externallink>https://goo.gl/WqyYwx</externallink>
 </channel>
 
 <channel>
