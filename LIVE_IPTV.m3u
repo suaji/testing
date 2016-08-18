@@ -51,6 +51,9 @@ http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD (Kodi)"  group-title="KOREA",KBS WORLD (Kodi)
 rtmp://118.97.183.196/jhos/ playpath=kbs swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World-Stream-7
 
+rtmp://118.97.183.196/jhos/<playpath>kbs <swfUrl> <pageUrl>
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (Kodi + SmartDNS)"  group-title="KOREA",KBS WORLD HD (Kodi + SmartDNS)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=PUl4hiEOXSo
 
@@ -428,3 +431,32 @@ http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/279.m3u8
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.m3u8
 #EXTINF:-1,TH BT Sport // ESPN (Kodi)
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1257.m3u8
+
+#EXTINF:-1,SKYSPORT 1
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/29.m3u8
+#EXTINF:-1,VIP SKYSPORT HD1
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/193.m3u8
+#EXTINF:-1,VIP SKYSPORT HD2
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/194.m3u8
+#EXTINF:-1,SKYSPORT 2
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/51.m3u8
+#EXTINF:-1,SKYSPORT 3
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/52.m3u8
+#EXTINF:-1,VIP SKYSPORT HD3
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/195.m3u8
+#EXTINF:-1,VIP SKYSPORT HD4
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/196.m3u8
+#EXTINF:-1,SKYSPORT 4
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/53.m3u8
+#EXTINF:-1,SKYSPORT 5
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/30.m3u8
+#EXTINF:-1,VIP SKYSPORT HD5
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/197.m3u8
+#EXTINF:-1,BT SPORT 1
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/28.m3u8
+#EXTINF:-1,BT SPORT 2
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/27.m3u8
+#EXTINF:-1,UK | BT SPORTS 1 HD
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/198.m3u8
+#EXTINF:-1,UK | BT SPORT 2 HD
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/199.m3u8
