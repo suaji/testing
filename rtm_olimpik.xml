@@ -1,0 +1,104 @@
+<item>
+  <title>RTM OLIMPIK 1</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/olimpik/36000</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/olimpik/36000</page>
+    <referer>http://rtm-player.glueapi.io/olimpik/36000</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-1.jpg</thumbnail>
+</item>
+
+<item>
+  <title>RTM OLIMPIK 2</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/olimpik/36001</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/olimpik/36001</page>
+    <referer>http://rtm-player.glueapi.io/olimpik/36001</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-2.jpg</thumbnail>
+</item>
+
+<item>
+  <title>RTM OLIMPIK 3</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/olimpik/36002</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/olimpik/36002</page>
+    <referer>http://rtm-player.glueapi.io/olimpik/36002</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-3.jpg</thumbnail>
+</item>
+
+<item>
+  <title>RTM OLIMPIK 4</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/olimpik/36003</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/olimpik/36003</page>
+    <referer>http://rtm-player.glueapi.io/olimpik/36003</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-4.jpg</thumbnail>
+</item>
+
+<item>
+  <title>RTM OLIMPIK 5</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/olimpik/36004</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/olimpik/36004</page>
+    <referer>http://rtm-player.glueapi.io/olimpik/36004</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-5.jpg</thumbnail>
+</item>
+
+<item>
+  <title>RTM OLIMPIK 6</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/olimpik/36005</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/olimpik/36005</page>
+    <referer>http://rtm-player.glueapi.io/olimpik/36005</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-6.jpg</thumbnail>
+</item>
+
+<item>
+  <title>RTM OLIMPIK 7</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/olimpik/36006</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/olimpik/36006</page>
+    <referer>http://rtm-player.glueapi.io/olimpik/36006</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-7.jpg</thumbnail>
+</item>
