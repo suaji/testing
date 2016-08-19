@@ -345,16 +345,16 @@ http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="SPORTS",*BACKUP BOLA LIVE
 http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=COLOR
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*KODI (Phoenix)"  group-title="SPORTS",*KODI (Phoenix)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*KODI (Phoenix 3.1.5)"  group-title="SPORTS",*KODI (Phoenix 3.1.5)
 http://50.7.96.219/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/1OkyJVx"  group-title="SPORTS",http://bit.ly/1OkyJVx
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/2b57LkV"  group-title="SPORTS",http://bit.ly/2b57LkV
 http://ow.ly/XzGG7
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*KODI (UK TURK)"  group-title="SPORTS",*KODI (UK TURK)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*KODI (UK TURK 3.0.3)"  group-title="SPORTS",*KODI (UK TURK 3.0.3)
 http://50.7.96.220/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/2atxJz1"  group-title="SPORTS",http://bit.ly/2atxJz1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/2b5E6Fu"  group-title="SPORTS",http://bit.ly/2b5E6Fu
 http://bit.ly/2atxJz1
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Diaz vs McGregor)"  group-title="UFC",HD UFC 202 (Diaz vs McGregor)
@@ -502,3 +502,27 @@ http://vip.tuguj.net:8000/live/test11/test11/2820.m3u8
 http://vip.tuguj.net:8000/live/test11/test11/2821.m3u8
 #EXTINF:-1,(UK) SKY SPORTS 5
 http://vip.tuguj.net:8000/live/test11/test11/2822.m3u8
+
+#EXTINF:-1, BT SPORT 2 UFC 1
+http://94.242.228.162:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDQ6MTI6NTUgQU0maGFzaF92YWx1ZT0wQk41MjJHVGNGMnFnU0NSWHpDVDlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjYuMTU0JnN0cm1fbGVuPTE2
+
+#EXTINF:-1, BT SPORT 2 UFC 2
+http://94.242.228.162:8081/live/btsport2-hq/playlist.m3u8
+
+#EXTINF:-1, BT SPORT 2 UFC 3
+http://94.242.228.162:8081/live/btsport2-hq/chunks.m3u8
+
+#EXTINF:-1, BT SPORT 2 UFC 4
+http://cdn.smotrimult.com/hls/xjnoMSVeJNL6r56PQqpS7g/1471587311/btsport2.m3u8
+
+#EXTINF:-1, BT SPORT 2 UFC 5
+http://cdn.widestream.io:8081/wideedge/push-3x6y3hv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDQ6MTg6NDggQU0maGFzaF92YWx1ZT1pL01YWVQ4QWtoTnFpcEVFVG56QlpnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1, BT SPORT 2 UFC 6
+http://cdn.widestream.io:8081/wideedge/push-3x6y3hv/playlist.m3u8
+
+#EXTINF:-1, BT SPORT 2 UFC 7
+http://88.150.206.73:8081/streamflare/bt2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE2IDQ6MzU6MjIgQU0maGFzaF92YWx1ZT1pRzRaN3hJT2xTRU0vSnpLZ1V6dmJBPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1, BT SPORT 2 UFC 8
+http://88.150.206.73:8081/streamflare/bt2/playlist.m3u8
