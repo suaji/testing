@@ -361,13 +361,13 @@ http://bit.ly/2atxJz1
 http://camerta.com:8000/live/55239/55239/1308.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png" tvg-name="BT SPORT 2"  group-title="SPORTS",BT SPORT 2
-http://185.73.239.40:8000/live/saib/fares/433.m3u8
+http://camerta.com:8000/live/55239/55239/1309.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT SPORT 1 SD"  group-title="SPORTS",BT SPORT 1 SD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT SPORT 1 SD"  group-title="SPORTS",BT SPORT 1 SD
 http://185.73.239.40:8000/live/saib/fares/432.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT SPORT 2 SD"  group-title="SPORTS",BT SPORT 2 SD
-http://camerta.com:8000/live/55239/55239/1309.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT SPORT 2 SD"  group-title="SPORTS",BT SPORT 2 SD
+http://185.73.239.40:8000/live/saib/fares/433.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png" tvg-name="BT SPORT EUROPE (offline)"  group-title="SPORTS",BT SPORT EUROPE (offline)
 http://185.73.239.40:8000/live/saib/fares/464.m3u8
@@ -467,6 +467,13 @@ http://vip.tuguj.net:8000/live/test11/test11/2814.m3u8
 http://vip.tuguj.net:8000/live/test11/test11/2815.m3u8
 #EXTINF:-1,(UK) BT SPORT EUROPE
 http://vip.tuguj.net:8000/live/test11/test11/2813.m3u8
+
+#EXTINF:-1,(UK) SKY SPORTS F1
+http://vip.tuguj.net:8000/live/test11/test11/2823.m3u8
+#EXTINF:-1,(UK) SKY SPORT NEWS
+http://vip.tuguj.net:8000/live/test11/test11/2817.m3u8
+#EXTINF:-1,(UK) PREMIER SPORTS
+http://vip.tuguj.net:8000/live/test11/test11/2811.m3u8
 #EXTINF:-1,(UK) SKY SPORTS 1
 http://vip.tuguj.net:8000/live/test11/test11/2818.m3u8
 #EXTINF:-1,(UK) SKY SPORTS 2
@@ -477,9 +484,21 @@ http://vip.tuguj.net:8000/live/test11/test11/2820.m3u8
 http://vip.tuguj.net:8000/live/test11/test11/2821.m3u8
 #EXTINF:-1,(UK) SKY SPORTS 5
 http://vip.tuguj.net:8000/live/test11/test11/2822.m3u8
-#EXTINF:-1,(UK) SKY SPORTS F1
-http://vip.tuguj.net:8000/live/test11/test11/2823.m3u8
-#EXTINF:-1,(UK) SKY SPORT NEWS
-http://vip.tuguj.net:8000/live/test11/test11/2817.m3u8
-#EXTINF:-1,(UK) PREMIER SPORTS
-http://vip.tuguj.net:8000/live/test11/test11/2811.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Diaz vs McGregor)"  group-title="UFC",HD UFC 202 (Diaz vs McGregor)
+http://camerta.com:8000/live/55239/55239/1309.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="SD UFC 202 (Link 2)"  group-title="UFC",SD UFC 202 (Link 2)
+http://185.73.239.40:8000/live/saib/fares/433.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 3)"  group-title="UFC",HD UFC 202 (Link 3)
+http://camerta.com:8000/live/m2et002/m2et002/1309.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 4)"  group-title="UFC",HD UFC 202 (Link 4)
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 5)"  group-title="UFC",HD UFC 202 (Link 5)
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/27.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 6)"  group-title="UFC",HD UFC 202 (Link 6)
+http://vip.tuguj.net:8000/live/test11/test11/2815.m3u8
