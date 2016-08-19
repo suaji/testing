@@ -336,10 +336,28 @@ http://50.7.154.26:8295/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.img.co/radio/11/40/44011_290.png" tvg-name="SARAWAK FM"  group-title="Malaysia",SARAWAK FM
 http://124.82.221.149:8000/;stream.mp3
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Diaz vs McGregor)"  group-title="UFC",HD UFC 202 (Diaz vs McGregor)
+http://camerta.com:8000/live/55239/55239/1309.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="SD UFC 202 (Link 2)"  group-title="UFC",SD UFC 202 (Link 2)
+http://185.73.239.40:8000/live/saib/fares/433.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 3)"  group-title="UFC",HD UFC 202 (Link 3)
+http://camerta.com:8000/live/m2et002/m2et002/1309.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 4)"  group-title="UFC",HD UFC 202 (Link 4)
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 5)"  group-title="UFC",HD UFC 202 (Link 5)
+http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/27.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 6)"  group-title="UFC",HD UFC 202 (Link 6)
+http://vip.tuguj.net:8000/live/test11/test11/2815.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="SPORTS",[COLOR crimson].....SPORTS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 18-08-2016"  group-title="UPDATED",UPDATED : 18-08-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 19-08-2016"  group-title="UPDATED",UPDATED : 19-08-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="SPORTS",*BACKUP BOLA LIVE
@@ -411,7 +429,7 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1, (TESTING 18/08/16)
+#EXTINF:-1, (TESTING 19/08/16)
 http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
 
 #EXTINF:-1,UK-BTsport-europe (Kodi)
@@ -484,21 +502,3 @@ http://vip.tuguj.net:8000/live/test11/test11/2820.m3u8
 http://vip.tuguj.net:8000/live/test11/test11/2821.m3u8
 #EXTINF:-1,(UK) SKY SPORTS 5
 http://vip.tuguj.net:8000/live/test11/test11/2822.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Diaz vs McGregor)"  group-title="UFC",HD UFC 202 (Diaz vs McGregor)
-http://camerta.com:8000/live/55239/55239/1309.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="SD UFC 202 (Link 2)"  group-title="UFC",SD UFC 202 (Link 2)
-http://185.73.239.40:8000/live/saib/fares/433.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 3)"  group-title="UFC",HD UFC 202 (Link 3)
-http://camerta.com:8000/live/m2et002/m2et002/1309.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 4)"  group-title="UFC",HD UFC 202 (Link 4)
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 5)"  group-title="UFC",HD UFC 202 (Link 5)
-http://coco.noip.us:8060/live/moh6000/ZT32Ev9KqH/27.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/750x3702-1.jpg" tvg-name="HD UFC 202 (Link 6)"  group-title="UFC",HD UFC 202 (Link 6)
-http://vip.tuguj.net:8000/live/test11/test11/2815.m3u8
