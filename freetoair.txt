@@ -1,12 +1,6 @@
 <channels>
 
 <channel>
-<name>RTM OLIMPIK</name>
-<thumbnail>http://hospenyiar.rtm.gov.my/dist/img/header_logo.jpg</thumbnail>
-<externallink>https://goo.gl/WqyYwx</externallink>
-</channel>
-
-<channel>
 <name>MALAYSIA</name>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia_1.png</thumbnail>
 <externallink>https://goo.gl/W4Xy31</externallink>

@@ -1,26 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-1.jpg" tvg-name="RTM OLIMPIK 1"  group-title="MALAYSIA",RTM OLIMPIK 1
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-1/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-2.jpg" tvg-name="RTM OLIMPIK 2"  group-title="MALAYSIA",RTM OLIMPIK 2
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-2/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-3.jpg" tvg-name="RTM OLIMPIK 3"  group-title="MALAYSIA",RTM OLIMPIK 3
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-3/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-4.jpg" tvg-name="RTM OLIMPIK 4"  group-title="MALAYSIA",RTM OLIMPIK 4
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-4/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-5.jpg" tvg-name="RTM OLIMPIK 5"  group-title="MALAYSIA",RTM OLIMPIK 5
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-5/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-6.jpg" tvg-name="RTM OLIMPIK 6"  group-title="MALAYSIA",RTM OLIMPIK 6
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-6/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-7.jpg" tvg-name="RTM OLIMPIK 7"  group-title="MALAYSIA",RTM OLIMPIK 7
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-7/playlist.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BACKUP ADDONS IPTV MALAYSIA"  group-title="Group N/A",BACKUP ADDONS IPTV MALAYSIA
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
 
@@ -49,10 +28,7 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD (Kodi)"  group-title="KOREA",KBS WORLD (Kodi)
-rtmp://118.97.183.196/jhos/ playpath=kbs swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World-Stream-7
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/set_one.png" tvg-name="Korean Drama (Kodi)"  group-title="KOREA",Korean Drama (Kodi)
-rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
+rtmp://118.97.183.196/jhos
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1 SD"  group-title="Group N/A",TV1 SD
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b974000_sleng.m3u8
@@ -297,7 +273,7 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1, (TESTING 22/08/16)
+#EXTINF:-1, (TESTING 23/08/16)
 http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
 
 #EXTINF:-1,UK-BTsport-europe (Kodi)
@@ -316,9 +292,41 @@ http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/279.m3u8
 #EXTINF:-1,TH BT Sport 2 HD (Kodi)
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.m3u8
 
-#EXTINF:-1,IT- Disney Junior
-http://sidosat.iptv.re:8000/live/test/test/7975.m3u8
-#EXTINF:-1,IT_DISNEY CHANNEL HD
-http://sidosat.iptv.re:8000/live/test/test/9866.m3u8
-#EXTINF:-1,IT_CARTOON NETWORK
-http://sidosat.iptv.re:8000/live/test/test/9865.m3u8
+#EXTINF:-1    group-title="Streams",NBC Sports US
+http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
+#EXTINF:-1    group-title="Streams",ESPN US
+http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8
+#EXTINF:-1    group-title="Streams",ESPN 2 US
+http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
+#EXTINF:-1    group-title="Streams",FOX Sports 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+#EXTINF:-1    group-title="Streams",FOX Sports 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
+
+#EXTINF:-1,Fox Sports HD
+http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1487.m3u8
+#EXTINF:-1,Fox Sport SD
+http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1488.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1082.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1083.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1084.m3u8
+#EXTINF:-1,Sky Sport 3 HD
+http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1085.m3u8
+#EXTINF:-1,Sky Sport Plus HD
+http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1086.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1088.m3u8
+#EXTINF:-1,Sky Sport MotoGP HD
+http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1087.m3u8
+
+#EXTINF:-1,Astro Supersports 1 HD
+http://188.165.12.93:8000/live/Pete/Pete/3503.m3u8
+#EXTINF:-1,Astro Supersports 2 HD
+http://188.165.12.93:8000/live/Pete/Pete/3504.m3u8
+#EXTINF:-1,Astro Supersports 3 HD
+http://188.165.12.93:8000/live/Pete/Pete/3505.m3u8
+#EXTINF:-1,Astro Supersports 4 HD
+http://188.165.12.93:8000/live/Pete/Pete/3502.m3u8
