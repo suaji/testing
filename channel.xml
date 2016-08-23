@@ -12,101 +12,101 @@
 
 <item>
 <title>Dukun Doktor Dani (2016)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-pizxn3lryeao-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9g36d8w31j01-640x360.html</link>
 <thumbnail>https://2.bp.blogspot.com/-LjA6vyiv5wY/V4iQOTkBcNI/AAAAAAAAB7I/pmKc1OmpBW0ic5OuNZuFXISHiSEyR7PfACLcB/s1600/Dukun%2BDoktor%2BDani.jpg</thumbnail>
 <fanart>http://galaksi-media.com/wp-content/uploads/2016/07/IMG_1947.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-pizxn3lryeao-640x360.html</page>
-<referer>http://streamin.to/pizxn3lryeao</referer>
+<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
+<referer>http://streamin.to/9g36d8w31j01</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-pizxn3lryeao-640x360.html</page>
-<referer>http://streamin.to/pizxn3lryeao</referer>
+<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
+<referer>http://streamin.to/9g36d8w31j01</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-pizxn3lryeao-640x360.html</page>
-<referer>http://streamin.to/pizxn3lryeao</referer>
+<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
+<referer>http://streamin.to/9g36d8w31j01</referer>
 </regex>
 </item>
 
 <item>
 <title>Zack Kapcai (2016) HD</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7491b8kzkgy0-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-0amtqfpu4dm8-640x360.html</link>
 <thumbnail>http://vplaytv.me/wp-content/uploads/2016/08/zackkapcai.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-AO3RTe5dd4o/V4ycDS4uBqI/AAAAAAAANBI/kVnkUnbDzPAgqF1eDEqC-God9l6ejgnZgCLcB/s1600/Zack%2BKapcai%2Bpic.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-7491b8kzkgy0-640x360.html</page>
-<referer>http://streamin.to/7491b8kzkgy0</referer>
+<page>http://streamin.to/embed-0amtqfpu4dm8-640x360.html</page>
+<referer>http://streamin.to/0amtqfpu4dm8</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-7491b8kzkgy0-640x360.html</page>
-<referer>http://streamin.to/7491b8kzkgy0</referer>
+<page>http://streamin.to/embed-0amtqfpu4dm8-640x360.html</page>
+<referer>http://streamin.to/0amtqfpu4dm8</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-7491b8kzkgy0-640x360.html</page>
-<referer>http://streamin.to/7491b8kzkgy0</referer>
+<page>http://streamin.to/embed-0amtqfpu4dm8-640x360.html</page>
+<referer>http://streamin.to/0amtqfpu4dm8</referer>
 </regex>
 </item>
 
 <item>
 <title>Ada Apa Dengan Cinta 2 (2016) HD [IND]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8apun5worqgq-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4ptnpr6vu6vg-640x360.html</link>
 <thumbnail>http://cdn3.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2016/Ada_apa_dengan_cinta2/AADC2_v1_984x1482_500.jpg</thumbnail>
 <fanart>http://www.tosarang2.org/wp-content/uploads/2016/07/Ada-Apa-Dengan-Cinta.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-8apun5worqgq-640x360.html</page>
-<referer>http://streamin.to/8apun5worqgq</referer>
+<page>http://streamin.to/embed-4ptnpr6vu6vg-640x360.html</page>
+<referer>http://streamin.to/4ptnpr6vu6vg</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-8apun5worqgq-640x360.html</page>
-<referer>http://streamin.to/8apun5worqgq</referer>
+<page>http://streamin.to/embed-4ptnpr6vu6vg-640x360.html</page>
+<referer>http://streamin.to/4ptnpr6vu6vg</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-8apun5worqgq-640x360.html</page>
-<referer>http://streamin.to/8apun5worqgq</referer>
+<page>http://streamin.to/embed-4ptnpr6vu6vg-640x360.html</page>
+<referer>http://streamin.to/4ptnpr6vu6vg</referer>
 </regex>
 </item>
 
 <item>
 <title>Lawak Ke Der (2016) HD</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-33dgctbf5r8t-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-vuvxmnz9eb5c-640x360.html</link>
 <thumbnail>http://www.istanabudaya.gov.my/wp-content/uploads/2016/04/lawak-ke-der-front.jpg</thumbnail>
 <fanart>http://assets.nst.com.my/images/articles/soldout.transformed.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-33dgctbf5r8t-640x360.html</page>
-<referer>http://streamin.to/33dgctbf5r8t</referer>
+<page>http://streamin.to/embed-vuvxmnz9eb5c-640x360.html</page>
+<referer>http://streamin.to/vuvxmnz9eb5c</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-33dgctbf5r8t-640x360.html</page>
-<referer>http://streamin.to/33dgctbf5r8t</referer>
+<page>http://streamin.to/embed-vuvxmnz9eb5c-640x360.html</page>
+<referer>http://streamin.to/vuvxmnz9eb5c</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-33dgctbf5r8t-640x360.html</page>
-<referer>http://streamin.to/33dgctbf5r8t</referer>
+<page>http://streamin.to/embed-vuvxmnz9eb5c-640x360.html</page>
+<referer>http://streamin.to/vuvxmnz9eb5c</referer>
 </regex>
 </item>
 
