@@ -334,3 +334,9 @@ http://94.100.31.242:8185/814/mpegts
 http://94.100.31.242:8185/602/mpegts
 #EXTINF:-1,ArenaSport 5 HD
 http://94.100.31.242:8185/815/mpegts
+
+#EXTINF:-1, KBS World SD
+rtmp://live.kbskme.gscdn.com/kbs_worldtv/
+
+#EXTINF:-1, KBS World SD 2
+rtmp://live.kbskme.gscdn.com/kbs_worldtv/ playpath=kbs_worldtv_4.stream swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World
