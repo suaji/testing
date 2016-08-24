@@ -312,3 +312,25 @@ http://iptv.proff.co:15003/live/sergio12/sergio12/37.m3u8
 http://iptv.proff.co:15003/live/sergio12/sergio12/38.m3u8
 #EXTINF:-1,EuroSport 2 HD
 http://iptv.proff.co:15003/live/sergio12/sergio12/39.m3u8
+
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1693.m3u8
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1692.m3u8
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1107.m3u8
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1111.m3u8
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1384.m3u8
+
+#EXTINF:-1,ArenaSport 1 HD
+http://94.100.31.242:8185/811/mpegts
+#EXTINF:-1,ArenaSport 2 HD
+http://94.100.31.242:8185/812/mpegts
+#EXTINF:-1,ArenaSport 4 HD
+http://94.100.31.242:8185/814/mpegts
+#EXTINF:-1,ArenaSport 4 SD
+http://94.100.31.242:8185/602/mpegts
+#EXTINF:-1,ArenaSport 5 HD
+http://94.100.31.242:8185/815/mpegts
