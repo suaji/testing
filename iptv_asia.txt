@@ -17,6 +17,12 @@
 </item>
 
 <item>
+<title>KBS World 2 - KRN</title>
+<link>rtmp://live.kbskme.gscdn.com/kbs_worldtv/ playpath=kbs_worldtv_4.stream swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
+</item>
+
+<item>
 <title>KBS World HD - KRN (SmartDNS)</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PUl4hiEOXSo</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
