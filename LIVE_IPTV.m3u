@@ -340,3 +340,50 @@ rtmp://live.kbskme.gscdn.com/kbs_worldtv/
 
 #EXTINF:-1, KBS World SD 2
 rtmp://live.kbskme.gscdn.com/kbs_worldtv/ playpath=kbs_worldtv_4.stream swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World
+
+#EXTINF:-1    group-title="Streams",AMC US
+http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
+#EXTINF:-1    group-title="Streams",Bravo US
+http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8
+#EXTINF:-1    group-title="Streams",E! US
+http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
+#EXTINF:-1    group-title="Streams",Fox US
+http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
+#EXTINF:-1    group-title="Streams",FX US
+http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8
+#EXTINF:-1    group-title="Streams",SYFY US
+http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
+
+#EXTINF:-1    group-title="Streams",HBO East
+http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
+#EXTINF:-1    group-title="Streams",HBO Comedy
+http://46.166.162.35:9090/load/b0922f3fa8aa/20.m3u8
+#EXTINF:-1    group-title="Streams",HBO Zone
+http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8
+#EXTINF:-1    group-title="Streams",HBO Signature
+http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
+#EXTINF:-1    group-title="Streams",Cinemax East
+http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8
+#EXTINF:-1    group-title="Streams",Cinemax 5 StarMax
+http://46.166.162.35:9090/load/b0922f3fa8aa/24.m3u8
+#EXTINF:-1    group-title="Streams",Cinemax ActionMax
+http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8
+#EXTINF:-1    group-title="Streams",Showtime EAST
+http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
+#EXTINF:-1    group-title="Streams",Showtime 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
+#EXTINF:-1    group-title="Streams",Showtime Showcase
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
+#EXTINF:-1    group-title="Streams",Starz East
+http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
+#EXTINF:-1    group-title="Streams",Starz Edge
+http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
+#EXTINF:-1    group-title="Streams",Starz Cinema
+http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8
+#EXTINF:-1    group-title="Streams",Starz Encore
+http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
+
+#EXTINF:-1    group-title="Streams",FOX Sports 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+#EXTINF:-1    group-title="Streams",FOX Sports 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
