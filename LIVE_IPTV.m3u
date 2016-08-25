@@ -48,27 +48,6 @@ http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI SD"  group-title="MALAYSIA",AWANI SD
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer1.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-1.jpg" tvg-name="RTM OLIMPIK 1 SD"  group-title="MALAYSIA",RTM OLIMPIK 1 SD
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-1/chunklist_b329000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-2.jpg" tvg-name="RTM OLIMPIK 2 SD"  group-title="MALAYSIA",RTM OLIMPIK 2 SD
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-2/chunklist_b329000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-3.jpg" tvg-name="RTM OLIMPIK 3 SD"  group-title="MALAYSIA",RTM OLIMPIK 3 SD
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-3/chunklist_b329000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-4.jpg" tvg-name="RTM OLIMPIK 4 SD"  group-title="MALAYSIA",RTM OLIMPIK 4 SD
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-4/chunklist_b329000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-5.jpg" tvg-name="RTM OLIMPIK 5 SD"  group-title="MALAYSIA",RTM OLIMPIK 5 SD
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-5/chunklist_b329000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-6.jpg" tvg-name="RTM OLIMPIK 6 SD"  group-title="MALAYSIA",RTM OLIMPIK 6 SD
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-6/chunklist_b329000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-7.jpg" tvg-name="RTM OLIMPIK 7 SD"  group-title="MALAYSIA",RTM OLIMPIK 7 SD
-http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-7/chunklist_b329000_sleng.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue].....INDONESIA.....[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue].....INDONESIA.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/314954_ee0621e8a1133cfada4f0b43fd14d38d/m3u8s/314954.m3u8
 
@@ -228,7 +207,7 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="SPORTS",[COLOR crimson].....SPORTS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 22-08-2016"  group-title="UPDATED",UPDATED : 22-08-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 25-08-2016"  group-title="UPDATED",UPDATED : 25-08-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="SPORTS",*BACKUP BOLA LIVE
@@ -270,10 +249,35 @@ http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 #EXTINF:-1, MLS Soccer
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png" tvg-name="SKY SPORTS 1"  group-title="SPORTS",SKY SPORTS 1
+http://iptv.proff.co:15003/live/sergio12/sergio12/30.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png" tvg-name="SKY SPORTS 2"  group-title="SPORTS",SKY SPORTS 2
+http://iptv.proff.co:15003/live/sergio12/sergio12/31.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png" tvg-name="SKY SPORTS 3"  group-title="SPORTS",SKY SPORTS 3
+http://iptv.proff.co:15003/live/sergio12/sergio12/32.m3u8
+
+#EXTINF:-1,Sky Sport 24 HD
+http://iptv.proff.co:15003/live/sergio12/sergio12/29.m3u8
+#EXTINF:-1,Sky Sport Plus HD
+http://iptv.proff.co:15003/live/sergio12/sergio12/33.m3u8
+#EXTINF:-1,Fox Sports HD
+http://iptv.proff.co:15003/live/sergio12/sergio12/35.m3u8
+#EXTINF:-1,Sky Sport  F1 HD
+http://iptv.proff.co:15003/live/sergio12/sergio12/36.m3u8
+#EXTINF:-1,Sky Sport MotoGP  HD
+http://iptv.proff.co:15003/live/sergio12/sergio12/37.m3u8
+
+#EXTINF:-1,EuroSport HD
+http://iptv.proff.co:15003/live/sergio12/sergio12/38.m3u8
+#EXTINF:-1,EuroSport 2 HD
+http://iptv.proff.co:15003/live/sergio12/sergio12/39.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1, (TESTING 23/08/16)
+#EXTINF:-1, (TESTING 26/08/16)
 http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
 
 #EXTINF:-1,UK-BTsport-europe (Kodi)
@@ -292,38 +296,6 @@ http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/279.m3u8
 #EXTINF:-1,TH BT Sport 2 HD (Kodi)
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.m3u8
 
-#EXTINF:-1,Sky Sport 24 HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/29.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/30.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/31.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/32.m3u8
-#EXTINF:-1,Sky Sport Plus HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/33.m3u8
-#EXTINF:-1,Fox Sports HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/35.m3u8
-#EXTINF:-1,Sky Sport  F1 HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/36.m3u8
-#EXTINF:-1,Sky Sport MotoGP  HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/37.m3u8
-#EXTINF:-1,EuroSport HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/38.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/39.m3u8
-
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1693.m3u8
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1692.m3u8
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1107.m3u8
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1111.m3u8
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://ksportiptv.com:1557/live/mix24/sX0NnuNPjn/1384.m3u8
-
 #EXTINF:-1,ArenaSport 1 HD
 http://94.100.31.242:8185/811/mpegts
 #EXTINF:-1,ArenaSport 2 HD
@@ -334,12 +306,6 @@ http://94.100.31.242:8185/814/mpegts
 http://94.100.31.242:8185/602/mpegts
 #EXTINF:-1,ArenaSport 5 HD
 http://94.100.31.242:8185/815/mpegts
-
-#EXTINF:-1, KBS World SD
-rtmp://live.kbskme.gscdn.com/kbs_worldtv/
-
-#EXTINF:-1, KBS World SD 2
-rtmp://live.kbskme.gscdn.com/kbs_worldtv/ playpath=kbs_worldtv_4.stream swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World
 
 #EXTINF:-1    group-title="Streams",AMC US
 http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
