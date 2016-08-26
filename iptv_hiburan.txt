@@ -1,13 +1,7 @@
 <item>
-<title>[COLOR red]kemaskini (02-08-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (26-08-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>MBC 2</title>
-<link>http://63.237.48.9/ios/MBC2/MBC2.m3u8</link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -23,43 +17,7 @@
 </item>
 
 <item>
-<title>SKY ONE</title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>Playy West</title>
 <link>http://123.108.164.71/etv2sb/phd743/lihattv.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX ACTION (MALAY)</title>
-<link>http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX ACTION</title>
-<link>http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX MOVIES</title>
-<link>http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX MOVIES 1</title>
-<link>http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX MOVIES 2</title>
-<link>http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8</link>
 <thumbnail></thumbnail>
 </item>

@@ -1,30 +1,12 @@
 <item>
-<title>[COLOR red]kemaskini (02-08-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (26-08-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
-<title>EASTERN YOYO</title>
-<link>http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>GEM JUNIOR</title>
 <link>http://63.237.48.3/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8</link>
-<thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>RTE JR.</title>
-<link>http://149.202.201.221:8000/live/fr443500/75019pa/322.m3u8</link>
-<thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>RTE 1 HD</title>
-<link>http://149.202.201.221:8000/live/fr443500/75019pa/323.m3u8</link>
 <thumbnail>.</thumbnail>
 </item>
 
@@ -35,7 +17,7 @@
 </item>
 
 <item>
-<title>TRT COCUK</title>
+<title>TRT COCUK HD</title>
 <link>http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -56,34 +38,4 @@
 <title>NICKELODEON</title>
 <link>http://109.111.184.197:4022/udp/239.211.211.30:1234</link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CBEEBIES</title>
-<link>http://198.179.30.109/live/3191.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe178af1c144f4f2a5c85ea62633dbc4263c99a1db8f0f75c9e0bdcc97b2cbc68b08fd52c2e6bee7c54d704e44cd6a6ab96be7dce1c833a4b8aa6de4fb96992e3b909e9c6156f6a573b9e055798c5a0d898056cbc080f4d2f0b453a7dc83a7a23e8d55a920415599a3340af05c8d05f16203712b8660acdb3bdf658eb0383d84ce95dec981efc72b07009e2cf3127d3dcd</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>KIDS-MOVIE 1</title>
-<link>http://iptv.am000.tv:8000/live/naser1/naser1/627.m3u8</link>
-<thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>KIDS-MOVIE 2</title>
-<link>http://iptv.am000.tv:8000/live/naser1/naser1/639.m3u8</link>
-<thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>KIDS-MOVIE 3</title>
-<link>http://iptv.am000.tv:8000/live/naser1/naser1/640.m3u8</link>
-<thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>KIDS-MOVIE 4</title>
-<link>http://iptv.am000.tv:8000/live/naser1/naser1/641.m3u8</link>
-<thumbnail>.</thumbnail>
 </item>

@@ -1,3 +1,9 @@
+<item>
+<title>Al-Hijrah TV</title>
+<link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv_alhijrah.png</thumbnail>
+</item>
+
 ##OFFLINE
 ##LOGO
 
@@ -8,13 +14,13 @@
 -
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png" tvg-name="SKY SPORTS 1"  group-title="SPORTS",SKY SPORTS 1
--
+http://iptv.proff.co:15003/live/sergio12/sergio12/30.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png" tvg-name="SKY SPORTS 2"  group-title="SPORTS",SKY SPORTS 2
--
+http://iptv.proff.co:15003/live/sergio12/sergio12/31.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png" tvg-name="SKY SPORTS 3"  group-title="SPORTS",SKY SPORTS 3
--
+http://iptv.proff.co:15003/live/sergio12/sergio12/32.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png" tvg-name="SKY SPORTS 4"  group-title="SPORTS",SKY SPORTS 4
 -
