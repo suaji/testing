@@ -11,6 +11,31 @@
 </item>
 
 <item>
+<title>Dukun Doktor Dani (2016)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9g36d8w31j01-640x360.html</link>
+<thumbnail>https://2.bp.blogspot.com/-LjA6vyiv5wY/V4iQOTkBcNI/AAAAAAAAB7I/pmKc1OmpBW0ic5OuNZuFXISHiSEyR7PfACLcB/s1600/Dukun%2BDoktor%2BDani.jpg</thumbnail>
+<fanart>http://galaksi-media.com/wp-content/uploads/2016/07/IMG_1947.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
+<referer>http://streamin.to/9g36d8w31j01</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
+<referer>http://streamin.to/9g36d8w31j01</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
+<referer>http://streamin.to/9g36d8w31j01</referer>
+</regex>
+</item>
+
+<item>
 <title>Zack Kapcai (2016) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-0amtqfpu4dm8-640x360.html</link>
 <thumbnail>http://vplaytv.me/wp-content/uploads/2016/08/zackkapcai.jpg</thumbnail>

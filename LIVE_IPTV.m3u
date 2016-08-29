@@ -334,11 +334,5 @@ http://211.142.45.236:1936/live/CCTV6.stream_360p/playlist.m3u8
 #EXTINF:0, CHING HD 
 rtmp://edge1.everyon.tv/etv1sb/ playpath=phd7 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/1347/ching-hd
 
-#EXTINF:0, NHK WORLD HD
-http://web-cache.stream.ne.jp/www11/nhkworld-tv/dwstv/222468/live.m3u8
-
-#EXTINF:0, NHK WORLD HD 2
-http://nhkworldtvlive-i.akamaihd.net/hls/live/222468/dwstv/index_1180.m3u8
-
 #EXTINF:0, HOLLYWOOD MOVIE
 rtmp://edge2.everyon.tv/etv2/ playpath=phd877 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/3243/hollywood-movies
