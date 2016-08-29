@@ -248,7 +248,7 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="SPORTS",[COLOR crimson].....SPORTS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 26-08-2016"  group-title="UPDATED",UPDATED : 26-08-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 29-08-2016"  group-title="UPDATED",UPDATED : 29-08-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="SPORTS",*BACKUP BOLA LIVE
@@ -270,13 +270,13 @@ http://bit.ly/2atxJz1
 http://camerta.com:8000/live/m2et002/m2et002/1308.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png" tvg-name="BT SPORT 2"  group-title="SPORTS",BT SPORT 2
-http://camerta.com:8000/live/m2et002/m2et002/1309.m3u8
+http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3555.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT SPORT 1 SD"  group-title="SPORTS",BT SPORT 1 SD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/279.m3u8
+http://camerta.com:8000/live/m2et002/m2et002/1309.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT SPORT 2 SD"  group-title="SPORTS",BT SPORT 2 SD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.m3u8
+http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3554.m3u8
 
 #EXTINF:-1,UK-BT Sport 3
 http://camerta.com:8000/live/m2et002/m2et002/1468.m3u8
@@ -285,13 +285,15 @@ http://camerta.com:8000/live/m2et002/m2et002/1594.m3u8
 #EXTINF:-1,UK- Liverpool FC
 http://camerta.com:8000/live/m2et002/m2et002/2209.m3u8
 
+#EXTINF:-1,UK: MUTV
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1693.m3u8
+#EXTINF:-1,UK: LIVERPOOL TV
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1697.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png" tvg-name="BT SPORT EUROPE (offline)"  group-title="SPORTS",BT SPORT EUROPE (offline)
 http://185.73.239.40:8000/live/saib/fares/464.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="FOX SPORTS 1"  group-title="SPORTS",FOX SPORTS 1
-http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
-
-#EXTINF:-1    group-title="Streams",FOX Sports 2
 http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.wrestlemadness.myewebsite.com/img/mid/1/wwe-logo-wrestling-symbol.jpg" tvg-name="WWE Wrestling"  group-title="SPORTS",WWE Wrestling
@@ -301,87 +303,42 @@ http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png" tvg-name="SKY SPORTS 1"  group-title="SPORTS",SKY SPORTS 1
-http://iptv.proff.co:15003/live/sergio12/sergio12/30.m3u8
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1672.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png" tvg-name="SKY SPORTS 2"  group-title="SPORTS",SKY SPORTS 2
-http://iptv.proff.co:15003/live/sergio12/sergio12/31.m3u8
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1673.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png" tvg-name="SKY SPORTS 3"  group-title="SPORTS",SKY SPORTS 3
-http://iptv.proff.co:15003/live/sergio12/sergio12/32.m3u8
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1674.m3u8
 
-#EXTINF:-1,Sky Sport 24 HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/29.m3u8
-#EXTINF:-1,Sky Sport Plus HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/33.m3u8
-#EXTINF:-1,Fox Sports HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/35.m3u8
-#EXTINF:-1,Sky Sport  F1 HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/36.m3u8
-#EXTINF:-1,Sky Sport MotoGP  HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/37.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png" tvg-name="SKY SPORTS 4"  group-title="SPORTS",SKY SPORTS 4
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1675.m3u8
 
-#EXTINF:-1,EuroSport HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/38.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://iptv.proff.co:15003/live/sergio12/sergio12/39.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png" tvg-name="SKY SPORTS 5"  group-title="SPORTS",SKY SPORTS 5
+http://csintel-stream.no-ip.ca:8000/live/husain/husain/1676.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1, (TESTING 26/08/16)
+#EXTINF:-1, (TESTING 29/08/16)
 http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
 
-#EXTINF:-1,UK: SKY SPORTS 5
-http://csintel-stream.no-ip.ca:8000/live/husain/husain/1676.m3u8
-#EXTINF:-1,UK: SKY SPORTS 4
-http://csintel-stream.no-ip.ca:8000/live/husain/husain/1675.m3u8
-#EXTINF:-1,UK: SKY SPORTS 3
-http://csintel-stream.no-ip.ca:8000/live/husain/husain/1674.m3u8
-#EXTINF:-1,UK: SKY SPORTS 2
-http://csintel-stream.no-ip.ca:8000/live/husain/husain/1673.m3u8
-#EXTINF:-1,UK: SKY SPORTS 1
-http://csintel-stream.no-ip.ca:8000/live/husain/husain/1672.m3u8
-
-#EXTINF:-1,UK: MUTV
-http://csintel-stream.no-ip.ca:8000/live/husain/husain/1693.m3u8
-#EXTINF:-1,UK: LIVERPOOL
-http://csintel-stream.no-ip.ca:8000/live/husain/husain/1697.m3u8
-
-#EXTINF:-1,ML|Astro_Supersport_1_HD
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/1432.m3u8
-#EXTINF:-1,ML|Astro_Supersport_2_HD
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/1433.m3u8
-#EXTINF:-1,ML|Astro_Supersport_3_HD
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/1434.m3u8
-#EXTINF:-1,ML|Astro_Supersport_4_HD
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/1435.m3u8
-
-#EXTINF:-1,UK: BT SPORT 1
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/690.m3u8
-#EXTINF:-1,UK: BT SPORT 2
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/691.m3u8
-#EXTINF:-1,UK: BT Sports Europe HD
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/1384.m3u8
-
-#EXTINF:-1,UK: BT Sports 1
-http://iptv.re:80/live/waleed056/waleed056/1795.m3u8
-#EXTINF:-1,UK: BT Sports 2
-http://iptv.re:80/live/waleed056/waleed056/1796.m3u8
-
-#EXTINF:-1,MY: BT SPORT 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3554.m3u8
-#EXTINF:-1,MY: BT SPORT 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3555.m3u8
 #EXTINF:-1,MY: BT SPORT ESPN HD
 http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3556.m3u8
 #EXTINF:-1,MY: BT SPORT EUROPE HD
 http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3557.m3u8
-#EXTINF:-1,MY: BT Sport Extra 1
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3686.m3u8
 
-#EXTINF:-1,UK=BT-Sport-Extra-HD
-http://tvdreams.org:50100/live/Punisher/Punisher/803.m3u8
-#EXTINF:-1,UK=BT-Sport-2-HD
-http://tvdreams.org:50100/live/Punisher/Punisher/421.m3u8
-#EXTINF:-1,UK=BT-Sport-1-HD
-http://tvdreams.org:50100/live/Punisher/Punisher/424.m3u8
+#EXTINF:0, CCTV6
+http://211.142.45.236:1936/live/CCTV6.stream_360p/playlist.m3u8
+
+#EXTINF:0, CHING HD 
+rtmp://edge1.everyon.tv/etv1sb/ playpath=phd7 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/1347/ching-hd
+
+#EXTINF:0, NHK WORLD HD
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/dwstv/222468/live.m3u8
+
+#EXTINF:0, NHK WORLD HD 2
+http://nhkworldtvlive-i.akamaihd.net/hls/live/222468/dwstv/index_1180.m3u8
+
+#EXTINF:0, HOLLYWOOD MOVIE
+rtmp://edge2.everyon.tv/etv2/ playpath=phd877 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/3243/hollywood-movies
