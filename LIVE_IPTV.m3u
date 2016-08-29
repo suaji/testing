@@ -357,11 +357,11 @@ http://errifi.dynu.com:25461/live/redson_errifi/startimes/1434.m3u8
 http://errifi.dynu.com:25461/live/redson_errifi/startimes/1435.m3u8
 
 #EXTINF:-1,UK: BT SPORT 1
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/690.ts
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/690.m3u8
 #EXTINF:-1,UK: BT SPORT 2
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/691.ts
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/691.m3u8
 #EXTINF:-1,UK: BT Sports Europe HD
-http://errifi.dynu.com:25461/live/redson_errifi/startimes/1384.ts
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1384.m3u8
 
 #EXTINF:-1,UK: BT Sports 1
 http://iptv.re:80/live/waleed056/waleed056/1795.m3u8
@@ -369,12 +369,19 @@ http://iptv.re:80/live/waleed056/waleed056/1795.m3u8
 http://iptv.re:80/live/waleed056/waleed056/1796.m3u8
 
 #EXTINF:-1,MY: BT SPORT 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3554.ts
+http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3554.m3u8
 #EXTINF:-1,MY: BT SPORT 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3555.ts
+http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3555.m3u8
 #EXTINF:-1,MY: BT SPORT ESPN HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3556.ts
+http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3556.m3u8
 #EXTINF:-1,MY: BT SPORT EUROPE HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3557.ts
+http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3557.m3u8
 #EXTINF:-1,MY: BT Sport Extra 1
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3686.ts
+http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3686.m3u8
+
+#EXTINF:-1,UK=BT-Sport-Extra-HD
+http://tvdreams.org:50100/live/Punisher/Punisher/803.m3u8
+#EXTINF:-1,UK=BT-Sport-2-HD
+http://tvdreams.org:50100/live/Punisher/Punisher/421.m3u8
+#EXTINF:-1,UK=BT-Sport-1-HD
+http://tvdreams.org:50100/live/Punisher/Punisher/424.m3u8
