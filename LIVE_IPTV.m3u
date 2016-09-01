@@ -357,3 +357,21 @@ http://tvdreams.org:50100/live/Gamal/Gamal/803.m3u8
 http://tvdreams.org:50100/live/Gamal/Gamal/421.m3u8
 #EXTINF:-1,UK=BT-Sport-1-HD
 http://tvdreams.org:50100/live/Gamal/Gamal/424.m3u8
+
+#EXTINF:-1,CTH Channel Stadium 6 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/207.m3u8
+#EXTINF:-1,CTH Channel Stadium 5 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/208.m3u8
+#EXTINF:-1,CTH Channel Stadium 4 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/209.m3u8
+#EXTINF:-1,CTH Channel Stadium 3 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/210.m3u8
+#EXTINF:-1,CTH Channel Stadium 2 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/211.m3u8
+#EXTINF:-1,CTH Channel Stadium 1 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/212.m3u8
+
+#EXTINF:-1,GBR BT Sports 2 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/196.m3u8
+#EXTINF:-1,GBR BT Sports 1 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/197.m3u8
