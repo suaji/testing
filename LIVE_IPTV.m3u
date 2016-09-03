@@ -364,3 +364,33 @@ http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3556.m3u8
 http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3557.m3u8
 #EXTINF:-1,UK : BT Sport Extra 1
 http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3686.m3u8
+
+#EXTINF:-1, UK:BT Sports 1
+http://ksportiptv.com:1557/live/ARIVA 02/8QJ3zzvmNJ/1837.m3u8
+#EXTINF:-1, UK:BT Sports 2
+http://ksportiptv.com:1557/live/ARIVA 02/8QJ3zzvmNJ/1836.m3u8
+#EXTINF:-1, UK: BT SPORT 1
+http://ksportiptv.com:1557/live/ARIVA 02/8QJ3zzvmNJ/892.m3u8
+#EXTINF:-1, UK: BT Sport 2
+http://ksportiptv.com:1557/live/ARIVA 02/8QJ3zzvmNJ/1386.m3u8
+
+#EXTINF:-1,UK:Sky Movies Comedy Central
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1795.m3u8
+#EXTINF:-1,UK:FOX
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1783.m3u8
+#EXTINF:-1,UK: Sky Movies Drama
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1694.m3u8
+#EXTINF:-1,UK: SKY Movies Premier HD
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1253.m3u8
+#EXTINF:-1,UK: Sky Movies Thriller HD
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1251.m3u8
+#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1252.m3u8
+#EXTINF:-1,UK: Sky Movies Modern
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1098.m3u8
+#EXTINF:-1,UK: Sky Movies Family
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1097.m3u8
+#EXTINF:-1,UK: Sky Movies Comedy
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1096.m3u8
+#EXTINF:-1,UK: Sky Movies Select
+http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1099.m3u8
