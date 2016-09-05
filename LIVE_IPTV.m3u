@@ -394,3 +394,10 @@ http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1097.m3u8
 http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1096.m3u8
 #EXTINF:-1,UK: Sky Movies Select
 http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1099.m3u8
+
+#EXTINF:-1 tvg-id="168" tvg-name="Sport Klub 1" tvg-logo="/noicon.png" group-title="4 - Sport",Sport Klub 1 - Sport Klub 1
+http://s3-streamer.mkstream.mk:80/live?channelId=168&uid=73&deviceUser=smile&devicePass=smile
+#EXTINF:-1 tvg-id="169" tvg-name="Sport Klub 2" tvg-logo="/noicon.png" group-title="4 - Sport",Sport Klub 2 - Sport Klub 2
+http://s3-streamer.mkstream.mk:80/live?channelId=169&uid=73&deviceUser=smile&devicePass=smile
+#EXTINF:-1 tvg-id="170" tvg-name="Sport Klub 3" tvg-logo="/noicon.png" group-title="4 - Sport",Sport Klub 3 - Sport Klub 3
+http://s3-streamer.mkstream.mk:80/live?channelId=170&uid=73&deviceUser=smile&devicePass=smile
