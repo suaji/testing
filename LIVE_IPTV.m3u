@@ -72,6 +72,12 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
+#EXTINF:0, .....CHINA / TAIWAN.....
+http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3542.ts
+
+#EXTINF:0, CCTV6
+http://211.142.45.236:1936/live/CCTV6.stream_360p/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png" tvg-name="KOMPAS TV (Kodi)"  group-title="INDONESIA",KOMPAS TV (Kodi)
 rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/455/kompastv
 
@@ -99,20 +105,11 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR fuchsia].....KIDS.....[/COLOR]"  group-title="Group N/A",[COLOR fuchsia].....KIDS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/285894_9ac2cf0d1b3dca597520d20b02bce02c/m3u8s/285894.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_channel_global.png" tvg-name="DISNEY CHANNEL"  group-title="Group N/A",DISNEY CHANNEL
-http://31.204.152.6:8081/live/disney/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_junior_us.png" tvg-name="DISCOVERY KIDS"  group-title="Group N/A",DISCOVERY KIDS
-http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
-
 #EXTINF:0, NICKELODEON
 http://109.111.184.197:4022/udp/239.211.211.30:1234
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT COCUK HD"  group-title="Group N/A",TRT COCUK HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM JUNIOR"  group-title="Group N/A",GEM JUNIOR
-http://63.237.48.3/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]"  group-title="Group N/A",[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
@@ -248,7 +245,7 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="SPORTS",[COLOR crimson].....SPORTS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 02-09-2016"  group-title="UPDATED",UPDATED : 02-09-2016
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 05-09-2016"  group-title="UPDATED",UPDATED : 05-09-2016
 http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="SPORTS",*BACKUP BOLA LIVE
@@ -267,32 +264,20 @@ http://50.7.96.220/master.m3u8
 http://bit.ly/2atxJz1
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png" tvg-name="BT SPORT 1"  group-title="SPORTS",BT SPORT 1
-http://camerta.com:8000/live/m2et002/m2et002/1308.m3u8
+http://space-iptv.ddns.net:8112/live/karim/karim/197.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png" tvg-name="BT SPORT 2"  group-title="SPORTS",BT SPORT 2
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3555.m3u8
+http://space-iptv.ddns.net:8112/live/karim/karim/196.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png" tvg-name="BT SPORT 3"  group-title="SPORTS",BT SPORT 3
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3557.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT SPORT 1 SD"  group-title="SPORTS",BT SPORT 1 SD
-http://camerta.com:8000/live/m2et002/m2et002/1309.m3u8
+http://space-iptv.ddns.net:8112/live/karim/karim/197.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT SPORT 2 SD"  group-title="SPORTS",BT SPORT 2 SD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3554.m3u8
+http://space-iptv.ddns.net:8112/live/karim/karim/196.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png" tvg-name="BT SPORT 3 SD"  group-title="SPORTS",BT SPORT 3 SD
-http://camerta.com:8000/live/m2et002/m2et002/1468.m3u8
-
-#EXTINF:-1,UK-BT ESPN
-http://camerta.com:8000/live/m2et002/m2et002/1594.m3u8
-#EXTINF:-1,UK- Liverpool FC
-http://camerta.com:8000/live/m2et002/m2et002/2209.m3u8
-#EXTINF:-1,MY: BT SPORT ESPN HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3556.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png" tvg-name="BT SPORT EUROPE"  group-title="SPORTS",BT SPORT EUROPE
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3557.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="FOX SPORTS 1"  group-title="SPORTS",FOX SPORTS 1
 http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
@@ -303,38 +288,24 @@ http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 #EXTINF:-1, MLS Soccer
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
-#EXTINF:-1,CTH Channel Stadium 6 HD
+#EXTINF:-1,CTH Stadium 6 HD
 http://space-iptv.ddns.net:8112/live/karim/karim/207.m3u8
-#EXTINF:-1,CTH Channel Stadium 5 HD
+#EXTINF:-1,CTH Stadium 5 HD
 http://space-iptv.ddns.net:8112/live/karim/karim/208.m3u8
-#EXTINF:-1,CTH Channel Stadium 4 HD
+#EXTINF:-1,CTH Stadium 4 HD
 http://space-iptv.ddns.net:8112/live/karim/karim/209.m3u8
-#EXTINF:-1,CTH Channel Stadium 3 HD
+#EXTINF:-1,CTH Stadium 3 HD
 http://space-iptv.ddns.net:8112/live/karim/karim/210.m3u8
-#EXTINF:-1,CTH Channel Stadium 2 HD
+#EXTINF:-1,CTH Stadium 2 HD
 http://space-iptv.ddns.net:8112/live/karim/karim/211.m3u8
-#EXTINF:-1,CTH Channel Stadium 1 HD
+#EXTINF:-1,CTH Stadium 1 HD
 http://space-iptv.ddns.net:8112/live/karim/karim/212.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1, (TESTING 02/09/16)
+#EXTINF:-1, (TESTING 05/09/16)
 http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
-
-#EXTINF:0, CCTV6
-http://211.142.45.236:1936/live/CCTV6.stream_360p/playlist.m3u8
-
-#EXTINF:0, CHING
-rtmp://edge1.everyon.tv/etv1sb/ playpath=phd7 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/1347/ching-hd
-
-#EXTINF:0, HOLLYWOOD MOVIE
-rtmp://edge2.everyon.tv/etv2/ playpath=phd877 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/3243/hollywood-movies
-
-#EXTINF:-1,GBR BT Sports 2 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/196.m3u8
-#EXTINF:-1,GBR BT Sports 1 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/197.m3u8
 
 #EXTINF:-1, beIN sports 1 HD
 http://bit.do/cwhTf
@@ -342,58 +313,6 @@ http://bit.do/cwhTf
 http://tinyurl.com/hqnvr69
 #EXTINF:-1, beIN sports 3 HD
 http://bit.ly/2cu1v9r
-
-#EXTINF:-1,AR: beIN SPORT 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/2421.m3u8
-#EXTINF:-1,AR: beIN SPORT 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/2422.m3u8
-#EXTINF:-1,AR: beIN SPORT 3 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/2423.m3u8
-#EXTINF:-1,AR: beIN SPORT 4 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/2424.m3u8
-#EXTINF:-1,AR: beIN SPORT 5 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/2425.m3u8
-
-#EXTINF:-1,UK : BT SPORT 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3554.m3u8
-#EXTINF:-1,UK : BT SPORT 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3555.m3u8
-#EXTINF:-1,UK : BT SPORT ESPN HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3556.m3u8
-#EXTINF:-1,UK : BT SPORT EUROPE HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3557.m3u8
-#EXTINF:-1,UK : BT Sport Extra 1
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3686.m3u8
-
-#EXTINF:-1, UK:BT Sports 1
-http://ksportiptv.com:1557/live/ARIVA 02/8QJ3zzvmNJ/1837.m3u8
-#EXTINF:-1, UK:BT Sports 2
-http://ksportiptv.com:1557/live/ARIVA 02/8QJ3zzvmNJ/1836.m3u8
-#EXTINF:-1, UK: BT SPORT 1
-http://ksportiptv.com:1557/live/ARIVA 02/8QJ3zzvmNJ/892.m3u8
-#EXTINF:-1, UK: BT Sport 2
-http://ksportiptv.com:1557/live/ARIVA 02/8QJ3zzvmNJ/1386.m3u8
-
-#EXTINF:-1,UK:Sky Movies Comedy Central
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1795.m3u8
-#EXTINF:-1,UK:FOX
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1783.m3u8
-#EXTINF:-1,UK: Sky Movies Drama
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1694.m3u8
-#EXTINF:-1,UK: SKY Movies Premier HD
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1253.m3u8
-#EXTINF:-1,UK: Sky Movies Thriller HD
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1251.m3u8
-#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1252.m3u8
-#EXTINF:-1,UK: Sky Movies Modern
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1098.m3u8
-#EXTINF:-1,UK: Sky Movies Family
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1097.m3u8
-#EXTINF:-1,UK: Sky Movies Comedy
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1096.m3u8
-#EXTINF:-1,UK: Sky Movies Select
-http://ksportiptv.com:1557/live/mix02/qqqgdvgPAD/1099.m3u8
 
 #EXTINF:-1 tvg-id="168" tvg-name="Sport Klub 1" tvg-logo="/noicon.png" group-title="4 - Sport",Sport Klub 1 - Sport Klub 1
 http://s3-streamer.mkstream.mk:80/live?channelId=168&uid=73&deviceUser=smile&devicePass=smile
