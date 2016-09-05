@@ -27,9 +27,6 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
 http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD (Kodi)"  group-title="KOREA",KBS WORLD (Kodi)
-rtmp://118.97.183.196/jhos
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1 SD"  group-title="Group N/A",TV1 SD
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b974000_sleng.m3u8
 
@@ -320,3 +317,77 @@ http://s3-streamer.mkstream.mk:80/live?channelId=168&uid=73&deviceUser=smile&dev
 http://s3-streamer.mkstream.mk:80/live?channelId=169&uid=73&deviceUser=smile&devicePass=smile
 #EXTINF:-1 tvg-id="170" tvg-name="Sport Klub 3" tvg-logo="/noicon.png" group-title="4 - Sport",Sport Klub 3 - Sport Klub 3
 http://s3-streamer.mkstream.mk:80/live?channelId=170&uid=73&deviceUser=smile&devicePass=smile
+
+#EXTINF:-1 KBS WORLD 1
+rtmp://live.kbskme.gscdn.com/kbs_worldtv/
+
+#EXTINF:-1 KBS WORLD 1
+rtmp://live.kbskme.gscdn.com/kbs_worldtv/
+#EXTINF:-1 KBS WORLD 2
+rtmp://live.kbskme.gscdn.com/kbs_worldtv/ playpath=kbs_worldtv_4.stream live=true timeout=15 swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World
+#EXTINF:-1 KBS WORLD 3
+rtmp://live.kbskme.gscdn.com/kbs_worldtv/ playpath=kbs_worldtv swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World
+#EXTINF:-1 KBS WORLD 4
+rtmp://live.kbskme.gscdn.com/kbs_worldtv/_definst_/ playpath=kbs_worldtv_4.streamm live=true swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World
+
+#EXTINF:-1 CCTV 14
+http://125.88.92.166:30001/PLTV/88888956/224/3221227675/1.m3u8
+
+#EXTINF:-1 BTV KAKU
+http://125.88.92.166:30001/PLTV/88888956/224/3221227734/1.m3u8
+
+#EXTINF:-1 Aljazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
+
+#EXTINF:-1 Raxa TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
+
+#EXTINF:-1 TV Edukasi
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+
+#EXTINF:-1 MACTV
+rtmp://stream.cdn.twgate.net/live/ccdntw/ playpath=mactvlive_3 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/495/mactv-macroview-
+
+#EXTINF:-1 CCTV 1
+http://211.142.45.236:1936/live/CCTV1.stream_360p/playlist.m3u8
+
+#EXTINF:-1 CCTV 12
+http://125.88.92.166:30001/PLTV/88888956/224/3221227724/1.m3u8
+#EXTINF:-1 CCTV 12_2
+http://125.88.92.166:30001/PLTV/88888956/224/3221227724/1473056758-1-395721.hls.ts
+
+#EXTINF:-1 CCTV 13
+http://125.88.92.166:30001/PLTV/88888956/224/3221227701/1.m3u8
+
+#EXTINF:-1 CCTV 15
+http://125.88.92.166:30001/PLTV/88888956/224/3221227727/1.m3u8
+
+#EXTINF:-1 CCTV 5
+http://211.142.45.236:1936/live/CCTV5.stream_360p/playlist.m3u8
+
+#EXTINF:-1 CCTV6
+http://211.142.45.236:1936/live/CCTV6.stream_360p/playlist.m3u8
+
+#EXTINF:-1 CCTV6 2
+http://211.142.45.236:1936/live/CCTV6.stream_480p/playlist.m3u8
+
+#EXTINF:-1 CCTV6 3
+http://211.142.45.236:1936/live/CCTV6.stream_720p/playlist.m3u8
+
+#EXTINF:-1 CCTV 7
+http://125.88.92.166:30001/PLTV/88888956/224/3221227695/1.m3u8
+
+#EXTINF:-1 CCTV 9
+http://125.88.92.166:30001/PLTV/88888956/224/3221227669/1.m3u8
+
+#EXTINF:-1 CCTV ENGLISH
+http://125.88.92.166:30001/PLTV/88888956/224/3221227704/1.m3u8
+
+#EXTINF:-1 Guangdong Kids
+http://125.88.92.166:30001/PLTV/88888956/224/3221227654/1.m3u8
+
+#EXTINF:-1 TRANS 7
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b512000000.m3u8?stime=20160905064514&etime=20160905104514&encoded=0a12c02af3ddfaa1b3cc7
+
+#EXTINF:-1 trans 7 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b512000000.m3u8
