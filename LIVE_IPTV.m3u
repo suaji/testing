@@ -285,23 +285,23 @@ http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
 #EXTINF:-1, MLS Soccer
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
-#EXTINF:-1,CTH Stadium 6 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/207.m3u8
-#EXTINF:-1,CTH Stadium 5 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/208.m3u8
-#EXTINF:-1,CTH Stadium 4 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/209.m3u8
-#EXTINF:-1,CTH Stadium 3 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/210.m3u8
-#EXTINF:-1,CTH Stadium 2 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/211.m3u8
 #EXTINF:-1,CTH Stadium 1 HD
 http://space-iptv.ddns.net:8112/live/karim/karim/212.m3u8
+#EXTINF:-1,CTH Stadium 2 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/211.m3u8
+#EXTINF:-1,CTH Stadium 3 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/210.m3u8
+#EXTINF:-1,CTH Stadium 4 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/209.m3u8
+#EXTINF:-1,CTH Stadium 5 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/208.m3u8
+#EXTINF:-1,CTH Stadium 6 HD
+http://space-iptv.ddns.net:8112/live/karim/karim/207.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1, (TESTING 05/09/16)
+#EXTINF:-1, (TESTING 06/09/16)
 http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
 
 #EXTINF:-1, beIN sports 1 HD
@@ -318,76 +318,113 @@ http://s3-streamer.mkstream.mk:80/live?channelId=169&uid=73&deviceUser=smile&dev
 #EXTINF:-1 tvg-id="170" tvg-name="Sport Klub 3" tvg-logo="/noicon.png" group-title="4 - Sport",Sport Klub 3 - Sport Klub 3
 http://s3-streamer.mkstream.mk:80/live?channelId=170&uid=73&deviceUser=smile&devicePass=smile
 
-#EXTINF:-1 KBS WORLD 1
+#EXTINF:0 KBS WORLD 1
 rtmp://live.kbskme.gscdn.com/kbs_worldtv/
 
-#EXTINF:-1 KBS WORLD 1
+#EXTINF:0 KBS WORLD 1
 rtmp://live.kbskme.gscdn.com/kbs_worldtv/
-#EXTINF:-1 KBS WORLD 2
+#EXTINF:0 KBS WORLD 2
 rtmp://live.kbskme.gscdn.com/kbs_worldtv/ playpath=kbs_worldtv_4.stream live=true timeout=15 swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World
-#EXTINF:-1 KBS WORLD 3
+#EXTINF:0 KBS WORLD 3
 rtmp://live.kbskme.gscdn.com/kbs_worldtv/ playpath=kbs_worldtv swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World
-#EXTINF:-1 KBS WORLD 4
+#EXTINF:0 KBS WORLD 4
 rtmp://live.kbskme.gscdn.com/kbs_worldtv/_definst_/ playpath=kbs_worldtv_4.streamm live=true swfUrl=https://aqstream.com/vjs/video-js.swf pageUrl=https://aqstream.com/kbswo/KBS-World
 
-#EXTINF:-1 CCTV 14
+#EXTINF:0 CCTV 14
 http://125.88.92.166:30001/PLTV/88888956/224/3221227675/1.m3u8
 
-#EXTINF:-1 BTV KAKU
+#EXTINF:0 BTV KAKU
 http://125.88.92.166:30001/PLTV/88888956/224/3221227734/1.m3u8
 
-#EXTINF:-1 Aljazeera Kids
+#EXTINF:0 Aljazeera Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
-#EXTINF:-1 Raxa TV
+#EXTINF:0 Raxa TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
 
-#EXTINF:-1 TV Edukasi
+#EXTINF:0 TV Edukasi
 http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 
-#EXTINF:-1 MACTV
+#EXTINF:0 MACTV
 rtmp://stream.cdn.twgate.net/live/ccdntw/ playpath=mactvlive_3 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/495/mactv-macroview-
 
-#EXTINF:-1 CCTV 1
+#EXTINF:0 CCTV 1
 http://211.142.45.236:1936/live/CCTV1.stream_360p/playlist.m3u8
 
-#EXTINF:-1 CCTV 12
+#EXTINF:0 CCTV 12
 http://125.88.92.166:30001/PLTV/88888956/224/3221227724/1.m3u8
-#EXTINF:-1 CCTV 12_2
+#EXTINF:0 CCTV 12_2
 http://125.88.92.166:30001/PLTV/88888956/224/3221227724/1473056758-1-395721.hls.ts
 
-#EXTINF:-1 CCTV 13
+#EXTINF:0 CCTV 13
 http://125.88.92.166:30001/PLTV/88888956/224/3221227701/1.m3u8
 
-#EXTINF:-1 CCTV 15
+#EXTINF:0 CCTV 15
 http://125.88.92.166:30001/PLTV/88888956/224/3221227727/1.m3u8
 
-#EXTINF:-1 CCTV 5
+#EXTINF:0 CCTV 5
 http://211.142.45.236:1936/live/CCTV5.stream_360p/playlist.m3u8
 
-#EXTINF:-1 CCTV6
+#EXTINF:0 CCTV6
 http://211.142.45.236:1936/live/CCTV6.stream_360p/playlist.m3u8
 
-#EXTINF:-1 CCTV6 2
+#EXTINF:0 CCTV6 2
 http://211.142.45.236:1936/live/CCTV6.stream_480p/playlist.m3u8
 
-#EXTINF:-1 CCTV6 3
+#EXTINF:0 CCTV6 3
 http://211.142.45.236:1936/live/CCTV6.stream_720p/playlist.m3u8
 
-#EXTINF:-1 CCTV 7
+#EXTINF:0 CCTV 7
 http://125.88.92.166:30001/PLTV/88888956/224/3221227695/1.m3u8
 
-#EXTINF:-1 CCTV 9
+#EXTINF:0 CCTV 9
 http://125.88.92.166:30001/PLTV/88888956/224/3221227669/1.m3u8
 
-#EXTINF:-1 CCTV ENGLISH
+#EXTINF:0 CCTV ENGLISH
 http://125.88.92.166:30001/PLTV/88888956/224/3221227704/1.m3u8
 
-#EXTINF:-1 Guangdong Kids
+#EXTINF:0 Guangdong Kids
 http://125.88.92.166:30001/PLTV/88888956/224/3221227654/1.m3u8
 
-#EXTINF:-1 TRANS 7
+#EXTINF:0 TRANS 7
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b512000000.m3u8?stime=20160905064514&etime=20160905104514&encoded=0a12c02af3ddfaa1b3cc7
 
-#EXTINF:-1 trans 7 1
+#EXTINF:0 trans 7 1
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b512000000.m3u8
+
+#EXTINF:-1,NL: Fox Sports 1 Eredivisie HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1794.m3u8
+#EXTINF:-1,NL: Fox sports 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1795.m3u8
+#EXTINF:-1,NL: Fox sports 3
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1796.m3u8
+#EXTINF:-1,NL: Fox sports 4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1797.m3u8
+#EXTINF:-1,NL: Fox Sports 5 Eredivisie
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1798.m3u8
+#EXTINF:-1,NL: Fox Sports 6
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3548.m3u8
+
+#EXTINF:-1,BEINSPORT-1HD
+http://5.9.118.115:8000/live/bkr/bkr/29.m3u8
+#EXTINF:-1,BEINSPORT-2HD
+http://5.9.118.115:8000/live/bkr/bkr/30.m3u8
+#EXTINF:-1,BEINSPORT-3HD
+http://5.9.118.115:8000/live/bkr/bkr/31.m3u8
+#EXTINF:-1,BEINSPORT-4HD
+http://5.9.118.115:8000/live/bkr/bkr/32.m3u8
+#EXTINF:-1,BEINSPORT-5HD
+http://5.9.118.115:8000/live/bkr/bkr/33.m3u8
+
+#EXTINF:-1,DE : SKY BUNDESLIGA 1
+http://62.210.162.88:80/live/DE118/131102032016/2109.m3u8
+
+#EXTINF:0 INDONESIA TRANS7
+http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
+
+#EXTINF:-1,UK: BT Sports Extra 2 HD
+http://orbit-iptv.com:2500/live/naa/naa/2826.m3u8
+#EXTINF:-1,UK: SKY BT Sports 1 HD
+http://orbit-iptv.com:2500/live/naa/naa/1488.m3u8
+#EXTINF:-1,UK:  SKY BT Sports 2 HD
+http://orbit-iptv.com:2500/live/naa/naa/1487.m3u8
