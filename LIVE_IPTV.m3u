@@ -428,3 +428,37 @@ http://orbit-iptv.com:2500/live/naa/naa/2826.m3u8
 http://orbit-iptv.com:2500/live/naa/naa/1488.m3u8
 #EXTINF:-1,UK:  SKY BT Sports 2 HD
 http://orbit-iptv.com:2500/live/naa/naa/1487.m3u8
+
+#EXTINF:-1,UK: Sky Uk Sport F1 HD
+http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/221.m3u8
+#EXTINF:-1,UK: Sky Uk BT Sport 1 HD
+http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/15.m3u8
+#EXTINF:-1,UK: Sky Uk BT Sport 2 HD
+http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/16.m3u8
+#EXTINF:-1,UK: BT Sport Europe HD
+http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/1023.m3u8
+
+#EXTINF:-1,=UK=: UK BT Sport Europe HD
+http://51.255.74.186:9900/live/111/111/10098.m3u8
+#EXTINF:-1,=UK=: UK BT Sport 2 HD
+http://51.255.74.186:9900/live/111/111/10099.m3u8
+#EXTINF:-1,=UK=: UK BT Sport 1 HD
+http://51.255.74.186:9900/live/111/111/10100.m3u8
+
+#EXTINF:-1,sport: Astro Sport 4
+http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2483.m3u8
+#EXTINF:-1,sport: Astro Sport 3
+http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2481.m3u8
+#EXTINF:-1,sport: Astro Sport 2
+http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2480.m3u8
+#EXTINF:-1,sport: Astro Sport 1
+http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2482.m3u8
+
+#EXTINF:-1,MY: BT Sport 2
+http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/346.m3u8
+#EXTINF:-1,MY: BT Sport 1
+http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/347.m3u8
+#EXTINF:-1,MY: BT SPORT 2 HD
+http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2501.m3u8
+#EXTINF:-1,MY BT SPORT 1 HD
+http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2500.m3u8

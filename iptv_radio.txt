@@ -1,12 +1,12 @@
 <item>
-<title>[COLOR red]kemaskini (09-08-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (08-09-16)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
 <title>IKIM FM</title>
-<link>http://50.7.96.210:8285/;stream.mp3</link>
+<link>http://ikim.my:8000/;stream.mp3</link>
 <thumbnail>http://ikimfm.my/wp-content/uploads/2014/03/logo-ikimfm.png</thumbnail>
 </item>
 

@@ -2363,6 +2363,22 @@
 </item>
 
 <item>
+<title>Testing Regex</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamin.to/embed-g05maht2oz5v-640x360.html'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
 <title>==============================================================</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
