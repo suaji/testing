@@ -11,7 +11,25 @@
 </item>
 
 <item>
-<title>Dukun Doktor Dani (2016)</title>
+<title>Kampung Drift HD (2016)</title>
+<link>$doregex[GetPageUrl]</link>
+<thumbnail>http://vplaytv.me/wp-content/uploads/2016/09/kampung-drift.jpg</thumbnail>
+<fanart>http://www.rotikaya.com/wp-content/uploads/2016/08/2-Kampung-Drift-Bukti-Nafas-Baru-Perfileman-Negara-ROTIKAYA.jpg</fanart>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamin.to/embed-9g36d8w31j01-640x360.html'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Dukun Doktor Dani HD (2016)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9g36d8w31j01-640x360.html</link>
 <thumbnail>https://2.bp.blogspot.com/-LjA6vyiv5wY/V4iQOTkBcNI/AAAAAAAAB7I/pmKc1OmpBW0ic5OuNZuFXISHiSEyR7PfACLcB/s1600/Dukun%2BDoktor%2BDani.jpg</thumbnail>
 <fanart>http://galaksi-media.com/wp-content/uploads/2016/07/IMG_1947.jpg</fanart>
@@ -2363,7 +2381,7 @@
 </item>
 
 <item>
-<title>Testing 1</title>
+<title>Al-Hijrah TV 2</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -2372,6 +2390,22 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamin.to/embed-9g36d8w31j
     import urlresolver
     u = urlresolver.resolve(url)
     return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>MOVIE 1</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def get_url('http://streamin.to/embed-9g36d8w31j01-640x360.html'):
+        import urlresolver
+        u = urlresolver.resolve(url)
+        return u
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
@@ -2399,4 +2433,10 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamin.to/embed-9g36d8w31j
 <title>kredit www.PencuriMovie.ph</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
+</item>
+
+<item>
+<title>Al-Hijrah TV</title>
+<link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv_alhijrah.png</thumbnail>
 </item>
