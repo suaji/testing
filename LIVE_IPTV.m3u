@@ -37,7 +37,10 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
 http://tv.vidiostream.com/i/trans7_1@137582/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" tvg-name="TRANS TV"  group-title="Group N/A",TRANS TV
-http://tv.vidiostream.com/i/transtv_1@137582/master.m3u8
+http://stream-03.sg1.dailymotion.com/01/dm/1/x4nwi47/live.isml/events(live-1486447499)/live-audio=128000-video=2000000.m3u8
+
+#EXTINF:0, TRANS TV2
+http://stream-01.sg1.dailymotion.com/01/dm/1/x4nwi47/live.isml/events(live-1486447499)/live-audio=128000-video=2000000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rcti_id.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
@@ -47,39 +50,6 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-
-#EXTINF:0, .....CHINA / TAIWAN.....
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3542.ts
-
-#EXTINF:-1,MACTV
-rtmp://stream.cdn.twgate.net/live/ccdntw/ playpath=mactvlive_3 swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/495/mactv-macroview-
-
-#EXTINF:-1,CCTV ENGLISH
-http://125.88.92.166:30001/PLTV/88888956/224/3221227704/1.m3u8
-
-#EXTINF:-1,CCTV 1
-http://211.142.45.236:1936/live/CCTV1.stream_360p/playlist.m3u8
-
-#EXTINF:-1,CCTV 5
-http://211.142.45.236:1936/live/CCTV5.stream_360p/playlist.m3u8
-
-#EXTINF:-1,CCTV 6
-http://211.142.45.236:1936/live/CCTV6.stream_360p/playlist.m3u8
-
-#EXTINF:-1,CCTV 7
-http://125.88.92.166:30001/PLTV/88888956/224/3221227695/1.m3u8
-
-#EXTINF:-1,CCTV 9
-http://125.88.92.166:30001/PLTV/88888956/224/3221227669/1.m3u8
-
-#EXTINF:-1,CCTV 12
-http://125.88.92.166:30001/PLTV/88888956/224/3221227724/1.m3u8
-
-#EXTINF:-1,CCTV 13
-http://125.88.92.166:30001/PLTV/88888956/224/3221227701/1.m3u8
-
-#EXTINF:-1,CCTV 15
-http://125.88.92.166:30001/PLTV/88888956/224/3221227727/1.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png" tvg-name="KOMPAS TV (Kodi)"  group-title="INDONESIA",KOMPAS TV (Kodi)
 rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/455/kompastv
@@ -108,29 +78,6 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR fuchsia].....KIDS.....[/COLOR]"  group-title="Group N/A",[COLOR fuchsia].....KIDS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/285894_9ac2cf0d1b3dca597520d20b02bce02c/m3u8s/285894.m3u8
 
-#EXTINF:0, NICKELODEON
-http://109.111.184.197:4022/udp/239.211.211.30:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT COCUK HD"  group-title="Group N/A",TRT COCUK HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-
-#EXTINF:-1,CCTV 14
-http://125.88.92.166:30001/PLTV/88888956/224/3221227675/1.m3u8
-
-#EXTINF:-1,Guangdong Kids
-http://125.88.92.166:30001/PLTV/88888956/224/3221227654/1.m3u8
-
-#EXTINF:-1,BTV KAKU
-http://125.88.92.166:30001/PLTV/88888956/224/3221227734/1.m3u8
-
-#EXTINF:-1,Aljazeera Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
-
-#EXTINF:-1,Raxa TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
-
-#EXTINF:-1,TV Edukasi
-http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]"  group-title="Group N/A",[COLOR aquamarine].....DOCUMENTARY.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
@@ -269,4 +216,5 @@ http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1, (TESTING 12/10/16)
+#EXTINF:-1, (TESTING 07/02/17)
+http://d1cq5wn80firug.cloudfront.net/456281_69ec762e051924147895d9234dac1e46/m3u8s/456281.m3u8
