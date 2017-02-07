@@ -1,49 +1,28 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BACKUP ADDONS IPTV MALAYSIA"  group-title="Group N/A",BACKUP ADDONS IPTV MALAYSIA
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/1UJhLwH"  group-title="Group N/A",http://bit.ly/1UJhLwH
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
-http://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png" tvg-name="TVi"  group-title="MALAYSIA",TVi
-http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
-http://rtm-live.glueapi.io/smil:rtmch004/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:0, Parlimen TV
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
-http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
-http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1 SD"  group-title="Group N/A",TV1 SD
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b974000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2 SD"  group-title="Group N/A",TV2 SD
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b974000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png" tvg-name="TVi SD"  group-title="Group N/A",TVi SD
-http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="GALAKSI MUZIK SD"  group-title="Group N/A",GALAKSI MUZIK SD
-http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b974000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS SD"  group-title="Group N/A",1NEWS SD
-http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI SD"  group-title="MALAYSIA",AWANI SD
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer1.m3u8
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue].....INDONESIA.....[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue].....INDONESIA.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/314954_ee0621e8a1133cfada4f0b43fd14d38d/m3u8s/314954.m3u8
@@ -287,118 +266,7 @@ http://124.82.221.149:8000/;stream.mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson].....SPORTS.....[/COLOR]"  group-title="SPORTS",[COLOR crimson].....SPORTS.....[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED : 09-09-2016"  group-title="UPDATED",UPDATED : 09-09-2016
-http://d1cq5wn80firug.cloudfront.net/299092_0dcf45dfddbf178732d377bc496a18be/m3u8s/299092_video_720_2000000.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*BACKUP BOLA LIVE"  group-title="SPORTS",*BACKUP BOLA LIVE
-http://IPWAN:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=COLOR
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*KODI (Phoenix 3.1.7)"  group-title="SPORTS",*KODI (Phoenix 3.1.7)
-http://50.7.96.219/master.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="hhttp://bit.ly/2chGAlQ"  group-title="SPORTS",http://bit.ly/2chGAlQ
-http://ow.ly/XzGG7
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*KODI (UK TURK 3.0.3)"  group-title="SPORTS",*KODI (UK TURK 3.0.3)
-http://50.7.96.220/master.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="http://bit.ly/2b5E6Fu"  group-title="SPORTS",http://bit.ly/2b5E6Fu
-http://bit.ly/2atxJz1
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png" tvg-name="BT SPORT 1"  group-title="SPORTS",BT SPORT 1
-http://51.255.74.186:9900/live/111/111/10100.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png" tvg-name="BT SPORT 2"  group-title="SPORTS",BT SPORT 2
-http://51.255.74.186:9900/live/111/111/10099.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png" tvg-name="BT SPORT 3"  group-title="SPORTS",BT SPORT 3
-http://51.255.74.186:9900/live/111/111/10098.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png" tvg-name="BT SPORT 1 SD"  group-title="SPORTS",BT SPORT 1 SD
-http://space-iptv.ddns.net:8112/live/karim/karim/197.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png" tvg-name="BT SPORT 2 SD"  group-title="SPORTS",BT SPORT 2 SD
-http://space-iptv.ddns.net:8112/live/karim/karim/196.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png" tvg-name="BT SPORT 3 SD"  group-title="SPORTS",BT SPORT 3 SD
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="FOX SPORTS 1"  group-title="SPORTS",FOX SPORTS 1
-http://51.255.74.186:9900/live/111/111/5816.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.wrestlemadness.myewebsite.com/img/mid/1/wwe-logo-wrestling-symbol.jpg" tvg-name="WWE Wrestling"  group-title="SPORTS",WWE Wrestling
-http://212.129.54.196:8000/live/giulio/giulio/510.m3u8
-
-#EXTINF:-1, MLS Soccer
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:-1,CTH Stadium 1 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/212.m3u8
-#EXTINF:-1,CTH Stadium 2 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/211.m3u8
-#EXTINF:-1,CTH Stadium 3 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/210.m3u8
-#EXTINF:-1,CTH Stadium 4 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/209.m3u8
-#EXTINF:-1,CTH Stadium 5 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/208.m3u8
-#EXTINF:-1,CTH Stadium 6 HD
-http://space-iptv.ddns.net:8112/live/karim/karim/207.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
 #EXTINF:-1, (TESTING 12/10/16)
-http://d1cq5wn80firug.cloudfront.net/347047_f98f8f541f0b2d0504a56ee1a5ac9ada/m3u8s/347047.m3u8
-
-#EXTINF:-1,UK: BT Sport 1 HD
-http://51.255.88.234:8080/live/amir2/amir2/6911.m3u8
-#EXTINF:-1,UK: BT Sports 1
-http://51.255.88.234:8080/live/amir2/amir2/671.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://51.255.88.234:8080/live/amir2/amir2/6912.m3u8
-#EXTINF:-1,UK: BT Sports 2
-http://51.255.88.234:8080/live/amir2/amir2/817.m3u8
-#EXTINF:-1,UK: BT SPORT 3 HD
-http://51.255.88.234:8080/live/amir2/amir2/9647.m3u8
-#EXTINF:-1,UK: BT Sport Europe HD
-http://51.255.88.234:8080/live/amir2/amir2/6780.m3u8
-#EXTINF:-1,UK: BT Sport Europe
-http://51.255.88.234:8080/live/amir2/amir2/6858.m3u8
-#EXTINF:-1,UK: BT Sport ESPN
-http://51.255.88.234:8080/live/amir2/amir2/1440.m3u8
-
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 1
-http://51.255.88.234:8080/live/amir2/amir2/9419.m3u8
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 2
-http://51.255.88.234:8080/live/amir2/amir2/9420.m3u8
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 3
-http://51.255.88.234:8080/live/amir2/amir2/9421.m3u8
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 4
-http://51.255.88.234:8080/live/amir2/amir2/9422.m3u8
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 5
-http://51.255.88.234:8080/live/amir2/amir2/9423.m3u8
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 6
-http://51.255.88.234:8080/live/amir2/amir2/9424.m3u8
-
-#EXTINF:-1,US:Fox-Sports2
-http://195.154.182.238:5477/live/3132/3132/9348.m3u8
-#EXTINF:-1,US:Fox-Sports1
-http://195.154.182.238:5477/live/3132/3132/9349.m3u8
-#EXTINF:-1,US:Fox Sports-1HD
-http://195.154.182.238:5477/live/3132/3132/9359.m3u8
-
-#EXTINF:-1,UK - Premier Sports
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/5145.m3u8
-#EXTINF:-1,UK - BT Sports 1
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/5178.m3u8
-#EXTINF:-1,UK - BT Sports 2
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/5177.m3u8
-#EXTINF:-1,UK - BT Sports 3
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10906.m3u8
-
-#EXTINF:-1,BT Sports 3
-http://162.243.17.5:8000/live/IPTV/IPTV/86.m3u8
-#EXTINF:-1,BT Sports 2
-http://162.243.17.5:8000/live/IPTV/IPTV/87.m3u8
-#EXTINF:-1,BT Sports 1
-http://162.243.17.5:8000/live/IPTV/IPTV/88.m3u8
