@@ -11,12 +11,6 @@
 </item>
 
 <item>
-<title>PEACE YALL FM</title>
-<link>http://stream1.mfacelive.com:1935/pyedge/peaceyallfm_240p/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_radio/peaceyall_fm.png</thumbnail>
-</item>
-
-<item>
 <title>ERA FM</title>
 <link>http://astro2.rastream.com/era?type=.flv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/era_astro.png</thumbnail>

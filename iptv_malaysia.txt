@@ -1,18 +1,6 @@
 <item>
-<title>[COLOR red]kemaskini (26-08-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (08-02-17)[/COLOR]</title>
 <link>.</link>
-<thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>[COLOR green]MAKKAH LIVE HD[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=D8YHp37-tp0</link>
-<thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>[COLOR green]MADINAH LIVE HD[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ArVmnth5jB4</link>
 <thumbnail>.</thumbnail>
 </item>
 
@@ -101,4 +89,34 @@
 <title>Bernama TV</title>
 <link>http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png</thumbnail>
+</item>
+
+<item>
+<title>TV1 SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
+</item>
+
+<item>
+<title>TVi SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
+</item>
+
+<item>
+<title>GALAKSI MUZIK SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>
+</item>
+
+<item>
+<title>1NEWS SD</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>
 </item>

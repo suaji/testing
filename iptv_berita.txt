@@ -1,17 +1,23 @@
 <item>
-<title>[COLOR red]kemaskini (26-08-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (08-02-17)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
-<title>Awani</title>
+<title>AWANI TV</title>
 <link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png</thumbnail>
 </item>
 
 <item>
-<title>Bernama TV</title>
+<title>BERNAMA TV</title>
+<link>http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png</thumbnail>
+</item>
+
+<item>
+<title>Bernama TV SD</title>
 <link>http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png</thumbnail>
 </item>

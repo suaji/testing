@@ -1,13 +1,7 @@
 <item>
-<title>[COLOR red]kemaskini (26-08-16)[/COLOR]</title>
+<title>[COLOR red]kemaskini (08-02-17)[/COLOR]</title>
 <link>https://aqstream.com/kbswo/KBS-World-Official-2</link>
 <thumbnail>.</thumbnail>
-</item>
-
-<item>
-<title>KBS World 24 - KRN</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YBoL4_WimT8</link>
-<thumbnail>http://www.itver.cc/wp-content/uploads/2015/01/KBS-World-24-Logo.png</thumbnail>
 </item>
 
 <item>
@@ -17,20 +11,8 @@
 </item>
 
 <item>
-<title>KBS World HD - KRN (US/UK SmartDNS)</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PUl4hiEOXSo</link>
-<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
-</item>
-
-<item>
-<title>ARIRANG GLOBAL - KRN</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YyiwBOOGvj0</link>
-<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/391_300.png</thumbnail>
-</item>
-
-<item>
 <title>iNews TV - IDN</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8</link>
+<link>http://live.metube.id/tv/channel3000005/index2000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ii/i_news_tv_id.png</thumbnail>
 </item>
 
@@ -71,20 +53,8 @@
 </item>
 
 <item>
-<title>TRANS 7 - IDN</title>
-<link>http://tv.vidiostream.com/i/trans7_1@137582/master.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png</thumbnail>
-</item>
-
-<item>
-<title>TRANS TV - IDN</title>
-<link>http://tv.vidiostream.com/i/transtv_1@137582/master.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png</thumbnail>
-</item>
-
-<item>
 <title>NET TV (HD) - IDN</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XPy5jvhxSic</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZjlKbaOC5ds</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/net_tv_id.png</thumbnail>
 </item>
 

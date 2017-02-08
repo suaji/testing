@@ -33,28 +33,3 @@
 <link>http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-
-<item>
-<title>testing reqex</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-02c0m3svdcqk-640x360.html</link>
-<thumbnail>.</thumbnail>
-<fanart>.</fanart>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-02c0m3svdcqk-640x360.html</page>
-<referer>http://streamin.to/02c0m3svdcqk</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-02c0m3svdcqk-640x360.html</page>
-<referer>http://streamin.to/02c0m3svdcqk</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-02c0m3svdcqk-640x360.html</page>
-<referer>http://streamin.to/02c0m3svdcqk</referer>
-</regex>
-</item>
