@@ -175,5 +175,34 @@ http://46.105.115.37:8000/live/iptv1790/179065287/105.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1, (TESTING 07/02/17)
+#EXTINF:-1, (TESTING 03/03/17)
 http://d1cq5wn80firug.cloudfront.net/456281_69ec762e051924147895d9234dac1e46/m3u8s/456281.m3u8
+
+#EXTINF:-1,UK_BT_Sport_1_HD
+http://smart-iptv2016.com:9500/live/hamza/hamza/648.m3u8
+#EXTINF:-1,UK_BT_Sport_2_HD
+http://smart-iptv2016.com:9500/live/hamza/hamza/649.m3u8
+#EXTINF:-1,UK_BT_Sport_Extra_HD
+http://smart-iptv2016.com:9500/live/hamza/hamza/932.m3u8
+#EXTINF:-1,UK_BT_Sport_Europe_2HD
+http://smart-iptv2016.com:9500/live/hamza/hamza/651.m3u8
+#EXTINF:-1,UK_BT_Sport_Europe_HD
+http://smart-iptv2016.com:9500/live/hamza/hamza/650.m3u8
+
+#EXTINF:-1,UK | BT Sport 2
+http://sutverduz.com:8080/live/MGtawBJgF7/miPlw9TsGJ/1078.m3u8
+#EXTINF:-1,UK | BT Sport 1
+http://sutverduz.com:8080/live/MGtawBJgF7/miPlw9TsGJ/1079.m3u8
+#EXTINF:-1,UK | BT Sport Europe
+http://sutverduz.com:8080/live/MGtawBJgF7/miPlw9TsGJ/1085.m3u8
+
+#EXTINF:0,ABC HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNTozNCBQTSZoYXNoX3ZhbHVlPUx1cFEyd0xWYkRoemRNRitFVU9qamc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abchd.stream
+#EXTINF:0,ABC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxODozNiBQTSZoYXNoX3ZhbHVlPXMrWlZqNFVkVTQ2MjlWOVYzaDBhOWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abc9.stream
+#EXTINF:0,AMC HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNjoyNSBQTSZoYXNoX3ZhbHVlPVE1UEtxdVErTVUwT2tteE1EK3ZnZXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/amchd.stream
+#EXTINF:0,AMC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNzo0NSBQTSZoYXNoX3ZhbHVlPThiV3VyRm9GOWxxRVVVUEFQOUtiZ2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/amc9.stream
+#EXTINF:0,Animal Planet
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
