@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<title>MyFlix</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+.style1 {font-size: 12px}
+.style3 {font-weight: bold}
+.style5 {font-weight: bold}
+</style>
+
+<head>
+<SCRIPT language=JavaScript>
+
+var message = "MalayFlix Anda";
+
+function rtclickcheck(keyp){ if (navigator.appName == "Netscape" && keyp.which == 3){ alert(message); return false; }
+
+if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) { alert(message); return false; } }
+
+document.onmousedown = rtclickcheck;
+
+</SCRIPT>	
+</head>
+
+<body oncontextmenu="return false">
+
+<!-- Menu -->
+<div class="w3-top">
+  <div class="w3-bar w3-red w3-card-2 w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onClick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="Tivi.html" class="w3-bar-item w3-button w3-padding-large w3-white"><strong><u>LIVE TV</u></strong></a>
+    <a href="2O17.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">2017</a>
+    <a href="2O16.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">2016</a>
+    <a href="2O15.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">2015</a>
+    <a href="Nota.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">NOTA</a>
+  </div>
+
+  <!-- Menu Mobile -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="2O17.html" class="w3-bar-item w3-button w3-padding-large">2017</a>
+    <a href="2016.html" class="w3-bar-item w3-button w3-padding-large">2016</a>
+    <a href="2O15.html" class="w3-bar-item w3-button w3-padding-large">2015</a>
+    <a href="Nota.html" class="w3-bar-item w3-button w3-padding-large">NOTA</a>
+  </div>
+</div>
+
+<div>
+	
+	<div align="center">
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  
+    <tr>
+      <td colspan="4"><div align="center"><strong>FREE TO AIR</strong></div></td>
+    </tr>
+    <tr>
+      <td><div align="center"><a href="http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8"><img src="css/tv/tv1.png" width="132" height="99"></a></div></td>
+      <td><div align="center"><a href="http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+"><img src="css/tv/tv2.png" width="132" height="99"></a></div></td>
+      <td><div align="center">
+        <p><a href="http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+"><img src="css/tv/muzik.png" width="132" height="99"></a></p>
+        </div></td>
+      <td><div align="center"><a href="http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+"><img src="css/tv/tvi.png" width="132" height="99"></a></div></td>
+    </tr>
+    <tr>
+      <td><div align="center" class="style3 style1"></div></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><div align="center"><a href="http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8"><img src="css/tv/astro_awani.png" width="132" height="99"></a></div></td>
+      <td><div align="center"><a href="http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8"><img src="css/tv/bernama.png" width="132" height="99"></a></div></td>
+	  <td><div align="center"><a href="http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+"><img src="css/tv/1news.png" width="132" height="99"></a></div></td>
+      <td><div align="center"><a href=""><img src="css/tv/parlimen.png" width="132" height="99"></a></div></td>
+    </tr>
+	
+  </table>
+</div>
+	
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+</body>
+</html>
