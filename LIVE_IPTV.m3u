@@ -6,7 +6,7 @@ http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png" tvg-name="TVi"  group-title="MALAYSIA",TVi
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://rtm-image.glueapi.io/100x0/live_stream/okey.png" tvg-name="Okey"  group-title="MALAYSIA",Okey
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
@@ -36,32 +36,14 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ii/i_news_tv_id.png" tvg-name="iNews TV"  group-title="INDONESIA",iNews TV
 http://live.metube.id/tv/channel3000005/index2000.m3u8
 
-#EXTINF:0, iNews TV SD
-http://live.metube.id/tv/channel3000005/index1000.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" tvg-name="TRANS 7"  group-title="Group N/A",TRANS 7
-http://tv.vidiostream.com/i/trans7_1@137582/master.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" tvg-name="TRANS TV"  group-title="Group N/A",TRANS TV
-http://stream-03.sg1.dailymotion.com/01/dm/1/x4nwi47/live.isml/events(live-1486447499)/live-audio=128000-video=2000000.m3u8
-
 #EXTINF:0, TRANS TV2
-http://stream-01.sg1.dailymotion.com/01/dm/1/x4nwi47/live.isml/events(live-1486447499)/live-audio=128000-video=2000000.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rcti_id.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/mnc_id_tv.png" tvg-name="MNC TV"  group-title="INDONESIA",MNC TV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png" tvg-name="KOMPAS TV (Kodi)"  group-title="INDONESIA",KOMPAS TV (Kodi)
-rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/455/kompastv
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/net_tv_id.png" tvg-name="NET. (Kodi)"  group-title="Group N/A",NET. (Kodi)
-http://id.stream.netmedia.co.id/live/nettv_hi/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][_____NEWS_____][/COLOR]"  group-title="Group N/A",[COLOR slateblue][_____NEWS_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
@@ -70,10 +52,8 @@ http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/aa/abc_news_now.png" tvg-name="ABC NEWS"  group-title="NEWS",ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png" tvg-name="BLOOMBERG"  group-title="NEWS",BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR fuchsia][_____KIDS_____][/COLOR]"  group-title="Group N/A",[COLOR fuchsia][_____KIDS_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/285894_9ac2cf0d1b3dca597520d20b02bce02c/m3u8s/285894.m3u8
@@ -85,19 +65,13 @@ http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u
 http://fms.cntv.lxdns.com/live/flv/channel97.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png" tvg-name="NASA TV"  group-title="NEWS",NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][_____FAMILY_____][/COLOR]"  group-title="Group N/A",[COLOR springgreen][_____FAMILY_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://etvix.com/wp-content/uploads/2015/12/DUBAI-ONE.png" tvg-name="DUBAI ONE HD"  group-title="MOVIES",DUBAI ONE HD
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PLAYY WEST"  group-title="KOREA",PLAYY WEST
-http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR cyan][B][_____MUSIC_____][/B][/COLOR]"  group-title="Group N/A",[COLOR cyan][B][_____MUSIC_____][/B][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/312804_4f15cdaaf3a74440cd1343c1dad9ad47/m3u8s/312804.m3u8
@@ -175,37 +149,47 @@ http://46.105.115.37:8000/live/iptv1790/179065287/104.m3u8
 #EXTINF:-1,UK Boxnation
 http://46.105.115.37:8000/live/iptv1790/179065287/105.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji86 @ gmail dot com"  group-title="UPDATED",suaji86 @ gmail dot com
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suajie"  group-title="UPDATED",suajie
+http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED 16/07/18"  group-title="UPDATED",UPDATED 16/07/18
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 
-#EXTINF:-1, (TESTING 03/03/17)
-http://d1cq5wn80firug.cloudfront.net/456281_69ec762e051924147895d9234dac1e46/m3u8s/456281.m3u8
+#EXTINF:0, group-title="NINMEDIA", DIAMOND TV
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", AVAVA BOLLYWOOD
+http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", AVAVA DIAMOND
+http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", BLACK DIAMOND
+http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", RED DIAMOND
+http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", WHITE DIAMOND
+http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", DIAMOND KIDS
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", DIAMOND EARTH
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", GOLD DIAMOND
+http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
+#EXTINF:0, group-title="NINMEDIA", INSPIRA TV
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
 
-#EXTINF:-1,UK_BT_Sport_1_HD
-http://smart-iptv2016.com:9500/live/hamza/hamza/648.m3u8
-#EXTINF:-1,UK_BT_Sport_2_HD
-http://smart-iptv2016.com:9500/live/hamza/hamza/649.m3u8
-#EXTINF:-1,UK_BT_Sport_Extra_HD
-http://smart-iptv2016.com:9500/live/hamza/hamza/932.m3u8
-#EXTINF:-1,UK_BT_Sport_Europe_2HD
-http://smart-iptv2016.com:9500/live/hamza/hamza/651.m3u8
-#EXTINF:-1,UK_BT_Sport_Europe_HD
-http://smart-iptv2016.com:9500/live/hamza/hamza/650.m3u8
+#EXTINF:-0, group-title="INDONESIA", TRANSTV HD
+https://dmlive.vo.llnwd.net/56/dm/3/x4nwi47/live.m3u8
 
-#EXTINF:-1,UK | BT Sport 2
-http://sutverduz.com:8080/live/MGtawBJgF7/miPlw9TsGJ/1078.m3u8
-#EXTINF:-1,UK | BT Sport 1
-http://sutverduz.com:8080/live/MGtawBJgF7/miPlw9TsGJ/1079.m3u8
-#EXTINF:-1,UK | BT Sport Europe
-http://sutverduz.com:8080/live/MGtawBJgF7/miPlw9TsGJ/1085.m3u8
+#EXTINF:0, group-title="INDONESIA", TRANS 7 #2
+https://cdn-livetv1.metube.id/hls/trans7.m3u8
 
-#EXTINF:0,ABC HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNTozNCBQTSZoYXNoX3ZhbHVlPUx1cFEyd0xWYkRoemRNRitFVU9qamc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abchd.stream
-#EXTINF:0,ABC
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxODozNiBQTSZoYXNoX3ZhbHVlPXMrWlZqNFVkVTQ2MjlWOVYzaDBhOWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abc9.stream
-#EXTINF:0,AMC HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNjoyNSBQTSZoYXNoX3ZhbHVlPVE1UEtxdVErTVUwT2tteE1EK3ZnZXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/amchd.stream
-#EXTINF:0,AMC
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNzo0NSBQTSZoYXNoX3ZhbHVlPThiV3VyRm9GOWxxRVVVUEFQOUtiZ2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/amc9.stream
-#EXTINF:0,Animal Planet
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
+#EXTINF:0, group-title="INDONESIA", TRANS 7 #3
+http://rr2.dens.tv/s/s06/index1.m3u8
+
+#EXTINF:0, group-title="MALAYSIA", Astro Sport
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+
+#EXTINF:0, group-title="SINGAPORE", MEDIACORP SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 2 HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226020/index.m3u8
