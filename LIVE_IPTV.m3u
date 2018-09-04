@@ -144,52 +144,8 @@ http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u
 
 #EXTINF:-1,UK BT Sports 2
 http://46.105.115.37:8000/live/iptv1790/179065287/103.m3u8
-#EXTINF:-1,UK BT Sports 1
-http://46.105.115.37:8000/live/iptv1790/179065287/104.m3u8
-#EXTINF:-1,UK Boxnation
-http://46.105.115.37:8000/live/iptv1790/179065287/105.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suajie"  group-title="UPDATED",suajie
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji"  group-title="UPDATED",suajie
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED 16/07/18"  group-title="UPDATED",UPDATED 16/07/18
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED 04/09/18"  group-title="UPDATED",UPDATED 04/09/18
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
-
-#EXTINF:0, group-title="NINMEDIA", DIAMOND TV
-http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="NINMEDIA", AVAVA BOLLYWOOD
-http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
-#EXTINF:0, group-title="NINMEDIA", AVAVA DIAMOND
-http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
-#EXTINF:0, group-title="NINMEDIA", BLACK DIAMOND
-http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
-#EXTINF:0, group-title="NINMEDIA", RED DIAMOND
-http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
-#EXTINF:0, group-title="NINMEDIA", WHITE DIAMOND
-http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
-#EXTINF:0, group-title="NINMEDIA", DIAMOND KIDS
-http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
-#EXTINF:0, group-title="NINMEDIA", DIAMOND EARTH
-http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
-#EXTINF:0, group-title="NINMEDIA", GOLD DIAMOND
-http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
-#EXTINF:0, group-title="NINMEDIA", INSPIRA TV
-http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
-
-#EXTINF:-0, group-title="INDONESIA", TRANSTV HD
-https://dmlive.vo.llnwd.net/56/dm/3/x4nwi47/live.m3u8
-
-#EXTINF:0, group-title="INDONESIA", TRANS 7 #2
-https://cdn-livetv1.metube.id/hls/trans7.m3u8
-
-#EXTINF:0, group-title="INDONESIA", TRANS 7 #3
-http://rr2.dens.tv/s/s06/index1.m3u8
-
-#EXTINF:0, group-title="MALAYSIA", Astro Sport
-http://103.242.13.90:5555/udp/239.4.1.148:10000
-
-
-#EXTINF:0, group-title="SINGAPORE", MEDIACORP SURIA
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy", tvg-logo="https://i.imgur.com/YzEliGx.jpg", group-title="SPORT", SuperSports 2 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226020/index.m3u8
