@@ -30,6 +30,9 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:0, TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
+#EXTINF:0, _____________________
+http://123.456.789.10
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][_____INDONESIA_____][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][_____INDONESIA_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/314954_ee0621e8a1133cfada4f0b43fd14d38d/m3u8s/314954.m3u8
 
@@ -47,11 +50,20 @@ http://live.metube.id/tv/channel3000005/index2000.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
+#EXTINF:0, _______________
+http://123.456.789.10
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][_____NEWS_____][/COLOR]"  group-title="Group N/A",[COLOR slateblue][_____NEWS_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/aa/al_jazeera_english_hd.png" tvg-name="AL JAZEERA ENGLISH"  group-title="NEWS",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:0, BBC NEWS
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
+
+#EXTINF:0, ______________________
+http://123.456.789.10
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine][_____DOCUMENTARY_____][/COLOR]"  group-title="Group N/A",[COLOR aquamarine][_____DOCUMENTARY_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
@@ -61,71 +73,30 @@ http://fms.cntv.lxdns.com/live/flv/channel97.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png" tvg-name="NASA TV"  group-title="NEWS",NASA TV
 
+#EXTINF:-1, Food Network
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1, Fashion TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1, Travel Channel
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:0, __________________
+http://123.456.789.10
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][_____FAMILY_____][/COLOR]"  group-title="Group N/A",[COLOR springgreen][_____FAMILY_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][_____RADIO_____][/COLOR]"  group-title="Group N/A",[COLOR gold][_____RADIO_____][/COLOR]
-http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
+#EXTINF:-1, HBO 2 International
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://ikimfm.my/wp-content/uploads/2014/03/logo-ikimfm.png" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
-http://50.7.96.210:8285/;stream.mp3
+#EXTINF: -1, Sony Movie Network
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ee/era_astro.png" tvg-name="ERA FM"  group-title="Malaysia",ERA FM
-http://astro2.rastream.com/era?type=.flv
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/Hot_FM.png" tvg-name="HOT FM"  group-title="Malaysia",HOT FM
-http://mediaprima.rastream.com/mediaprima-hotfm?type=.mp3/;stream.mp3
-
-#EXTINF:0, HOT FM KELATE
-http://mediaprima.rastream.com/mediaprima-hotfm
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.suriafm.com.my/logo.png" tvg-name="SURIA FM"  group-title="Malaysia",SURIA FM
-http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/thr_gegar_my.png" tvg-name="THR GEGAR"  group-title="Malaysia",THR GEGAR
-http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sinar_fm_my.png" tvg-name="SINAR FM"  group-title="Malaysia",SINAR FM
-http://astro2.rastream.com/sinar?type=.flv
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/radio/xx/xfm_astro.png" tvg-name="XFRESH FM"  group-title="Malaysia",XFRESH FM
-http://audri.rastream.com/amp-xfm_audri?type=.flv
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://static.radio.net/images/broadcasts/f4/0a/22164/c175.png" tvg-name="Bapakku FM"  group-title="Malaysia",Bapakku FM
-http://radio.bapakku.fm:8000
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/muzik-fm.jpg" tvg-name="MUZIK FM"  group-title="Malaysia",MUZIK FM
-http://69.197.60.122:8000/;stream.mp3
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/hh/hitz_fm.png" tvg-name="HITZ FM"  group-title="Malaysia",HITZ FM
-http://astro1.rastream.com/hitz?type=.flv
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/mix_astro.png" tvg-name="MIX FM"  group-title="Malaysia",MIX FM
-http://astro2.rastream.com/mix?type=.flv
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1280px-Logo_Fly_FM.svg.png" tvg-name="FLY FM"  group-title="Malaysia",FLY FM
-http://radioactive1.rastream.com/mediaprima-flyfm?type=.mp3/;stream.mp3
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
-http://astro1.rastream.com/lite?type=.flv
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/My-FM.jpg" tvg-name="MY FM CHINESE"  group-title="Malaysia",MY FM CHINESE
-http://astro1.rastream.com/myfm?type=.flv&_=0.3403705791570246
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/09/India-Beat.jpg" tvg-name="INDIA BEAT"  group-title="Malaysia",INDIA BEAT
-http://astro4.rastream.com/india?type=.flv
-
-#EXTINF:0, KELANTAN FM
-http://72.20.10.34:8000/;stream.mp3
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/sabah-fm.jpg" tvg-name="SABAH FM"  group-title="Malaysia",SABAH FM
-http://192.111.140.6:8131/;stream.mp3
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.img.co/radio/11/40/44011_290.png" tvg-name="SARAWAK FM"  group-title="Malaysia",SARAWAK FM
-http://124.82.221.149:8000/;stream.mp3
+#EXTINF:0, __________________
+http://123.456.789.10
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][_____SPORTS_____][/COLOR]"  group-title="SPORTS",[COLOR crimson][_____SPORTS_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
@@ -142,7 +113,120 @@ http://54.36.61.6:8000/live/ZEE18IPTV/Yui@0ockl/198.ts
 #EXTINF:-1,UK| BT Sport | ESPN HD
 http://54.36.61.6:8000/live/ZEE18IPTV/Yui@0ockl/195.ts
 
+#EXTINF:0, _________________
+http://123.456.789.10
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][ RADIO ][/COLOR]"  group-title="Group N/A",[COLOR gold][_____RADIO_____][/COLOR]
+http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
+
+#EXTINF:0, _________________
+http://123.456.789.10
+
+#EXTINF:0, Astro ARENA
+http://astro1.rastream.com/amp-arena
+
+#EXTINF:0, BERNAMA Radio
+http://78.129.187.73:36677/;
+
+#EXTINF:0, Best 104
+http://s8.voscast.com:8686/stream/1/
+
+#EXTINF:0, BEST RM
+http://s8.voscast.com:8686/;
+
+#EXTINF:0, Ceria FM
+http://72.20.10.44:8080/;
+
+#EXTINF:0, Damai FM
+http://72.20.10.42:8000/stream
+
+#EXTINF:0, Dunia FM
+http://185.109.169.80:8000/;
+
+#EXTINF:0, Durian FM
+http://s3.voscast.com:7140/;
+
+#EXTINF:0, ERA FM
+http://astro2.rastream.com/era
+
+#EXTINF:0, HIJRAH FM
+http://151.80.42.191:8560/stream
+
+#EXTINF:0, HITZ FM
+http://astro1.rastream.com/hitz
+
+#EXTINF:0, Gegar Muzik
+http://167.114.131.90:5316/stream
+
+#EXTINF:0, INDIA Beat
+http://astro4.rastream.com/india
+
+#EXTINF:0, KATI FM
+http://192.99.8.192:3356/;
+
+#EXTINF:0, Kinabalu Highway Station
+http://5.63.151.52:7236/khsfm?1534573997322
+
+#EXTINF:0, MELAKA FM
+http://60.51.171.229:8080/;stream.mp3?type=.mp3/;stream.mp3
+
+#EXTINF:0, MELODY FM
+http://astro3.rastream.com/melody
+
+#EXTINF:0, MIX FM
+http://astro2.rastream.com/mix
+
+#EXTINF:0, MY FM
+http://astro1.rastream.com/myfm
+
+#EXTINF:0, Nasyid FM
+http://72.20.10.40:8000/stream
+
+Radio Bapakku
+http://radio.bapakku.fm:8000/;
+
+#EXTINF:0, Senandung FM
+http://listen.radioking.com/radio/99241/stream/137962
+
+#EXTINF:0, Sinar FM
+http://astro2.rastream.com/sinar
+
+#EXTINF:0, THR Gegar
+http://astro3.rastream.com/gegar
+
+#EXTINF:0, THR Ragaa
+http://astro3.rastream.com/raaga?type=.flv
+
+#EXTINF:0, Wanis FM
+http://192.241.120.89:8002/live
+
+#EXTINF:0, Wanita4U FM
+http://s1.cmesolution.my:5689/;
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji"  group-title="UPDATED",suajie
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED 07/09/18"  group-title="UPDATED",UPDATED 07/09/18
-http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED 12/09/18"  group-title="UPDATED",UPDATED 12/09/18
+https://pastebin.com/MaJv4KNy
+
+#EXTINF:-1 Anime All Day
+http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1,Astro Awani
+http://tvku.live:8888/live/pokoketrial/pakesaja/294.ts
+
+#EXTINF:-1,Gold Diamond
+http://tvku.live:8888/live/pokoketrial/pakesaja/69.ts
+#EXTINF:-1,Red Diamond
+http://tvku.live:8888/live/pokoketrial/pakesaja/70.ts
+#EXTINF:-1,Black Diamond
+http://tvku.live:8888/live/pokoketrial/pakesaja/74.ts
+#EXTINF:-1,Avava Diamond
+http://tvku.live:8888/live/pokoketrial/pakesaja/75.ts
+#EXTINF:-1,Diamond Earth
+http://tvku.live:8888/live/pokoketrial/pakesaja/581.ts
+#EXTINF:-1,Diamond Kids
+http://tvku.live:8888/live/pokoketrial/pakesaja/580.ts
+#EXTINF:-1,Diamond TV
+http://tvku.live:8888/live/pokoketrial/pakesaja/579.ts
+#EXTINF:-1,ABC Avava Bollywood
+http://tvku.live:8888/live/pokoketrial/pakesaja/203.ts
