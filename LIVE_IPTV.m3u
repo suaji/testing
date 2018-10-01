@@ -24,10 +24,10 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
-#EXTINF:0, ASTRO ARENA
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:0, TV IKIM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.tvikim.my/images/logo-header.png" tvg-name="TV IKIM"  group-title="MALAYSIA",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][_____INDONESIA_____][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][_____INDONESIA_____][/COLOR]
@@ -182,7 +182,7 @@ http://192.241.120.89:8002/live
 #EXTINF:0, Wanita4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji"  group-title="UPDATED",suajie
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji"  group-title="UPDATED",suaji
 http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED 01/10/18"  group-title="UPDATED",UPDATED 01/10/18
 https://pastebin.com/MaJv4KNy
@@ -192,20 +192,3 @@ http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 
 #EXTINF:-1,Astro Awani
 http://tvku.live:8888/live/pokoketrial/pakesaja/294.ts
-
-#EXTINF:-1,Gold Diamond
-http://tvku.live:8888/live/pokoketrial/pakesaja/69.ts
-#EXTINF:-1,Red Diamond
-http://tvku.live:8888/live/pokoketrial/pakesaja/70.ts
-#EXTINF:-1,Black Diamond
-http://tvku.live:8888/live/pokoketrial/pakesaja/74.ts
-#EXTINF:-1,Avava Diamond
-http://tvku.live:8888/live/pokoketrial/pakesaja/75.ts
-#EXTINF:-1,Diamond Earth
-http://tvku.live:8888/live/pokoketrial/pakesaja/581.ts
-#EXTINF:-1,Diamond Kids
-http://tvku.live:8888/live/pokoketrial/pakesaja/580.ts
-#EXTINF:-1,Diamond TV
-http://tvku.live:8888/live/pokoketrial/pakesaja/579.ts
-#EXTINF:-1,ABC Avava Bollywood
-http://tvku.live:8888/live/pokoketrial/pakesaja/203.ts
