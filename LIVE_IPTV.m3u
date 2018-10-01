@@ -24,7 +24,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Astro_Arena_2015.png" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.tvikim.my/images/logo-header.png" tvg-name="TV IKIM"  group-title="MALAYSIA",TV IKIM
