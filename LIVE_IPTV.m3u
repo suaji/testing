@@ -207,7 +207,5 @@ http://192.241.120.89:8002/live
 #EXTINF:0, Wanita4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji"  group-title="UPDATED",suaji
-http://d1cq5wn80firug.cloudfront.net/314950_f045e1ce8e9501169f5c7f4088f1852f/m3u8s/314950.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="UPDATED 01/10/18"  group-title="UPDATED",UPDATED 01/10/18
-https://pastebin.com/MaJv4KNy
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji [UPDATED 01/OCT/18]"  group-title="UPDATED",suaji [UPDATED 01/OCT/18]
+plugin://plugin.video.dailymotion_com/?url=%x6qp375%&mode=playVideo
