@@ -9,7 +9,7 @@ http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 #EXTINF:0, tvg-id="OKEY" tvg-logo="https://rtm-image.glueapi.io/100x0/live_stream/okey.png" tvg-name="OKEY"  group-title="MALAYSIA",OKEY
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://rtm-image.glueapi.io/300x180/live_stream/3-TVi.jpg" tvg-name="TVI"  group-title="MALAYSIA",TVI
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:0, tvg-id="1NEWS" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
@@ -17,6 +17,18 @@ http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:0, tvg-id="PARLIMEN" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png" tvg-name="PARLIMEN"  group-title="MALAYSIA",PARLIMEN
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/webOS_OSE/blob/master/com.webos.app.mptv3/icon.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
+http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/webOS_OSE/blob/master/com.webos.app.mpntv7/icon.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
+http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/webOS_OSE/blob/master/com.webos.app.mptv8/icon.png" tvg-name="TV8"  group-title="MALAYSIA",TV8
+http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/webOS_OSE/blob/master/com.webos.app.mptv9/icon.png" tvg-name="TV9"  group-title="MALAYSIA",TV9
+http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
@@ -30,14 +42,28 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.tvikim.my/images/logo-header.png" tvg-name="TV IKIM"  group-title="MALAYSIA",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][_____INDONESIA_____][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][_____INDONESIA_____][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][_____WORLD_____][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][_____INDONESIA_____][/COLOR]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="ISLAM",MAKKAH
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
+#EXTINF:-1, group-title="ISLAM",MADINA
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w765739458_b1492000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="SOUTH KOREA",TV Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][_____NEWS_____][/COLOR]"  group-title="Group N/A",[COLOR slateblue][_____NEWS_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
@@ -63,6 +89,15 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png" tvg-name="NASA Space Station 2"  group-title="DOCUMENTARY",NASA Space Station 2
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1, National Geographic
+http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
+
+#EXTINF:-1, Discovery World
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+
+#EXTINF:-1, Animal Planet
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+
 #EXTINF:-1, Food Network
 http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1, Fashion TV
@@ -80,7 +115,10 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][_____FAMILY_____][/COLOR]"  group-title="MOVIES",[COLOR springgreen][_____FAMILY_____][/COLOR]
-http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
+https://pastebin.com/6rrvi4kD
+
+#EXTINF:-1, AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
@@ -110,7 +148,13 @@ http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][_____SPORTS_____][/COLOR]"  group-title="SPORTS",[COLOR crimson][_____SPORTS_____][/COLOR]
-http://d1cq5wn80firug.cloudfront.net/154573_05545fa47ee582fa1dd346de481b5a85/m3u8s/154573.m3u8
+https://pastebin.com/Q70AN0JK
+
+#EXTINF:0,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:0,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Wrestling USA
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
