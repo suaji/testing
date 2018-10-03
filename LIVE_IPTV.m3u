@@ -18,28 +18,28 @@ http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 #EXTINF:0, tvg-id="PARLIMEN" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png" tvg-name="PARLIMEN"  group-title="MALAYSIA",PARLIMEN
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/webOS_OSE/blob/master/com.webos.app.mptv3/icon.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
+#EXTINF:0, tvg-id="TV3" tvg-logo="https://github.com/suaji/testing/blob/master/icon_fta_2018/tv3_2018.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/webOS_OSE/blob/master/com.webos.app.mpntv7/icon.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
+#EXTINF:0, tvg-id="NTV7" tvg-logo="https://github.com/suaji/testing/blob/master/icon_fta_2018/ntv7_2018.jpg" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/webOS_OSE/blob/master/com.webos.app.mptv8/icon.png" tvg-name="TV8"  group-title="MALAYSIA",TV8
+#EXTINF:0, tvg-id="8TV" tvg-logo="https://github.com/suaji/testing/blob/master/icon_fta_2018/8tv_2018.jpg" tvg-name="8TV"  group-title="MALAYSIA",8TV
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/suaji/webOS_OSE/blob/master/com.webos.app.mptv9/icon.png" tvg-name="TV9"  group-title="MALAYSIA",TV9
+#EXTINF:0, tvg-id="TV9" tvg-logo="https://github.com/suaji/testing/blob/master/icon_fta_2018/tv9_2018.png" tvg-name="TV9"  group-title="MALAYSIA",TV9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
+#EXTINF:0, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
+#EXTINF:0, tvg-id="BERNAMA" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Astro_Arena_2015.png" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
+#EXTINF:0, tvg-id="ARENA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Astro_Arena_2015.png" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.tvikim.my/images/logo-header.png" tvg-name="TV IKIM"  group-title="MALAYSIA",TV IKIM
+#EXTINF:0, tvg-id="IKIM" tvg-logo="http://www.tvikim.my/images/logo-header.png" tvg-name="TV IKIM"  group-title="MALAYSIA",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][_____WORLD_____][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][_____INDONESIA_____][/COLOR]
