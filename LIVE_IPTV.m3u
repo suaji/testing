@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
+#EXTINF:0, tvg-id="TV1" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
+#EXTINF:0, tvg-id="TV2" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://rtm-image.glueapi.io/100x0/live_stream/okey.png" tvg-name="Okey"  group-title="MALAYSIA",Okey
+#EXTINF:0, tvg-id="OKEY" tvg-logo="https://rtm-image.glueapi.io/100x0/live_stream/okey.png" tvg-name="OKEY"  group-title="MALAYSIA",OKEY
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
+#EXTINF:0, tvg-id="1NEWS" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png" tvg-name="PARLIMEN TV"  group-title="MALAYSIA",PARLIMEN TV
+#EXTINF:0, tvg-id="PARLIMEN" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png" tvg-name="PARLIMEN"  group-title="MALAYSIA",PARLIMEN
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
@@ -31,19 +31,11 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][_____INDONESIA_____][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][_____INDONESIA_____][/COLOR]
-http://d1cq5wn80firug.cloudfront.net/314954_ee0621e8a1133cfada4f0b43fd14d38d/m3u8s/314954.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ii/i_news_tv_id.png" tvg-name="iNews TV"  group-title="INDONESIA",iNews TV
-http://live.metube.id/tv/channel3000005/index2000.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w765739458_b1492000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" tvg-name="TRANS 7"  group-title="Group N/A",TRANS 7
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" tvg-name="TRANS TV"  group-title="Group N/A",TRANS TV
-#EXTINF:0, TRANS TV2
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rcti_id.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/mnc_id_tv.png" tvg-name="MNC TV"  group-title="INDONESIA",MNC TV
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
@@ -207,5 +199,5 @@ http://192.241.120.89:8002/live
 #EXTINF:0, Wanita4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="suaji [UPDATED 01/OCT/18]"  group-title="UPDATED",suaji [UPDATED 01/OCT/18]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 04/OCT/18] suaji"  group-title="UPDATED",[UPDATED 04/OCT/18] suaji
 plugin://plugin.video.dailymotion_com/?url=%x6qp375%&mode=playVideo
