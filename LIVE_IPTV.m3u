@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0, tvg-id="IKIM" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" tvg-name="TV IKIM"  group-title="MALAYSIA",TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
 #EXTINF:0, tvg-id="TV1" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" tvg-name="TV1"  group-title="MALAYSIA",TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
@@ -18,29 +21,26 @@ http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 #EXTINF:0, tvg-id="PARLIMEN" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" tvg-name="PARLIMEN"  group-title="MALAYSIA",PARLIMEN
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="TV3" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3_webos.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
+#EXTINF:0, tvg-id="TV3" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" tvg-name="TV3"  group-title="MALAYSIA",TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
 
 #EXTINF:0, tvg-id="NTV7" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
-#EXTINF:0, tvg-id="8TV" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tv_webos.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
+#EXTINF:0, tvg-id="8TV" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" tvg-name="8TV"  group-title="MALAYSIA",8TV
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 
-#EXTINF:0, tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9_webos.png" tvg-name="TV9"  group-title="MALAYSIA",TV9
+#EXTINF:0, tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
-#EXTINF:0, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
+#EXTINF:0, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 
-#EXTINF:0, tvg-id="BERNAMA" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
+#EXTINF:0, tvg-id="BERNAMA" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/bernamatv_webos.jpg" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="ARENA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Astro_Arena_2015.png" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
+#EXTINF:0, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
-#EXTINF:0, tvg-id="IKIM" tvg-logo="http://www.tvikim.my/images/logo-header.png" tvg-name="TV IKIM"  group-title="MALAYSIA",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][_____WORLD_____][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][_____INDONESIA_____][/COLOR]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -243,5 +243,5 @@ http://192.241.120.89:8002/live
 #EXTINF:0, Wanita4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 04/OCT/18] suaji"  group-title="UPDATED",[UPDATED 04/OCT/18] suaji
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 05/OCT/18] suaji"  group-title="UPDATED",[UPDATED 05/OCT/18] suaji
 plugin://plugin.video.dailymotion_com/?url=%x6qp375%&mode=playVideo
