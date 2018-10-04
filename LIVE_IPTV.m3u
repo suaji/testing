@@ -1,33 +1,33 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="TV1" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
+#EXTINF:0, tvg-id="TV1" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" tvg-name="TV1"  group-title="MALAYSIA",TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="TV2" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
+#EXTINF:0, tvg-id="TV2" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv2_webos.jpg" tvg-name="TV2"  group-title="MALAYSIA",TV2
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="OKEY" tvg-logo="https://rtm-image.glueapi.io/100x0/live_stream/okey.png" tvg-name="OKEY"  group-title="MALAYSIA",OKEY
+#EXTINF:0, tvg-id="OKEY" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg" tvg-name="OKEY"  group-title="MALAYSIA",OKEY
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://rtm-image.glueapi.io/300x180/live_stream/3-TVi.jpg" tvg-name="TVI"  group-title="MALAYSIA",TVI
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tvi_webos.jpg" tvg-name="TVI"  group-title="MALAYSIA",TVI
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="1NEWS" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
+#EXTINF:0, tvg-id="1NEWS" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="PARLIMEN" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png" tvg-name="PARLIMEN"  group-title="MALAYSIA",PARLIMEN
+#EXTINF:0, tvg-id="PARLIMEN" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" tvg-name="PARLIMEN"  group-title="MALAYSIA",PARLIMEN
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="TV3" tvg-logo="https://github.com/suaji/testing/blob/master/icon_fta_2018/tv3_2018.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
+#EXTINF:0, tvg-id="TV3" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3_webos.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
 
-#EXTINF:0, tvg-id="NTV7" tvg-logo="https://github.com/suaji/testing/blob/master/icon_fta_2018/ntv7_2018.jpg" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
+#EXTINF:0, tvg-id="NTV7" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
-#EXTINF:0, tvg-id="8TV" tvg-logo="https://github.com/suaji/testing/blob/master/icon_fta_2018/8tv_2018.jpg" tvg-name="8TV"  group-title="MALAYSIA",8TV
+#EXTINF:0, tvg-id="8TV" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tv_webos.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 
-#EXTINF:0, tvg-id="TV9" tvg-logo="https://github.com/suaji/testing/blob/master/icon_fta_2018/tv9_2018.png" tvg-name="TV9"  group-title="MALAYSIA",TV9
+#EXTINF:0, tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9_webos.png" tvg-name="TV9"  group-title="MALAYSIA",TV9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
 #EXTINF:0, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
