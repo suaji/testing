@@ -116,6 +116,20 @@ http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][_____SPORTS_____][/COLOR]"  group-title="SPORTS",[COLOR crimson][_____SPORTS_____][/COLOR]
 https://pastebin.com/Q70AN0JK
 
+#EXTINF:-1,BT Sport 1
+http://185.53.163.205:2700
+#EXTINF:1,BT Sport 2
+http://185.53.163.205:2506
+#EXTINF:1,BT Sport 3
+http://185.53.163.205:2701
+
+#EXTINF:-1,UK | BT SPORT 1
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1466.ts
+#EXTINF:-1,UK | BT SPORT 2
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1465.ts
+#EXTINF:-1,UK | BT Sport 3
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1464.ts
+
 #EXTINF:0,AD SPORT 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
@@ -212,5 +226,5 @@ http://192.241.120.89:8002/live
 #EXTINF:0, Wanita4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 05/OCT/18] suaji"  group-title="UPDATED",[UPDATED 05/OCT/18] suaji
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 07/OCT/18] suaji"  group-title="UPDATED",[UPDATED 07/OCT/18] suaji
 http://tvku.live:8888/live/iptvmurah06/meriah123/743.ts
