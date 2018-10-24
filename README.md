@@ -1,4 +1,4 @@
-# <img src="screenshots/myiptv.png" width="200px" align="center" alt="MyIPTV"/>
+# <img src="screenshots/myiptv.png" width="500px" align="center" alt="MyIPTV"/>
 
 # testing
 
