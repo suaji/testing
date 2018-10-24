@@ -1,3 +1,7 @@
+# <img src="screenshots/myiptv.png" width="200px" align="center" alt="MyIPTV"/>
+
 # testing
 
-KODI Addons
+#FREE TO AIR CHANNELS - MALAYSIA -
+1. KODI Addons
+2. M3U File
