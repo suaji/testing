@@ -42,19 +42,34 @@ http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 #EXTINF:0, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue][_____WORLD_____][/COLOR]"  group-title="Group N/A",[COLOR deepskyblue][_____WORLD_____][/COLOR]
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:0, ARENAtest2
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
+
+#EXTINF:0, ARENAtest3
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue]_____WORLD_____[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue]_____WORLD_____[/COLOR]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1, group-title="ISLAM",MAKKAH
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+
 #EXTINF:-1, group-title="ISLAM",MADINA
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
+http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w765739458_b1492000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:0,TRANS 7
+http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+
+#EXTINF:0,Odd Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
@@ -65,28 +80,27 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="SOUTH KOREA",TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue][_____NEWS_____][/COLOR]"  group-title="Group N/A",[COLOR slateblue][_____NEWS_____][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue]_____NEWS_____[/COLOR]"  group-title="Group N/A",[COLOR slateblue]_____NEWS_____[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/aa/al_jazeera_english_hd.png" tvg-name="AL JAZEERA ENGLISH"  group-title="NEWS",AL JAZEERA ENGLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
-#EXTINF:0, tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_news.png" tvg-name="BBC NEWS"  group-title="NEWS",BBC NEWS
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine][_____DOCUMENTARY_____][/COLOR]"  group-title="Group N/A",[COLOR aquamarine][_____DOCUMENTARY_____][/COLOR]
+#EXTINF:0, tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_news.png" tvg-name="BBC NEWS"  group-title="NEWS",BBC NEWS
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine]_____DOCUMENTARY_____[/COLOR]"  group-title="Group N/A",[COLOR aquamarine]_____DOCUMENTARY_____[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
-#EXTINF:-1, National Geographic
-http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
+#EXTINF:0,Nat Geo HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_us.png", Food Network
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,ANIMAL PLANET
+http://m-iptv.net:6204/avin2/wwesn4/984
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR green][_____KIDS_____][/COLOR]"  group-title="KIDS",[COLOR green][_____KIDS_____][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR green]_____KIDS_____[/COLOR]"  group-title="KIDS",[COLOR green]_____KIDS_____[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/1e9ec725-8ff7-2e4a-092e-11de3a4515e9-ClassicToons_thumb.jpg" group-title="USA",Classic Toons TV
@@ -95,14 +109,11 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" tvg-name="Anime All Day"  group-title="KIDS",Anime All Day
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen][_____FAMILY_____][/COLOR]"  group-title="MOVIES",[COLOR springgreen][_____FAMILY_____][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen]_____FAMILY_____[/COLOR]"  group-title="MOVIES",[COLOR springgreen]_____FAMILY_____[/COLOR]
 https://pastebin.com/6rrvi4kD
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
-
-#EXTINF:-1, HBO Hit+
-http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
  
 #EXTINF:-1, HBO 2 International
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
@@ -110,63 +121,31 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF: -1, Sony Movie Network
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="USA",Pluto TV Movies 1
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
- 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson][_____SPORTS_____][/COLOR]"  group-title="SPORTS",[COLOR crimson][_____SPORTS_____][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson]_____SPORTS_____[/COLOR]"  group-title="SPORTS",[COLOR crimson]_____SPORTS_____[/COLOR]
 https://pastebin.com/Q70AN0JK
 
-#EXTINF:-1,BT Sport 1
-http://185.53.163.205:2700
-#EXTINF:1,BT Sport 2
-http://185.53.163.205:2506
-#EXTINF:1,BT Sport 3
-http://185.53.163.205:2701
-
-#EXTINF:-1,UK | BT SPORT 1
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1466.ts
-#EXTINF:-1,UK | BT SPORT 2
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1465.ts
-#EXTINF:-1,UK | BT Sport 3
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1464.ts
-
-#EXTINF:0,AD SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:0,AD SPORT 2 HD
-http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports HD
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][ RADIO ][/COLOR]"  group-title="Group N/A",[COLOR gold][_____RADIO_____][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold]_____RADIO_____[/COLOR]"  group-title="RADIO",[COLOR gold][_____RADIO_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
 
-#EXTINF:0, Astro ARENA Radio
+#EXTINF:0, ASTRO ARENA RADIO
 http://astro1.rastream.com/amp-arena
 
-#EXTINF:0, BERNAMA Radio
-http://78.129.187.73:36677/;
-
-#EXTINF:0, Best 104
-http://s8.voscast.com:8686/stream/1/
-
-#EXTINF:0, BEST RM
-http://s8.voscast.com:8686/;
-
-#EXTINF:0, Ceria FM
+#EXTINF:0, CERIA FM
 http://72.20.10.44:8080/;
 
-#EXTINF:0, Damai FM
+#EXTINF:0, DAMAI FM
 http://72.20.10.42:8000/stream
 
-#EXTINF:0, Dunia FM
+#EXTINF:0, DUNIA FM
 http://185.109.169.80:8000/;
 
-#EXTINF:0, Durian FM
+#EXTINF:0, DURIAN FM
 http://s3.voscast.com:7140/;
 
 #EXTINF:0, ERA FM
@@ -178,14 +157,11 @@ http://151.80.42.191:8560/stream
 #EXTINF:0, HITZ FM
 http://astro1.rastream.com/hitz
 
-#EXTINF:0, Gegar Muzik
+#EXTINF:0, GEGAR MUZIK
 http://167.114.131.90:5316/stream
 
 #EXTINF:0, INDIA Beat
 http://astro4.rastream.com/india
-
-#EXTINF:0, KATI FM
-http://192.99.8.192:3356/;
 
 #EXTINF:0, Kinabalu Highway Station
 http://5.63.151.52:7236/khsfm?1534573997322
@@ -202,29 +178,39 @@ http://astro2.rastream.com/mix
 #EXTINF:0, MY FM
 http://astro1.rastream.com/myfm
 
-#EXTINF:0, Nasyid FM
+#EXTINF:0, NASYID FM
 http://72.20.10.40:8000/stream
 
-#EXTINF:0, Radio Bapakku
+#EXTINF:0, RADIO BAPAKKU
 http://radio.bapakku.fm:8000/;
 
-#EXTINF:0, Senandung FM
+#EXTINF:0, SENANDUNG FM
 http://listen.radioking.com/radio/99241/stream/137962
 
-#EXTINF:0, Sinar FM
+#EXTINF:0, SINAR FM
 http://astro2.rastream.com/sinar
 
-#EXTINF:0, THR Gegar
+#EXTINF:0, THR GEGAR
 http://astro3.rastream.com/gegar
 
-#EXTINF:0, THR Ragaa
+#EXTINF:0, THR RAGAA
 http://astro3.rastream.com/raaga?type=.flv
 
-#EXTINF:0, Wanis FM
-http://192.241.120.89:8002/live
-
-#EXTINF:0, Wanita4U FM
+#EXTINF:0, WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 07/OCT/18] suaji"  group-title="UPDATED",[UPDATED 07/OCT/18] suaji
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 28/NOV/18] suaji"  group-title="UPDATED",[UPDATED 28/NOV/18] suaji
 http://tvku.live:8888/live/iptvmurah06/meriah123/743.ts
+
+#EXTINF:0, ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:0, DISNET CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1,UK: BT Sport 1 HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25258.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25257.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://best-anonymous.eu:8000/live/filippo1/carmine/25256.ts
