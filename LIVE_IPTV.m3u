@@ -42,8 +42,6 @@ http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 #EXTINF:0, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
 #EXTINF:0, ARENAtest2
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
 
@@ -89,7 +87,11 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:0, tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_news.png" tvg-name="BBC NEWS"  group-title="NEWS",BBC NEWS
+#EXTINF:0, tvg-logo="http://www.channelnewsasia.com/image/8786976/16x9/991/557/29b59d09abf800494e61c9f5978205a3/CV/cna.png" tvg-name="Channel News Asia"  group-title="NEWS",Channel News Asia
+TRANS TV http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine]_____DOCUMENTARY_____[/COLOR]"  group-title="Group N/A",[COLOR aquamarine]_____DOCUMENTARY_____[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
@@ -120,6 +122,30 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF: -1, Sony Movie Network
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF: -1, FOX MOVIES PREMIUM HD
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF: -1, FOX MOVIES PREMIUM SD
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
+
+#EXTINF: -1, CELESTIAL MOVIE HD
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8 
+
+#EXTINF: -1, CELESTIAL MOVIE SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF: -1, &FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF: -1, &FLIX SD
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+
+#EXTINF: -1, &PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF: -1, &PRIVE SD
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson]_____SPORTS_____[/COLOR]"  group-title="SPORTS",[COLOR crimson]_____SPORTS_____[/COLOR]
 https://pastebin.com/Q70AN0JK
@@ -199,7 +225,7 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 28/NOV/18] suaji"  group-title="UPDATED",[UPDATED 28/NOV/18] suaji
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 30/NOV/18] suaji"  group-title="UPDATED",[UPDATED 30/NOV/18] suaji
 http://tvku.live:8888/live/iptvmurah06/meriah123/743.ts
 
 #EXTINF:0, ANIMAX
