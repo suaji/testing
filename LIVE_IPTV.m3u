@@ -42,13 +42,13 @@ http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 #EXTINF:0, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:0, ARENAtest2
+#EXTINF:0, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" tvg-name="Astro ARENA SD"  group-title="MALAYSIA",Astro ARENA SD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
 
 #EXTINF:0, ARENAtest3
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue]_____WORLD_____[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue]_____WORLD_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue]WORLD_____[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue]WORLD_____[/COLOR]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1, group-title="ISLAM",MAKKAH
@@ -66,9 +66,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 #EXTINF:0,TRANS 7
 http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
 
-#EXTINF:0,Odd Flix HD
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
@@ -78,10 +75,10 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="SOUTH KOREA",TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue]_____NEWS_____[/COLOR]"  group-title="Group N/A",[COLOR slateblue]_____NEWS_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue]NEWS_____[/COLOR]"  group-title="Group N/A",[COLOR slateblue]NEWS_____[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/aa/al_jazeera_english_hd.png" tvg-name="AL JAZEERA ENGLISH"  group-title="NEWS",AL JAZEERA ENGLISH
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" tvg-name="AL JAZEERA ENGLISH"  group-title="NEWS",AL JAZEERA ENGLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS",Bloomberg TV
@@ -93,16 +90,13 @@ TRANS TV http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtua
 #EXTINF:-1 tvg-logo="" group-title="NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine]_____DOCUMENTARY_____[/COLOR]"  group-title="Group N/A",[COLOR aquamarine]_____DOCUMENTARY_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine]DOCUMENTARY_____[/COLOR]"  group-title="Group N/A",[COLOR aquamarine]DOCUMENTARY_____[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
-#EXTINF:0,Nat Geo HD
+#EXTINF:0, NAT GEO HD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8
 
-#EXTINF:0,ANIMAL PLANET
-http://m-iptv.net:6204/avin2/wwesn4/984
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR green]_____KIDS_____[/COLOR]"  group-title="KIDS",[COLOR green]_____KIDS_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR green]KIDS_____[/COLOR]"  group-title="KIDS",[COLOR green]KIDS_____[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/1e9ec725-8ff7-2e4a-092e-11de3a4515e9-ClassicToons_thumb.jpg" group-title="USA",Classic Toons TV
@@ -111,7 +105,19 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" tvg-name="Anime All Day"  group-title="KIDS",Anime All Day
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen]_____FAMILY_____[/COLOR]"  group-title="MOVIES",[COLOR springgreen]_____FAMILY_____[/COLOR]
+#EXTINF:0, ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:0, DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:0, DISNEY HD
+http://24.thgss.com:8000/live/15591541611788/15591541611788/3092.m3u8
+
+#EXTINF:0, MIOW MI
+http://24.thgss.com:8000/live/15591541611788/15591541611788/3094.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen]FAMILY_____[/COLOR]"  group-title="MOVIES",[COLOR springgreen]FAMILY_____[/COLOR]
 https://pastebin.com/6rrvi4kD
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
@@ -141,13 +147,19 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF: -1, &FLIX SD
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 
+#EXTINF: -1, &FLIX SD2
+http://170.247.204.8:8000/play/a04n/index.m3u8
+
+#EXTINF: -1, &FLIX SD3
+https://gg3.azureedge.net//hls1/warner.m3u8
+
 #EXTINF: -1, &PRIVE HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF: -1, &PRIVE SD
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson]_____SPORTS_____[/COLOR]"  group-title="SPORTS",[COLOR crimson]_____SPORTS_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson]SPORTS_____[/COLOR]"  group-title="SPORTS",[COLOR crimson]SPORTS_____[/COLOR]
 https://pastebin.com/Q70AN0JK
 
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports HD
@@ -156,7 +168,7 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold]_____RADIO_____[/COLOR]"  group-title="RADIO",[COLOR gold][_____RADIO_____][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold]RADIO_____[/COLOR]"  group-title="RADIO",[COLOR gold][RADIO_____][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
 
 #EXTINF:0, ASTRO ARENA RADIO
@@ -227,16 +239,3 @@ http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 30/NOV/18] suaji"  group-title="UPDATED",[UPDATED 30/NOV/18] suaji
 http://tvku.live:8888/live/iptvmurah06/meriah123/743.ts
-
-#EXTINF:0, ANIMAX
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-
-#EXTINF:0, DISNET CHANNEL
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-
-#EXTINF:-1,UK: BT Sport 1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/25258.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/25257.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/25256.ts
