@@ -48,7 +48,7 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
 #EXTINF:0, ARENAtest3
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue]WORLD_____[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue]WORLD_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue]:: WORLD ::[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue]:: WORLD ::[/COLOR]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1, group-title="ISLAM",MAKKAH
@@ -75,7 +75,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="SOUTH KOREA",TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue]NEWS_____[/COLOR]"  group-title="Group N/A",[COLOR slateblue]NEWS_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR slateblue]:: NEWS ::[/COLOR]"  group-title="Group N/A",[COLOR slateblue]:: NEWS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" tvg-name="AL JAZEERA ENGLISH"  group-title="NEWS",AL JAZEERA ENGLISH
@@ -85,18 +85,18 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:0, tvg-logo="http://www.channelnewsasia.com/image/8786976/16x9/991/557/29b59d09abf800494e61c9f5978205a3/CV/cna.png" tvg-name="Channel News Asia"  group-title="NEWS",Channel News Asia
-TRANS TV http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS",SKY NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://banner2.kisspng.com/20180329/ovq/kisspng-al-jazeera-sky-news-logo-television-news-5abc943fda39d8.6400434815223081598939.jpg" group-title="NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine]DOCUMENTARY_____[/COLOR]"  group-title="Group N/A",[COLOR aquamarine]DOCUMENTARY_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]"  group-title="Group N/A",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
 #EXTINF:0, NAT GEO HD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR green]KIDS_____[/COLOR]"  group-title="KIDS",[COLOR green]KIDS_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR green]:: KIDS ::[/COLOR]"  group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/1e9ec725-8ff7-2e4a-092e-11de3a4515e9-ClassicToons_thumb.jpg" group-title="USA",Classic Toons TV
@@ -111,22 +111,16 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:0, DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 
-#EXTINF:0, DISNEY HD
-http://24.thgss.com:8000/live/15591541611788/15591541611788/3092.m3u8
-
-#EXTINF:0, MIOW MI
-http://24.thgss.com:8000/live/15591541611788/15591541611788/3094.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen]FAMILY_____[/COLOR]"  group-title="MOVIES",[COLOR springgreen]FAMILY_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen]:: FAMILY ::[/COLOR]"  group-title="MOVIES",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/6rrvi4kD
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
  
-#EXTINF:-1, HBO 2 International
+#EXTINF:-1, HBO 2 INTERNATIONAL
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF: -1, Sony Movie Network
+#EXTINF: -1, SONY MOVIE NETWORK
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF: -1, FOX MOVIES PREMIUM HD
@@ -137,9 +131,6 @@ http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3
 
 #EXTINF: -1, CELESTIAL MOVIE HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8 
-
-#EXTINF: -1, CELESTIAL MOVIE SD
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF: -1, &FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
@@ -159,7 +150,7 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1, &PRIVE SD
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson]SPORTS_____[/COLOR]"  group-title="SPORTS",[COLOR crimson]SPORTS_____[/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson]::: SPORTS :::[/COLOR]"  group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/Q70AN0JK
 
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports HD
@@ -168,7 +159,7 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold]RADIO_____[/COLOR]"  group-title="RADIO",[COLOR gold][RADIO_____][/COLOR]
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][:: RADIO ::][/COLOR]"  group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
 
 #EXTINF:0, ASTRO ARENA RADIO
