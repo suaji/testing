@@ -128,23 +128,26 @@ http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3
 #EXTINF: -1, CELESTIAL MOVIE HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8 
 
-#EXTINF: -1, &FLIX HD
+#EXTINF: -1, &FLIX HD (VLC PLAYER)
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF: -1, &FLIX SD
+#EXTINF: -1, &FLIX SD (VLC PLAYER)
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 
-#EXTINF: -1, &FLIX SD2
+#EXTINF: -1, &FLIX SD2 (VLC PLAYER)
 http://170.247.204.8:8000/play/a04n/index.m3u8
 
-#EXTINF: -1, &FLIX SD3
+#EXTINF: -1, &FLIX SD3 (VLC PLAYER)
 https://gg3.azureedge.net//hls1/warner.m3u8
 
-#EXTINF: -1, &PRIVE HD
+#EXTINF: -1, &PRIVE HD (VLC PLAYER)
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF: -1, &PRIVE SD
+#EXTINF: -1, &PRIVE SD (VLC PLAYER)
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+
+#EXTINF:0 type="stream" ,FOX MOVIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR crimson]::: SPORTS :::[/COLOR]"  group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/Q70AN0JK
@@ -154,6 +157,17 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0 type="stream" ,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+#EXTINF:0 type="stream" ,FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
+#EXTINF:0 type="stream" ,FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:0 type="stream" ,FOX SPORTS 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
+#EXTINF:0 type="stream" ,FOX SPORTS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR gold][:: RADIO ::][/COLOR]"  group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
