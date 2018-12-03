@@ -89,8 +89,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]"  group-title="Group N/A",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
-#EXTINF:0, NAT GEO HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8
+#EXTINF:0, ANIMAL PLANET
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR green]:: KIDS ::[/COLOR]"  group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
@@ -107,25 +107,31 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:0, DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 
+#EXTINF:-1, CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR springgreen]:: FAMILY ::[/COLOR]"  group-title="MOVIES",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/6rrvi4kD
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
  
-#EXTINF:-1, HBO 2 INTERNATIONAL
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="MOVIES", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF: -1, SONY MOVIE NETWORK
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIES", FOX CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF: -1, group-title="MOVIES", SONY MOVIE NETWORK
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF: -1, FOX MOVIES PREMIUM HD
+#EXTINF: -1, group-title="MOVIES", FOX MOVIES PREMIUM HD
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
-#EXTINF: -1, FOX MOVIES PREMIUM SD
+#EXTINF: -1, group-title="MOVIES", FOX MOVIES PREMIUM SD
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
 
-#EXTINF: -1, CELESTIAL MOVIE HD
+#EXTINF: -1, group-title="MOVIES", CELESTIAL MOVIE HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8 
 
 #EXTINF: -1, &FLIX HD (VLC PLAYER)
@@ -239,7 +245,7 @@ http://astro3.rastream.com/raaga?type=.flv
 http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" tvg-name="[UPDATED 05/DEC/18] suaji"  group-title="UPDATED",[UPDATED 05/DEC/18] suaji
-http://tvku.live:8888/live/iptvmurah06/meriah123/743.ts
+https://pastebin.com/PJEQhvtD
 
 #EXTINF:0, ARENAtest2
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
