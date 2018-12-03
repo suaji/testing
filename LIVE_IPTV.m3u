@@ -200,31 +200,31 @@ http://astro3.rastream.com/melody
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Mix-FM2.jpg" tvg-name="MIX FM"  group-title="RADIO",MIX FM
 http://astro2.rastream.com/mix
 
-#EXTINF:0, tvg-logo="" tvg-name="MY FM"  group-title="RADIO",MY FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/My-FM1.jpg" tvg-name="MY FM"  group-title="RADIO",MY FM
 http://astro1.rastream.com/myfm
 
-#EXTINF:0, tvg-logo="" tvg-name="NASYID FM"  group-title="RADIO",NASYID FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Nasyid-FM.jpg" tvg-name="NASYID FM"  group-title="RADIO",NASYID FM
 http://72.20.10.40:8000/stream
 
-#EXTINF:0, tvg-logo="" tvg-name="RADIO BAPAKKU"  group-title="RADIO",RADIO BAPAKKU
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/Radio-Bapakku.jpg" tvg-name="RADIO BAPAKKU"  group-title="RADIO",RADIO BAPAKKU
 http://radio.bapakku.fm:8000/;
 
-#EXTINF:0, tvg-logo="" tvg-name="SENANDUNG FM"  group-title="RADIO",SENANDUNG FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/11/senandung-fm.jpg" tvg-name="SENANDUNG FM"  group-title="RADIO",SENANDUNG FM
 http://listen.radioking.com/radio/99241/stream/137962
 
-#EXTINF:0, tvg-logo="" tvg-name="SINAR FM"  group-title="RADIO",SINAR FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/sinar-fm.jpg" tvg-name="SINAR FM"  group-title="RADIO",SINAR FM
 http://astro2.rastream.com/sinar
 
-#EXTINF:0, tvg-logo="" tvg-name="THR GEGAR"  group-title="RADIO",THR GEGAR
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-gegar.jpg" tvg-name="THR GEGAR"  group-title="RADIO",THR GEGAR
 http://astro3.rastream.com/gegar
 
-#EXTINF:0, tvg-logo="" tvg-name="THR RAGAA"  group-title="RADIO",THR RAGAA
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-raaga.jpg" tvg-name="THR RAGAA"  group-title="RADIO",THR RAGAA
 http://astro3.rastream.com/raaga?type=.flv
 
-#EXTINF:0, tvg-logo="" tvg-name="WANITA4U FM"  group-title="RADIO",WANITA4U FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" tvg-name="WANITA4U FM"  group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/f---society.jpg" tvg-name="[UPDATED 05/DEC/18] suaji"  group-title="UPDATED",[UPDATED 05/DEC/18] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" tvg-name="[UPDATED 05/DEC/18] suaji"  group-title="UPDATED",[UPDATED 05/DEC/18] suaji
 http://tvku.live:8888/live/iptvmurah06/meriah123/743.ts
 
 #EXTINF:0, ARENAtest2
