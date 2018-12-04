@@ -45,10 +45,10 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia_1.png" tvg-name="[COLOR deepskyblue]:: WORLD ::[/COLOR]"  group-title="WORLD",[COLOR deepskyblue]:: WORLD ::[/COLOR]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1, group-title="ISLAM",MAKKAH
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE
 http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 
-#EXTINF:-1, group-title="ISLAM",MADINA
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="ISLAM",MADINA LIVE
 http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
 
 #EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" group-title="INDONESIA",METRO TV
@@ -59,6 +59,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7
 http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/3463.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
@@ -131,6 +134,12 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
 
 #EXTINF: -1, group-title="MOVIES", FOX MOVIES (IND)
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
+
+#EXTINF: -1, group-title="MOVIES", MY CINEMA (IND)
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/3500.m3u8
+
+#EXTINF: -1, group-title="MOVIES", KIX (IND)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3452.m3u8
 
 #EXTINF: -1, group-title="MOVIES", SONY MOVIE NETWORK 4K
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
