@@ -1,48 +1,48 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="IKIM" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" tvg-name="TV IKIM"  group-title="MALAYSIA",TV IKIM
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" group-title="MALAYSIA",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:0, tvg-id="TV1" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" tvg-name="TV1"  group-title="MALAYSIA",TV1
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="TV2" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv2_webos.jpg" tvg-name="TV2"  group-title="MALAYSIA",TV2
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv2_webos.jpg" group-title="MALAYSIA",TV2
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="OKEY" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg" tvg-name="OKEY"  group-title="MALAYSIA",OKEY
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg" group-title="MALAYSIA",OKEY
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tvi_webos.jpg" tvg-name="TVI"  group-title="MALAYSIA",TVI
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tvi_webos.jpg" group-title="MALAYSIA",TVI
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="1NEWS" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" group-title="MALAYSIA",1NEWS
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="PARLIMEN" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" tvg-name="PARLIMEN"  group-title="MALAYSIA",PARLIMEN
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" group-title="MALAYSIA",PARLIMEN
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-id="TV3" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" tvg-name="TV3"  group-title="MALAYSIA",TV3
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
 
-#EXTINF:0, tvg-id="NTV7" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
-#EXTINF:0, tvg-id="8TV" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" tvg-name="8TV"  group-title="MALAYSIA",8TV
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 
-#EXTINF:0, tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" group-title="MALAYSIA",TV9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
-#EXTINF:0, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" group-title="MALAYSIA",AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 
-#EXTINF:0, tvg-id="BERNAMA" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/bernamatv_webos.jpg" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/bernamatv_webos.jpg" group-title="MALAYSIA",BERNAMA
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" tvg-name="Astro ARENA"  group-title="MALAYSIA",Astro ARENA
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia_1.png" tvg-name="[COLOR deepskyblue]:: WORLD ::[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue]:: WORLD ::[/COLOR]
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia_1.png" tvg-name="[COLOR deepskyblue]:: WORLD ::[/COLOR]"  group-title="WORLD",[COLOR deepskyblue]:: WORLD ::[/COLOR]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1, group-title="ISLAM",MAKKAH
@@ -51,13 +51,13 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 #EXTINF:-1, group-title="ISLAM",MADINA
 http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
+#EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w765739458_b1492000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
+#EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:0,TRANS 7
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7
 http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
@@ -72,19 +72,19 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" tvg-name="[COLOR slateblue]:: NEWS ::[/COLOR]"  group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" tvg-name="AL JAZEERA ENGLISH"  group-title="NEWS",AL JAZEERA ENGLISH
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS",AL JAZEERA ENGLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:0, tvg-logo="http://www.channelnewsasia.com/image/8786976/16x9/991/557/29b59d09abf800494e61c9f5978205a3/CV/cna.png" tvg-name="Channel News Asia"  group-title="NEWS",Channel News Asia
+#EXTINF:0, tvg-logo="http://www.channelnewsasia.com/image/8786976/16x9/991/557/29b59d09abf800494e61c9f5978205a3/CV/cna.png" group-title="NEWS",Channel News Asia
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://banner2.kisspng.com/20180329/ovq/kisspng-al-jazeera-sky-news-logo-television-news-5abc943fda39d8.6400434815223081598939.jpg" group-title="NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" tvg-name="[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]"  group-title="Group N/A",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" tvg-name="[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]"  group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
 #EXTINF:0, ANIMAL PLANET
@@ -111,7 +111,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" tvg-name="[COLOR springgreen]:: FAMILY ::[/COLOR]"  group-title="MOVIES",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/6rrvi4kD
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" tvg-name="MBC 2"  group-title="MOVIES",MBC 2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
 #EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="MOVIES", HBO 2
@@ -159,90 +159,90 @@ https://pastebin.com/Q70AN0JK
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports 2 HD
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0 type="stream" ,FOX SPORTS
+#EXTINF:0 type="stream" , group-title="SPORTS", FOX SPORTS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
-#EXTINF:0 type="stream" ,FOX SPORTS 2
+#EXTINF:0 type="stream" , group-title="SPORTS", FOX SPORTS 2
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
-#EXTINF:0 type="stream" ,FOX SPORTS 2
+#EXTINF:0 type="stream" , group-title="SPORTS", FOX SPORTS 2
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-#EXTINF:0 type="stream" ,FOX SPORTS 3
+#EXTINF:0 type="stream" , group-title="SPORTS", FOX SPORTS 3
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
-#EXTINF:0 type="stream" ,FOX SPORTS HD
+#EXTINF:0 type="stream" , group-title="SPORTS", FOX SPORTS HD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" tvg-name="[COLOR gold][:: RADIO ::][/COLOR]"  group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/09/Arena-Radio.jpg" tvg-name="ASTRO ARENA RADIO"  group-title="RADIO",ASTRO ARENA RADIO
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/09/Arena-Radio.jpg" group-title="RADIO",ASTRO ARENA RADIO
 http://astro1.rastream.com/amp-arena
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/ceria-fm.jpg" tvg-name="CERIA FM"  group-title="RADIO",CERIA FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/ceria-fm.jpg" group-title="RADIO",CERIA FM
 http://72.20.10.44:8080/;
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Damai-FM-Mencari-Damai-Disini.jpg" tvg-name="DAMAI FM"  group-title="RADIO",DAMAI FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Damai-FM-Mencari-Damai-Disini.jpg" group-title="RADIO",DAMAI FM
 http://72.20.10.42:8000/stream
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/12/Dunia-Muzik-Fm-1.jpg" tvg-name="DUNIA MUZIK FM"  group-title="RADIO",DUNIA MUZIK FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/12/Dunia-Muzik-Fm-1.jpg" group-title="RADIO",DUNIA MUZIK FM
 http://185.109.169.80:8000/;
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/01/Durian-FM.jpg" tvg-name="DURIAN FM"  group-title="RADIO",DURIAN FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/01/Durian-FM.jpg" group-title="RADIO",DURIAN FM
 http://s3.voscast.com:7140/;
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/era-fm.jpg" tvg-name="ERA FM"  group-title="RADIO",ERA FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/era-fm.jpg" group-title="RADIO",ERA FM
 http://astro2.rastream.com/era
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2016/12/Hijrah-FM.jpg" tvg-name="HIJRAH FM"  group-title="RADIO",HIJRAH FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2016/12/Hijrah-FM.jpg" group-title="RADIO",HIJRAH FM
 http://151.80.42.191:8560/stream
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/hitz-fm.jpg" tvg-name="HITZ FM"  group-title="RADIO",HITZ FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/hitz-fm.jpg" group-title="RADIO",HITZ FM
 http://astro1.rastream.com/hitz
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/03/Gegar-Muzik-FM.jpg" tvg-name="GEGAR MUZIK"  group-title="RADIO",GEGAR MUZIK
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/03/Gegar-Muzik-FM.jpg" group-title="RADIO",GEGAR MUZIK
 http://167.114.131.90:5316/stream
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/09/India-Beat.jpg" tvg-name="INDIA BEAT"  group-title="RADIO",INDIA BEAT
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/09/India-Beat.jpg" group-title="RADIO",INDIA BEAT
 http://astro4.rastream.com/india
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/08/kinabalu-highway-station-1.jpg" tvg-name="Kinabalu Highway Station"  group-title="RADIO",Kinabalu Highway Station
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/08/kinabalu-highway-station-1.jpg" group-title="RADIO",Kinabalu Highway Station
 http://5.63.151.52:7236/khsfm?1534573997322
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Melaka-FM.jpg" tvg-name="MELAKA FM"  group-title="RADIO",MELAKA FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Melaka-FM.jpg" group-title="RADIO",MELAKA FM
 http://60.51.171.229:8080/;stream.mp3?type=.mp3/;stream.mp3
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/melody-fm.jpg" tvg-name="MELODY FM"  group-title="RADIO",MELODY FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/melody-fm.jpg" group-title="RADIO",MELODY FM
 http://astro3.rastream.com/melody
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Mix-FM2.jpg" tvg-name="MIX FM"  group-title="RADIO",MIX FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Mix-FM2.jpg" group-title="RADIO",MIX FM
 http://astro2.rastream.com/mix
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/My-FM1.jpg" tvg-name="MY FM"  group-title="RADIO",MY FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/My-FM1.jpg" group-title="RADIO",MY FM
 http://astro1.rastream.com/myfm
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Nasyid-FM.jpg" tvg-name="NASYID FM"  group-title="RADIO",NASYID FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Nasyid-FM.jpg" group-title="RADIO",NASYID FM
 http://72.20.10.40:8000/stream
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/Radio-Bapakku.jpg" tvg-name="RADIO BAPAKKU"  group-title="RADIO",RADIO BAPAKKU
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/Radio-Bapakku.jpg" group-title="RADIO",RADIO BAPAKKU
 http://radio.bapakku.fm:8000/;
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/11/senandung-fm.jpg" tvg-name="SENANDUNG FM"  group-title="RADIO",SENANDUNG FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/11/senandung-fm.jpg" group-title="RADIO",SENANDUNG FM
 http://listen.radioking.com/radio/99241/stream/137962
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/sinar-fm.jpg" tvg-name="SINAR FM"  group-title="RADIO",SINAR FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/sinar-fm.jpg" group-title="RADIO",SINAR FM
 http://astro2.rastream.com/sinar
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-gegar.jpg" tvg-name="THR GEGAR"  group-title="RADIO",THR GEGAR
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-gegar.jpg" group-title="RADIO",THR GEGAR
 http://astro3.rastream.com/gegar
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-raaga.jpg" tvg-name="THR RAGAA"  group-title="RADIO",THR RAGAA
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-raaga.jpg" group-title="RADIO",THR RAGAA
 http://astro3.rastream.com/raaga?type=.flv
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" tvg-name="WANITA4U FM"  group-title="RADIO",WANITA4U FM
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" tvg-name="[UPDATED 05/DEC/18] suaji"  group-title="UPDATED",[UPDATED 05/DEC/18] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 05/DEC/18] suaji
 https://pastebin.com/PJEQhvtD
 
 #EXTINF:0, ARENAtest2
