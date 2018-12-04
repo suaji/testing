@@ -334,3 +334,30 @@ http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15019
  
 #EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 12 HD English AR
 http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8830
+
+#EXTINF:-1,UK:SYFY
+http://cs22cs.uk:8000/thehoops/thehoops/21399
+
+#EXTINF:-1,BOX NATION HD
+http://cs22cs.uk:8000/thehoops/thehoops/23259
+
+#EXTINF:-1,FIGHTBOX HD
+http://cs22cs.uk:8000/thehoops/thehoops/21459
+
+#EXTINF:-1,UK:WWE HD
+http://cs22cs.uk:8000/thehoops/thehoops/29321
+
+#EXTINF:-1,SKY CINEMA DISNEY FHD
+http://cs22cs.uk:8000/thehoops/thehoops/26810
+
+#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 1HD
+http://cs22cs.uk:8000/thehoops/thehoops/29352
+
+#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 2HD
+http://cs22cs.uk:8000/thehoops/thehoops/29351
+
+#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 3HD
+http://cs22cs.uk:8000/thehoops/thehoops/29350
+
+#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 4HD
+http://cs22cs.uk:8000/thehoops/thehoops/29349
