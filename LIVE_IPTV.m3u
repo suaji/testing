@@ -157,7 +157,7 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" tvg-name="[COLOR crimson]::: SPORTS :::[/COLOR]"  group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
-https://pastebin.com/Q70AN0JK
+https://pastebin.com/PJEQhvtD
 
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
@@ -248,3 +248,80 @@ http://s1.cmesolution.my:5689/;
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 05/DEC/18] suaji
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST", KSA Sport 1 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/623168
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST", KSA Sport 2 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/623167
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 2 AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/625249
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 1 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15018
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 3 ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/53163
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 2 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15017
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 4 AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8968
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 3 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/53269
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 5 AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/625248
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 4 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15015
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 6 AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/89665
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 5 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/625257
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 7 AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8965
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 6 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15013
+ 
+#EXTINF:-1 tvg-logo="http://pici.life/beinsports8_2.png" group-title="TEST" , beIN Sports 8 AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8964
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 7 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15012
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 9 AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8963
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 8 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15011
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 10 AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8962
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 9 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15010
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 11 AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8961
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 10 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15009
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 12 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15007
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 11 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15008
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports News HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15019
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 12 HD English AR
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8830
