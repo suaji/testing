@@ -90,6 +90,9 @@ http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u
 #EXTINF:0, ANIMAL PLANET
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
+#EXTINF:0 type="stream" ,DISCOVERY CIVILIZATION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" tvg-name="[COLOR green]:: KIDS ::[/COLOR]"  group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
@@ -135,22 +138,22 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 #EXTINF: -1, group-title="MOVIES", CELESTIAL MOVIE HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8 
 
-#EXTINF: -1, &FLIX HD (VLC PLAYER)
+#EXTINF: -1, group-title="MOVIES", &FLIX HD (VLC PLAYER)
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF: -1, &FLIX SD (VLC PLAYER)
+#EXTINF: -1, group-title="MOVIES", &FLIX SD (VLC PLAYER)
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 
-#EXTINF: -1, &FLIX SD2 (VLC PLAYER)
+#EXTINF: -1, group-title="MOVIES", &FLIX SD2 (VLC PLAYER)
 http://170.247.204.8:8000/play/a04n/index.m3u8
 
-#EXTINF: -1, &FLIX SD3 (VLC PLAYER)
+#EXTINF: -1, group-title="MOVIES", &FLIX SD3 (VLC PLAYER)
 https://gg3.azureedge.net//hls1/warner.m3u8
 
-#EXTINF: -1, &PRIVE HD (VLC PLAYER)
+#EXTINF: -1, group-title="MOVIES", &PRIVE HD (VLC PLAYER)
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF: -1, &PRIVE SD (VLC PLAYER)
+#EXTINF: -1, group-title="MOVIES", &PRIVE SD (VLC PLAYER)
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" tvg-name="[COLOR crimson]::: SPORTS :::[/COLOR]"  group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
@@ -243,9 +246,5 @@ http://astro3.rastream.com/raaga?type=.flv
 http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 05/DEC/18] suaji
-https://pastebin.com/PJEQhvtD
-
-#EXTINF:0, ARENAtest2
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
-#EXTINF:0, ARENAtest3
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
