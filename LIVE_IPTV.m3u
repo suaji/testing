@@ -153,12 +153,6 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF: -1, group-title="MOVIES", &FLIX SD (VLC PLAYER)
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 
-#EXTINF: -1, group-title="MOVIES", &FLIX SD2 (VLC PLAYER)
-http://170.247.204.8:8000/play/a04n/index.m3u8
-
-#EXTINF: -1, group-title="MOVIES", &FLIX SD3 (VLC PLAYER)
-https://gg3.azureedge.net//hls1/warner.m3u8
-
 #EXTINF: -1, group-title="MOVIES", &PRIVE HD (VLC PLAYER)
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
