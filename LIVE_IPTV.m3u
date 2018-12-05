@@ -42,7 +42,7 @@ http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia_1.png" tvg-name="[COLOR deepskyblue]:: WORLD ::[/COLOR]"  group-title="WORLD",[COLOR deepskyblue]:: WORLD ::[/COLOR]
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia_1.png" group-title="WORLD",[COLOR deepskyblue]:: WORLD ::[/COLOR]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE
@@ -51,10 +51,10 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="ISLAM",MADINA LIVE
 http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
 
-#EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" group-title="INDONESIA",METRO TV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w765739458_b1492000_sleng.m3u8
 
-#EXTINF:0, tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_id.png" group-title="INDONESIA",TVRI
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/6/67/TVRI.png" group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7
@@ -66,13 +66,13 @@ http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/3463.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang
+#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="SOUTH KOREA",TV Chosun
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="SOUTH KOREA",TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" tvg-name="[COLOR slateblue]:: NEWS ::[/COLOR]"  group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS",AL JAZEERA ENGLISH
@@ -84,19 +84,22 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0, tvg-logo="http://www.channelnewsasia.com/image/8786976/16x9/991/557/29b59d09abf800494e61c9f5978205a3/CV/cna.png" group-title="NEWS",Channel News Asia
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://banner2.kisspng.com/20180329/ovq/kisspng-al-jazeera-sky-news-logo-television-news-5abc943fda39d8.6400434815223081598939.jpg" group-title="NEWS",SKY NEWS
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/ovq/kisspng-al-jazeera-sky-news-logo-television-news-5abc943fda39d8.6400434815223081598939.jpg" group-title="NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" tvg-name="[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]"  group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/ca/wp-content/uploads/2017/02/beIN-SPORTS-H-Purple.png" group-title="NEWS" , beIN Sports News HD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15019
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
 
-#EXTINF:0, ANIMAL PLANET
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
-#EXTINF:0 type="stream" ,DISCOVERY CIVILIZATION
+#EXTINF:0, tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/discovery-civilization-channel-logo-png-transparent.png" group-title="DOCUMENTARY",DISCOVERY CIVILIZATION
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" tvg-name="[COLOR green]:: KIDS ::[/COLOR]"  group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/1e9ec725-8ff7-2e4a-092e-11de3a4515e9-ClassicToons_thumb.jpg" group-title="KIDS", CLASSIC TOONS TV
@@ -105,22 +108,22 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" group-title="KIDS", ANIME ALL DAY
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:0, group-title="KIDS", ANIMAX
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="KIDS", ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
-#EXTINF:0, group-title="KIDS", DISNEY CHANNEL
+#EXTINF:0, tvg-logo="https://banner2.kisspng.com/20180427/vke/kisspng-disney-channel-television-channel-disney-xd-sky-pl-disney-animation-5ae2d20cb987d6.3417869215248143487599.jpg" group-title="KIDS", DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 
-#EXTINF:-1, group-title="KIDS", CARTOON NETWORK
+#EXTINF:-1, tvg-logo="https://banner2.kisspng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="KIDS", CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" tvg-name="[COLOR springgreen]:: FAMILY ::[/COLOR]"  group-title="MOVIES",[COLOR springgreen]:: FAMILY ::[/COLOR]
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIES",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/6rrvi4kD
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" group-title="MOVIES",MBC 2
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" group-title="MOVIES",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="MOVIES", HBO 2
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="MOVIES", HBO 2 SD
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIES", FOX CINEMA
@@ -159,7 +162,7 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1, group-title="MOVIES", &PRIVE SD (VLC PLAYER)
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" tvg-name="[COLOR crimson]::: SPORTS :::[/COLOR]"  group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/PJEQhvtD
 
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports HD
@@ -167,6 +170,12 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS", KSA Sport 1 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/623168
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS", KSA Sport 2 HD ARB
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/623167
 
 #EXTINF:0 type="stream" , group-title="SPORTS", FOX SPORTS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
@@ -176,10 +185,44 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:0 type="stream" , group-title="SPORTS", FOX SPORTS 3
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
-#EXTINF:0 type="stream" , group-title="SPORTS", FOX SPORTS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" tvg-name="[COLOR gold][:: RADIO ::][/COLOR]"  group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 1 FHD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15018
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 2 FHD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15017
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 3 FHD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/53163
+  
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 4 HD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8968
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 5 FHD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/625248
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 6 FHD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15013 
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 7 HD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8965
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 8 FHD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15011
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 9 FHD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15010
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 10 FHD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8962
+ 
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 11 HD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8961
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="SPORTS" , beIN Sports 12 HD
+http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8830
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
 
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/09/Arena-Radio.jpg" group-title="RADIO",ASTRO ARENA RADIO
@@ -248,110 +291,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 05/DEC/18] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 06/DEC/18] suaji
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
-
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST", KSA Sport 1 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/623168
-
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST", KSA Sport 2 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/623167
-
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 2 AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/625249
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 1 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15018
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 3 ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/53163
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 2 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15017
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 4 AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8968
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 3 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/53269
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 5 AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/625248
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 4 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15015
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 6 AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/89665
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 5 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/625257
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 7 AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8965
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 6 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15013
- 
-#EXTINF:-1 tvg-logo="http://pici.life/beinsports8_2.png" group-title="TEST" , beIN Sports 8 AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8964
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 7 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15012
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 9 AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8963
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 8 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15011
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 10 AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8962
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 9 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15010
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 11 AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8961
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 10 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15009
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 12 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15007
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 11 HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15008
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports News HD ARB
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/15019
- 
-#EXTINF:-1 tvg-logo="nologo.png" group-title="TEST" , beIN Sports 12 HD English AR
-http://iptv.rent:8080/bqu4rall7i/cw06n269rs/8830
-
-#EXTINF:-1,UK:SYFY
-http://cs22cs.uk:8000/thehoops/thehoops/21399
-
-#EXTINF:-1,BOX NATION HD
-http://cs22cs.uk:8000/thehoops/thehoops/23259
-
-#EXTINF:-1,FIGHTBOX HD
-http://cs22cs.uk:8000/thehoops/thehoops/21459
-
-#EXTINF:-1,UK:WWE HD
-http://cs22cs.uk:8000/thehoops/thehoops/29321
-
-#EXTINF:-1,SKY CINEMA DISNEY FHD
-http://cs22cs.uk:8000/thehoops/thehoops/26810
-
-#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 1HD
-http://cs22cs.uk:8000/thehoops/thehoops/29352
-
-#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 2HD
-http://cs22cs.uk:8000/thehoops/thehoops/29351
-
-#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 3HD
-http://cs22cs.uk:8000/thehoops/thehoops/29350
-
-#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 4HD
-http://cs22cs.uk:8000/thehoops/thehoops/29349
