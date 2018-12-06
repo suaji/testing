@@ -135,7 +135,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/6rrvi4kD
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MBC2-HD-Logo.jpg" group-title="MOVIE",MBC 2
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
 #EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (HW/HW+)
@@ -150,6 +150,9 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE (HW/HW+)
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" group-title="MOVIE", &Pictures HD (HW/HW+)
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
@@ -159,7 +162,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/FOX_Movies_Premium_Asia_HD.png" group-title="MOVIE", FOX MOVIES PREMIUM FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
 
-#EXTINF: -1, tvg-logo="" group-title="MOVIE", SONY MOVIE NETWORK FHD
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE", SONY MOVIE NETWORK FHD
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="MOVIE", HBO
@@ -281,18 +284,14 @@ rtsp://119.39.49.116:554/ch00000090990000001016.sdp?vcdnid=001
 #EXTINF:-1 tvg-logo="https://img.alicdn.com/tfs/TB1dl28RXXXXXbzaFXXXXXXXXXX-136-50.png" group-title="SPORTS",CCTV+5HD
 rtsp://119.39.49.116:554/ch00000090990000001074.sdp?vcdnid=001
 
-#EXTINF:-1,INDOSIAR
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png", INDOSIAR
 http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, MNC TV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png", MNC TV
 https://cdn-livetv1.metube.id/hls/mnctv.m3u8
 
-#EXTINF:0, MNC TV SD
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png", MNC TV SD
 http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, RCTI SD
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/bimasatriagaruda/images/7/74/RCTI.png/revision/latest?cb=20140707024036&path-prefix=id", RCTI SD
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:0, &Pictures HD
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-
