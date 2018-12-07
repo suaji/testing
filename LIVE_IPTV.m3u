@@ -49,7 +49,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="ISLAM",MADINA LIVE
-http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w765739458_b1492000_sleng.m3u8
@@ -58,19 +57,10 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w765739458_
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7
-http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
-
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC TV
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/3463.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="SOUTH KOREA",TV Chosun
-http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144772_0ea021de49af8b58640aac4301ae96ae/m3u8s/144772.m3u8
@@ -84,8 +74,11 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="NEWS",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS",Channel News Asia
-http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/ovq/kisspng-al-jazeera-sky-news-logo-television-news-5abc943fda39d8.6400434815223081598939.jpg" group-title="NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
@@ -295,3 +288,9 @@ http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/bimasatriagaruda/images/7/74/RCTI.png/revision/latest?cb=20140707024036&path-prefix=id", RCTI SD
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="", SURIA
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
+
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/hi5tv/images/8/87/Okto.png/revision/latest?cb=20170102042731" group-title="KIDS", OKTO
+http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
