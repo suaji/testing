@@ -100,7 +100,7 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/discovery-civilization-channel-logo-png-transparent.png" group-title="DOCUMENTARY",DISCOVERY CIVILIZATION
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/38/Discovery_Civilization_1998.png" group-title="DOCUMENTARY",DISCOVERY CIVILIZATION
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="DOCUMENTARY", FOX CRIME HD
@@ -177,7 +177,7 @@ http://80.80.160.168/live/7/live.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE",SONY MOVIE
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF: -1, tvg-logo="" group-title="MOVIE", CELESTIAL MOVIE (IND)
+#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (IND)
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
 #EXTINF: -1, tvg-logo="https://pbs.twimg.com/profile_images/1240943460/260572775.jpg" group-title="MOVIE", SFI (IND)
@@ -192,16 +192,16 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0 type="stream" , tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORTS
+#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="SPORTS", FOX SPORTS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
-#EXTINF:0 type="stream" , tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_my.png" group-title="SPORTS", FOX SPORTS 2 FHD
+#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORTS 2 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
-#EXTINF:0 type="stream" , tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_my.png" group-title="SPORTS", FOX SPORTS 2 FHD
+#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORTS 2 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-#EXTINF:0 type="stream" , tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORTS", FOX SPORTS 3 FHD
+#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS", FOX SPORTS 3 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 
-#EXTINF:0, tvg-logo="https://www.lyngsat.com/logo/tv/pp/pp_tv_hd_th.png" group-title="SPORTS", PPTV 36 HD
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/PPTV_HD.png/revision/latest?cb=20150717015136" group-title="SPORTS", PPTV 36 HD
 http://49.231.4.246:9981/stream/channelid/124747937
 
 #EXTINF:-1 tvg-logo="https://img.alicdn.com/tfs/TB1dl28RXXXXXbzaFXXXXXXXXXX-136-50.png" group-title="SPORTS",CCTV-5 HD
@@ -299,6 +299,9 @@ http://dl.dlb3d.xyz/Z/
 
 #EXTINF:0, group-title="MOVIES", VENOM (2018)
 http://dl.dlb3d.xyz/M/Venom.2018/Venom.2018.1080p.MkvCage.mkv
+
+#EXTINF:-1 tvg-logo="https://thegamersports.mundodeportivo.com/wp-content/uploads/2018/10/Venom-poster.jpg" , VENOM
+https://satellite.playercdn.net/188/2/3_otjZlhrhmkuwlk_tn02Q/1543917230/181128/335FXNSEZ1895NJRRGQGZ.mp4
 
 #EXTINF:0, group-title="MOVIES", The Equalizer 2 (2018)
 http://dl.dlb3d.xyz/M/The.Equalizer.2.2018/The.Equalizer.2.2018.1080p.x265.RMT.mkv
