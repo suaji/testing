@@ -160,6 +160,9 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Fox_Movies_Premium.png/revision/latest?cb=20120101124025" group-title="MOVIE", FOX MOVIES PREMIUM
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
+#EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Fox_Movies_Premium.png/revision/latest?cb=20120101124025" group-title="MOVIE", FOX MOVIES ASIA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+
 #EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/FOX_Movies_Premium_Asia_HD.png" group-title="MOVIE", FOX MOVIES PREMIUM FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
 
@@ -200,6 +203,21 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS", FOX SPORTS 3 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:FOX_Sports_logo.svg group-title="SPORTS", FOX SPORT (ES)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosfake.wikia.com/wiki/File:Fox_Sports_2_HD_logo.png group-title="SPORTS", FOX SPORT (ES) 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/uk/BTSport1.uk.png" group-title="SPORTS", BT SPORT 1
+http://formen1.com:8080/live/dogancan8/H1ZUzus6Vs/1085.m3u8
+
+#EXTINF:0, group-title="SPORTS",BT SPORT 3
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
+
+#EXTINF:0, group-title="SPORTS",BT SPORT 3 HD
+http://fluidtv.ddns.net:25461/live/Paultaylor290618/RBuZvb6kNC/1804.m3u8
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/PPTV_HD.png/revision/latest?cb=20150717015136" group-title="SPORTS", PPTV 36 HD
 http://49.231.4.246:9981/stream/channelid/124747937
@@ -285,14 +303,8 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
 #EXTINF:0, group-title="", SURIA
 https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/uk/BTSport1.uk.png" group-title="SPORTS", BT SPORT 1
-http://formen1.com:8080/live/dogancan8/H1ZUzus6Vs/1085.m3u8
-
-#EXTINF:0, group-title="SPORTS",BT SPORT 3
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
-
-#EXTINF:0, group-title="SPORTS",BT SPORT 3 HD
-http://fluidtv.ddns.net:25461/live/Paultaylor290618/RBuZvb6kNC/1804.ts
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Warner_Bros._Pictures_logo.svg,Warner Bros
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 
 #EXTINF:0, group-title="MOVIES", :::_VIDEO ON DEMAND_::
 http://dl.dlb3d.xyz/Z/
