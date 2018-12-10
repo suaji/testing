@@ -50,6 +50,10 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="ISLAM",MADINA LIVE
 
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="SINGAPORE", SURIA
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
+
+
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w765739458_b1492000_sleng.m3u8
 
@@ -139,46 +143,41 @@ https://pastebin.com/6rrvi4kD
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (HW/HW+)
+#EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (D/HW)
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE", &FLIX (HW/HW+)
-http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
-
-#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE HD (HW/HW+)
+#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE HD (D/HW)
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE (HW/HW+)
-http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
-
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" group-title="MOVIE", &Pictures HD (HW/HW+)
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" group-title="MOVIE", &Pictures HD (D/HW)
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE", &FLIX (D/HW)
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE (D/HW)
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
+#EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Fox_Movies_Premium.png/revision/latest?cb=20120101124025" group-title="MOVIE", FOX MOVIES ASIA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/FOX_Movies_Premium_Asia_HD.png" group-title="MOVIE", FOX MOVIES PREMIUM FHD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
 #EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Fox_Movies_Premium.png/revision/latest?cb=20120101124025" group-title="MOVIE", FOX MOVIES PREMIUM
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
-#EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Fox_Movies_Premium.png/revision/latest?cb=20120101124025" group-title="MOVIE", FOX MOVIES ASIA
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-
-#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/FOX_Movies_Premium_Asia_HD.png" group-title="MOVIE", FOX MOVIES PREMIUM FHD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
-
-#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE", SONY MOVIE NETWORK FHD
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="MOVIE", HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:0, tvg-logo="https://www.directv.com/images/logos/channels/dark/large/564.png" group-title="MOVIE",SHOWTIME HD
 http://80.80.160.168/live/7/live.m3u8
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE",SONY MOVIE
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE", SONY MOVIE NETWORK FHD
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE",SONY MOVIE HD
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/winx/images/d/dc/Warner_Bros.png/revision/latest?cb=20160212044847" group-title="MOVIE", Warner Bros
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 
 #EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (IND)
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
@@ -199,8 +198,6 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
 #EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORTS 2 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
-#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORTS 2 FHD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS", FOX SPORTS 3 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 
@@ -210,22 +207,21 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://logosfake.wikia.com/wiki/File:Fox_Sports_2_HD_logo.png group-title="SPORTS", FOX SPORT (ES) 2
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/uk/BTSport1.uk.png" group-title="SPORTS", BT SPORT 1
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/uk/BTSport1.uk.png" group-title="SPORTS", BT SPORT 1 HD
 http://formen1.com:8080/live/dogancan8/H1ZUzus6Vs/1085.m3u8
 
-#EXTINF:0, group-title="SPORTS",BT SPORT 3
+#EXTINF:0, group-title="SPORTS",BT SPORT 3 HD
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
 
-#EXTINF:0, group-title="SPORTS",BT SPORT 3 HD
+#EXTINF:0, group-title="SPORTS",BT SPORT 3 FHD
 http://fluidtv.ddns.net:25461/live/Paultaylor290618/RBuZvb6kNC/1804.m3u8
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/PPTV_HD.png/revision/latest?cb=20150717015136" group-title="SPORTS", PPTV 36 HD
-http://49.231.4.246:9981/stream/channelid/124747937
 
-#EXTINF:-1 tvg-logo="https://img.alicdn.com/tfs/TB1dl28RXXXXXbzaFXXXXXXXXXX-136-50.png" group-title="SPORTS",CCTV-5 HD
+#EXTINF:-1 tvg-logo="https://img.alicdn.com/tfs/TB1dl28RXXXXXbzaFXXXXXXXXXX-136-50.png" group-title="SPORTS",CCTV-5 HD (D/SW)
 rtsp://119.39.49.116:554/ch00000090990000001016.sdp?vcdnid=001
 
-#EXTINF:-1 tvg-logo="https://img.alicdn.com/tfs/TB1dl28RXXXXXbzaFXXXXXXXXXX-136-50.png" group-title="SPORTS",CCTV+5 HD
+#EXTINF:-1 tvg-logo="https://img.alicdn.com/tfs/TB1dl28RXXXXXbzaFXXXXXXXXXX-136-50.png" group-title="SPORTS",CCTV+5 HD (D/SW)
 rtsp://119.39.49.116:554/ch00000090990000001074.sdp?vcdnid=001
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
@@ -297,32 +293,29 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 08/DEC/18] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 11/DEC/18] suaji
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
 
-#EXTINF:0, group-title="", SURIA
-https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
+#EXTINF:0, tvg-logo="http://d13z1xw8270sfc.cloudfront.net/origin/345327/1517142000099_blog-viralata-13.png" group-title="VOD", :::_VIDEO ON DEMAND_::
+http://dl.dlb3d.xyz/M/
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Warner_Bros._Pictures_logo.svg,Warner Bros
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+#EXTINF:0, tvg-logo="https://news.newonnetflix.info/wp-content/uploads/2018/11/mowgli.jpg" group-title="MOVIE", Mowgli Legend of the Jungle (2018)
+http://dl.dlb3d.xyz/M/Mowgli.Legend.of.the.Jungle.2018/Mowgli.Legend.of.the.Jungle.2018.720p.NF.WEB-DL.MkvCage.mkv
 
-#EXTINF:0, group-title="MOVIES", :::_VIDEO ON DEMAND_::
-http://dl.dlb3d.xyz/Z/
+#EXTINF:0, tvg-logo="http://kaki.sini.com.my/en/wp-content/uploads/2018/08/The-Predator_featured.jpg" group-title="MOVIE", The Predator (2018)
+http://dl.dlb3d.xyz/M/The.Predator.2018/The.Predator.2018.720p.MkvCage.mkv
 
-#EXTINF:0, group-title="MOVIES", VENOM (2018)
-http://dl.dlb3d.xyz/M/Venom.2018/Venom.2018.1080p.MkvCage.mkv
+#EXTINF:0, tvg-logo="https://blogbaladi.com/wp-content/uploads/2018/10/Poster-refined-750x420.jpg" group-title="MOVIE", Venom (2018)
+http://dl.dlb3d.xyz/M/Venom.2018/Venom.2018.720p.MkvCage.mkv
 
-#EXTINF:-1 tvg-logo="https://thegamersports.mundodeportivo.com/wp-content/uploads/2018/10/Venom-poster.jpg" , VENOM
-https://satellite.playercdn.net/188/2/3_otjZlhrhmkuwlk_tn02Q/1543917230/181128/335FXNSEZ1895NJRRGQGZ.mp4
+#EXTINF:0, tvg-logo="https://www.cinemazone.online/wp-content/uploads/2018/10/The-Nun-2018.jpg" group-title="MOVIE", The Nun (2018)
+http://dl.dlb3d.xyz/M/The.Nun.2018/The.Nun.2018.720p.MkvCage.mkv
 
-#EXTINF:0, group-title="MOVIES", The Equalizer 2 (2018)
-http://dl.dlb3d.xyz/M/The.Equalizer.2.2018/The.Equalizer.2.2018.1080p.x265.RMT.mkv
+#EXTINF:0, tvg-logo="https://popcornusa.s3.amazonaws.com/movies/650/3525-11844-TheIncrejpg" group-title="MOVIE", Incredibles 2 (2018)
+http://dl.dlb3d.xyz/M/Incredibles.2.2018/Incredibles.2.2018.720p.YIFY.mp4
 
-#EXTINF:0, group-title="MOVIES", Avengers : Infinity War (2018) HD
-http://dl1.upload08.com/files/Film/2018/Avengers%20Infinity%20War%202018/Avengers.Infinity.War.2018.720p.HDTS.x264.PaHe.FardaDL.mkv
+#EXTINF:0, tvg-logo="https://m.media-amazon.com/images/M/MV5BZGExM2I0ZTItZWRiYS00Yjk5LThjMzgtZDBlYTExMDBiNmI5XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,694,1000_AL_.jpg" group-title="MOVIE", The Equalizer 2 (2018)
+http://dl.dlb3d.xyz/M/The.Equalizer.2.2018/The.Equalizer.2.2018.720p.MkvCage.mkv
 
-#EXTINF:0, group-title="MOVIES", Avengers : Infinity War (2018) FHD
-http://dl2.yoozdl.com/film.out/Avengers%20Infinity%20War/TorrentCounter.to.Avengers.Infinity.War.2018.English.720p.Cleaned.HDTS.x264.mp4
-
-#EXTINF:0, group-title="MOVIES", Avengers : Infinity War (2018) UHD
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91siinfvt4L._SX342_.jpg" group-title="MOVIE", Avengers Infinity War (2018)
 http://dl.dlb3d.xyz/M/Avengers.Infinity.War.2018/Avengers.Infinity.War.2018.New.720.HDTC.MkvCage.mkv
