@@ -331,8 +331,6 @@ http://tvpremiumhd.club/lista-gratuita/022327/tv/v/2120.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DEPORTES",FOX SPORT 3
 http://tvpremiumhd.club/lista-gratuita/022327/tv/v/2121.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5 FHD
 http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
 
@@ -341,3 +339,6 @@ http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5 SD
 http://223.82.250.72/live/cctv-5/1.m3u8
+
+#EXTINF:-1 Astrok SuperSports 2
+udp://@192.168.1.1234
