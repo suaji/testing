@@ -296,6 +296,8 @@ http://s1.cmesolution.my:5689/;
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 18/DEC/18] suaji
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",
+
 #EXTINF:0, tvg-logo="http://d13z1xw8270sfc.cloudfront.net/origin/345327/1517142000099_blog-viralata-13.png" group-title="VOD", :::_VIDEO ON DEMAND_::
 http://dl.dlb3d.xyz/M/
 
@@ -329,9 +331,13 @@ http://tvpremiumhd.club/lista-gratuita/022327/tv/v/2120.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DEPORTES",FOX SPORT 3
 http://tvpremiumhd.club/lista-gratuita/022327/tv/v/2121.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD |ARG|" tvg-logo="" group-title="● DEPORTES SUR",Fox Sports 1 HD |ARG|
-http://io.xtrego.com:8080/NOJ86OnNsc/Dd9cHrYdYn/2656
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD |ARG|" tvg-logo="" group-title="● DEPORTES SUR",Fox Sports 2 HD |ARG|
-http://io.xtrego.com:8080/NOJ86OnNsc/Dd9cHrYdYn/2657
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD |ARG|" tvg-logo="" group-title="● DEPORTES SUR",Fox Sports 3 HD |ARG|
-http://io.xtrego.com:8080/NOJ86OnNsc/Dd9cHrYdYn/2658
+#EXTINF:-1 tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5 FHD
+http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5 HD
+http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5 SD
+http://223.82.250.72/live/cctv-5/1.m3u8
