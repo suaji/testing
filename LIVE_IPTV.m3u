@@ -143,15 +143,15 @@ https://pastebin.com/6rrvi4kD
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (D/HW)
+#EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (D.HW)
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE HD (D/HW)
+#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE HD (D.HW)
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" group-title="MOVIE", &Pictures HD (D/HW)
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" group-title="MOVIE", &Pictures HD (D.HW)
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE", &FLIX (D/HW)
+#EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE", &FLIX (D.HW)
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
-#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE (D/HW)
+#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE (D.HW)
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX CINEMA
@@ -293,7 +293,7 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 11/DEC/18] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 18/DEC/18] suaji
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
 
 #EXTINF:0, tvg-logo="http://d13z1xw8270sfc.cloudfront.net/origin/345327/1517142000099_blog-viralata-13.png" group-title="VOD", :::_VIDEO ON DEMAND_::
@@ -319,3 +319,12 @@ http://dl.dlb3d.xyz/M/The.Equalizer.2.2018/The.Equalizer.2.2018.720p.MkvCage.mkv
 
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91siinfvt4L._SX342_.jpg" group-title="MOVIE", Avengers Infinity War (2018)
 http://dl.dlb3d.xyz/M/Avengers.Infinity.War.2018/Avengers.Infinity.War.2018.New.720.HDTC.MkvCage.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n62eZ1f.png" group-title="CANALES PREMIUM 1080P",FOX SPORTS 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/022327/tv/v/408.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DEPORTES",FOX SPORT 2
+http://tvpremiumhd.club/lista-gratuita/022327/tv/v/2120.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DEPORTES",FOX SPORT 3
+http://tvpremiumhd.club/lista-gratuita/022327/tv/v/2121.m3u8
