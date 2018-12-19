@@ -234,6 +234,15 @@ http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5 SD
 http://223.82.250.72/live/cctv-5/1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN
+http://tvpremiumhd.club/lista-gratuita/212718/on/lo/558.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN 2
+http://tvpremiumhd.club/lista-gratuita/212718/on/lo/561.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN 3
+http://tvpremiumhd.club/lista-gratuita/212718/on/lo/520.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN PLUS
+http://tvpremiumhd.club/lista-gratuita/212718/on/lo/516.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
 
@@ -332,16 +341,35 @@ http://dl.dlb3d.xyz/M/The.Equalizer.2.2018/The.Equalizer.2.2018.720p.MkvCage.mkv
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91siinfvt4L._SX342_.jpg" group-title="MOVIE", Avengers Infinity War (2018)
 http://dl.dlb3d.xyz/M/Avengers.Infinity.War.2018/Avengers.Infinity.War.2018.New.720.HDTC.MkvCage.mkv
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Sports HD
-http://tvpremiumhd.club/lista-gratuita/212718/on/lo/522.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Sports 2 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", TESTING_1
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", TESTING_2
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN
-http://tvpremiumhd.club/lista-gratuita/212718/on/lo/558.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN 2
-http://tvpremiumhd.club/lista-gratuita/212718/on/lo/561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN 3
-http://tvpremiumhd.club/lista-gratuita/212718/on/lo/520.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN PLUS
-http://tvpremiumhd.club/lista-gratuita/212718/on/lo/516.m3u8
-
+#EXTINF:-1, group-title="SPORTS",Bein1
+http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
+#EXTINF:-1, group-title="SPORTS",Bein2
+http://2111.space:25461/live/admin_205678/75eixnOP/1295.m3u8
+#EXTINF:-1, group-title="SPORTS",Bein3
+http://2111.space:25461/live/admin_205678/75eixnOP/1294.m3u8
+#EXTINF:-1, group-title="SPORTS",Bein4
+http://2111.space:25461/live/admin_205678/75eixnOP/1293.m3u8
+#EXTINF:-1, group-title="SPORTS",Bein5
+http://2111.space:25461/live/admin_205678/75eixnOP/1292.m3u8
+#EXTINF:-1, group-title="SPORTS",Bein6
+http://2111.space:25461/live/admin_205678/75eixnOP/1291.m3u8
+#EXTINF:-1, group-title="SPORTS",Bein7
+http://2111.space:25461/live/admin_205678/75eixnOP/1290.m3u8
+#EXTINF:-1, group-title="SPORTS",Bein8
+http://2111.space:25461/live/admin_205678/75eixnOP/1289.m3u8
+#EXTINF:-1, group-title="SPORTS",Bein9
+http://2111.space:25461/live/admin_205678/75eixnOP/1288.m3u8
+#EXTINF:-1, group-title="SPORTS",Bein10
+http://2111.space:25461/live/admin_205678/75eixnOP/1287.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN_SPORT1
+http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
+#EXTINF:-1,BEIN_SPORT2
+http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
+#EXTINF:-1,BEIN_SPORT3
+http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
