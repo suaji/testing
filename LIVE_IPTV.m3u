@@ -40,7 +40,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia_1.png" group-title="WORLD",[COLOR deepskyblue]:: WORLD ::[/COLOR]
 https://pastebin.com/aRu28z3X
@@ -55,7 +55,7 @@ http://stream2.ninmedia.tv/live/xmedia-nabawitv.stream_nin/playlist.m3u8
 https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="INDONESIA",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w765739458_b1492000_sleng.m3u8
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/6/67/TVRI.png" group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
@@ -63,13 +63,23 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA", INDOSIAR
 http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/bimasatriagaruda/images/7/74/RCTI.png/revision/latest?cb=20140707024036&path-prefix=id" group-title="INDONESIA", RCTI SD
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/bimasatriagaruda/images/7/74/RCTI.png/revision/latest?cb=20140707024036&path-prefix=id" group-title="INDONESIA", RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC TV
 http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="INDONESIA",ANTV
+http://210.210.155.35/qwr9ew/s/s07/index2.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GlobalTV_%28Indonesia%29.svg/2000px-GlobalTV_%28Indonesia%29.svg.png" group-title="INDONESIA",GLOBALTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="INDONESIA",TRANS TV
+http://210.210.155.35/qwr9ew/s/s05/index2.m3u8
+
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7
+
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
@@ -312,8 +322,8 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 18/DEC/18] suaji
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_01.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 21/DEC/18] suaji
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
