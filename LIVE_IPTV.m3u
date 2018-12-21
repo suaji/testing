@@ -375,3 +375,12 @@ http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
 http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
 #EXTINF:-1,BEIN_SPORT3
 http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SPORTS",Fox Sports HD
+http://tvpremiumhd.club/lista-gratuita/212819/on/lo/522.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SPORTS",Fox Sports 2 HD
+http://tvpremiumhd.club/lista-gratuita/212819/on/lo/527.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SPORTS",ESPN
+http://tvpremiumhd.club/lista-gratuita/212819/on/lo/558.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SPORTS",ESPN 2
+http://tvpremiumhd.club/lista-gratuita/212819/on/lo/561.m3u8
