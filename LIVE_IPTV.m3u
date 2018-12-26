@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" group-title="MALAYSIA",TV IKIM
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" group-title="MALAYSIA",TV IKIM HD
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1 HD
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv2_webos.jpg" group-title="MALAYSIA",TV2
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv2_webos.jpg" group-title="MALAYSIA",TV2 HD
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg" group-title="MALAYSIA",OKEY
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg" group-title="MALAYSIA",OKEY HD
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tvi_webos.jpg" group-title="MALAYSIA",TVI
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tvi_webos.jpg" group-title="MALAYSIA",TVI HD
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" group-title="MALAYSIA",1NEWS
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" group-title="MALAYSIA",1NEWS HD
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" group-title="MALAYSIA",PARLIMEN
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" group-title="MALAYSIA",PARLIMEN HD
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
@@ -40,24 +40,27 @@ http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+http://playbackn5.aotg-video.astro.com.my/
+
+#EXTINF:-1 tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg" group-title="MALAYSIA", HELLO TV
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/malaysia_1.png" group-title="WORLD",[COLOR deepskyblue]:: WORLD ::[/COLOR]
 https://pastebin.com/raw/UHUNmPMU
 
-#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE HD
 http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="ISLAM",MADINA LIVE
 http://stream2.ninmedia.tv/live/xmedia-nabawitv.stream_nin/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="SINGAPORE", SURIA
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="SINGAPORE", SURIA FHD
 https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="INDONESIA",METRO TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/6/67/TVRI.png" group-title="INDONESIA",TVRI
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/6/67/TVRI.png" group-title="INDONESIA",TVRI HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA", INDOSIAR
@@ -87,7 +90,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREAN", ARIRANG
+#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREAN", ARIRANG HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
@@ -96,7 +99,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 #EXTINF:0, tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS", AL JAZEERA FHD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", BLOOMBERG TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", BLOOMBERG TV HD
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
@@ -189,6 +192,18 @@ http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3
 
 #EXTINF:0, RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", HOLLYWOOD MOVIES 2 HD
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="", HOLLYWOOD MOVIES 2 HD
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", WARNER TV  (backup)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", HBO 2 (backup)
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
 
 #EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE", &FLIX SD (D.HW)
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
@@ -314,7 +329,7 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="" group-title="",
 
 #EXTINF:0, tvg-logo="http://d13z1xw8270sfc.cloudfront.net/origin/345327/1517142000099_blog-viralata-13.png" group-title="VOD", ::: VIDEO ON DEMAND :::
-http://dl.dlb3d.xyz/M/
+http://a-sync.org/dlzs/Videos/Films/Avengers.mkv
 
 #EXTINF:0, tvg-logo="https://news.newonnetflix.info/wp-content/uploads/2018/11/mowgli.jpg" group-title="MOVIE", Mowgli Legend of the Jungle (2018)
 http://dl.dlb3d.xyz/M/Mowgli.Legend.of.the.Jungle.2018/Mowgli.Legend.of.the.Jungle.2018.720p.NF.WEB-DL.MkvCage.mkv
@@ -337,17 +352,11 @@ http://dl.dlb3d.xyz/M/The.Equalizer.2.2018/The.Equalizer.2.2018.720p.MkvCage.mkv
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91siinfvt4L._SX342_.jpg" group-title="MOVIE", Avengers Infinity War (2018)
 http://dl.dlb3d.xyz/M/Avengers.Infinity.War.2018/Avengers.Infinity.War.2018.New.720.HDTC.MkvCage.mkv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", TESTING_1
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", TESTING_2
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/5106EZGMA5L._SY445_.jpg" group-title="MOVIE", Dragon Ball Z 8: Broly – The Legendary Super Saiyan
+http://sr1.animelist1.ir/Anime%20Movie/Dragon%20Ball%20Z%20Movies/Dragon.Ball.Z.Movie.08.Broly.The.Legendary.Super.Saiyan.1080pBD%5Bx265%5D.AnimeList.IR.mkv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", TEST WARNER TV
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", TEST HBO 2
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/5106EZGMA5L._SY445_.jpg" group-title="MOVIE", Dragon Ball Z 10:  Broly Second Coming
+http://sr1.animelist1.ir/Anime%20Movie/Dragon%20Ball%20Z%20Movies/Dragon.Ball.Z.Movie.10.Broly.Second.Coming.1080pBD%5Bx265%5D.AnimeList.IR.mkv
 
 #EXTINF:-1, group-title="SPORTS",Bein1
 http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
@@ -375,12 +384,3 @@ http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
 http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
 #EXTINF:-1,BEIN_SPORT3
 http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SPORTS",Fox Sports HD
-http://tvpremiumhd.club/lista-gratuita/212819/on/lo/522.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SPORTS",Fox Sports 2 HD
-http://tvpremiumhd.club/lista-gratuita/212819/on/lo/527.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SPORTS",ESPN
-http://tvpremiumhd.club/lista-gratuita/212819/on/lo/558.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="SPORTS",ESPN 2
-http://tvpremiumhd.club/lista-gratuita/212819/on/lo/561.m3u8
