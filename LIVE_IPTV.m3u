@@ -153,10 +153,10 @@ https://pastebin.com/6rrvi4kD
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (D.HW)
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE HD (D.HW)
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+"#EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (D.HW)
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8"
+"#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE HD (D.HW)
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8"
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
@@ -204,13 +204,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", HBO 2 (backup)
 http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
-
-#EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE", &FLIX SD (D.HW)
-http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
-#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE SD (D.HW)
-http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" group-title="MOVIE", &Pictures SD (D.HW)
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/PJEQhvtD
@@ -323,10 +316,8 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 21/DEC/18] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 27/DEC/18] suaji
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="" group-title="",
 
 #EXTINF:0, tvg-logo="http://d13z1xw8270sfc.cloudfront.net/origin/345327/1517142000099_blog-viralata-13.png" group-title="VOD", ::: VIDEO ON DEMAND :::
 http://a-sync.org/dlzs/Videos/Films/Avengers.mkv
