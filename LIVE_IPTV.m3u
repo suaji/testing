@@ -40,7 +40,7 @@ http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/
+http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:-1 tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg" group-title="MALAYSIA", HELLO TV
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -347,9 +347,9 @@ http://sr1.animelist1.ir/Anime%20Movie/Dragon%20Ball%20Z%20Movies/Dragon.Ball.Z.
 #EXTINF:0, HELLO-TV
 https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="USA",SONY MOVIES
-http://tvpremiumhd.club/lista-gratuita/212819/on/live.php?id=yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel
-http://tvpremiumhd.club/lista-gratuita/212819/on/live.php?id=yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
-
+#EXTINF:-1, Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1, HBO 2 International
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1, Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
