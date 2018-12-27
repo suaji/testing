@@ -153,24 +153,24 @@ https://pastebin.com/6rrvi4kD
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-"#EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (D.HW)
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8"
-"#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE HD (D.HW)
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8"
+#EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (D.HW)
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX CINEMA
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/FOX_Movies_Premium_Asia_HD.png" group-title="MOVIE", FOX MOVIES ASIA
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/FOX_Movies_Premium_Asia_HD.png" group-title="MOVIE", FOX MOVIES PREMIUM FHD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
-#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/FOX_Movies_Premium_Asia_HD.png" group-title="MOVIE", FOX MOVIES PREMIUM
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE HD (D.HW)
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="MOVIE", HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/FOX_Movies_Premium_Asia_HD.png" group-title="MOVIE", FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 #EXTINF:0, tvg-logo="https://www.directv.com/images/logos/channels/dark/large/564.png" group-title="MOVIE",SHOWTIME HD
 http://80.80.160.168/live/7/live.m3u8
@@ -178,32 +178,20 @@ http://80.80.160.168/live/7/live.m3u8
 #EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE", SONY MOVIE NETWORK FHD
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/winx/images/d/dc/Warner_Bros.png/revision/latest?cb=20160212044847" group-title="MOVIE", Warner Bros
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", FAMILY MOVIES 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="", FAMILY MOVIES 2 HD
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
 #EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (IND)
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
-#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE HD (IND)
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF: -1, tvg-logo="https://pbs.twimg.com/profile_images/1240943460/260572775.jpg" group-title="MOVIE", SFI (IND)
+#EXTINF: -1, tvg-logo="https://pbs.twimg.com/profile_images/1240943460/260572775.jpg" group-title="MOVIE", SFI (IND) (D.HW)
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
 
 #EXTINF:0, RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", HOLLYWOOD MOVIES 2 HD
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="", HOLLYWOOD MOVIES 2 HD
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", WARNER TV  (backup)
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", HBO 2 (backup)
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/PJEQhvtD
@@ -213,39 +201,46 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="SPORTS", FOX SPORTS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="SPORTS", FOX SPORTS FHD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORTS 2 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
 #EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS", FOX SPORTS 3 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2000px-ESPN_wordmark.svg.png" group-title="SPORTS",ESPN
-http://tvpremiumhd.club/lista-gratuita/212718/on/lo/558.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="SPORTS",ESPN 2
-http://tvpremiumhd.club/lista-gratuita/212718/on/lo/561.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORTS",ESPN 3
-http://tvpremiumhd.club/lista-gratuita/212718/on/lo/520.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/ESPN_Plus.png/revision/latest?cb=20111129182009" group-title="SPORTS",ESPN PLUS
-http://tvpremiumhd.club/lista-gratuita/212718/on/lo/516.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 1 SD
+http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 2 SD
+http://2111.space:25461/live/admin_205678/75eixnOP/1295.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 3 SD
+http://2111.space:25461/live/admin_205678/75eixnOP/1294.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 4 SD
+http://2111.space:25461/live/admin_205678/75eixnOP/1293.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 5 SD
+http://2111.space:25461/live/admin_205678/75eixnOP/1292.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 6 HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1291.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 7 HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1290.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 8 SD
+http://2111.space:25461/live/admin_205678/75eixnOP/1289.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 9 HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1288.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN 10 SD
+http://2111.space:25461/live/admin_205678/75eixnOP/1287.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png" group-title="SPORTS",CCTV-5 SD (D.SW)
-rtsp://119.39.49.116:554/ch00000090990000001016.sdp?vcdnid=001
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="SPORTS",CCTV+5 SD (D.SW)
-rtsp://119.39.49.116:554/ch00000090990000001074.sdp?vcdnid=001
+#EXTINF:-1, group-title="SPORTS",BEIN_SPORT1 SD
+http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN_SPORT2 SD
+http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
+#EXTINF:-1, group-title="SPORTS",BEIN_SPORT3 HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="SPORTS",BT SPORT 3 HD
+#EXTINF:0, tvg-logo="" group-title="SPORTS",BT SPORT 3
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
-#EXTINF:0, tvg-logo="" group-title="SPORTS",BT SPORT 3 FHD
-http://fluidtv.ddns.net:25461/live/Paultaylor290618/RBuZvb6kNC/1804.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="SPORTS", FOX SPORT (SD)
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORT 2 (SD)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORT 2 HD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5 1080p
-http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
@@ -334,7 +329,7 @@ http://dl.dlb3d.xyz/M/Venom.2018/Venom.2018.720p.MkvCage.mkv
 #EXTINF:0, tvg-logo="https://www.cinemazone.online/wp-content/uploads/2018/10/The-Nun-2018.jpg" group-title="MOVIE", The Nun (2018)
 http://dl.dlb3d.xyz/M/The.Nun.2018/The.Nun.2018.720p.MkvCage.mkv
 
-#EXTINF:0, tvg-logo="https://popcornusa.s3.amazonaws.com/movies/650/3525-11844-TheIncrejpg" group-title="MOVIE", Incredibles 2 (2018)
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Incredibles_2.jpg" group-title="MOVIE", Incredibles 2 (2018)
 http://dl.dlb3d.xyz/M/Incredibles.2.2018/Incredibles.2.2018.720p.YIFY.mp4
 
 #EXTINF:0, tvg-logo="https://m.media-amazon.com/images/M/MV5BZGExM2I0ZTItZWRiYS00Yjk5LThjMzgtZDBlYTExMDBiNmI5XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,694,1000_AL_.jpg" group-title="MOVIE", The Equalizer 2 (2018)
@@ -349,29 +344,12 @@ http://sr1.animelist1.ir/Anime%20Movie/Dragon%20Ball%20Z%20Movies/Dragon.Ball.Z.
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/5106EZGMA5L._SY445_.jpg" group-title="MOVIE", Dragon Ball Z 10:  Broly Second Coming
 http://sr1.animelist1.ir/Anime%20Movie/Dragon%20Ball%20Z%20Movies/Dragon.Ball.Z.Movie.10.Broly.Second.Coming.1080pBD%5Bx265%5D.AnimeList.IR.mkv
 
-#EXTINF:-1, group-title="SPORTS",Bein1
-http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
-#EXTINF:-1, group-title="SPORTS",Bein2
-http://2111.space:25461/live/admin_205678/75eixnOP/1295.m3u8
-#EXTINF:-1, group-title="SPORTS",Bein3
-http://2111.space:25461/live/admin_205678/75eixnOP/1294.m3u8
-#EXTINF:-1, group-title="SPORTS",Bein4
-http://2111.space:25461/live/admin_205678/75eixnOP/1293.m3u8
-#EXTINF:-1, group-title="SPORTS",Bein5
-http://2111.space:25461/live/admin_205678/75eixnOP/1292.m3u8
-#EXTINF:-1, group-title="SPORTS",Bein6
-http://2111.space:25461/live/admin_205678/75eixnOP/1291.m3u8
-#EXTINF:-1, group-title="SPORTS",Bein7
-http://2111.space:25461/live/admin_205678/75eixnOP/1290.m3u8
-#EXTINF:-1, group-title="SPORTS",Bein8
-http://2111.space:25461/live/admin_205678/75eixnOP/1289.m3u8
-#EXTINF:-1, group-title="SPORTS",Bein9
-http://2111.space:25461/live/admin_205678/75eixnOP/1288.m3u8
-#EXTINF:-1, group-title="SPORTS",Bein10
-http://2111.space:25461/live/admin_205678/75eixnOP/1287.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN_SPORT1
-http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
-#EXTINF:-1,BEIN_SPORT2
-http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
-#EXTINF:-1,BEIN_SPORT3
-http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
+#EXTINF:0, HELLO-TV
+https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="USA",SONY MOVIES
+http://tvpremiumhd.club/lista-gratuita/212819/on/live.php?id=yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel
+http://tvpremiumhd.club/lista-gratuita/212819/on/live.php?id=yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+

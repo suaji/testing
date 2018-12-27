@@ -1,3 +1,7 @@
+MOVIE DOWNLOAD
+http://a-sync.org/dlzs/Videos/Films/
+
+
 MALAYSIA FTA LOGO
 
 TV1
@@ -16,4 +20,15 @@ https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_300.png
 8TV
 
 TV9
+
+#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE HD (IND)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", HBO 2 (backup)
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5 720i
+http://223.82.250.72/live/cctv-5/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5 720p
+http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
 

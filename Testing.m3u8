@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1, TESTING ONLY
+ 
+#EXTINF:-1,TV9
+http://tvku.live:8888/live/pokoketrial/pakesaja/444.m3u8
+#EXTINF:-1,TV3
+http://tvku.live:8888/live/pokoketrial/pakesaja/443.m3u8
+#EXTINF:-1,TV2
+http://tvku.live:8888/live/pokoketrial/pakesaja/442.m3u8
+#EXTINF:-1,TV1
+http://tvku.live:8888/live/pokoketrial/pakesaja/441.m3u8
+#EXTINF:-1,NTV7
+http://tvku.live:8888/live/pokoketrial/pakesaja/440.m3u8
+#EXTINF:-1,MyTV
+http://tvku.live:8888/live/pokoketrial/pakesaja/783.m3u8
+#EXTINF:-1,Astro Cricket
+http://tvku.live:8888/live/pokoketrial/pakesaja/737.m3u8
+#EXTINF:-1,Astro HHD
+http://tvku.live:8888/live/pokoketrial/pakesaja/735.m3u8
+#EXTINF:-1,Astro Maya HD
+http://tvku.live:8888/live/pokoketrial/pakesaja/736.m3u8
+#EXTINF:-1,Astro Oasis
+http://tvku.live:8888/live/pokoketrial/pakesaja/738.m3u8
+#EXTINF:-1,Astro Prima
+http://tvku.live:8888/live/pokoketrial/pakesaja/739.m3u8
+#EXTINF:-1,Astro Quan Jia HD
+http://tvku.live:8888/live/pokoketrial/pakesaja/740.m3u8
+#EXTINF:-1,Astro Ria
+http://tvku.live:8888/live/pokoketrial/pakesaja/741.m3u8
+#EXTINF:-1,Astro Warna
+http://tvku.live:8888/live/pokoketrial/pakesaja/750.m3u8
