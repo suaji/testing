@@ -208,6 +208,66 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
 #EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS", FOX SPORTS 3 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 
+#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 1 HQ
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/447.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 2 HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/3.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 3 HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/4.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 4 HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/630.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 5 HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/33.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS MAX 1
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/4553.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS MAX 2
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/4557.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: SKY SPORT 1 FHD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/159.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: S SPOR 1 FHD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/9686.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: S SPOR 2 HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/6.m3u8
+
+#EXTINF:0 group-title="SPORTS",US: EUROSPORT HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1438.ts
+
+#EXTINF:0 group-title="SPORTS",US: EUROSPORT2 HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1439.ts
+
+#EXTINF:0 group-title="SPORTS",US: EX YU HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/149.ts
+
+#EXTINF:0 group-title="SPORTS",US: EX YU (1+) HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/150.ts
+
+#EXTINF:0 group-title="SPORTS",US: EX YU (2+) HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/151.ts
+
+#EXTINF:0 group-title="SPORTS",US: EX YU (3+) HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/152.ts
+
+#EXTINF:0 group-title="SPORTS",US: EX YU (4+) HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/154.ts
+
+#EXTINF:0 group-title="SPORTS",US: EX YU (5+) HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/155.ts
+
+#EXTINF:0 group-title="SPORTS",US: EX YU (6+) HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/156.ts
+
+#EXTINF:0 group-title="SPORTS",US: EX YU (7+) HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/157.ts
+
 #EXTINF:-1, group-title="SPORTS",BEIN 1 SD
 http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
 #EXTINF:-1, group-title="SPORTS",BEIN 2 SD
@@ -236,10 +296,10 @@ http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
 #EXTINF:-1, group-title="SPORTS",BEIN_SPORT3 HD
 http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="SPORTS",BT SPORT 3
+#EXTINF:0, tvg-logo="" group-title="SPORTS",BT SPORT 3 FHD
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORT 2 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
@@ -356,3 +416,4 @@ http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
 #EXTINF:-1, BLEACH MOVIE (2018)
 http://sr1.animelist1.ir/index.php/E/Movie/2018/Bleach%202018/Bleach%202018%201080p%20WEB-DL%20x264%20YIFY%20%5BAnimeList.ir%5D.mp4
+

@@ -24,6 +24,13 @@ http://31.128.134.154:33711/udp/239.1.12.16:1234
 #EXTINF:0, Football 1 HD
 http://89.160.222.14:1957/ramdisk/football1_hd.m3u8
 
+#EXTINF:-1,HBO 1
+http://cms.iptvboard.me:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/436.ts
+#EXTINF:-1,HBO 2
+http://cms.iptvboard.me:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/437.ts
+#EXTINF:-1,HBO 3
+http://cms.iptvboard.me:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/821.ts
+
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_paytrentv_big1.png?v=1.0.0.0" group-title="INDO TV", PAYTREN TV
 http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
 
