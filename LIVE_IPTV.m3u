@@ -377,7 +377,7 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 #EXTINF:0, tvg-logo="http://d13z1xw8270sfc.cloudfront.net/origin/345327/1517142000099_blog-viralata-13.png" group-title="VOD", ::: VIDEO ON DEMAND :::
 http://a-sync.org/dlzs/Videos/Films/Avengers.mkv
 
-
+#EXTINF:0, tvg-logo="https://techcrunch.com/wp-content/uploads/2018/12/bird-box.jpg" group-title="MOVIE", Bird Box (2018)
 http://dl3.yoozdl.com/film%20out/Bird.Box.2018/Bird.Box.2018.1080p.WEB-DL.mkv
 
 
