@@ -6,269 +6,244 @@ https://goo.gl/epWUoe
 #EXTINF:-1, goo.gl/epWUoe
 https://goo.gl/epWUoe1
 
+#EXTINF:-1,RCTI
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INDOSIAR
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SCTV
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS 7
+http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS TV
+http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RTV
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BERITA SATU
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAKTV 
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV9 
+http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DAAI TV 
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAK tv
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285613679_b384000_sleng.m3u8
+#EXTINF:-1,TVRI 
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV 
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,METRO TV 
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,NET TV 
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,I News
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png", group-title="MALAYSIA", TV1 SD
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAYSIA", TV2 SD
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png", group-title="MALAYSIA", TVi SD
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,Tv3 ( Malaysia )
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZwsj-iwd4Z242qGwsGVrOc)/dm/3/x6qp375/live-4.m3u8
 #EXTINF:-1,Ntv7 ( Malaysia )
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWLu9EXqQGd5_5JNsJlIYLE)/dm/3/x6qp6ou/live-4.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Awani" tvg-logo="http://iptvreseller.xyz:1234/Anh/astrotv.png" group-title="Malaysia",MY: Astro Awani
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/8471
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Maya" tvg-logo="http://iptvreseller.xyz:1234/Anh/astrotv.png" group-title="Malaysia",MY: Astro Maya
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/8469
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Fox Movies Action" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxactionmoviesarb.png" group-title="Malaysia",MY: Fox Movies Action
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/8463
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Fox Movies Premium" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxpremiummovieslam.png" group-title="Malaysia",MY: Fox Movies Premium
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/8462
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: NTV7" tvg-logo="http://iptvreseller.xyz:1234/Anh/ntv.png" group-title="Malaysia",MY: NTV7
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/8461
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TV1" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv1ba.png" group-title="Malaysia",MY: TV1
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/8460
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TV2" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv2-pistohicra.png" group-title="Malaysia",MY: TV2
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/8459
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TV3" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv3-pephawrego.png" group-title="Malaysia",MY: TV3
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/8458
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TV9" tvg-logo="http://iptvreseller.xyz:1234/Anh/TV9.png" group-title="Malaysia",MY: TV9
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/8457
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SKYNET SPORTS 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/skysport2.png" group-title="Malaysia",MY: SKYNET SPORTS 2
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/17077
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: C More Hockey HD ( SE )" tvg-logo="http://iptvreseller.xyz:1234/Anh/cmorehockey.png" group-title="Malaysia",MY: C More Hockey HD ( SE )
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/5816
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Skynet Sports HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SkynetSports.png" group-title="Malaysia",MY: Skynet Sports HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/26632
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROSUPERSPORTS.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 1
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/27363
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROSUPERSPORTS.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 2
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/27364
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROSUPERSPORTS.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 3
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/27365
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROSUPERSPORTS.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 4
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/27366
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ANI PLUS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ANIPLUSHD.png" group-title="Malaysia",MY: ANI PLUS HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29669
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIMAL PLANET" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Malaysia",MY: ANIMAL PLANET
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29668
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIMAX HD KD" tvg-logo="http://iptvreseller.xyz:1234/Anh/animaux.png" group-title="Malaysia",MY: ANIMAX HD KD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29667
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO AEC HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ASTROAECHD.png" group-title="Malaysia",MY: ASTRO AEC HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29666
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ARENA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29665
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO AWANI HD" tvg-logo="" group-title="Malaysia",MY: ASTRO AWANI HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29664
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO CERIA" tvg-logo="" group-title="Malaysia",MY: ASTRO CERIA
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29662
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO CRICKET HD" tvg-logo="" group-title="Malaysia",MY: ASTRO CRICKET HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29661
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO MAYA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO MAYA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29660
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO OASIS HD" tvg-logo="" group-title="Malaysia",MY: ASTRO OASIS HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29659
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO PRIMA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO PRIMA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29658
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO QUAN JIA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO QUAN JIA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29657
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO RIA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO RIA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29656
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SHUANG XING HD" tvg-logo="" group-title="Malaysia",MY: ASTRO SHUANG XING HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29655
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO TARA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO TARA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29654
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO VAANAVIL HD" tvg-logo="" group-title="Malaysia",MY: ASTRO VAANAVIL HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29653
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO VINMEEN HD" tvg-logo="" group-title="Malaysia",MY: ASTRO VINMEEN HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29652
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO WARNA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO WARNA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29651
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO XI YUE" tvg-logo="" group-title="Malaysia",MY: ASTRO XI YUE
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29650
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO XIAO TAI YANG" tvg-logo="" group-title="Malaysia",MY: ASTRO XIAO TAI YANG
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29649
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AXN HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnhd.png" group-title="Malaysia",MY: AXN HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29648
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: BBC EARTH HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/bbcearth.png" group-title="Malaysia",MY: BBC EARTH HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29645
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: BOOMERANG HD KD" tvg-logo="http://iptvreseller.xyz:1234/Anh/boomerang.png" group-title="Malaysia",MY: BOOMERANG HD KD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29640
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CHANNEL W" tvg-logo="http://iptvreseller.xyz:1234/Anh/CHANNELW.png" group-title="Malaysia",MY: CHANNEL W
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29637
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISCOVERY CHANNEL" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverychannel.png" group-title="Malaysia",MY: DISCOVERY CHANNEL
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29635
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY CH" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" group-title="Malaysia",MY: DISNEY CH
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29634
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY JR" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjr.png" group-title="Malaysia",MY: DISNEY JR
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29628
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY XD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" group-title="Malaysia",MY: DISNEY XD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29627
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DIVA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/divaexyu.png" group-title="Malaysia",MY: DIVA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29626
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DUNIA SINEMA" tvg-logo="http://iptvreseller.xyz:1234/Anh/DUNIASINEMA.png" group-title="Malaysia",MY: DUNIA SINEMA
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29632
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ENTERTAINMENT" tvg-logo="http://iptvreseller.xyz:1234/Anh/e.png" group-title="Malaysia",MY: ENTERTAINMENT
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29633
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: EVERY GOOD GAME HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/EVERYGOODGAMEHD.png" group-title="Malaysia",MY: EVERY GOOD GAME HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29631
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX ACTION MOVIES HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxactionmoviesarb.png" group-title="Malaysia",MY: FOX ACTION MOVIES HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29630
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX FAMILY MOVIES HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxfamilymovieshdarb.png" group-title="Malaysia",MY: FOX FAMILY MOVIES HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29629
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX LIFE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlifehd.png" group-title="Malaysia",MY: FOX LIFE HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29625
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX MOVIES HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxmovies.png" group-title="Malaysia",MY: FOX MOVIES HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29624
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports1.png" group-title="Malaysia",MY: FOX SPORTS 1
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29623
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2.png" group-title="Malaysia",MY: FOX SPORTS 2
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29622
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png" group-title="Malaysia",MY: FOX SPORTS 3
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29621
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX TV HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports4.png" group-title="Malaysia",MY: FOX TV HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29620
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FX CINEMA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcinemalam.png" group-title="Malaysia",MY: FX CINEMA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29619
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: HGTV" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" group-title="Malaysia",MY: HGTV
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29617
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: HHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/HHD.png" group-title="Malaysia",MY: HHD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29615
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: HITS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/HITSHD.png" group-title="Malaysia",MY: HITS HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29616
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: KIX" tvg-logo="http://iptvreseller.xyz:1234/Anh/kix.png" group-title="Malaysia",MY: KIX
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29613
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO ASIA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeo.png" group-title="Malaysia",MY: NAT GEO ASIA HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29609
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO PEOPLE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeopeople.png" group-title="Malaysia",MY: NAT GEO PEOPLE HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29608
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: OUTDOOR HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/outdoorchannel.png" group-title="Malaysia",MY: OUTDOOR HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29602
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: RED HBO HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/REDHBOHD.png" group-title="Malaysia",MY: RED HBO HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29599
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SETANTA SPORTS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SETANTASPORTSHD.png" group-title="Malaysia",MY: SETANTA SPORTS HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29598
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SETi CHINESE" tvg-logo="http://iptvreseller.xyz:1234/Anh/SETiCHINESE.png" group-title="Malaysia",MY: SETi CHINESE
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29597
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SONY ONE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SONYONEHD.png" group-title="Malaysia",MY: SONY ONE HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29596
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SONY SAB APAC" tvg-logo="http://iptvreseller.xyz:1234/Anh/sonysab.png" group-title="Malaysia",MY: SONY SAB APAC
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29673
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SONY SETMAX APAC" tvg-logo="http://iptvreseller.xyz:1234/Anh/SONYSETMAXAPAC.png" group-title="Malaysia",MY: SONY SETMAX APAC
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29672
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SONY TV APAC" tvg-logo="http://iptvreseller.xyz:1234/Anh/sonytv.png" group-title="Malaysia",MY: SONY TV APAC
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29671
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: STAR CHINESE CHANNEL HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/STARCHINESECHANNELHD.png" group-title="Malaysia",MY: STAR CHINESE CHANNEL HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29595
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TLC" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" group-title="Malaysia",MY: TLC
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29594
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TRAVEL CHANNEL HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" group-title="Malaysia",MY: TRAVEL CHANNEL HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29593
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TV ALHIJRA" tvg-logo="http://iptvreseller.xyz:1234/Anh/tva.png" group-title="Malaysia",MY: TV ALHIJRA
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29592
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TV8" tvg-logo="http://iptvreseller.xyz:1234/Anh/tv8-cricroclot.png" group-title="Malaysia",MY: TV8
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29591
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TVN HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvn.png" group-title="Malaysia",MY: TVN HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29590
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TVN MOVIES" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVNMOVIES.png" group-title="Malaysia",MY: TVN MOVIES
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29589
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: WARNER TV HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WARNERTVHD.png" group-title="Malaysia",MY: WARNER TV HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29588
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: WWE NETWORK HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/wwe.png" group-title="Malaysia",MY: WWE NETWORK HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29587
-
-#EXTINF:-1 tvg-ID="" tvg-name="KD-MY: BABY TV KD" tvg-logo="http://iptvreseller.xyz:1234/Anh/babytv.png" group-title="Malaysia",KD-MY: BABY TV KD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29646
-
-#EXTINF:-1 tvg-ID="" tvg-name="KD-MY: DREAMWORKS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/DREAMWORKSHD.png" group-title="Malaysia",KD-MY: DREAMWORKS HD
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/29670
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 11 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 11 PPV
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/31829
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 12 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 12 PPV
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/31828
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 4 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 4 PPV
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/31825
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 6 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 6 PPV
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/31823
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 7 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 7 PPV
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/31822
-
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO 8 PPV" tvg-logo="" group-title="Malaysia",MY: ASTRO 8 PPV
-http://iptv-line.com:6969/123456789abcdefghk6.78mnkode123@gmail.com/qj8uKi3tSY/31821
+#EXTINF:-1,8tv ( Malaysia )
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSKLN3zTsh476ZOI2TWP4Qk)/dm/3/x6qud17/s/live-2.m3u8
+#EXTINF:-1,Tv9 ( Malaysia )
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTdazW1N537n-9IwxnG1vYE)/dm/3/x6qqja6/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png", group-title="MALAYSIA", 1NEWS SD
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png", tvg-name="AWANI",  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png", tvg-name="PARLIMEN TV",  group-title="MALAYSIA",PARLIMEN TV
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", RTM TV OKEY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+
+#EXTINF:-1,Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="TV LOKAL INDONESIA", TV TPI TJ.PINANG
+http://122.248.32.234:1935/ch28/myStream/live.m3u8
+#EXTINF:-1,Madutv
+https://5bb648ab35ae7.streamlock.net/madufm/live/chunklist_w413406651.m3u8
+#EXTINF:-1,Padangtv
+https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
+#EXTINF:-1,Jpmtv
+http://122.248.43.138:1935/jpm/myStream/chunklist_w1243553039.m3u8
+#EXTINF:-1,JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1543398369.m3u8
+#EXTINF:-1,Bengkulu TV
+http://122.248.43.138:1935/ch3/myStream/chunklist_w1948737712.m3u8
+#EXTINF:-1,RiauTV
+http://122.248.43.138:1935/ch4/myStream/chunklist_w1486769853.m3u8
+#EXTINF:-1,LampungTV
+http://122.248.32.234:1935/ch17/myStream/chunklist_w1894495616.m3u8
+#EXTINF:-1,BantenTV
+http://122.248.32.234:1935/ch22/myStream/chunklist_w2023449747.m3u8
+#EXTINF:-1,Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF:-1,Sakti TV
+http://live.sakti.tv/saktitv/livestream/chunks.m3u8
+#EXTINF:-1,Batam TV
+http://122.248.43.138:1935/ch5/myStream/chunklist_w1061316119.m3u8
+#EXTINF:-1,BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1285540539.m3u8
+#EXTINF:-1,RCTV Cirebon
+http://122.248.43.138:1935/ch9/myStream/chunklist_w1715892576.m3u8
+#EXTINF:-1,PAL TV Palembang
+http://122.248.43.138:1935/ch7/myStream/chunklist_w1888578000.m3u8
+#EXTINF:-1,PrimaTV Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8
+#EXTINF:-1,BMS TV Banyumas
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1,PKTV Bontang
+https://5bb648ab35ae7.streamlock.net/pktv/live/chunklist_w1489236449.m3u8
+#EXTINF:-1,Sultra TV Kendari
+http://wowza58.indostreamserver.com:1935/sultratv/live/chunklist_w2061490763.m3u8
+#EXTINF:-1,Citra LamonganTV
+http://122.248.32.234:1935/ch28/myStream/chunklist_w1538770118.m3u8
+#EXTINF:-1,Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/chunks.m3u8
+#EXTINF:-1,TATV
+http://flash1.broadcastindo.net/tatv/live.sdp/chunks.m3u8
+#EXTINF:-1,Duta TV
+http://flash1.broadcastindo.net/dutatv/live.sdp/chunks.m3u8
+#EXTINF:-1,Adi TV
+http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
+#EXTINF:-1,IN TV
+https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_288p/chunks.m3u8
+#EXTINF:-1,Elshinta TV
+http://rr2.dens.tv/s/s10/index1.m3u8
+#EXTINF:-1,BayuTV
+http://wms.klikhost.com/bayutv/live/chunklist.m3u8
+#EXTINF:-1,Sultra TV
+http://wowza58.indostreamserver.com:1935/sultratv/live/chunklist_w747725692.m3u8
+#EXTINF:-1,TV KU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,SBO Surabaya
+http://stream.sbo.co.id:1935/sbotv/live/chunklist_w240543670.m3u8
+#EXTINF:-1,RRI Net
+http://36.89.47.217:11935/rrinet/live/chunklist_w571922664.m3u8
+#EXTINF:-1,CTV Banten
+http://103.23.201.170:1935/live/livestream/chunklist.m3u8
+#EXTINF:-1,SBC TV
+http://wowza58.indostreamserver.com:1935/langoday/live/chunklist_w614309277.m3u8
+#EXTINF:-1,Jember TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/chunklist_w2083260429.m3u8
+#EXTINF:-1,(ID) INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1,(ID) NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF:-1,(ID) NUSANTARA TV
+http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+#EXTINF:-1,(ID) PAYTREN TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+
+#EXTINF:-1,TVRI Budaya 
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sumbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Yogjakarta
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIyogyakarta)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Palembang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Medan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI JawaTimur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bandung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI NTT Kupang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI NTB Mataram
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIntbmataram)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRISultengPalu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Gorontalo
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIgorontalo)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Maluku Ambon
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRImalukuambon)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI KaltimSamarinda
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRIKaltengPalangkaraya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Kalbar Pontianak
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIaceh)/Stream(03)/index.m3u8
+#EXTINF:-1,(ID) TVR PARLEMEN
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1,RodjaTV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1,Wesal TV
+http://119.235.249.60:1935/wesaltv/live/chunklist_w787715950.m3u8
+#EXTINF:-1,Salam TV
+http://wowza60.beetecmedia.com:1935/salamtv/live/chunklist_w1868921570.m3u8
+#EXTINF:-1,Surau TV
+http://119.235.249.60:1935/surautv/live/chunklist_w1568253375.m3u8
+#EXTINF:-1,Niaga TV
+http://119.235.249.58:1935/niagatv/live/chunklist_w719508081.m3u8
+#EXTINF:-1,Ashiil TV Pekanbaru
+http://119.82.232.89:1935/ashiiltv/live2/chunklist_w401197439.m3u8
+#EXTINF:-1,AL Iman TV Surabaya
+http://vs.suaraaliman.com:1935/aliman/HD/chunklist_w646655584.m3u8
+#EXTINF:-1,Puldapii TV Bekasi
+http://178.128.49.255/mobile/web.m3u8
+#EXTINF:-1,Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1,AswajaTV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+#EXTINF:-1,Madani TV
+http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1830558049_b1431072.m3u8
+#EXTINF:-1,I am tv
+https://5b61b5dbb9219.streamlock.net:1978/tes/1/chunklist_w2145952831.m3u8
+#EXTINF:-1,(ID) SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:-1,(ID) TAHFIDZ TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+#EXTINF:-1,(ID) TV MU
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
