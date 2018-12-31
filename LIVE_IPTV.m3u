@@ -49,7 +49,7 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7 SD
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
+http://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWLu9EXqQGd5_5JNsJlIYLE)/dm/3/x6qp6ou/live-4.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV SD
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
