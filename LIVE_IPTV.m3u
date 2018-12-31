@@ -25,7 +25,8 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWLu9EXqQGd5_5JNsJlIYLE)/dm/3/x6qp6ou/live-4.m3u8
+//http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
@@ -410,3 +411,11 @@ http://sr1.animelist1.ir/Anime%20Movie/Dragon%20Ball%20Z%20Movies/Dragon.Ball.Z.
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/5106EZGMA5L._SY445_.jpg" group-title="MOVIE", Dragon Ball Z 10:  Broly Second Coming
 http://sr1.animelist1.ir/Anime%20Movie/Dragon%20Ball%20Z%20Movies/Dragon.Ball.Z.Movie.10.Broly.Second.Coming.1080pBD%5Bx265%5D.AnimeList.IR.mkv
 
+#EXTINF:-1,TV3 FHD
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZwsj-iwd4Z242qGwsGVrOc)/dm/3/x6qp375/live-4.m3u8
+#EXTINF:-1,NTV7 FHD
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWLu9EXqQGd5_5JNsJlIYLE)/dm/3/x6qp6ou/live-4.m3u8
+#EXTINF:-1,8TV FHD
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSKLN3zTsh476ZOI2TWP4Qk)/dm/3/x6qud17/s/live-2.m3u8
+#EXTINF:-1,TV9 FHD
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTdazW1N537n-9IwxnG1vYE)/dm/3/x6qqja6/live-4.m3u8
