@@ -5,3 +5,248 @@ https://goo.gl/epWUoe
 
 #EXTINF:-1, goo.gl/epWUoe
 https://goo.gl/epWUoe1
+
+#EXTINF:-6 tvg-logo="http://127.0.0.1/" group-title="Movie", FOX MOVIES
+http://119.59.125.74/stream/totnew.php?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+
+#EXTINF:-1,RCTI
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INDOSIAR
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SCTV
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS 7
+http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS TV
+http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RTV
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BERITA SATU
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAKTV 
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV9 
+http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DAAI TV 
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAK tv
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285613679_b384000_sleng.m3u8
+#EXTINF:-1,TVRI 
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV 
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,METRO TV 
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,NET TV 
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,I News
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png", group-title="MALAYSIA", TV1 SD
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAYSIA", TV2 SD
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png", group-title="MALAYSIA", TVi SD
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,Tv3 ( Malaysia )
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZwsj-iwd4Z242qGwsGVrOc)/dm/3/x6qp375/live-4.m3u8
+#EXTINF:-1,Ntv7 ( Malaysia )
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWLu9EXqQGd5_5JNsJlIYLE)/dm/3/x6qp6ou/live-4.m3u8
+#EXTINF:-1,8tv ( Malaysia )
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSKLN3zTsh476ZOI2TWP4Qk)/dm/3/x6qud17/s/live-2.m3u8
+#EXTINF:-1,Tv9 ( Malaysia )
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTdazW1N537n-9IwxnG1vYE)/dm/3/x6qqja6/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png", group-title="MALAYSIA", 1NEWS SD
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png", tvg-name="AWANI",  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png", tvg-name="PARLIMEN TV",  group-title="MALAYSIA",PARLIMEN TV
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", RTM TV OKEY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+
+#EXTINF:-1,Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="TV LOKAL INDONESIA", TV TPI TJ.PINANG
+http://122.248.32.234:1935/ch28/myStream/live.m3u8
+#EXTINF:-1,Madutv
+https://5bb648ab35ae7.streamlock.net/madufm/live/chunklist_w413406651.m3u8
+#EXTINF:-1,Padangtv
+https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
+#EXTINF:-1,Jpmtv
+http://122.248.43.138:1935/jpm/myStream/chunklist_w1243553039.m3u8
+#EXTINF:-1,JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1543398369.m3u8
+#EXTINF:-1,Bengkulu TV
+http://122.248.43.138:1935/ch3/myStream/chunklist_w1948737712.m3u8
+#EXTINF:-1,RiauTV
+http://122.248.43.138:1935/ch4/myStream/chunklist_w1486769853.m3u8
+#EXTINF:-1,LampungTV
+http://122.248.32.234:1935/ch17/myStream/chunklist_w1894495616.m3u8
+#EXTINF:-1,BantenTV
+http://122.248.32.234:1935/ch22/myStream/chunklist_w2023449747.m3u8
+#EXTINF:-1,Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF:-1,Sakti TV
+http://live.sakti.tv/saktitv/livestream/chunks.m3u8
+#EXTINF:-1,Batam TV
+http://122.248.43.138:1935/ch5/myStream/chunklist_w1061316119.m3u8
+#EXTINF:-1,BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1285540539.m3u8
+#EXTINF:-1,RCTV Cirebon
+http://122.248.43.138:1935/ch9/myStream/chunklist_w1715892576.m3u8
+#EXTINF:-1,PAL TV Palembang
+http://122.248.43.138:1935/ch7/myStream/chunklist_w1888578000.m3u8
+#EXTINF:-1,PrimaTV Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8
+#EXTINF:-1,BMS TV Banyumas
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1,PKTV Bontang
+https://5bb648ab35ae7.streamlock.net/pktv/live/chunklist_w1489236449.m3u8
+#EXTINF:-1,Sultra TV Kendari
+http://wowza58.indostreamserver.com:1935/sultratv/live/chunklist_w2061490763.m3u8
+#EXTINF:-1,Citra LamonganTV
+http://122.248.32.234:1935/ch28/myStream/chunklist_w1538770118.m3u8
+#EXTINF:-1,Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/chunks.m3u8
+#EXTINF:-1,TATV
+http://flash1.broadcastindo.net/tatv/live.sdp/chunks.m3u8
+#EXTINF:-1,Duta TV
+http://flash1.broadcastindo.net/dutatv/live.sdp/chunks.m3u8
+#EXTINF:-1,Adi TV
+http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
+#EXTINF:-1,IN TV
+https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_288p/chunks.m3u8
+#EXTINF:-1,Elshinta TV
+http://rr2.dens.tv/s/s10/index1.m3u8
+#EXTINF:-1,BayuTV
+http://wms.klikhost.com/bayutv/live/chunklist.m3u8
+#EXTINF:-1,Sultra TV
+http://wowza58.indostreamserver.com:1935/sultratv/live/chunklist_w747725692.m3u8
+#EXTINF:-1,TV KU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,SBO Surabaya
+http://stream.sbo.co.id:1935/sbotv/live/chunklist_w240543670.m3u8
+#EXTINF:-1,RRI Net
+http://36.89.47.217:11935/rrinet/live/chunklist_w571922664.m3u8
+#EXTINF:-1,CTV Banten
+http://103.23.201.170:1935/live/livestream/chunklist.m3u8
+#EXTINF:-1,SBC TV
+http://wowza58.indostreamserver.com:1935/langoday/live/chunklist_w614309277.m3u8
+#EXTINF:-1,Jember TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/chunklist_w2083260429.m3u8
+#EXTINF:-1,(ID) INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1,(ID) NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF:-1,(ID) NUSANTARA TV
+http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+#EXTINF:-1,(ID) PAYTREN TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+
+#EXTINF:-1,TVRI Budaya 
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sumbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Yogjakarta
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIyogyakarta)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Palembang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Medan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI JawaTimur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bandung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI NTT Kupang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI NTB Mataram
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIntbmataram)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRISultengPalu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Gorontalo
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIgorontalo)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Maluku Ambon
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRImalukuambon)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI KaltimSamarinda
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRIKaltengPalangkaraya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Kalbar Pontianak
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIaceh)/Stream(03)/index.m3u8
+#EXTINF:-1,(ID) TVR PARLEMEN
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1,RodjaTV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1,Wesal TV
+http://119.235.249.60:1935/wesaltv/live/chunklist_w787715950.m3u8
+#EXTINF:-1,Salam TV
+http://wowza60.beetecmedia.com:1935/salamtv/live/chunklist_w1868921570.m3u8
+#EXTINF:-1,Surau TV
+http://119.235.249.60:1935/surautv/live/chunklist_w1568253375.m3u8
+#EXTINF:-1,Niaga TV
+http://119.235.249.58:1935/niagatv/live/chunklist_w719508081.m3u8
+#EXTINF:-1,Ashiil TV Pekanbaru
+http://119.82.232.89:1935/ashiiltv/live2/chunklist_w401197439.m3u8
+#EXTINF:-1,AL Iman TV Surabaya
+http://vs.suaraaliman.com:1935/aliman/HD/chunklist_w646655584.m3u8
+#EXTINF:-1,Puldapii TV Bekasi
+http://178.128.49.255/mobile/web.m3u8
+#EXTINF:-1,Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1,AswajaTV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+#EXTINF:-1,Madani TV
+http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1830558049_b1431072.m3u8
+#EXTINF:-1,I am tv
+https://5b61b5dbb9219.streamlock.net:1978/tes/1/chunklist_w2145952831.m3u8
+#EXTINF:-1,(ID) SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:-1,(ID) TAHFIDZ TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+#EXTINF:-1,(ID) TV MU
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
