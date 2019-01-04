@@ -117,11 +117,6 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/ceria-fm.jpg" group-title="RADIO",CERIA FM
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 01/JAN/19] suaji
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2016/06/kool-fm.jpg" group-title="RADIO",KPOP FM
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 01/JAN/19] suaji
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
