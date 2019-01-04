@@ -1,7 +1,142 @@
 #EXTM3U
 
 #EXTINF:0, https://goo.gl/9UEdfs
+https://stream-02.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NME66YJoh-nsukjHjn6zzNVAc)/dm/3/x6vgouw/live-4.m3u8
 
+#EXTINF:0, ESPN/BT Sport
+http://80.243.189.26:8081/sportshd/espnuk/index.m3u8
+#EXTINF:0, ESPNHD
+http://200.89.190.163/live/live/ESPNHD/SA_Live/ESPNHD.m3u8
+#EXTINF:0, Eurosport
+rtsp://93.120.27.78:1935/live/euro1n
+#EXTINF:0, Eurosport
+http://217.114.191.238/Eurosport/playlist.m3u8
+#EXTINF:0, Eurosport 1
+http://aziptv.mine.nu:8000/live/jonas/jonas/47.m3u8
+#EXTINF:0, EuroSport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:0, Eurosport 1
+http://85.25.43.23:8080/hls/volex_04.m3u8
+#EXTINF:0, Eurosport 1
+http://79.105.120.230:5055/udp/239.4.1.193:2020
+#EXTINF:0, Eurosport 1
+http://79.142.193.39:8000/test
+#EXTINF:0, Eurosport 1
+http://178.156.80.185:8090/Eurosport1/playlist.m3u8
+#EXTINF:0, Eurosport 1 British
+http://134.19.187.44:1935/aqq/vesplsh68/playlist.m3u8
+#EXTINF:0, Eurosport 2
+http://aziptv.mine.nu:8000/live/jonas/jonas/48.m3u8
+#EXTINF:0, Eurosport 2
+http://178.156.80.185:8090/Eurosport2/playlist.m3u8
+#EXTINF:0, Eurosport 2 HD
+http://62.210.115.122:9099/play/a00r
+#EXTINF:0, EuroSport FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0, EUROSPORT HD
+http://87.98.162.77:9090/eurosport
+#EXTINF:0, Eurosport HD (EN)
+http://109.95.47.249:1919/udp/239.0.0.195:4000
+#EXTINF:0, Eurosport HD NO 512x288
+http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master288_20170413.m3u8
+#EXTINF:0, Eurosport HD NO 640x360
+http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master360_20170413.m3u8
+#EXTINF:0, Eurosport HD NO 768x432
+http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master432_20170413.m3u8
+#EXTINF:0, Eurosport2
+http://178.34.182.154:5050/play/abuq2q
+#EXTINF:0, EXTRAKLASA FHD
+http://stream-07.vty.dailymotion.com/30/dm/1/x2yclwl/live.isml/live-audio=128000-video=6300000.m3u8
+#EXTINF:0, EXTRAKLASA HD
+http://stream-08.vty.dailymotion.com/30/dm/1/x2yclwl/live.isml/live-audio=128000-video=2100000.m3u8
+#EXTINF:0, EXTRAKLASA SD
+http://stream-06.vty.dailymotion.com/30/dm/1/x2yclwl/live.isml/live-audio=128000-video=1260000.m3u8
+#EXTINF:0, EXTREME MCS
+http://188.165.13.95:8080/272/index.m3u8
+#EXTINF:0, EXTREME SPORTS CHANNEL
+http://109.248.87.41:3371/udp/239.195.1.6:1234
+#EXTINF:0, Fifa Cup Live Before 1 Hrs
+http://ams-upmv01.ustream.tv/ams-uhs02/streams/httpflv/ustreamVideo/18464781/streams/live_1_1404986960_445543204.flv
+#EXTINF:0, FIFA2013
+http://34.95.154.54:8032/fifa2013
+#EXTINF:0, FIFA2013
+http://34.95.154.54:8032/fifa2013
+#EXTINF:0, FIFA2014
+http://34.95.154.54:8032/fifa2014
+#EXTINF:0, Fight Time TV [HD]
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+#EXTINF:0, Football
+http://85.234.0.48:4020/football
+#EXTINF:0, Football
+http://89.23.181.192:81/udp/239.1.12.16:1234
+#EXTINF:0, Football 1
+http://85.234.0.48:4020/football1
+#EXTINF:0, Football 1
+http://31.132.208.247:22281/udp/233.166.172.221:1234
+#EXTINF:0, Football 1
+http://51.15.82.174:8081/tv/futbol-1/chunks.m3u8
+#EXTINF:0, Football 1 HD
+http://31.128.134.154:33711/udp/239.1.12.16:1234
+#EXTINF:0, Football 1 HD
+http://89.160.222.14:1957/ramdisk/football1_hd.m3u8
+#EXTINF:0, Football 2
+http://85.234.0.48:4020/football2
+#EXTINF:0, Football 2
+http://93.94.223.186:8000/play/a00p
+#EXTINF:0, Football 3
+http://85.234.0.48:4020/football3
+#EXTINF:0, fox sport
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
+#EXTINF:0, fox sport
+http://www.tv-porinternet.com/fox-sports-en-vivo-por-internet/
+#EXTINF:0, FOX SPORT 1
+http://149.202.207.8:8080/je3nNaM00tAa/f00cssp1/index.m3u8
+#EXTINF:0, FOX SPORT 1
+http://5g.iptvmanagerpro.com/stream_102_d0f8ecbae19153181e4c89ecd48244d7_1513214025.m3u8
+#EXTINF:0, Fox Sport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com/300CFreePremiumSports/130.ts
+#EXTINF:0, Fox Sport 1
+http://78.31.67.188:8000/live/freeworldwideiptv.com/WorldSports300Co/130.ts
+#EXTINF:0, FOX SPORT 2
+http://149.202.207.8:8080/je3nNaM00tAa/f00cssp2/index.m3u8
+#EXTINF:0, FOX SPORT 2
+http://5g.iptvmanagerpro.com/stream_77_764d9424af1ae308c12ac1813427c9f4_1513214025.m3u8
+#EXTINF:0, Fox Sport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com/300CFreePremiumSports/131.ts
+#EXTINF:0, Fox Sport 2
+http://78.31.67.188:8000/live/freeworldwideiptv.com/WorldSports300Co/131.ts
+#EXTINF:0, Fox Sport 3
+http://78.31.67.188:8000/live/freeworldwideiptv.com/300CFreePremiumSports/147.ts
+#EXTINF:0, Fox Sport 3
+http://78.31.67.188:8000/live/freeworldwideiptv.com/WorldSports300Co/147.ts
+#EXTINF:0, Fox Sport 4
+http://78.31.67.188:8000/live/freeworldwideiptv.com/WorldSports300Co/148.ts
+#EXTINF:0, Fox Sport 5
+http://78.31.67.188:8000/live/freeworldwideiptv.com/WorldSports300Co/149.ts
+#EXTINF:0, Fox Sport 6
+http://78.31.67.188:8000/live/freeworldwideiptv.com/WorldSports300Co/150.ts
+#EXTINF:0, Fox Sports
+http://iptv.latino-webtv.com/server1.m3u8?ch=522&cl=3
+#EXTINF:0, Fox Sports
+http://live.tvplayerlatino.com/usuarios/src1/FoxSports/web/playlist.m3u8?ZmZ4ZmN5AQp5Z18kAQt4ZmD3ZwL4
+#EXTINF:0, Fox Sports
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/Stream(01)/index.m3u8
+#EXTINF:0, Fox Sports
+http://gameriptv.com:80/chan/sd54fs21ds654/foxsports.php
+#EXTINF:0, FOX Sports 1(FS1)
+http://185.142.239.164:3135/1/FOX/index.m3u8
+#EXTINF:0, Fox Sports 2
+http://iptv.latino-webtv.com/server1.m3u8?ch=527&cl=3
+#EXTINF:0, Fox Sports 2
+http://live.tvplayerlatino.com/usuarios/src1/FoxSports2/web/playlist.m3u8?ZmZ4ZmN5AQp5Z18kAQt4ZmD3ZwL4
+#EXTINF:0, Fox Sports 2
+rtmp://vxdiptv.zapto.org/live/stream
+#EXTINF:0, Fox Sports 3
+http://live.tvplayerlatino.com/usuarios/src2/FoxSports3/web/playlist.m3u8?ZmZ4ZmN5AQp5Z18kAQt4ZmD3ZwL4
+#EXTINF:0, fr
+http://62.210.245.19:8000/get.php?username=71195780a0921j&password=obYdzi9j2B4450&type=m3u
+#EXTINF:0, FUTBOL TV HD 3 PREMIER LEAGUE-LA LIGA
+http://188.165.48.227:9090
 
 
 #EXTINF:0, tvg-logo="" group-title="MARVEL", 1. Iron Man (2008)
