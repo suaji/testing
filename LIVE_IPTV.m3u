@@ -50,5 +50,74 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
 http://103.242.13.190:5555/udp/239.4.1.148:10000
 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
+http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/09/Arena-Radio.jpg" group-title="RADIO",ASTRO ARENA RADIO
+http://astro1.rastream.com/amp-arena
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/ceria-fm.jpg" group-title="RADIO",CERIA FM
+http://72.20.10.44:8080/;
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Damai-FM-Mencari-Damai-Disini.jpg" group-title="RADIO",DAMAI FM
+http://72.20.10.42:8000/stream
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/12/Dunia-Muzik-Fm-1.jpg" group-title="RADIO",DUNIA MUZIK FM
+http://185.109.169.80:8000/;
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/01/Durian-FM.jpg" group-title="RADIO",DURIAN FM
+http://s3.voscast.com:7140/;
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/era-fm.jpg" group-title="RADIO",ERA FM
+http://astro2.rastream.com/era
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2016/12/Hijrah-FM.jpg" group-title="RADIO",HIJRAH FM
+http://151.80.42.191:8560/stream
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/hitz-fm.jpg" group-title="RADIO",HITZ FM
+http://astro1.rastream.com/hitz
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/03/Gegar-Muzik-FM.jpg" group-title="RADIO",GEGAR MUZIK
+http://167.114.131.90:5316/stream
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/09/India-Beat.jpg" group-title="RADIO",INDIA BEAT
+http://astro4.rastream.com/india
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/08/kinabalu-highway-station-1.jpg" group-title="RADIO",Kinabalu Highway Station
+http://5.63.151.52:7236/khsfm?1534573997322
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Melaka-FM.jpg" group-title="RADIO",MELAKA FM
+http://60.51.171.229:8080/;stream.mp3?type=.mp3/;stream.mp3
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/melody-fm.jpg" group-title="RADIO",MELODY FM
+http://astro3.rastream.com/melody
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Mix-FM2.jpg" group-title="RADIO",MIX FM
+http://astro2.rastream.com/mix
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/My-FM1.jpg" group-title="RADIO",MY FM
+http://astro1.rastream.com/myfm
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Nasyid-FM.jpg" group-title="RADIO",NASYID FM
+http://72.20.10.40:8000/stream
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/10/Radio-Bapakku.jpg" group-title="RADIO",RADIO BAPAKKU
+http://radio.bapakku.fm:8000/;
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/11/senandung-fm.jpg" group-title="RADIO",SENANDUNG FM
+http://listen.radioking.com/radio/99241/stream/137962
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/sinar-fm.jpg" group-title="RADIO",SINAR FM
+http://astro2.rastream.com/sinar
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-gegar.jpg" group-title="RADIO",THR GEGAR
+http://astro3.rastream.com/gegar
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-raaga.jpg" group-title="RADIO",THR RAGAA
+http://astro3.rastream.com/raaga?type=.flv
+
+#EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
+http://s1.cmesolution.my:5689/;
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 30/JAN/19] suaji
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
