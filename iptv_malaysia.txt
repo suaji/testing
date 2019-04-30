@@ -1,17 +1,17 @@
 <item>
-<title>[COLOR red]kemaskini (08-02-17)[/COLOR]</title>
+<title>[COLOR red]kemaskini (30-04-2019)[/COLOR]</title>
 <link>.</link>
 <thumbnail>.</thumbnail>
 </item>
 
 <item>
   <title>TV1</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10149</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=https://rtm-player.glueapi.io/event/10149</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10149</page>
-    <referer>http://rtm-player.glueapi.io/f/10149</referer>
+    <page>https://rtm-player.glueapi.io/event/10149</page>
+    <referer>https://rtm-player.glueapi.io/event/10149</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -20,13 +20,19 @@
 </item>
 
 <item>
+<title>TV1 HD</title>
+<link>https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
+</item>
+
+<item>
   <title>TV2</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10148</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=https://rtm-player.glueapi.io/event/10148</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10148</page>
-    <referer>http://rtm-player.glueapi.io/f/10148</referer>
+    <page>https://rtm-player.glueapi.io/event/10148</page>
+    <referer>https://rtm-player.glueapi.io/event/10148</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -35,48 +41,58 @@
 </item>
 
 <item>
-  <title>TVi</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10150</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10150</page>
-    <referer>http://rtm-player.glueapi.io/f/10150</referer>
-    <agent>Mozilla/5.0</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
+<title>TV2 HD</title>
+<link>https://rtm-live-stream1.glueapi.io/smil:rtmch002/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
 </item>
 
 <item>
-  <title>GALAKSI MUZIK</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10151</link>
+  <title>OKEY TV</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=https://rtm-player.glueapi.io/event/10150</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10151</page>
-    <referer>http://rtm-player.glueapi.io/f/10151</referer>
+    <page>https://rtm-player.glueapi.io/event/10150</page>
+    <referer>https://rtm-player.glueapi.io/event/10150</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
   </regex>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>  
+<thumbnail>https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg</thumbnail>  
+</item>
+
+<item>
+<title>OKEY TV HD</title>
+<link>https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>HELLO TV HD</title>
+<link>http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8</link>
+<thumbnail>https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg</thumbnail>
 </item>
 
 <item>
   <title>1News</title>
-  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10153</link>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=https://rtm-player.glueapi.io/event/10153</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10153</page>
-    <referer>http://rtm-player.glueapi.io/f/10153</referer>
+    <page>https://rtm-player.glueapi.io/event/10153</page>
+    <referer>https://rtm-player.glueapi.io/event/10153</referer>
     <agent>Mozilla/5.0</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
   </regex>
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>  
+</item>
+
+<item>
+<title>1NEWS HD</title>
+<link>https://rtm-live-stream1.glueapi.io/smil:rtmch006/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>
 </item>
 
 <item>
@@ -91,32 +107,4 @@
 <thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png</thumbnail>
 </item>
 
-<item>
-<title>TV1 SD</title>
-<link>http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png</thumbnail>
-</item>
 
-<item>
-<title>TV2 SD</title>
-<link>http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png</thumbnail>
-</item>
-
-<item>
-<title>TVi SD</title>
-<link>http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png</thumbnail>
-</item>
-
-<item>
-<title>GALAKSI MUZIK SD</title>
-<link>http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png</thumbnail>
-</item>
-
-<item>
-<title>1NEWS SD</title>
-<link>http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png</thumbnail>
-</item>
