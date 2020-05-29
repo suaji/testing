@@ -35,9 +35,16 @@ Check Trusted Domain
 >> domain.ddns.net
 
 
-NEXTCLOUD ADD USER
->
+NEXTCLOUD ADD USER / GROUP
+> sudo -u www-data php occ user:add name1
+> sudo -u www-data php occ user:add --display-name="Full Name" --group="users" --group="db-admins" name1
+> sudo -u www-data php occ group:add group1
 
 
 NEXTCLOUD USER DATA LOCATION (BACKUP)
 > /var/snap/nextcloud/common/nextcloud
+> 
+
+* OCC COmmands
+> https://docs.nextcloud.com/server/15/admin_manual/configuration_server/occ_command.html
+>
