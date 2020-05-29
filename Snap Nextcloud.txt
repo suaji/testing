@@ -1,0 +1,21 @@
+Install Snap
+> sudo apt-get install 
+
+Install Nextcloud
+>
+
+Enable SSL @ HTTPS Nextcloud
+> 
+
+Install Noip Client
+>
+
+
+Trusted Domain (config/config.php)
+> sudo snap run nextcloud.occ config:system:set trusted_domains 0 --value=localhost
+> sudo snap run nextcloud.occ config:system:set trusted_domains 1 --value=www.domain.com
+> sudo snap restart nextcloud
+
+Check Trusted Domain
+> sudo snap run nextcloud.occ config:system:get trusted_domains 1
+>> domain.ddns.net
