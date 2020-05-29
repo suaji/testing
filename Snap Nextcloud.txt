@@ -41,9 +41,10 @@ NEXTCLOUD ADD USER / GROUP
 > sudo -u www-data php occ group:add group1
 
 
-NEXTCLOUD USER DATA LOCATION (BACKUP)
+NEXTCLOUD USER DATA LOCATION (BACKUP USER FILES & DATABASES)
 > /var/snap/nextcloud/common/nextcloud
-> 
+> sudo -u www-data php occ maintenance:mode --on
+> sudo mysqldump
 
 * OCC COmmands
 > https://docs.nextcloud.com/server/15/admin_manual/configuration_server/occ_command.html
