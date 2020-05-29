@@ -5,13 +5,13 @@
 *Ubuntu 20.04 64bit (Server @ Desktop)
 
 1. Install Snap
-> sudo apt-get install 
+> sudo apt-get install snapd
 
 2. Install Nextcloud
->
+> sudo snap install nextcloud
 
 3. Install Noip Client
-> snap install noip-client
+> sudo snap install noip-client
 > sudo noip-client.configure
 > sudo systemctl restart snap.noip-client.launcher.service
 
@@ -19,12 +19,16 @@
 
 
 Enable SSL @ HTTPS Nextcloud
-> 
+> sudo nextcloud.enable-https lets-encrypt
+> port 80/88 443/4433
+> self-signed certificate : sudo nextcloud.enable-https self-signed
+
 
 Trusted Domain (config/config.php)
 > sudo snap run nextcloud.occ config:system:set trusted_domains 0 --value=localhost
 > sudo snap run nextcloud.occ config:system:set trusted_domains 1 --value=www.domain.com
 > sudo snap restart nextcloud
+
 
 Check Trusted Domain
 > sudo snap run nextcloud.occ config:system:get trusted_domains 1
@@ -33,6 +37,7 @@ Check Trusted Domain
 
 NEXTCLOUD ADD USER
 >
+
 
 NEXTCLOUD USER DATA LOCATION (BACKUP)
 > /var/snap/nextcloud/common/nextcloud
