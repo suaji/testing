@@ -1,6 +1,6 @@
-===================
-	NEXTCLOUD SERVER
-===================
+====================
+  NEXTCLOUD SERVER
+====================
 
 *Ubuntu 20.04 64bit (Server @ Desktop)
 
