@@ -19,6 +19,7 @@
 
 
 Enable SSL @ HTTPS Nextcloud
+> sudo ufw allow 80,443/tcp
 > sudo nextcloud.enable-https lets-encrypt
 > port 80/88 443/4433
 > self-signed certificate : sudo nextcloud.enable-https self-signed
