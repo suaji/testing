@@ -23,9 +23,14 @@ Enable SSL @ HTTPS Nextcloud
 > sudo nextcloud.enable-https lets-encrypt
 > port 80/88 443/4433
 > self-signed certificate : sudo nextcloud.enable-https self-signed
+>>> HTTP/HTTPS port configuration
+>>> sudo snap set nextcloud ports.http=80 @ 81
+>>> sudo snap set nextcloud ports.https=443 @ 444
+>>> sudo snap set nextcloud ports.http=81 ports.https=444
 
 
 Trusted Domain (config/config.php)
+> /var/snap/nextcloud/current/nextcloud/config/config.php
 > sudo snap run nextcloud.occ config:system:set trusted_domains 0 --value=localhost
 > sudo snap run nextcloud.occ config:system:set trusted_domains 1 --value=www.domain.com
 > sudo snap restart nextcloud
