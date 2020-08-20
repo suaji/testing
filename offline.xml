@@ -1,133 +1,26 @@
-
-ports range 5000 - 5004 for PASV file transfers
-
-5000-5100
-
-1 1485 1485 TCP 10.0.0.21 
-2 1485 1485 UDP 10.0.0.21 
-3 4662 4662 TCP 10.0.0.21 
-4 4672 4672 UDP 10.0.0.21 
-5 4661 4661 TCP 10.0.0.21 
-6 4665 4665 UDP 10.0.0.21 
-7 4711 4711 TCP 10.0.0.21 
-
-8 21 21 TCP 10.0.0.21 
-9 21 21 UDP 10.0.0.21 
-
-10 5000 5000 TCP 10.0.0.21 
-11 5000 5000 UDP 10.0.0.21 
-12 5001 5001 TCP 10.0.0.21 
-13 5001 5001 UDP 10.0.0.21 
-14 5002 5002 TCP 10.0.0.21 
-15 5002 5002 UDP 10.0.0.21 
-16 5003 5003 TCP 10.0.0.21 
-17 5003 5003 UDP 10.0.0.21 
-
-18 20 20 TCP 10.0.0.21 
-19 20 20 UDP 10.0.0.21
-
 <item>
-<title>Al-Hijrah TV</title>
-<link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv_alhijrah.png</thumbnail>
+  <title>TV3_1</title>
+  <link>plugin://plugin.video.dailymotion_com/?url=%k3GVzd2cWbveXyrApah%&amp;mode=playVideo</link>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-1.jpg</thumbnail>
 </item>
 
-#EXTINF:0, NHK WORLD HD
-http://web-cache.stream.ne.jp/www11/nhkworld-tv/dwstv/222468/live.m3u8
+<item>
+  <title>TV3_2</title>
+  <link>plugin://plugin.video.dailymotion_com/?url=%k3GVzd2cWbveXyrApah%&amp;mode=playLiveVideo</link>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-1.jpg</thumbnail>
+</item>
 
-#EXTINF:0, NHK WORLD HD 2
-http://nhkworldtvlive-i.akamaihd.net/hls/live/222468/dwstv/index_1180.m3u8
-
-
-##OFFLINE
-##LOGO
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png" tvg-name="SKY SPORTS NEWS"  group-title="SPORTS",SKY SPORTS NEWS
--
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png" tvg-name="SKY SPORTS F1"  group-title="SPORTS",SKY SPORTS F1
--
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png" tvg-name="SKY SPORTS 1"  group-title="SPORTS",SKY SPORTS 1
-http://iptv.proff.co:15003/live/sergio12/sergio12/30.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png" tvg-name="SKY SPORTS 2"  group-title="SPORTS",SKY SPORTS 2
-http://iptv.proff.co:15003/live/sergio12/sergio12/31.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png" tvg-name="SKY SPORTS 3"  group-title="SPORTS",SKY SPORTS 3
-http://iptv.proff.co:15003/live/sergio12/sergio12/32.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png" tvg-name="SKY SPORTS 4"  group-title="SPORTS",SKY SPORTS 4
--
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png" tvg-name="SKY SPORTS 5"  group-title="SPORTS",SKY SPORTS 5
--
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_uk_sports.png" tvg-name="Sky Sport HD (offline)"  group-title="SPORTS",Sky Sport HD (offline)
--
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_1_cl.png" tvg-name="FOX SPORTS 1"  group-title="SPORTS",FOX SPORTS 1
--
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_2_asia_hd.png" tvg-name="FOX SPORTS 2"  group-title="SPORTS",FOX SPORTS 2
--
-
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/kk/kbs_world_kr.png" tvg-name="KBS WORLD HD (Kodi + SmartDNS)"  group-title="KOREA",KBS WORLD HD (Kodi + SmartDNS)
--
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/cc/cbs_drama.png" tvg-name="CBS DRAMA"  group-title="Group N/A",CBS DRAMA
--
-
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_channel_global.png" tvg-name="DISNEY CHANNEL SD"  group-title="Group N/A",DISNEY CHANNEL SD
--
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_xd_us.png" tvg-name="DISNEY XD SD"  group-title="Group N/A",DISNEY XD SD
--
-
-
-
-
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR deepskyblue].....CHINA/TAIWAN.....[/COLOR]"  group-title="Group N/A",[COLOR deepskyblue].....CHINA/TAIWAN.....[/COLOR]
-http://d1cq5wn80firug.cloudfront.net/179772_5521687c03007d54fbac462032f1016d/m3u8s/179772.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="." tvg-name="EASTERN NEWS"  group-title="TAIWAN",EASTERN NEWS
-http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/da_ai_tv2.png" tvg-name="DA AI"  group-title="TAIWAN",DA AI
-http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/cc/cts_tw.png" tvg-name="CTS"  group-title="TAIWAN",CTS
-http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/et_tv_east.png" tvg-name="EASTERN SAT"  group-title="TAIWAN",EASTERN SAT
-http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ee/ebc_tw_yoyo_tv.png" tvg-name="EBC YOYO"  group-title="TAIWAN",EBC YOYO
-http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/good_tv_tw.png" tvg-name="GOOD TV"  group-title="TAIWAN",GOOD TV
-http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv01.png" tvg-name="CCTV 1"  group-title="Group N/A",CCTV 1
-http://cctv1-lh.akamaihd.net/z/cctv1_1@337542/master.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv02.png" tvg-name="CCTV 2"  group-title="CHINA",CCTV 2
-http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/cctv2/as/live/cctv2_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv04_america.png" tvg-name="CCTV 4"  group-title="CHINA",CCTV 4
-http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/cctv4/as/live/cctv4_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv09_chinese.png" tvg-name="CCTV 9"  group-title="CHINA",CCTV 9
-http://ktv011.cdnak.ds.kylintv.net/nlds/kylin/cctvdoc/as/live/cctvdoc_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV 10"  group-title="CHINA",CCTV 10
-http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/cctv10/as/live/cctv10_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv11.png" tvg-name="CCTV 11"  group-title="CHINA",CCTV 11
-http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/cctvopera/as/live/cctvopera_4.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv13_news_chinese.png" tvg-name="CCTV 13"  group-title="CHINA",CCTV 13
-http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv13/as/live/cctv13_4.m3u8
+<item>
+<title>TV3_3</title>
+<link>$doregex[url2]</link>
+<regex>
+<name>url2</name>
+<expres>$pyFunction:'$doregex[url3]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>url3</name>
+<expres>mpegURL","url":"(.*?)"</expres>
+<page>https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah</page>
+</regex>
+</item>
