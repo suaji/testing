@@ -1,0 +1,59 @@
+====================
+  NEXTCLOUD SERVER
+====================
+
+*Ubuntu 20.04 64bit (Server @ Desktop)
+
+1. Install Snap
+> sudo apt-get install snapd
+
+2. Install Nextcloud
+> sudo snap install nextcloud
+
+3. Install Noip Client
+> sudo snap install noip-client
+> sudo noip-client.configure
+> sudo systemctl restart snap.noip-client.launcher.service
+
+=================================================================
+
+
+Enable SSL @ HTTPS Nextcloud
+> sudo ufw status && sudo ufw allow 80,443/tcp (check firewall)
+> sudo nextcloud.enable-https lets-encrypt
+> port 80/88 443/4433
+> self-signed certificate : sudo nextcloud.enable-https self-signed
+>>> HTTP/HTTPS port configuration
+>>> sudo snap get nextcloud ports
+>>> sudo snap set nextcloud ports.http=80 @ 81
+>>> sudo snap set nextcloud ports.https=443 @ 444
+>>> sudo snap set nextcloud ports.http=81 ports.https=444
+>>> sudo nextcloud.occ config:system:set overwritehost --value="example.com:81" //EncryptNextCloud
+
+
+Trusted Domain (config/config.php)
+> /var/snap/nextcloud/current/nextcloud/config/config.php
+> sudo snap run nextcloud.occ config:system:set trusted_domains 0 --value=localhost
+> sudo snap run nextcloud.occ config:system:set trusted_domains 1 --value=www.domain.com
+> sudo snap restart nextcloud
+
+
+Check Trusted Domain
+> sudo snap run nextcloud.occ config:system:get trusted_domains 1
+>> domain.ddns.net
+
+
+NEXTCLOUD ADD USER / GROUP
+> sudo -u www-data php occ user:add name1
+> sudo -u www-data php occ user:add --display-name="Full Name" --group="users" --group="db-admins" name1
+> sudo -u www-data php occ group:add group1
+
+
+NEXTCLOUD USER DATA LOCATION (BACKUP USER FILES & DATABASES)
+> /var/snap/nextcloud/common/nextcloud
+> sudo -u www-data php occ maintenance:mode --on
+> sudo mysqldump
+
+* OCC COmmands
+> https://docs.nextcloud.com/server/15/admin_manual/configuration_server/occ_command.html
+>
