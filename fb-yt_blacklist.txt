@@ -1,0 +1,19 @@
+[SUAJIE]
+!Block Facebook Youtube Website Apps
+
+!Last modified: Wed, 22 Dec 2021
+!Homepage:      https://github.com/suaji/
+!Format:        adblockplus
+!
+||youtube.com^
+||facebook.com^
+||instagram.com^
+||twitter.com^
+||ytimg.com^
+||s.ytimg.com^
+||ytimg.l.google.com^
+||youtube.l.google.com^
+||i.google.com^
+||googlevideo.com^
+||youtu.be^
+||fb.me
